@@ -421,7 +421,7 @@ $special = (!empty($_GET['special'])) ? trim($_GET['special']) : 0;
                                         <?php if ($label == 1) { ?>
                                             <span style="font-weight: 700; margin-left: 10px;"><?= $translate[$language]['Email']; ?> *</span>
                                         <?php } ?>
-                                        <input class="formi-input" type="text" name="solrka" style="direction: ltr; text-align: left;"
+                                        <input class="formi-input" type="text" name="solrka" style="<?= $language == 'ar' ? 'text-align: right; direction: rtl' : '' ?>"
                                                pattern="^(?!example@email\.com$).+@.+\.[A-Za-z]{2,}$" title="example@email.com"
                                                placeholder="<?= $translate[$language]['Email']; ?>" value="" required=""
                                                autocomplete="off">
