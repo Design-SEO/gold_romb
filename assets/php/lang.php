@@ -1,7 +1,7 @@
 <?php
 return [
     'en' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'UK',
         'locale' => 'en_GB',
         'locale_lang' => 'en-GB',
@@ -17,25 +17,25 @@ return [
         'jsonld_organization_review_author' => 'Floventra User',
         'jsonld_organization_review_body' => 'Floventra connects UK residents in London with FCA-regulated investment education firms, offering accessible and reliable financial learning.',
         'jsonld_software_categories' => 'Investment Education Platform',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'GBP',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей (одинаковые для всех страниц)
+
         'og_title' => 'Floventra - Investment Education in London, UK',
         'og_description' => 'Join Floventra in London, UK, to connect with FCA-regulated investment education firms. Start your financial learning journey today!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
+        'og_image' => '/assets/images/og-home-image.jpg',
         'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Investment Education in London',
         'twitter_description' => 'Discover investment education with Floventra in London, UK. Connect with FCA-regulated firms for free!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Investment Education Platform in London, UK | The Official Website',
         'meta_description' => 'Join Floventra in London, UK, to connect with FCA-regulated investment education firms. Start your financial learning journey today!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, investment education London, UK financial learning, Floventra, FCA-regulated education, investment platform UK',
@@ -52,60 +52,60 @@ return [
         'jsonld_faq_6_question' => 'Can I access Floventra in London?',
         'jsonld_faq_6_answer' => 'Floventra is fully accessible for UK residents in London, offering a user-friendly platform for investment education.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'About Floventra - Investment Education in London, UK',
         'about_desc_content' => 'Learn about Floventra, a leading platform in London, UK, connecting users with FCA-regulated investment education firms.',
         'about_keywords' => 'Floventra about, investment education London, UK financial education, FCA-regulated learning, investment platform UK',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contact Floventra - Investment Education in London, UK',
         'contact_desc_content' => 'Contact Floventra in London, UK, for inquiries about our FCA-regulated investment education services. Get in touch today!',
         'contact_keywords' => 'Floventra contact, investment education London, UK financial learning, FCA-regulated platform, contact investment education',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra Cookie Policy - London, UK',
         'cookie_desc_content' => 'Explore Floventra’s Cookie Policy for investment education services in London, UK. Learn how we use cookies to enhance your experience.',
         'cookie_keywords' => 'Floventra cookie policy, investment education London, UK cookie policy, FCA-regulated platform, financial education cookies',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra Terms of Use - Investment Education in London, UK',
         'terms_desc_content' => 'Explore the Terms of Use for Floventra, governing access to our investment education platform in London, UK. Learn about eligibility and FCA compliance.',
         'terms_keywords' => 'Floventra terms, investment education platform, UK terms and conditions, FCA-regulated services, financial education London',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra Privacy Policy - London, UK',
         'privacy_desc_content' => 'Read Floventra’s Privacy Policy for investment education services in London, UK. Learn how we protect your data under UK GDPR.',
         'privacy_keywords' => 'Floventra privacy, investment education London, UK GDPR compliance, financial education privacy, FCA-regulated platform',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Create Your Profile - Floventra Investment Education in London, UK',
         'create-profile_content' => 'Sign up with Floventra in London, UK, to connect with FCA-regulated investment education firms. Start your learning journey today!',
         'create-profile_keywords' => 'Floventra sign up, investment education London, UK financial learning, FCA-regulated platform, create profile investment',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Home',
         'about' => 'About Us',
         'contact' => 'Contact Us',
         'privacy' => 'Privacy Policy',
         'terms' => 'Terms and Conditions',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Login',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Sign up now',
         'main_form_terms_text' => '* By clicking the button you agree and accept the Privacy Policy and Terms & Conditions',
 
-        // Section: About Platform
+
         'about_subtitle' => 'What is Floventra AI?',
         'about_quote' => 'Floventra connects UK residents with FCA-regulated investment education firms in London, making financial learning accessible and effective.',
         'about_text_1' => 'Floventra simplifies access to investment education in London, UK. Our platform partners with FCA-regulated firms to provide tailored learning experiences for all skill levels.',
         'about_text_2' => 'No prior investment knowledge is needed. Simply register with your name, email, and phone number, and our partners will contact you to start your financial education journey in London.',
         'about_register_btn' => 'REGISTER HERE >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Enhance Your Financial Skills with Floventra in London',
         'education_item_1_title' => 'Master New Investment Skills',
         'education_item_1_text' => 'Floventra connects UK residents in London with FCA-regulated firms to learn investment strategies. Perfect for beginners, professionals, or anyone seeking financial knowledge.',
@@ -117,7 +117,7 @@ return [
         'education_item_3_text_2' => 'Ready to transform your financial outlook? Sign up with Floventra today!',
         'education_register_btn' => 'REGISTER NOW >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Why Connect with Investment Teachers on Floventra?',
         'three_steps_item_1_title' => 'Virtual Study',
         'three_steps_item_1_text' => 'Floventra connects users with investment educators offering digital learning in London, UK. Study from anywhere and revisit recordings as needed.',
@@ -126,12 +126,12 @@ return [
         'three_steps_item_3_title' => 'Language Multiplicity',
         'three_steps_item_3_text' => 'Learn in your preferred language with Floventra’s FCA-regulated partners in London, UK, removing language barriers.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Who is an Investor?',
         'investor_quote' => 'An investor commits capital to assets or plans to achieve financial goals. Floventra in London, UK, connects you with FCA-regulated educators to learn more.',
         'investor_text' => 'Investors face risks that can impact returns. Learn to research, budget, and assess risks with FCA-regulated investment education firms in London via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra Overview of Investor Types',
         'investor_types_intro' => 'Investors vary by goals, risk tolerance, and strategies. Learn about quantitative, socially responsible, and institutional investors with Floventra in London, UK.',
         'investor_type_1_title' => 'Quantitative Investor',
@@ -149,13 +149,13 @@ return [
         'investor_type_3_content' => 'Institutional investors manage large-scale investments. Sign up with Floventra in London to learn how they differ from other investors.',
         'investor_types_register_btn' => 'REGISTER FOR FREE >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'What is an Index Fund?',
         'index_funds_quote' => 'Index funds track market performance with lower costs. Learn about their risks and benefits with Floventra’s FCA-regulated educators in London, UK.',
         'index_funds_text_1' => 'Index funds are tied to market performance and can be risky. Connect with FCA-regulated investment educators in London via Floventra to learn more.',
         'index_funds_text_2' => 'Investors choose index funds, open accounts, and monitor portfolios. Discover index fund strategies with Floventra in London, UK.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Learn About Exchange-Traded Funds (ETFs) via Floventra',
         'etfs_text_1' => 'ETFs allow investment in diverse securities. Learn how they work with FCA-regulated educators in London via Floventra.',
         'etfs_text_2' => 'ETFs trade on exchanges with varying returns. Connect with Floventra in London, UK, to explore ETF types and strategies.',
@@ -169,7 +169,7 @@ return [
         'etf_type_4_text' => 'Stock ETFs track equities for diversification. Connect with Floventra in London, UK, for detailed ETF education.',
         'etfs_learn_btn' => 'LEARN MORE >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Environmental, Social, and Governance (ESG) Investing',
         'assets_esg_quote' => 'ESG investing prioritizes ethical factors. Learn how it aligns with UK regulations via Floventra in London.',
         'assets_esg_text' => 'ESG evaluates companies on environmental, social, and governance standards. Connect with FCA-regulated educators in London via Floventra.',
@@ -179,7 +179,7 @@ return [
         'assets_market_cap_text_1' => 'Market cap ranges from micro to large. Discover their risks and growth potential with Floventra in London, UK.',
         'assets_market_cap_text_2' => 'Mid and large-cap companies offer growth but vary in volatility. Learn more with Floventra’s FCA-regulated partners in London.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Understand Hedging via Floventra',
         'metrics_hedging_text' => 'Hedging mitigates investment risks using derivatives. Learn its complexities with FCA-regulated educators in London via Floventra.',
         'metrics_terms_title' => 'Know Basic Investment Terms via Floventra',
@@ -196,12 +196,12 @@ return [
         'metrics_debt_instrument_title' => 'Debt Instrument',
         'metrics_debt_instrument_text' => 'Debt instruments raise capital via bonds or loans. Discover them with Floventra in London, UK.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'It is Never Too Late to Start',
         'padding_60_quote' => 'Struggling to find reliable investment education in London, UK? Floventra connects you with FCA-regulated firms.',
         'padding_60_text' => 'Floventra helps thousands of UK residents in London access trusted investment education. Sign up for free today.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra FAQs',
         'faq_1_question' => 'What Does Floventra Teach People?',
         'faq_1_answer' => 'Floventra connects UK residents in London with FCA-regulated investment education firms for comprehensive financial learning.',
@@ -210,7 +210,7 @@ return [
         'faq_3_question' => 'How Does Floventra Connect People with Tutors?',
         'faq_3_answer' => 'Users register with their name, email, and phone number, and FCA-regulated firms in London contact them, compliant with UK GDPR.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra Highlights',
         'highlight_enrollment_cost_title' => '🤖 Enrollment Cost',
         'highlight_enrollment_cost_text' => 'Free enrollment for UK residents in London',
@@ -223,28 +223,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Accessible Regions',
         'highlight_accessible_regions_text' => 'Available in London, UK, and most regions, excluding the USA',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Floventra’s Role In the Investment Landscape',
         'about_principles_role_text' => 'Floventra promotes investment education in London, UK, by connecting users with FCA-regulated firms for informed financial decisions.',
         'about_principles_gap_title' => 'Closing the Investment Knowledge Gap',
         'about_principles_gap_text' => 'Floventra bridges the investment knowledge gap in London, UK, by linking users with FCA-regulated educators.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Aims For a Forward-Thinking World',
         'about_forward_thinking_quote' => 'Floventra fosters financial literacy in London, UK, through innovative investment education solutions.',
         'about_forward_thinking_text' => 'Floventra transforms financial mindsets in London, UK, by connecting users with FCA-regulated investment education.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Places a Premium on Education',
         'about_education_text_1' => 'Floventra empowers UK residents in London with investment knowledge, tools, and strategies via FCA-regulated educators.',
         'about_education_people_title' => 'The People of Floventra',
         'about_education_people_text' => 'Our team in London, UK, works to make investment education accessible by connecting users with FCA-regulated firms.',
         'about_education_mission_text' => 'Floventra ensures UK residents in London can access investment education, closing the knowledge gap globally.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Contact Form',
         'contact_form_name_placeholder' => 'Your Name',
         'contact_form_email_placeholder' => 'Email',
@@ -252,7 +252,7 @@ return [
         'contact_form_submit_button' => 'Send Message',
         'contact_form_success' => 'Form submitted successfully!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra Login',
         'login_subtitle' => 'Login Instructions for New Floventra Users',
         'login_instructions_text' => 'New users receive login credentials from FCA-regulated investment education firms in London, UK, for their websites.',
@@ -273,7 +273,7 @@ return [
         'terms_general_2' => 'Our email: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'The Website includes information about third-party platforms (the <b>"Third-Party Platforms"</b>) namely educational services on general investment techniques or market research. Floventra serves as an intermediary, connecting users with such Third-Party Platforms (the <b>"Services"</b>).',
         'terms_general_4' => 'These terms of use (the <b>"Terms"</b>) govern your (<b>"You"</b>, <b>"Your"</b> or <b>"User"</b>) use of the Website and the Services. These Terms should be read carefully by You in their entirety prior to Your use of the Services. Please note that these Terms constitute a legally binding agreement between You and the Website’s operator Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. If You do not agree with any provision of these Terms, You shall immediately cease using the Website. By using the Website, You agree to the Terms, as amended from time to time.',
-        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="/privacy-policy/">clicking here</a>).',
+        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="./privacy">clicking here</a>).',
         'terms_services_title' => '2. Description of the Services',
         'terms_services_1' => 'We are not a trading platform, nor do we put You in touch with such trading platforms, unless such trading platform commits to offer you only educational services or market research.',
         'terms_services_2' => 'We serve as an intermediary to connect You with a service provider able to propose educational content on general investment techniques or market research in their areas of interest to You, compliant with FCA regulations in the UK.',
@@ -380,7 +380,7 @@ return [
         'privacy_last_updated' => 'Last updated: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'ch_de' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Schweiz',
         'locale' => 'de_CH',
         'locale_lang' => 'de-CH',
@@ -390,31 +390,31 @@ return [
         'country_iso' => 'ch',
         'language_iso' => 'de',
         'brand_name_api' => 'flovantreasure',
-        'geo_position' => '47.376887, 8.541694', // Координаты Цюриха
+        'geo_position' => '47.376887, 8.541694',
         'jsonld_organization_name' => 'Floventra',
         'jsonld_organization_review_rating' => '4.96',
-        'jsonld_organization_review_author' => 'Hans Müller', // Швейцарское имя
+        'jsonld_organization_review_author' => 'Hans Müller',
         'jsonld_organization_review_body' => 'Floventra verbindet Schweizer Einwohner in Zürich mit FINMA-regulierten Investitionsbildungsfirmen und bietet zugängliche und verlässliche Finanzbildung.',
         'jsonld_software_categories' => 'Investitionsbildung Plattform',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'CHF',
         'social_links' => [
-            'https://facebook.com/floventus.com/ch_de',
-            'https://twitter.com/floventus.com/ch_de',
-            'https://linkedin.com/company/floventus.com/ch_de'
+            'https://facebook.com/floventus/ch_de',
+            'https://twitter.com/floventus/ch_de',
+            'https://linkedin.com/company/floventus/ch_de'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Investitionsbildung in Zürich, Schweiz',
         'og_description' => 'Schließen Sie sich Floventra in Zürich, Schweiz, an, um mit FINMA-regulierten Investitionsbildungsfirmen in Kontakt zu treten. Starten Sie Ihre Finanzbildung noch heute!',
-        'og_image' => 'https://floventus.com/ch_de/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/ch_de/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Investitionsbildung in Zürich',
         'twitter_description' => 'Entdecken Sie Investitionsbildung mit Floventra in Zürich, Schweiz. Kostenlos mit FINMA-regulierten Firmen verbinden!',
-        'twitter_image' => 'https://floventus.com/ch_de/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Investitionsbildung Plattform in Zürich, Schweiz | Die offizielle Website',
         'meta_description' => 'Schließen Sie sich Floventra in Zürich, Schweiz, an, um mit FINMA-regulierten Investitionsbildungsfirmen in Kontakt zu treten. Starten Sie Ihre Finanzbildung noch heute!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, Investitionsbildung Zürich, Schweiz Finanzbildung, Floventra, FINMA-regulierte Bildung, Investitionsplattform Schweiz',
@@ -431,60 +431,60 @@ return [
         'jsonld_faq_6_question' => 'Kann ich in Zürich auf Floventra zugreifen?',
         'jsonld_faq_6_answer' => 'Floventra ist für Schweizer Einwohner in Zürich vollständig zugänglich und bietet eine benutzerfreundliche Plattform für Investitionsbildung.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Über Floventra - Investitionsbildung in Zürich, Schweiz',
         'about_desc_content' => 'Erfahren Sie mehr über Floventra, eine führende Plattform in Zürich, Schweiz, die Nutzer mit FINMA-regulierten Investitionsbildungsfirmen verbindet.',
         'about_keywords' => 'Floventra über uns, Investitionsbildung Zürich, Schweiz Finanzbildung, FINMA-regulierte Bildung, Investitionsplattform Schweiz',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Kontaktieren Sie Floventra - Investitionsbildung in Zürich, Schweiz',
         'contact_desc_content' => 'Kontaktieren Sie Floventra in Zürich, Schweiz, für Anfragen zu unseren FINMA-regulierten Investitionsbildungsdiensten. Nehmen Sie noch heute Kontakt auf!',
         'contact_keywords' => 'Floventra Kontakt, Investitionsbildung Zürich, Schweiz Finanzbildung, FINMA-regulierte Plattform, Kontakt Investitionsbildung',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra Cookie-Richtlinie - Zürich, Schweiz',
         'cookie_desc_content' => 'Erfahren Sie mehr über die Cookie-Richtlinie von Floventra für Investitionsbildungsdienste in Zürich, Schweiz. Erfahren Sie, wie wir Cookies verwenden, um Ihre Erfahrung zu verbessern.',
         'cookie_keywords' => 'Floventra Cookie-Richtlinie, Investitionsbildung Zürich, Schweiz Cookie-Richtlinie, FINMA-regulierte Plattform, Finanzbildung Cookies',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra Nutzungsbedingungen - Investitionsbildung in Zürich, Schweiz',
         'terms_desc_content' => 'Erfahren Sie mehr über die Nutzungsbedingungen von Floventra, die den Zugang zu unserer Investitionsbildung Plattform in Zürich, Schweiz, regeln. Erfahren Sie mehr über Berechtigung und FINMA-Konformität.',
         'terms_keywords' => 'Floventra Nutzungsbedingungen, Investitionsbildung Plattform, Schweiz Nutzungsbedingungen, FINMA-regulierte Dienste, Finanzbildung Zürich',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra Datenschutzrichtlinie - Zürich, Schweiz',
         'privacy_desc_content' => 'Lesen Sie die Datenschutzrichtlinie von Floventra für Investitionsbildungsdienste in Zürich, Schweiz. Erfahren Sie, wie wir Ihre Daten gemäß der Schweizer DSGVO schützen.',
         'privacy_keywords' => 'Floventra Datenschutz, Investitionsbildung Zürich, Schweiz DSGVO-Konformität, Finanzbildung Datenschutz, FINMA-regulierte Plattform',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Erstellen Sie Ihr Profil - Floventra Investitionsbildung in Zürich, Schweiz',
         'create-profile_content' => 'Melden Sie sich bei Floventra in Zürich, Schweiz, an, um mit FINMA-regulierten Investitionsbildungsfirmen in Kontakt zu treten. Starten Sie Ihre Lernreise noch heute!',
         'create-profile_keywords' => 'Floventra Anmeldung, Investitionsbildung Zürich, Schweiz Finanzbildung, FINMA-regulierte Plattform, Profil erstellen Investition',
 
-        // Контентные ключи
+
         'home' => 'Startseite',
         'about' => 'Über uns',
         'contact' => 'Kontakt',
         'privacy' => 'Datenschutzrichtlinie',
         'terms' => 'Nutzungsbedingungen',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Anmelden',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Jetzt anmelden',
         'main_form_terms_text' => '* Durch Klicken auf die Schaltfläche stimmen Sie der Datenschutzrichtlinie und den Nutzungsbedingungen zu',
 
-        // Section: About Platform
+
         'about_subtitle' => 'Was ist Floventra AI?',
         'about_quote' => 'Floventra verbindet Schweizer Einwohner mit FINMA-regulierten Investitionsbildungsfirmen in Zürich und macht Finanzbildung zugänglich und effektiv.',
         'about_text_1' => 'Floventra vereinfacht den Zugang zur Investitionsbildung in Zürich, Schweiz. Unsere Plattform arbeitet mit FINMA-regulierten Firmen zusammen, um maßgeschneiderte Lernerfahrungen für alle Fähigkeitsstufen zu bieten.',
         'about_text_2' => 'Es sind keine Vorkenntnisse über Investitionen erforderlich. Registrieren Sie sich einfach mit Ihrem Namen, Ihrer E-Mail-Adresse und Telefonnummer, und unsere Partner werden Sie kontaktieren, um Ihre Finanzbildung in Zürich zu starten.',
         'about_register_btn' => 'HIER REGISTRIEREN >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Verbessern Sie Ihre Finanzkenntnisse mit Floventra in Zürich',
         'education_item_1_title' => 'Neue Investitionsfähigkeiten meistern',
         'education_item_1_text' => 'Floventra verbindet Schweizer Einwohner in Zürich mit FINMA-regulierten Firmen, um Investitionsstrategien zu erlernen. Perfekt für Anfänger, Profis oder alle, die Finanzwissen suchen.',
@@ -496,7 +496,7 @@ return [
         'education_item_3_text_2' => 'Bereit, Ihre finanzielle Perspektive zu transformieren? Melden Sie sich heute bei Floventra an!',
         'education_register_btn' => 'JETZT REGISTRIEREN >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Warum sich mit Investitionslehrern auf Floventra verbinden?',
         'three_steps_item_1_title' => 'Virtuelles Lernen',
         'three_steps_item_1_text' => 'Floventra verbindet Nutzer mit Investitionslehrern, die digitales Lernen in Zürich, Schweiz, anbieten. Lernen Sie von überall aus und greifen Sie bei Bedarf auf Aufzeichnungen zu.',
@@ -505,12 +505,12 @@ return [
         'three_steps_item_3_title' => 'Sprachenvielfalt',
         'three_steps_item_3_text' => 'Lernen Sie in Ihrer bevorzugten Sprache mit den FINMA-regulierten Partnern von Floventra in Zürich, Schweiz, und beseitigen Sie Sprachbarrieren.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Wer ist ein Investor?',
         'investor_quote' => 'Ein Investor investiert Kapital in Vermögenswerte oder Pläne, um finanzielle Ziele zu erreichen. Floventra in Zürich, Schweiz, verbindet Sie mit FINMA-regulierten Bildungsfirmen, um mehr zu erfahren.',
         'investor_text' => 'Investoren stehen Risiken gegenüber, die Renditen beeinflussen können. Lernen Sie, zu recherchieren, Budgets zu erstellen und Risiken mit FINMA-regulierten Investitionsbildungsfirmen in Zürich über Floventra zu bewerten.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra Überblick über Investortypen',
         'investor_types_intro' => 'Investoren variieren je nach Zielen, Risikobereitschaft und Strategien. Erfahren Sie mehr über quantitative, sozial verantwortliche und institutionelle Investoren mit Floventra in Zürich, Schweiz.',
         'investor_type_1_title' => 'Quantitativer Investor',
@@ -528,13 +528,13 @@ return [
         'investor_type_3_content' => 'Institutionelle Investoren verwalten groß angelegte Investitionen. Melden Sie sich bei Floventra in Zürich an, um zu erfahren, wie sie sich von anderen Investoren unterscheiden.',
         'investor_types_register_btn' => 'KOSTENLOS REGISTRIEREN >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'Was ist ein Indexfonds?',
         'index_funds_quote' => 'Indexfonds verfolgen die Marktperformance mit geringeren Kosten. Erfahren Sie mehr über deren Risiken und Vorteile mit den FINMA-regulierten Bildungsfirmen von Floventra in Zürich, Schweiz.',
         'index_funds_text_1' => 'Indexfonds sind an die Marktperformance gebunden und können riskant sein. Verbinden Sie sich mit FINMA-regulierten Investitionsbildungsfirmen in Zürich über Floventra, um mehr zu erfahren.',
         'index_funds_text_2' => 'Investoren wählen Indexfonds, eröffnen Konten und überwachen Portfolios. Entdecken Sie Indexfonds-Strategien mit Floventra in Zürich, Schweiz.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Erfahren Sie mehr über börsengehandelte Fonds (ETFs) über Floventra',
         'etfs_text_1' => 'ETFs ermöglichen Investitionen in diverse Wertpapiere. Erfahren Sie, wie sie funktionieren, mit FINMA-regulierten Bildungsfirmen in Zürich über Floventra.',
         'etfs_text_2' => 'ETFs werden an Börsen gehandelt und bieten unterschiedliche Renditen. Verbinden Sie sich mit Floventra in Zürich, Schweiz, um ETF-Typen und -Strategien zu erkunden.',
@@ -548,7 +548,7 @@ return [
         'etf_type_4_text' => 'Aktien-ETFs verfolgen Eigenkapital für Diversifikation. Verbinden Sie sich mit Floventra in Zürich, Schweiz, für detaillierte ETF-Bildung.',
         'etfs_learn_btn' => 'MEHR ERFAHREN >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Umwelt-, Sozial- und Governance-Investitionen (ESG)',
         'assets_esg_quote' => 'ESG-Investitionen priorisieren ethische Faktoren. Erfahren Sie, wie sie mit Schweizer Vorschriften übereinstimmen, über Floventra in Zürich.',
         'assets_esg_text' => 'ESG bewertet Unternehmen nach Umwelt-, Sozial- und Governance-Standards. Verbinden Sie sich mit FINMA-regulierten Bildungsfirmen in Zürich über Floventra.',
@@ -558,7 +558,7 @@ return [
         'assets_market_cap_text_1' => 'Die Marktkapitalisierung reicht von Micro bis Large. Entdecken Sie deren Risiken und Wachstumspotenzial mit Floventra in Zürich, Schweiz.',
         'assets_market_cap_text_2' => 'Mittelgroße und große Unternehmen bieten Wachstum, variieren jedoch in ihrer Volatilität. Erfahren Sie mehr mit den FINMA-regulierten Partnern von Floventra in Zürich.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Hedging verstehen über Floventra',
         'metrics_hedging_text' => 'Hedging mindert Investitionsrisiken durch Derivate. Erfahren Sie mehr über deren Komplexitäten mit FINMA-regulierten Bildungsfirmen in Zürich über Floventra.',
         'metrics_terms_title' => 'Grundlegende Investitionsbegriffe kennenlernen über Floventra',
@@ -575,12 +575,12 @@ return [
         'metrics_debt_instrument_title' => 'Schuldinstrument',
         'metrics_debt_instrument_text' => 'Schuldinstrumente beschaffen Kapital über Anleihen oder Kredite. Entdecken Sie diese mit Floventra in Zürich, Schweiz.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Es ist nie zu spät, um zu beginnen',
         'padding_60_quote' => 'Schwierigkeiten, verlässliche Investitionsbildung in Zürich, Schweiz, zu finden? Floventra verbindet Sie mit FINMA-regulierten Firmen.',
         'padding_60_text' => 'Floventra hilft Tausenden von Schweizer Einwohnern in Zürich, Zugang zu vertrauenswürdiger Investitionsbildung zu erhalten. Melden Sie sich heute kostenlos an.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra FAQs',
         'faq_1_question' => 'Was lehrt Floventra den Menschen?',
         'faq_1_answer' => 'Floventra verbindet Schweizer Einwohner in Zürich mit FINMA-regulierten Investitionsbildungsfirmen für umfassende Finanzbildung.',
@@ -589,7 +589,7 @@ return [
         'faq_3_question' => 'Wie verbindet Floventra Menschen mit Tutoren?',
         'faq_3_answer' => 'Nutzer registrieren sich mit ihrem Namen, ihrer E-Mail-Adresse und Telefonnummer, und FINMA-regulierte Firmen in Zürich kontaktieren sie gemäß der Schweizer DSGVO.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra Highlights',
         'highlight_enrollment_cost_title' => '🤖 Einschreibungskosten',
         'highlight_enrollment_cost_text' => 'Kostenlose Einschreibung für Schweizer Einwohner in Zürich',
@@ -602,28 +602,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Zugängliche Regionen',
         'highlight_accessible_regions_text' => 'Verfügbar in Zürich, Schweiz, und den meisten Regionen, außer den USA',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Die Rolle von Floventra im Investitionslandschaft',
         'about_principles_role_text' => 'Floventra fördert Investitionsbildung in Zürich, Schweiz, indem es Nutzer mit FINMA-regulierten Firmen für fundierte finanzielle Entscheidungen verbindet.',
         'about_principles_gap_title' => 'Schließung der Investitionswissenslücke',
         'about_principles_gap_text' => 'Floventra schließt die Investitionswissenslücke in Zürich, Schweiz, indem es Nutzer mit FINMA-regulierten Bildungsfirmen verbindet.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra zielt auf eine zukunftsorientierte Welt',
         'about_forward_thinking_quote' => 'Floventra fördert Finanzkompetenz in Zürich, Schweiz, durch innovative Investitionsbildungslösungen.',
         'about_forward_thinking_text' => 'Floventra transformiert finanzielle Denkweisen in Zürich, Schweiz, indem es Nutzer mit FINMA-regulierten Investitionsbildungsfirmen verbindet.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra legt großen Wert auf Bildung',
         'about_education_text_1' => 'Floventra befähigt Schweizer Einwohner in Zürich mit Investitionswissen, Werkzeugen und Strategien über FINMA-regulierte Bildungsfirmen.',
         'about_education_people_title' => 'Die Menschen von Floventra',
         'about_education_people_text' => 'Unser Team in Zürich, Schweiz, arbeitet daran, Investitionsbildung zugänglich zu machen, indem es Nutzer mit FINMA-regulierten Firmen verbindet.',
         'about_education_mission_text' => 'Floventra stellt sicher, dass Schweizer Einwohner in Zürich Zugang zu Investitionsbildung haben und die Wissenslücke global schließen.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Kontaktformular',
         'contact_form_name_placeholder' => 'Ihr Name',
         'contact_form_email_placeholder' => 'E-Mail',
@@ -631,7 +631,7 @@ return [
         'contact_form_submit_button' => 'Nachricht senden',
         'contact_form_success' => 'Formular erfolgreich gesendet!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra Anmeldung',
         'login_subtitle' => 'Anmeldeanweisungen für neue Floventra Nutzer',
         'login_instructions_text' => 'Neue Nutzer erhalten Anmeldeinformationen von FINMA-regulierten Investitionsbildungsfirmen in Zürich, Schweiz, für deren Websites.',
@@ -647,13 +647,13 @@ return [
         'login_form_error_last_name' => 'Ihr Nachname ist zu kurz (mindestens 2 Zeichen)',
         'login_form_error_email' => 'Bitte geben Sie Ihre echte E-Mail-Adresse ein (z.B. user@example.com)',
 
-        // Terms of Use
+
         'terms_general_title' => '1. Allgemein',
         'terms_general_1' => 'Willkommen auf floventus.com/ch_de (die "Website").',
         'terms_general_2' => 'Unsere E-Mail: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'Die Website enthält Informationen über Drittplattformen (die <b>"Drittplattformen"</b>), nämlich Bildungsdienste zu allgemeinen Investitionstechniken oder Marktforschung. Floventra dient als Vermittler, der Nutzer mit solchen Drittplattformen (die <b>"Dienste"</b>) verbindet.',
         'terms_general_4' => 'Diese Nutzungsbedingungen (die <b>"Bedingungen"</b>) regeln Ihre (<b>"Sie"</b>, <b>"Ihr"</b> oder <b>"Nutzer"</b>) Nutzung der Website und der Dienste. Diese Bedingungen sollten von Ihnen vollständig sorgfältig gelesen werden, bevor Sie die Dienste nutzen. Bitte beachten Sie, dass diese Bedingungen eine rechtsverbindliche Vereinbarung zwischen Ihnen und dem Betreiber der Website, Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>, darstellen. Wenn Sie mit einer Bestimmung dieser Bedingungen nicht einverstanden sind, sollten Sie die Nutzung der Website sofort einstellen. Durch die Nutzung der Website stimmen Sie den Bedingungen, wie sie von Zeit zu Zeit geändert werden, zu.',
-        'terms_general_5' => 'Diese Bedingungen beinhalten unsere Datenschutzrichtlinie, und indem Sie diesen Bedingungen zustimmen, bestätigen Sie, dass Sie auch unsere Datenschutzrichtlinie akzeptieren und damit einverstanden sind (Sie können unsere Datenschutzrichtlinie unter <a href="/ch_de/privacy-policy/">hier klicken</a> einsehen).',
+        'terms_general_5' => 'Diese Bedingungen beinhalten unsere Datenschutzrichtlinie, und indem Sie diesen Bedingungen zustimmen, bestätigen Sie, dass Sie auch unsere Datenschutzrichtlinie akzeptieren und damit einverstanden sind (Sie können unsere Datenschutzrichtlinie unter <a href="./privacy">hier klicken</a> einsehen).',
         'terms_services_title' => '2. Beschreibung der Dienste',
         'terms_services_1' => 'Wir sind keine Investitionsplattform, noch stellen wir Sie mit solchen Investitionsplattformen in Kontakt, es sei denn, eine solche Investitionsplattform verpflichtet sich, Ihnen ausschließlich Bildungsdienste oder Marktforschung anzubieten.',
         'terms_services_2' => 'Wir dienen als Vermittler, um Sie mit einem Dienstleister zu verbinden, der Bildungsinhalte zu allgemeinen Investitionstechniken oder Marktforschung in Ihren Interessensbereichen anbieten kann, konform mit den FINMA-Vorschriften in der Schweiz.',
@@ -715,7 +715,7 @@ return [
         'terms_miscellaneous_8' => 'Diese Bedingungen unterliegen dem Schweizer Recht.',
         'terms_miscellaneous_9' => 'Der ausschließliche Gerichtsstand für alle Streitigkeiten, die aus oder im Zusammenhang mit diesen Bedingungen entstehen, sind die Gerichte in Zürich, Schweiz.',
 
-        // Privacy Policy
+
         'privacy_purpose_title' => 'Zweck der Mitteilung',
         'privacy_purpose_text' => 'Der Zweck dieser Datenschutzmitteilung (die "Mitteilung") ist es zu erläutern, wie Floventra ("Floventra" oder "Wir" oder "Uns") als Datenverantwortlicher Ihre persönlichen Daten verarbeitet, die Sie uns beim Besuch der Website floventus.com/ch_de (die "Website") bereitstellen oder die wir von Dritten erhalten, um Sie mit Fachleuten in Kontakt zu bringen, an denen Sie interessiert sein könnten.',
         'privacy_data_categories_title' => 'Welche Kategorien persönlicher Daten werden verarbeitet?',
@@ -761,7 +761,7 @@ return [
         'privacy_last_updated' => 'Zuletzt aktualisiert: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'ch_fr' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Suisse',
         'locale' => 'fr_CH',
         'locale_lang' => 'fr-CH',
@@ -777,25 +777,25 @@ return [
         'jsonld_organization_review_author' => 'Utilisateur de Floventra',
         'jsonld_organization_review_body' => 'Floventra met en relation les résidents suisses à Genève avec des entreprises d’éducation aux investissements régulées par la FINMA, offrant un apprentissage financier accessible et fiable.',
         'jsonld_software_categories' => 'Plateforme d’éducation aux investissements',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'CHF',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Éducation aux investissements à Genève, Suisse',
         'og_description' => 'Rejoignez Floventra à Genève, Suisse, pour vous connecter avec des entreprises d’éducation aux investissements régulées par la FINMA. Commencez votre parcours d’apprentissage financier dès aujourd’hui !',
-        'og_image' => 'https://floventus.com/ch_fr/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/ch_fr/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Éducation aux investissements à Genève',
         'twitter_description' => 'Découvrez l’éducation aux investissements avec Floventra à Genève, Suisse. Connectez-vous gratuitement avec des entreprises régulées par la FINMA !',
-        'twitter_image' => 'https://floventus.com/ch_fr/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Plateforme d’éducation aux investissements à Genève, Suisse | Le site officiel',
         'meta_description' => 'Rejoignez Floventra à Genève, Suisse, pour vous connecter avec des entreprises d’éducation aux investissements régulées par la FINMA. Commencez votre parcours d’apprentissage financier dès aujourd’hui !',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, éducation aux investissements Genève, apprentissage financier Suisse, Floventra, éducation régulée par la FINMA, plateforme d’investissements Suisse',
@@ -812,60 +812,60 @@ return [
         'jsonld_faq_6_question' => 'Puis-je accéder à Floventra à Genève ?',
         'jsonld_faq_6_answer' => 'Floventra est entièrement accessible aux résidents suisses à Genève, offrant une plateforme conviviale pour l’éducation aux investissements.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'À propos de Floventra - Éducation aux investissements à Genève, Suisse',
         'about_desc_content' => 'Découvrez Floventra, une plateforme de premier plan à Genève, Suisse, qui met en relation les utilisateurs avec des entreprises d’éducation aux investissements régulées par la FINMA.',
         'about_keywords' => 'Floventra à propos, éducation aux investissements Genève, apprentissage financier Suisse, apprentissage régulé par la FINMA, plateforme d’investissements Suisse',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contactez Floventra - Éducation aux investissements à Genève, Suisse',
         'contact_desc_content' => 'Contactez Floventra à Genève, Suisse, pour toute question concernant nos services d’éducation aux investissements régulés par la FINMA. Prenez contact dès aujourd’hui !',
         'contact_keywords' => 'contact Floventra, éducation aux investissements Genève, apprentissage financier Suisse, plateforme régulée par la FINMA, contact éducation aux investissements',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Politique de cookies de Floventra - Genève, Suisse',
         'cookie_desc_content' => 'Découvrez la politique de cookies de Floventra pour les services d’éducation aux investissements à Genève, Suisse. Apprenez comment nous utilisons les cookies pour améliorer votre expérience.',
         'cookie_keywords' => 'politique de cookies Floventra, éducation aux investissements Genève, politique de cookies Suisse, plateforme régulée par la FINMA, cookies éducation financière',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Conditions d’utilisation de Floventra - Éducation aux investissements à Genève, Suisse',
         'terms_desc_content' => 'Découvrez les conditions d’utilisation de Floventra, régissant l’accès à notre plateforme d’éducation aux investissements à Genève, Suisse. Apprenez-en davantage sur l’éligibilité et la conformité à la FINMA.',
         'terms_keywords' => 'conditions Floventra, plateforme d’éducation aux investissements, conditions générales Suisse, services régulés par la FINMA, éducation financière Genève',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Politique de confidentialité de Floventra - Genève, Suisse',
         'privacy_desc_content' => 'Lisez la politique de confidentialité de Floventra pour les services d’éducation aux investissements à Genève, Suisse. Découvrez comment nous protégeons vos données conformément au RGPD suisse.',
         'privacy_keywords' => 'confidentialité Floventra, éducation aux investissements Genève, conformité RGPD suisse, confidentialité éducation financière, plateforme régulée par la FINMA',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Créez votre profil - Éducation aux investissements Floventra à Genève, Suisse',
         'create-profile_content' => 'Inscrivez-vous avec Floventra à Genève, Suisse, pour vous connecter avec des entreprises d’éducation aux investissements régulées par la FINMA. Commencez votre parcours d’apprentissage dès aujourd’hui !',
         'create-profile_keywords' => 'inscription Floventra, éducation aux investissements Genève, apprentissage financier Suisse, plateforme régulée par la FINMA, créer un profil d’investissement',
 
-        // Контентные ключи
+
         'home' => 'Accueil',
         'about' => 'À propos',
         'contact' => 'Contactez-nous',
         'privacy' => 'Politique de confidentialité',
         'terms' => 'Conditions générales',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Connexion',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Inscrivez-vous maintenant',
         'main_form_terms_text' => '* En cliquant sur le bouton, vous acceptez la politique de confidentialité et les conditions générales',
 
-        // Section: About Platform
+
         'about_subtitle' => 'Qu’est-ce que Floventra AI ?',
         'about_quote' => 'Floventra met en relation les résidents suisses avec des entreprises d’éducation aux investissements régulées par la FINMA à Genève, rendant l’apprentissage financier accessible et efficace.',
         'about_text_1' => 'Floventra simplifie l’accès à l’éducation aux investissements à Genève, Suisse. Notre plateforme s’associe à des entreprises régulées par la FINMA pour offrir des expériences d’apprentissage adaptées à tous les niveaux de compétence.',
         'about_text_2' => 'Aucune connaissance préalable en investissement n’est nécessaire. Inscrivez-vous simplement avec votre nom, email et numéro de téléphone, et nos partenaires vous contacteront pour commencer votre parcours d’éducation financière à Genève.',
         'about_register_btn' => 'INSCRIVEZ-VOUS ICI >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Améliorez vos compétences financières avec Floventra à Genève',
         'education_item_1_title' => 'Maîtrisez de nouvelles compétences en investissement',
         'education_item_1_text' => 'Floventra met en relation les résidents suisses à Genève avec des entreprises régulées par la FINMA pour apprendre les stratégies d’investissement. Idéal pour les débutants, les professionnels ou toute personne souhaitant acquérir des connaissances financières.',
@@ -877,7 +877,7 @@ return [
         'education_item_3_text_2' => 'Prêt à transformer votre vision financière ? Inscrivez-vous avec Floventra dès aujourd’hui !',
         'education_register_btn' => 'INSCRIVEZ-VOUS MAINTENANT >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Pourquoi se connecter avec des enseignants en investissement sur Floventra ?',
         'three_steps_item_1_title' => 'Étude virtuelle',
         'three_steps_item_1_text' => 'Floventra met en relation les utilisateurs avec des éducateurs en investissement proposant un apprentissage numérique à Genève, Suisse. Étudiez de n’importe où et revoyez les enregistrements selon vos besoins.',
@@ -886,12 +886,12 @@ return [
         'three_steps_item_3_title' => 'Multilinguisme',
         'three_steps_item_3_text' => 'Apprenez dans votre langue préférée avec les partenaires régulés par la FINMA de Floventra à Genève, Suisse, éliminant les barrières linguistiques.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Qui est un investisseur ?',
         'investor_quote' => 'Un investisseur engage du capital dans des actifs ou des plans pour atteindre des objectifs financiers. Floventra à Genève, Suisse, vous met en relation avec des éducateurs régulés par la FINMA pour en apprendre davantage.',
         'investor_text' => 'Les investisseurs sont confrontés à des risques qui peuvent affecter les rendements. Apprenez à rechercher, établir un budget et évaluer les risques avec des entreprises d’éducation aux investissements régulées par la FINMA à Genève via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Aperçu des types d’investisseurs par Floventra',
         'investor_types_intro' => 'Les investisseurs varient selon leurs objectifs, leur tolérance au risque et leurs stratégies. Découvrez les investisseurs quantitatifs, socialement responsables et institutionnels avec Floventra à Genève, Suisse.',
         'investor_type_1_title' => 'Investisseur quantitatif',
@@ -909,13 +909,13 @@ return [
         'investor_type_3_content' => 'Les investisseurs institutionnels gèrent des investissements à grande échelle. Inscrivez-vous avec Floventra à Genève pour découvrir en quoi ils diffèrent des autres investisseurs.',
         'investor_types_register_btn' => 'INSCRIVEZ-VOUS GRATUITEMENT >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'Qu’est-ce qu’un fonds indiciel ?',
         'index_funds_quote' => 'Les fonds indiciels suivent la performance des marchés avec des coûts réduits. Apprenez leurs risques et avantages avec les éducateurs régulés par la FINMA de Floventra à Genève, Suisse.',
         'index_funds_text_1' => 'Les fonds indiciels sont liés à la performance des marchés et peuvent être risqués. Connectez-vous avec des éducateurs en investissement régulés par la FINMA à Genève via Floventra pour en savoir plus.',
         'index_funds_text_2' => 'Les investisseurs choisissent des fonds indiciels, ouvrent des comptes et surveillent leurs portefeuilles. Découvrez les stratégies des fonds indiciels avec Floventra à Genève, Suisse.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Découvrez les fonds négociés en bourse (ETF) via Floventra',
         'etfs_text_1' => 'Les ETF permettent d’investir dans des titres diversifiés. Apprenez comment ils fonctionnent avec les éducateurs régulés par la FINMA à Genève via Floventra.',
         'etfs_text_2' => 'Les ETF se négocient en bourse avec des rendements variables. Connectez-vous avec Floventra à Genève, Suisse, pour explorer les types et stratégies d’ETF.',
@@ -929,7 +929,7 @@ return [
         'etf_type_4_text' => 'Les ETF sur actions suivent les actions pour une diversification. Connectez-vous avec Floventra à Genève, Suisse, pour une éducation détaillée sur les ETF.',
         'etfs_learn_btn' => 'EN SAVOIR PLUS >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Investissement environnemental, social et de gouvernance (ESG)',
         'assets_esg_quote' => 'L’investissement ESG privilégie les facteurs éthiques. Apprenez comment il s’aligne sur les réglementations suisses via Floventra à Genève.',
         'assets_esg_text' => 'L’ESG évalue les entreprises selon des normes environnementales, sociales et de gouvernance. Connectez-vous avec des éducateurs régulés par la FINMA à Genève via Floventra.',
@@ -939,7 +939,7 @@ return [
         'assets_market_cap_text_1' => 'La capitalisation boursière va de micro à grande. Découvrez leurs risques et potentiel de croissance avec Floventra à Genève, Suisse.',
         'assets_market_cap_text_2' => 'Les entreprises à moyenne et grande capitalisation offrent une croissance mais varient en volatilité. Apprenez-en davantage avec les partenaires régulés par la FINMA de Floventra à Genève.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Comprendre la couverture via Floventra',
         'metrics_hedging_text' => 'La couverture atténue les risques d’investissement à l’aide de dérivés. Apprenez ses complexités avec les éducateurs régulés par la FINMA à Genève via Floventra.',
         'metrics_terms_title' => 'Connaître les termes de base de l’investissement via Floventra',
@@ -956,12 +956,12 @@ return [
         'metrics_debt_instrument_title' => 'Instrument de dette',
         'metrics_debt_instrument_text' => 'Les instruments de dette lèvent du capital via des obligations ou des prêts. Découvrez-les avec Floventra à Genève, Suisse.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Il n’est jamais trop tard pour commencer',
         'padding_60_quote' => 'Vous avez du mal à trouver une éducation fiable aux investissements à Genève, Suisse ? Floventra vous met en relation avec des entreprises régulées par la FINMA.',
         'padding_60_text' => 'Floventra aide des milliers de résidents suisses à Genève à accéder à une éducation aux investissements fiable. Inscrivez-vous gratuitement dès aujourd’hui.',
 
-        // Section: FAQ
+
         'faq_title' => 'FAQ Floventra',
         'faq_1_question' => 'Que enseigne Floventra ?',
         'faq_1_answer' => 'Floventra met en relation les résidents suisses à Genève avec des entreprises d’éducation aux investissements régulées par la FINMA pour un apprentissage financier complet.',
@@ -970,7 +970,7 @@ return [
         'faq_3_question' => 'Comment Floventra met-il les gens en contact avec des tuteurs ?',
         'faq_3_answer' => 'Les utilisateurs s’inscrivent avec leur nom, email et numéro de téléphone, et les entreprises régulées par la FINMA à Genève les contactent, conformément au RGPD suisse.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Points forts de Floventra',
         'highlight_enrollment_cost_title' => '🤖 Coût d’inscription',
         'highlight_enrollment_cost_text' => 'Inscription gratuite pour les résidents suisses à Genève',
@@ -983,28 +983,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Régions accessibles',
         'highlight_accessible_regions_text' => 'Disponible à Genève, Suisse, et dans la plupart des régions, à l’exception des États-Unis',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Le rôle de Floventra dans le paysage de l’investissement',
         'about_principles_role_text' => 'Floventra promeut l’éducation aux investissements à Genève, Suisse, en mettant en relation les utilisateurs avec des entreprises régulées par la FINMA pour des décisions financières éclairées.',
         'about_principles_gap_title' => 'Combler l’écart de connaissances en investissement',
         'about_principles_gap_text' => 'Floventra réduit l’écart de connaissances en investissement à Genève, Suisse, en mettant en relation les utilisateurs avec des éducateurs régulés par la FINMA.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra vise un monde visionnaire',
         'about_forward_thinking_quote' => 'Floventra favorise la littératie financière à Genève, Suisse, grâce à des solutions innovantes d’éducation aux investissements.',
         'about_forward_thinking_text' => 'Floventra transforme les mentalités financières à Genève, Suisse, en mettant en relation les utilisateurs avec une éducation aux investissements régulée par la FINMA.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra met l’accent sur l’éducation',
         'about_education_text_1' => 'Floventra donne aux résidents suisses à Genève des connaissances, outils et stratégies en investissement via des éducateurs régulés par la FINMA.',
         'about_education_people_title' => 'L’équipe de Floventra',
         'about_education_people_text' => 'Notre équipe à Genève, Suisse, travaille pour rendre l’éducation aux investissements accessible en mettant en relation les utilisateurs avec des entreprises régulées par la FINMA.',
         'about_education_mission_text' => 'Floventra garantit que les résidents suisses à Genève peuvent accéder à une éducation aux investissements, réduisant l’écart de connaissances à l’échelle mondiale.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Formulaire de contact',
         'contact_form_name_placeholder' => 'Votre nom',
         'contact_form_email_placeholder' => 'Email',
@@ -1012,7 +1012,7 @@ return [
         'contact_form_submit_button' => 'Envoyer le message',
         'contact_form_success' => 'Formulaire soumis avec succès !',
 
-        // Section: Login Page
+
         'login_title' => 'Connexion à Floventra',
         'login_subtitle' => 'Instructions de connexion pour les nouveaux utilisateurs de Floventra',
         'login_instructions_text' => 'Les nouveaux utilisateurs reçoivent des identifiants de connexion des entreprises d’éducation aux investissements régulées par la FINMA à Genève, Suisse, pour leurs sites web.',
@@ -1028,13 +1028,13 @@ return [
         'login_form_error_last_name' => 'Votre nom de famille est trop court (au moins 2 caractères)',
         'login_form_error_email' => 'Veuillez entrer votre véritable adresse email (par exemple, utilisateur@exemple.com)',
 
-        // Section: Terms
+
         'terms_general_title' => '1. Généralités',
         'terms_general_1' => 'Bienvenue sur floventus.com (le "Site Web").',
         'terms_general_2' => 'Notre email : <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'Le Site Web inclut des informations sur des plateformes tierces (les <b>"Plateformes Tiers"</b>), notamment des services éducatifs sur les techniques générales d’investissement ou la recherche de marché. Floventra agit en tant qu’intermédiaire, mettant en relation les utilisateurs avec ces Plateformes Tiers (les <b>"Services"</b>).',
         'terms_general_4' => 'Ces conditions d’utilisation (les <b>"Conditions"</b>) régissent votre (<b>"Vous"</b>, <b>"Votre"</b> ou <b>"Utilisateur"</b>) utilisation du Site Web et des Services. Ces Conditions doivent être lues attentivement par Vous dans leur intégralité avant d’utiliser les Services. Veuillez noter que ces Conditions constituent un accord juridiquement contraignant entre Vous et l’opérateur du Site Web, Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Si Vous n’êtes pas d’accord avec une disposition de ces Conditions, Vous devez immédiatement cesser d’utiliser le Site Web. En utilisant le Site Web, Vous acceptez les Conditions, telles que modifiées de temps à autre.',
-        'terms_general_5' => 'Ces Conditions intègrent Notre Politique de Confidentialité et en acceptant ces Conditions, Vous confirmez que Vous acceptez également et êtes d’accord avec Notre politique de confidentialité (Vous pouvez consulter Notre Politique de Confidentialité en <a href="/ch_fr/privacy-policy/">cliquant ici</a>).',
+        'terms_general_5' => 'Ces Conditions intègrent Notre Politique de Confidentialité et en acceptant ces Conditions, Vous confirmez que Vous acceptez également et êtes d’accord avec Notre politique de confidentialité (Vous pouvez consulter Notre Politique de Confidentialité en <a href="./privacy">cliquant ici</a>).',
         'terms_services_title' => '2. Description des Services',
         'terms_services_1' => 'Nous ne sommes pas une plateforme d’investissements, et nous ne vous mettons pas en contact avec de telles plateformes, sauf si cette plateforme s’engage à vous offrir uniquement des services éducatifs ou de recherche de marché.',
         'terms_services_2' => 'Nous agissons en tant qu’intermédiaire pour vous mettre en relation avec un fournisseur de services capable de proposer du contenu éducatif sur les techniques générales d’investissement ou la recherche de marché dans les domaines qui vous intéressent, conformément aux réglementations de la FINMA en Suisse.',
@@ -1096,7 +1096,7 @@ return [
         'terms_miscellaneous_8' => 'Ces conditions sont régies par le droit suisse.',
         'terms_miscellaneous_9' => 'Le lieu exclusif de juridiction pour tous les litiges découlant de ou en relation avec ces Conditions sera les tribunaux de Genève, Suisse.',
 
-        // Section: Privacy
+
         'privacy_purpose_title' => 'Objet de la notice',
         'privacy_purpose_text' => 'L’objectif de cette Notice de confidentialité des données (la "Notice") est d’expliquer comment Floventra ("Floventra" ou "Nous") traitera, en tant que responsable du traitement, vos données personnelles que vous nous fournissez lorsque vous visitez le site web floventus.com (le "Site Web"), ou que Nous recevons de tiers, afin de vous mettre en contact avec des professionnels qui pourraient vous intéresser.',
         'privacy_data_categories_title' => 'Quelles catégories de données personnelles seront traitées ?',
@@ -1142,7 +1142,7 @@ return [
         'privacy_last_updated' => 'Dernière mise à jour : 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'fi' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Suomi',
         'locale' => 'fi_FI',
         'locale_lang' => 'fi-FI',
@@ -1158,25 +1158,25 @@ return [
         'jsonld_organization_review_author' => 'Floventra Käyttäjä',
         'jsonld_organization_review_body' => 'Floventra yhdistää Helsingin asukkaat Suomessa Finanssivalvonnan sääntelemiin sijoituskoulutusyrityksiin, tarjoten helposti saatavilla olevaa ja luotettavaa talousopetusta.',
         'jsonld_software_categories' => 'Sijoituskoulutusympäristö',
-        'jsonld_software_price' => '0', // Rekisteröinti on ilmaista
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'EUR',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Sijoituskoulutus Helsingissä, Suomessa',
         'og_description' => 'Liity Floventraen Helsingissä, Suomessa, ja yhdisty Finanssivalvonnan sääntelemiin sijoituskoulutusyrityksiin. Aloita talousoppimismatkasi tänään!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/fi/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Sijoituskoulutus Helsingissä',
         'twitter_description' => 'Tutustu sijoituskoulutukseen Floventran kanssa Helsingissä, Suomessa. Yhdisty Finanssivalvonnan sääntelemiin yrityksiin ilmaiseksi!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Sijoituskoulutusympäristö Helsingissä, Suomessa | Virallinen verkkosivusto',
         'meta_description' => 'Liity Floventraen Helsingissä, Suomessa, ja yhdisty Finanssivalvonnan sääntelemiin sijoituskoulutusyrityksiin. Aloita talousoppimismatkasi tänään!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, sijoituskoulutus Helsinki, Suomen talousopetus, Floventra, Finanssivalvonnan sääntelemä koulutus, sijoitusalusta Suomi',
@@ -1193,60 +1193,60 @@ return [
         'jsonld_faq_6_question' => 'Voinko käyttää Floventraa Helsingissä?',
         'jsonld_faq_6_answer' => 'Floventra on täysin saatavilla Suomen asukkaille Helsingissä, tarjoten käyttäjäystävällisen alustan sijoituskoulutukseen.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Tietoa Floventrasta - Sijoituskoulutus Helsingissä, Suomessa',
         'about_desc_content' => 'Tutustu Floventraen, johtavaan alustaan Helsingissä, Suomessa, joka yhdistää käyttäjät Finanssivalvonnan sääntelemiin sijoituskoulutusyrityksiin.',
         'about_keywords' => 'Floventra tietoa, sijoituskoulutus Helsinki, Suomen talousopetus, Finanssivalvonnan sääntelemä oppiminen, sijoitusalusta Suomi',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Ota yhteyttä Floventraen - Sijoituskoulutus Helsingissä, Suomessa',
         'contact_desc_content' => 'Ota yhteyttä Floventraen Helsingissä, Suomessa, kysyäksesi Finanssivalvonnan sääntelemistä sijoituskoulutuspalveluistamme. Ota yhteyttä tänään!',
         'contact_keywords' => 'Floventra yhteystiedot, sijoituskoulutus Helsinki, Suomen talousopetus, Finanssivalvonnan sääntelemä alusta, ota yhteyttä sijoituskoulutukseen',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra Evästekäytäntö - Helsinki, Suomi',
         'cookie_desc_content' => 'Tutustu Floventran evästekäytäntöön sijoituskoulutuspalveluille Helsingissä, Suomessa. Lue, miten käytämme evästeitä parantamaan kokemustasi.',
         'cookie_keywords' => 'Floventra evästekäytäntö, sijoituskoulutus Helsinki, Suomen evästekäytäntö, Finanssivalvonnan sääntelemä alusta, talousopetuksen evästeet',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra Käyttöehdot - Sijoituskoulutus Helsingissä, Suomessa',
         'terms_desc_content' => 'Tutustu Floventran käyttöehtoihin, jotka säätelevät pääsyä sijoituskoulutusalustallemme Helsingissä, Suomessa. Lue kelpoisuudesta ja Finanssivalvonnan noudattamisesta.',
         'terms_keywords' => 'Floventra käyttöehdot, sijoituskoulutusalusta, Suomen käyttöehdot, Finanssivalvonnan sääntelemät palvelut, talousopetus Helsinki',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra Tietosuojakäytäntö - Helsinki, Suomi',
         'privacy_desc_content' => 'Lue Floventran tietosuojakäytäntö sijoituskoulutuspalveluille Helsingissä, Suomessa. Tutustu siihen, miten suojaamme tietojasi EU:n GDPR-asetuksen mukaisesti.',
         'privacy_keywords' => 'Floventra tietosuoja, sijoituskoulutus Helsinki, EU:n GDPR-noudattaminen, talousopetuksen tietosuoja, Finanssivalvonnan sääntelemä alusta',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Luo profiilisi - Floventra Sijoituskoulutus Helsingissä, Suomessa',
         'create-profile_content' => 'Rekisteröidy Floventraen Helsingissä, Suomessa, ja yhdisty Finanssivalvonnan sääntelemiin sijoituskoulutusyrityksiin. Aloita oppimismatkasi tänään!',
         'create-profile_keywords' => 'Floventra rekisteröidy, sijoituskoulutus Helsinki, Suomen talousopetus, Finanssivalvonnan sääntelemä alusta, luo profiili sijoitus',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Etusivu',
         'about' => 'Tietoa meistä',
         'contact' => 'Ota yhteyttä',
         'privacy' => 'Tietosuojakäytäntö',
         'terms' => 'Käyttöehdot',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Kirjaudu sisään',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Rekisteröidy nyt',
         'main_form_terms_text' => '* Painamalla painiketta hyväksyt ja suostut tietosuojakäytäntöön ja käyttöehtoihin',
 
-        // Section: About Platform
+
         'about_subtitle' => 'Mikä on Floventra AI?',
         'about_quote' => 'Floventra yhdistää Suomen asukkaat Finanssivalvonnan sääntelemiin sijoituskoulutusyrityksiin Helsingissä, tehden talousopetuksesta saatavaa ja tehokasta.',
         'about_text_1' => 'Floventra yksinkertaistaa pääsyä sijoituskoulutukseen Helsingissä, Suomessa. Alustamme tekee yhteistyötä Finanssivalvonnan sääntelemiä yrityksiä kanssa tarjotakseen räätälöityjä oppimiskokemuksia kaikille taitotasoille.',
         'about_text_2' => 'Aiempaa sijoitustietämystä ei tarvita. Rekisteröidy vain nimelläsi, sähköpostiosoitteellasi ja puhelinnumerollasi, ja kumppanimme ottavat sinuun yhteyttä aloittaaksesi talousopetuksesi Helsingissä.',
         'about_register_btn' => 'REKISTERÖIDY TÄSTÄ >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Paranna taloustaitojasi Floventran avulla Helsingissä',
         'education_item_1_title' => 'Opi uusia sijoitustaitoja',
         'education_item_1_text' => 'Floventra yhdistää Suomen asukkaat Helsingissä Finanssivalvonnan sääntelemiin yrityksiin oppimaan sijoitusstrategioita. Sopii aloittelijoille, ammattilaisille tai kenelle tahansa, joka etsii taloustietämystä.',
@@ -1258,7 +1258,7 @@ return [
         'education_item_3_text_2' => 'Valmis muuttamaan taloudellista näkemystäsi? Rekisteröidy Floventraen tänään!',
         'education_register_btn' => 'REKISTERÖIDY NYT >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Miksi yhdistää sijoitusopettajiin Floventran kautta?',
         'three_steps_item_1_title' => 'Virtuaalinen opiskelu',
         'three_steps_item_1_text' => 'Floventra yhdistää käyttäjät sijoitusopettajiin, jotka tarjoavat digitaalista oppimista Helsingissä, Suomessa. Opiskele missä tahansa ja palaa tallenteisiin tarpeen mukaan.',
@@ -1267,12 +1267,12 @@ return [
         'three_steps_item_3_title' => 'Kielellinen monimuotoisuus',
         'three_steps_item_3_text' => 'Opi haluamallasi kielellä Floventran Finanssivalvonnan sääntelemiä kumppaneita Helsingissä, Suomessa, poistaen kielimuurit.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Kuka on sijoittaja?',
         'investor_quote' => 'Sijoittaja sitouttaa pääomaa varoihin tai suunnitelmiin taloudellisten tavoitteiden saavuttamiseksi. Floventra Helsingissä, Suomessa, yhdistää sinut Finanssivalvonnan sääntelemiin opettajiin oppimaan lisää.',
         'investor_text' => 'Sijoittajat kohtaavat riskejä, jotka voivat vaikuttaa tuottoihin. Opi tutkimaan, budjetoimaan ja arvioimaan riskejä Finanssivalvonnan sääntelemiä sijoituskoulutusyrityksiä Helsingissä Floventran kautta.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra Katsaus sijoittajatyyppeihin',
         'investor_types_intro' => 'Sijoittajat vaihtelevat tavoitteiden, riskinsietokyvyn ja strategioiden mukaan. Opi kvantitatiivisista, yhteiskuntavastuullisista ja institutionaalisista sijoittajista Floventran kanssa Helsingissä, Suomessa.',
         'investor_type_1_title' => 'Kvantitatiivinen sijoittaja',
@@ -1290,13 +1290,13 @@ return [
         'investor_type_3_content' => 'Institutionaaliset sijoittajat hallinnoivat laajamittaisia sijoituksia. Rekisteröidy Floventraen Helsingissä oppiaksesi, miten he eroavat muista sijoittajista.',
         'investor_types_register_btn' => 'REKISTERÖIDY ILMAISEKSI >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'Mikä on indeksirahasto?',
         'index_funds_quote' => 'Indeksirahastot seuraavat markkinoiden suorituskykyä alhaisemmilla kustannuksilla. Opi niiden riskeistä ja hyödyistä Floventran Finanssivalvonnan sääntelemiä opettajia Helsingissä, Suomessa.',
         'index_funds_text_1' => 'Indeksirahastot liittyvät markkinoiden suorituskykyyn ja voivat olla riskialttiita. Yhdisty Finanssivalvonnan sääntelemiin sijoitusopettajiin Helsingissä Floventran kautta oppiaksesi lisää.',
         'index_funds_text_2' => 'Sijoittajat valitsevat indeksirahastoja, avaavat tilejä ja seuraavat salkkujaan. Tutustu indeksirahastostrategioihin Floventran kanssa Helsingissä, Suomessa.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Opi pörssinoteeratuista rahastoista (ETF) Floventran kautta',
         'etfs_text_1' => 'ETF:t mahdollistavat sijoittamisen monipuolisiin arvopapereihin. Opi niiden toimintaperiaatteista Finanssivalvonnan sääntelemiä opettajia Helsingissä Floventran kautta.',
         'etfs_text_2' => 'ETF:t käyvät kauppaa pörsseissä vaihtelevilla tuotoilla. Yhdisty Floventraen Helsingissä, Suomessa, tutkiaksesi ETF-tyyppejä ja strategioita.',
@@ -1310,7 +1310,7 @@ return [
         'etf_type_4_text' => 'Osake-ETF:t seuraavat osakkeita monipuolistamiseen. Yhdisty Floventraen Helsingissä, Suomessa, saadaksesi yksityiskohtaista ETF-koulutusta.',
         'etfs_learn_btn' => 'LUE LISÄÄ >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Ympäristö-, yhteiskunta- ja hallintotapa (ESG) -sijoittaminen',
         'assets_esg_quote' => 'ESG-sijoittaminen priorisoi eettisiä tekijöitä. Opi, miten se vastaa Suomen säännöksiä Floventran kautta Helsingissä.',
         'assets_esg_text' => 'ESG arvioi yrityksiä ympäristö-, yhteiskunta- ja hallintotapastandardien perusteella. Yhdisty Finanssivalvonnan sääntelemiin opettajiin Helsingissä Floventran kautta.',
@@ -1320,7 +1320,7 @@ return [
         'assets_market_cap_text_1' => 'Markkina-arvo vaihtelee mikrosta suureen. Tutustu niiden riskeihin ja kasvupotentiaaliin Floventran kanssa Helsingissä, Suomessa.',
         'assets_market_cap_text_2' => 'Keskisuuret ja suuret yritykset tarjoavat kasvua mutta vaihtelevat volatiliteetissa. Opi lisää Floventran Finanssivalvonnan sääntelemiä kumppaneita Helsingissä.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Ymmärrä suojaus Floventran kautta',
         'metrics_hedging_text' => 'Suojaus lieventää sijoitusriskejä johdannaisia käyttämällä. Opi sen monimutkaisuuksista Finanssivalvonnan sääntelemiä opettajia Helsingissä Floventran kautta.',
         'metrics_terms_title' => 'Tunne perussijoitustermit Floventran kautta',
@@ -1337,12 +1337,12 @@ return [
         'metrics_debt_instrument_title' => 'Velkainstrumentti',
         'metrics_debt_instrument_text' => 'Velkainstrumentit keräävät pääomaa joukkovelkakirjoilla tai lainoilla. Tutustu niihin Floventran kanssa Helsingissä, Suomessa.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Ei ole koskaan liian myöhäistä aloittaa',
         'padding_60_quote' => 'Onko vaikea löytää luotettavaa sijoituskoulutusta Helsingissä, Suomessa? Floventra yhdistää sinut Finanssivalvonnan sääntelemiin yrityksiin.',
         'padding_60_text' => 'Floventra auttaa tuhansia Suomen asukkaita Helsingissä pääsemään luotettavaan sijoituskoulutukseen. Rekisteröidy ilmaiseksi tänään.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra UKK',
         'faq_1_question' => 'Mitä Floventra opettaa ihmisille?',
         'faq_1_answer' => 'Floventra yhdistää Suomen asukkaat Helsingissä Finanssivalvonnan sääntelemiin sijoituskoulutusyrityksiin kattavaa talousopetusta varten.',
@@ -1351,7 +1351,7 @@ return [
         'faq_3_question' => 'Kuinka Floventra yhdistää ihmiset opettajiin?',
         'faq_3_answer' => 'Käyttäjät rekisteröityvät nimellään, sähköpostiosoitteellaan ja puhelinnumerollaan, ja Finanssivalvonnan sääntelemät yritykset Helsingissä ottavat heihin yhteyttä, EU:n GDPR-asetuksen mukaisesti.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra Kohokohdat',
         'highlight_enrollment_cost_title' => '🤖 Rekisteröintikustannus',
         'highlight_enrollment_cost_text' => 'Ilmainen rekisteröinti Suomen asukkaille Helsingissä',
@@ -1364,28 +1364,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Saatavilla olevat alueet',
         'highlight_accessible_regions_text' => 'Saatavilla Helsingissä, Suomessa, ja useimmilla alueilla, pois lukien USA',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Floventran rooli sijoitusmaailmassa',
         'about_principles_role_text' => 'Floventra edistää sijoituskoulutusta Helsingissä, Suomessa, yhdistämällä käyttäjät Finanssivalvonnan sääntelemiin yrityksiin tietoon perustuvien talouspäätösten tueksi.',
         'about_principles_gap_title' => 'Sijoitustietämyksen kuilun kaventaminen',
         'about_principles_gap_text' => 'Floventra kaventaa sijoitustietämyksen kuilua Helsingissä, Suomessa, yhdistämällä käyttäjät Finanssivalvonnan sääntelemiin opettajiin.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Tavoittelee edistyksellistä maailmaa',
         'about_forward_thinking_quote' => 'Floventra edistää talouslukutaitoa Helsingissä, Suomessa, innovatiivisten sijoituskoulutusratkaisujen kautta.',
         'about_forward_thinking_text' => 'Floventra muuttaa taloudellisia ajattelutapoja Helsingissä, Suomessa, yhdistämällä käyttäjät Finanssivalvonnan sääntelemiin sijoituskoulutuksiin.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Arvostaa koulutusta',
         'about_education_text_1' => 'Floventra antaa Suomen asukkaille Helsingissä sijoitustietämystä, työkaluja ja strategioita Finanssivalvonnan sääntelemiä opettajia kautta.',
         'about_education_people_title' => 'Floventran ihmiset',
         'about_education_people_text' => 'Tiimimme Helsingissä, Suomessa, työskentelee tehdäkseen sijoituskoulutuksen saataville yhdistämällä käyttäjät Finanssivalvonnan sääntelemiin yrityksiin.',
         'about_education_mission_text' => 'Floventra varmistaa, että Suomen asukkaat Helsingissä voivat käyttää sijoituskoulutusta, kaventaen tietämyskuilua maailmanlaajuisesti.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Yhteydenottolomake',
         'contact_form_name_placeholder' => 'Nimesi',
         'contact_form_email_placeholder' => 'Sähköposti',
@@ -1393,7 +1393,7 @@ return [
         'contact_form_submit_button' => 'Lähetä viesti',
         'contact_form_success' => 'Lomake lähetetty onnistuneesti!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra Kirjautuminen',
         'login_subtitle' => 'Kirjautumisohjeet uusille Floventra -käyttäjille',
         'login_instructions_text' => 'Uudet käyttäjät saavat kirjautumistiedot Finanssivalvonnan sääntelemiä sijoituskoulutusyrityksiä Helsingissä, Suomessa, heidän verkkosivustoilleen.',
@@ -1414,7 +1414,7 @@ return [
         'terms_general_2' => 'Sähköpostimme: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'Verkkosivusto sisältää tietoa kolmansien osapuolten alustoista ("Kolmannen Osapuolen Alustat"), erityisesti koulutuksellisia palveluita yleisistä sijoitustekniikoista tai markkinatutkimuksesta. Floventra toimii välittäjänä, yhdistämällä käyttäjät näihin Kolmannen Osapuolen Alustoihin ("Palvelut").',
         'terms_general_4' => 'Nämä käyttöehdot ("Ehdot") säätelevät sinun ("Sinä", "Sinun" tai "Käyttäjä") käyttöä Verkkosivustolla ja Palveluissa. Nämä Ehdot tulee lukea huolellisesti kokonaisuudessaan ennen Palveluiden käyttöä. Huomaa, että nämä Ehdot muodostavat laillisesti sitovan sopimuksen sinun ja Verkkosivuston operaattorin Floventran, <a href="mailto:info@floventus.com">info@floventus.com</a>, välillä. Jos et ole samaa mieltä jonkin näiden Ehtojen kohdan kanssa, sinun tulee välittömästi lopettaa Verkkosivuston käyttö. Käyttämällä Verkkosivustoa hyväksyt Ehdot sellaisina kuin ne on aika ajoin muutettu.',
-        'terms_general_5' => 'Nämä Ehdot sisältävät Tietosuojakäytäntömme, ja hyväksymällä nämä Ehdot vahvistat, että hyväksyt ja suostut myös Tietosuojakäytäntöömme (voit tarkastella Tietosuojakäytäntöämme <a href="/fi/privacy-policy/">klikkaamalla tästä</a>).',
+        'terms_general_5' => 'Nämä Ehdot sisältävät Tietosuojakäytäntömme, ja hyväksymällä nämä Ehdot vahvistat, että hyväksyt ja suostut myös Tietosuojakäytäntöömme (voit tarkastella Tietosuojakäytäntöämme <a href="./privacy">klikkaamalla tästä</a>).',
         'terms_services_title' => '2. Palveluiden kuvaus',
         'terms_services_1' => 'Emme ole sijoitusalusta, emmekä yhdistä sinua sellaisiin alustoihin, paitsi jos tällainen alusta sitoutuu tarjoamaan sinulle vain koulutuksellisia palveluita tai markkinatutkimusta.',
         'terms_services_2' => 'Toimimme välittäjänä yhdistääksemme sinut palveluntarjoajaan, joka voi tarjota koulutuksellista sisältöä yleisistä sijoitustekniikoista tai markkinatutkimuksesta kiinnostuksesi kohteisiin, noudattaen Finanssivalvonnan määräyksiä Suomessa.',
@@ -1521,7 +1521,7 @@ return [
         'privacy_last_updated' => 'Viimeksi päivitetty: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'se' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Sverige',
         'locale' => 'sv_SE',
         'locale_lang' => 'sv-SE',
@@ -1537,25 +1537,25 @@ return [
         'jsonld_organization_review_author' => 'Floventra Användare',
         'jsonld_organization_review_body' => 'Floventra kopplar svenska invånare i Stockholm till FI-reglerade investeringsutbildningsföretag och erbjuder tillgänglig och pålitlig finansiell utbildning.',
         'jsonld_software_categories' => 'Plattform för investeringsutbildning',
-        'jsonld_software_price' => '0', // Registrering är gratis
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'SEK',
         'social_links' => [
-            'https://facebook.com/xivoralunex',
-            'https://twitter.com/xivoralunex',
-            'https://linkedin.com/company/xivoralunex'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Investeringsutbildning i Stockholm, Sverige',
         'og_description' => 'Gå med i Floventra i Stockholm, Sverige, för att kopplas till FI-reglerade investeringsutbildningsföretag. Starta din finansiella utbildningsresa idag!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
+        'og_image' => '/assets/images/og-home-image.jpg',
         'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Investeringsutbildning i Stockholm',
         'twitter_description' => 'Upptäck investeringsutbildning med Floventra i Stockholm, Sverige. Koppla upp med FI-reglerade företag gratis!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Plattform för investeringsutbildning i Stockholm, Sverige | Den officiella webbplatsen',
         'meta_description' => 'Gå med i Floventra i Stockholm, Sverige, för att kopplas till FI-reglerade investeringsutbildningsföretag. Starta din finansiella utbildningsresa idag!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, investeringsutbildning Stockholm, finansiell utbildning Sverige, Floventra, FI-reglerad utbildning, investeringsplattform Sverige',
@@ -1572,60 +1572,60 @@ return [
         'jsonld_faq_6_question' => 'Kan jag använda Floventra i Stockholm?',
         'jsonld_faq_6_answer' => 'Floventra är fullt tillgängligt för svenska invånare i Stockholm och erbjuder en användarvänlig plattform för investeringsutbildning.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Om Floventra - Investeringsutbildning i Stockholm, Sverige',
         'about_desc_content' => 'Lär dig om Floventra, en ledande plattform i Stockholm, Sverige, som kopplar användare till FI-reglerade investeringsutbildningsföretag.',
         'about_keywords' => 'Floventra om, investeringsutbildning Stockholm, finansiell utbildning Sverige, FI-reglerad utbildning, investeringsplattform Sverige',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Kontakta Floventra - Investeringsutbildning i Stockholm, Sverige',
         'contact_desc_content' => 'Kontakta Floventra i Stockholm, Sverige, för frågor om våra FI-reglerade investeringsutbildningstjänster. Hör av dig idag!',
         'contact_keywords' => 'Floventra kontakt, investeringsutbildning Stockholm, finansiell utbildning Sverige, FI-reglerad plattform, kontakta investeringsutbildning',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra Cookiepolicy - Stockholm, Sverige',
         'cookie_desc_content' => 'Utforska Floventras cookiepolicy för investeringsutbildningstjänster i Stockholm, Sverige. Lär dig hur vi använder cookies för att förbättra din upplevelse.',
         'cookie_keywords' => 'Floventra cookiepolicy, investeringsutbildning Stockholm, Sverige cookiepolicy, FI-reglerad plattform, finansiella utbildningscookies',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra Användarvillkor - Investeringsutbildning i Stockholm, Sverige',
         'terms_desc_content' => 'Utforska användarvillkoren för Floventra, som reglerar åtkomst till vår investeringsutbildningsplattform i Stockholm, Sverige. Lär dig om behörighet och FI-efterlevnad.',
         'terms_keywords' => 'Floventra villkor, investeringsutbildningsplattform, Sverige användarvillkor, FI-reglerade tjänster, finansiell utbildning Stockholm',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra Integritetspolicy - Stockholm, Sverige',
         'privacy_desc_content' => 'Läs Floventras integritetspolicy för investeringsutbildningstjänster i Stockholm, Sverige. Lär dig hur vi skyddar dina uppgifter enligt GDPR.',
         'privacy_keywords' => 'Floventra integritet, investeringsutbildning Stockholm, Sverige GDPR-efterlevnad, finansiell utbildning integritet, FI-reglerad plattform',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Skapa din profil - Floventra Investeringsutbildning i Stockholm, Sverige',
         'create-profile_content' => 'Registrera dig med Floventra i Stockholm, Sverige, för att kopplas till FI-reglerade investeringsutbildningsföretag. Starta din utbildningsresa idag!',
         'create-profile_keywords' => 'Floventra registrering, investeringsutbildning Stockholm, finansiell utbildning Sverige, FI-reglerad plattform, skapa profil investeringar',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Hem',
         'about' => 'Om oss',
         'contact' => 'Kontakta oss',
         'privacy' => 'Integritetspolicy',
         'terms' => 'Användarvillkor',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Logga in',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Registrera dig nu',
         'main_form_terms_text' => '* Genom att klicka på knappen godkänner du och accepterar Integritetspolicyn och Användarvillkoren',
 
-        // Section: About Platform
+
         'about_subtitle' => 'Vad är Floventra AI?',
         'about_quote' => 'Floventra kopplar svenska invånare till FI-reglerade investeringsutbildningsföretag i Stockholm och gör finansiell utbildning tillgänglig och effektiv.',
         'about_text_1' => 'Floventra förenklar tillgång till investeringsutbildning i Stockholm, Sverige. Vår plattform samarbetar med FI-reglerade företag för att erbjuda skräddarsydda utbildningsupplevelser för alla nivåer.',
         'about_text_2' => 'Ingen tidigare investeringskunskap krävs. Registrera dig med ditt namn, e-post och telefonnummer, så kontaktar våra partners dig för att starta din finansiella utbildningsresa i Stockholm.',
         'about_register_btn' => 'REGISTRERA HÄR >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Förbättra dina finansiella färdigheter med Floventra i Stockholm',
         'education_item_1_title' => 'Bemästra nya investeringsfärdigheter',
         'education_item_1_text' => 'Floventra kopplar svenska invånare i Stockholm till FI-reglerade företag för att lära sig investeringsstrategier. Perfekt för nybörjare, proffs eller alla som söker finansiell kunskap.',
@@ -1637,7 +1637,7 @@ return [
         'education_item_3_text_2' => 'Redo att förändra ditt finansiella synsätt? Registrera dig med Floventra idag!',
         'education_register_btn' => 'REGISTRERA NU >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Varför ansluta till investeringslärare på Floventra?',
         'three_steps_item_1_title' => 'Virtuellt lärande',
         'three_steps_item_1_text' => 'Floventra kopplar användare till investeringslärare som erbjuder digital utbildning i Stockholm, Sverige. Studera var som helst och gå tillbaka till inspelningar vid behov.',
@@ -1646,12 +1646,12 @@ return [
         'three_steps_item_3_title' => 'Språkmångfald',
         'three_steps_item_3_text' => 'Lär dig på ditt föredragna språk med Floventras FI-reglerade partners i Stockholm, Sverige, utan språkbarriärer.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Vem är en investerare?',
         'investor_quote' => 'En investerare satsar kapital på tillgångar eller planer för att uppnå finansiella mål. Floventra i Stockholm, Sverige, kopplar dig till FI-reglerade utbildare för att lära dig mer.',
         'investor_text' => 'Investerare möter risker som kan påverka avkastningen. Lär dig att undersöka, budgetera och bedöma risker med FI-reglerade investeringsutbildningsföretag i Stockholm via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra Översikt av investerartyper',
         'investor_types_intro' => 'Investerare varierar efter mål, risktolerans och strategier. Lär dig om kvantitativa, socialt ansvarstagande och institutionella investerare med Floventra i Stockholm, Sverige.',
         'investor_type_1_title' => 'Kvantitativ investerare',
@@ -1669,13 +1669,13 @@ return [
         'investor_type_3_content' => 'Institutionella investerare hanterar storskaliga investeringar. Registrera dig med Floventra i Stockholm för att lära dig hur de skiljer sig från andra investerare.',
         'investor_types_register_btn' => 'REGISTRERA GRATIS >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'Vad är en indexfond?',
         'index_funds_quote' => 'Indexfonder följer marknadens utveckling med lägre kostnader. Lär dig om deras risker och fördelar med Floventras FI-reglerade utbildare i Stockholm, Sverige.',
         'index_funds_text_1' => 'Indexfonder är kopplade till marknadens utveckling och kan vara riskfyllda. Anslut till FI-reglerade investeringslärare i Stockholm via Floventra för att lära dig mer.',
         'index_funds_text_2' => 'Investerare väljer indexfonder, öppnar konton och övervakar portföljer. Upptäck indexfondsstrategier med Floventra i Stockholm, Sverige.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Lär dig om börshandlade fonder (ETF:er) via Floventra',
         'etfs_text_1' => 'ETF:er möjliggör investeringar i olika värdepapper. Lär dig hur de fungerar med FI-reglerade utbildare i Stockholm via Floventra.',
         'etfs_text_2' => 'ETF:er handlas på börser med varierande avkastning. Anslut till Floventra i Stockholm, Sverige, för att utforska ETF-typer och strategier.',
@@ -1689,7 +1689,7 @@ return [
         'etf_type_4_text' => 'Aktie-ETF:er följer aktier för diversifiering. Anslut till Floventra i Stockholm, Sverige, för detaljerad ETF-utbildning.',
         'etfs_learn_btn' => 'LÄR DIG MER >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Miljö, social och styrning (ESG) investeringar',
         'assets_esg_quote' => 'ESG-investeringar prioriterar etiska faktorer. Lär dig hur de överensstämmer med svenska regler via Floventra i Stockholm.',
         'assets_esg_text' => 'ESG utvärderar företag baserat på miljö, sociala och styrningsstandarder. Anslut till FI-reglerade utbildare i Stockholm via Floventra.',
@@ -1699,7 +1699,7 @@ return [
         'assets_market_cap_text_1' => 'Marknadskapitalisering sträcker sig från mikro till stort. Upptäck deras risker och tillväxtpotential med Floventra i Stockholm, Sverige.',
         'assets_market_cap_text_2' => 'Medelstora och stora företag erbjuder tillväxt men varierar i volatilitet. Lär dig mer med Floventras FI-reglerade partners i Stockholm.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Förstå hedging via Floventra',
         'metrics_hedging_text' => 'Hedging minskar investeringsrisker med derivat. Lär dig dess komplexitet med FI-reglerade utbildare i Stockholm via Floventra.',
         'metrics_terms_title' => 'Lär dig grundläggande investeringstermer via Floventra',
@@ -1716,12 +1716,12 @@ return [
         'metrics_debt_instrument_title' => 'Skuldinstrument',
         'metrics_debt_instrument_text' => 'Skuldinstrument samlar in kapital via obligationer eller lån. Upptäck dem med Floventra i Stockholm, Sverige.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Det är aldrig för sent att börja',
         'padding_60_quote' => 'Kämpar du med att hitta pålitlig investeringsutbildning i Stockholm, Sverige? Floventra kopplar dig till FI-reglerade företag.',
         'padding_60_text' => 'Floventra hjälper tusentals svenska invånare i Stockholm att få tillgång till pålitlig investeringsutbildning. Registrera dig gratis idag.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra Vanliga frågor',
         'faq_1_question' => 'Vad lär Floventra ut till människor?',
         'faq_1_answer' => 'Floventra kopplar svenska invånare i Stockholm till FI-reglerade investeringsutbildningsföretag för omfattande finansiell utbildning.',
@@ -1730,7 +1730,7 @@ return [
         'faq_3_question' => 'Hur kopplar Floventra människor till lärare?',
         'faq_3_answer' => 'Användare registrerar sig med namn, e-post och telefonnummer, och FI-reglerade företag i Stockholm kontaktar dem, i enlighet med GDPR.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra Höjdpunkter',
         'highlight_enrollment_cost_title' => '🤖 Registreringskostnad',
         'highlight_enrollment_cost_text' => 'Gratis registrering för svenska invånare i Stockholm',
@@ -1743,28 +1743,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Tillgängliga regioner',
         'highlight_accessible_regions_text' => 'Tillgängligt i Stockholm, Sverige, och de flesta regioner, exklusive USA',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Floventras roll i investeringslandskapet',
         'about_principles_role_text' => 'Floventra främjar investeringsutbildning i Stockholm, Sverige, genom att koppla användare till FI-reglerade företag för välgrundade finansiella beslut.',
         'about_principles_gap_title' => 'Stänga kunskapsgapet inom investeringar',
         'about_principles_gap_text' => 'Floventra överbryggar kunskapsgapet inom investeringar i Stockholm, Sverige, genom att koppla användare till FI-reglerade utbildare.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra siktar på en framåtblickande värld',
         'about_forward_thinking_quote' => 'Floventra främjar finansiell läs- och skrivkunnighet i Stockholm, Sverige, genom innovativa investeringsutbildningslösningar.',
         'about_forward_thinking_text' => 'Floventra transformerar finansiella tankesätt i Stockholm, Sverige, genom att koppla användare till FI-reglerade investeringsutbildningar.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra sätter premium på utbildning',
         'about_education_text_1' => 'Floventra stärker svenska invånare i Stockholm med investeringskunskap, verktyg och strategier via FI-reglerade utbildare.',
         'about_education_people_title' => 'Floventras människor',
         'about_education_people_text' => 'Vårt team i Stockholm, Sverige, arbetar för att göra investeringsutbildning tillgänglig genom att koppla användare till FI-reglerade företag.',
         'about_education_mission_text' => 'Floventra säkerställer att svenska invånare i Stockholm kan få tillgång till investeringsutbildning och stänger kunskapsgapet globalt.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Kontaktformulär',
         'contact_form_name_placeholder' => 'Ditt namn',
         'contact_form_email_placeholder' => 'E-post',
@@ -1772,7 +1772,7 @@ return [
         'contact_form_submit_button' => 'Skicka meddelande',
         'contact_form_success' => 'Formuläret har skickats framgångsrikt!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra Inloggning',
         'login_subtitle' => 'Inloggningsinstruktioner för nya Floventra-användare',
         'login_instructions_text' => 'Nya användare får inloggningsuppgifter från FI-reglerade investeringsutbildningsföretag i Stockholm, Sverige, för deras webbplatser.',
@@ -1788,13 +1788,13 @@ return [
         'login_form_error_last_name' => 'Ditt efternamn är för kort (minst 2 tecken)',
         'login_form_error_email' => 'Vänligen ange din riktiga e-postadress (t.ex. användare@exempel.se)',
 
-        // Terms of Use
+
         'terms_general_title' => '1. Allmänt',
         'terms_general_1' => 'Välkommen till floventus.com (”Webbplatsen”).',
         'terms_general_2' => 'Vår e-post: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'Webbplatsen innehåller information om tredjepartsplattformar (”Tredjepartsplattformarna”) såsom utbildningstjänster om allmänna investeringstekniker eller marknadsundersökningar. Floventra fungerar som en mellanhand och kopplar användare till sådana Tredjepartsplattformar (”Tjänsterna”).',
         'terms_general_4' => 'Dessa användarvillkor (”Villkoren”) reglerar din (”Du”, ”Din” eller ”Användare”) användning av Webbplatsen och Tjänsterna. Dessa Villkor bör läsas noggrant av Dig i sin helhet innan Du använder Tjänsterna. Observera att dessa Villkor utgör ett juridiskt bindande avtal mellan Dig och Webbplatsens operatör Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Om Du inte godkänner någon del av dessa Villkor ska Du omedelbart sluta använda Webbplatsen. Genom att använda Webbplatsen godkänner Du Villkoren, som kan ändras från tid till annan.',
-        'terms_general_5' => 'Dessa Villkor inkluderar vår Integritetspolicy och genom att godkänna dessa Villkor bekräftar Du att Du också accepterar och godkänner vår integritetspolicy (Du kan läsa vår Integritetspolicy genom att <a href="/se/integritetspolicy">klicka här</a>).',
+        'terms_general_5' => 'Dessa Villkor inkluderar vår Integritetspolicy och genom att godkänna dessa Villkor bekräftar Du att Du också accepterar och godkänner vår integritetspolicy (Du kan läsa vår Integritetspolicy genom att <a href="./privacy">klicka här</a>).',
         'terms_services_title' => '2. Beskrivning av Tjänsterna',
         'terms_services_1' => 'Vi är inte en investeringsplattform, och vi kopplar inte Dig till sådana investeringsplattformar, såvida inte en sådan plattform åtar sig att endast erbjuda utbildningstjänster eller marknadsundersökningar.',
         'terms_services_2' => 'Vi fungerar som en mellanhand för att koppla Dig till en tjänsteleverantör som kan erbjuda utbildningsinnehåll om allmänna investeringstekniker eller marknadsundersökningar inom dina intresseområden, i enlighet med FI-regler i Sverige.',
@@ -1856,7 +1856,7 @@ return [
         'terms_miscellaneous_8' => 'Dessa villkor ska regleras av svensk lag.',
         'terms_miscellaneous_9' => 'Den exklusiva jurisdiktionsplatsen för alla tvister som uppstår från eller i samband med dessa Villkor ska vara domstolarna i Sverige.',
 
-        // Privacy Policy
+
         'privacy_purpose_title' => 'Syftet med detta meddelande',
         'privacy_purpose_text' => 'Syftet med detta dataskyddsmeddelande (”Meddelandet”) är att förklara hur Floventra (”Floventra” eller ”Vi” eller ”Oss”) kommer att behandla, som personuppgiftsansvarig, dina personuppgifter som du tillhandahåller Oss när du besöker webbplatsen floventus.com (”Webbplatsen”), eller som Vi får från tredje parter, för att sätta dig i kontakt med professionella som du kan vara intresserad av.',
         'privacy_data_categories_title' => 'Vilka kategorier av personuppgifter kommer att behandlas?',
@@ -1902,7 +1902,7 @@ return [
         'privacy_last_updated' => 'Senast uppdaterad: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'dk' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Denmark',
         'locale' => 'da_DK',
         'locale_lang' => 'da-DK',
@@ -1918,25 +1918,25 @@ return [
         'jsonld_organization_review_author' => 'Floventra Bruger',
         'jsonld_organization_review_body' => 'Floventra forbinder danske borgere i København med FSA-regulerede investeringsuddannelsesfirmaer, der tilbyder tilgængelig og pålidelig finansiel læring.',
         'jsonld_software_categories' => 'Investeringsuddannelsesplatform',
-        'jsonld_software_price' => '0', // Registrering er gratis
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'DKK',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Investeringsuddannelse i København, Danmark',
         'og_description' => 'Tilmeld dig Floventra i København, Danmark, for at blive forbundet med FSA-regulerede investeringsuddannelsesfirmaer. Start din finansielle læringsrejse i dag!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/dk/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Investeringsuddannelse i København',
         'twitter_description' => 'Udforsk investeringsuddannelse med Floventra i København, Danmark. Bliv forbundet med FSA-regulerede firmaer gratis!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Investeringsuddannelsesplatform i København, Danmark | Den officielle hjemmeside',
         'meta_description' => 'Tilmeld dig Floventra i København, Danmark, for at blive forbundet med FSA-regulerede investeringsuddannelsesfirmaer. Start din finansielle læringsrejse i dag!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, investeringsuddannelse København, finansiel læring Danmark, Floventra, FSA-reguleret uddannelse, investeringsplatform Danmark',
@@ -1953,60 +1953,60 @@ return [
         'jsonld_faq_6_question' => 'Kan jeg få adgang til Floventra i København?',
         'jsonld_faq_6_answer' => 'Floventra er fuldt tilgængelig for danske borgere i København og tilbyder en brugervenlig platform for investeringsuddannelse.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Om Floventra - Investeringsuddannelse i København, Danmark',
         'about_desc_content' => 'Lær om Floventra, en førende platform i København, Danmark, der forbinder brugere med FSA-regulerede investeringsuddannelsesfirmaer.',
         'about_keywords' => 'Floventra om, investeringsuddannelse København, finansiel uddannelse Danmark, FSA-reguleret læring, investeringsplatform Danmark',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Kontakt Floventra - Investeringsuddannelse i København, Danmark',
         'contact_desc_content' => 'Kontakt Floventra i København, Danmark, for forespørgsler om vores FSA-regulerede investeringsuddannelsestjenester. Kom i kontakt i dag!',
         'contact_keywords' => 'Floventra kontakt, investeringsuddannelse København, finansiel læring Danmark, FSA-reguleret platform, kontakt investeringsuddannelse',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra Cookiepolitik - København, Danmark',
         'cookie_desc_content' => 'Udforsk Floventra’s cookiepolitik for investeringsuddannelsestjenester i København, Danmark. Lær, hvordan vi bruger cookies til at forbedre din oplevelse.',
         'cookie_keywords' => 'Floventra cookiepolitik, investeringsuddannelse København, Danmark cookiepolitik, FSA-reguleret platform, finansielle uddannelsescookies',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra Brugsbetingelser - Investeringsuddannelse i København, Danmark',
         'terms_desc_content' => 'Udforsk brugsbetingelserne for Floventra, der regulerer adgang til vores investeringsuddannelsesplatform i København, Danmark. Lær om berettigelse og FSA-overholdelse.',
         'terms_keywords' => 'Floventra betingelser, investeringsuddannelsesplatform, Danmark vilkår og betingelser, FSA-regulerede tjenester, finansiel uddannelse København',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra Privatlivspolitik - København, Danmark',
         'privacy_desc_content' => 'Læs Floventra’s privatlivspolitik for investeringsuddannelsestjenester i København, Danmark. Lær, hvordan vi beskytter dine data under GDPR.',
         'privacy_keywords' => 'Floventra privatliv, investeringsuddannelse København, GDPR-overholdelse Danmark, finansiel uddannelse privatliv, FSA-reguleret platform',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Opret din profil - Floventra Investeringsuddannelse i København, Danmark',
         'create-profile_content' => 'Tilmeld dig Floventra i København, Danmark, for at blive forbundet med FSA-regulerede investeringsuddannelsesfirmaer. Start din læringsrejse i dag!',
         'create-profile_keywords' => 'Floventra tilmelding, investeringsuddannelse København, finansiel læring Danmark, FSA-reguleret platform, opret profil investering',
 
-        // Контентные ключи
+
         'home' => 'Hjem',
         'about' => 'Om os',
         'contact' => 'Kontakt os',
         'privacy' => 'Privatlivspolitik',
         'terms' => 'Vilkår og betingelser',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Log ind',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Tilmeld dig nu',
         'main_form_terms_text' => '* Ved at klikke på knappen accepterer du vores privatlivspolitik og vilkår og betingelser',
 
-        // Section: About Platform
+
         'about_subtitle' => 'Hvad er Floventra AI?',
         'about_quote' => 'Floventra forbinder danske borgere med FSA-regulerede investeringsuddannelsesfirmaer i København, hvilket gør finansiel læring tilgængelig og effektiv.',
         'about_text_1' => 'Floventra forenkler adgangen til investeringsuddannelse i København, Danmark. Vores platform samarbejder med FSA-regulerede firmaer for at tilbyde skræddersyede læringsoplevelser for alle færdighedsniveauer.',
         'about_text_2' => 'Ingen forudgående investeringsviden er nødvendig. Tilmeld dig blot med dit navn, e-mail og telefonnummer, og vores partnere vil kontakte dig for at starte din finansielle uddannelsesrejse i København.',
         'about_register_btn' => 'TILMELD DIG HER >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Forbedr dine finansielle færdigheder med Floventra i København',
         'education_item_1_title' => 'Mestre nye investeringsfærdigheder',
         'education_item_1_text' => 'Floventra forbinder danske borgere i København med FSA-regulerede firmaer for at lære investeringsstrategier. Perfekt for begyndere, professionelle eller enhver, der søger finansiel viden.',
@@ -2018,7 +2018,7 @@ return [
         'education_item_3_text_2' => 'Klar til at ændre dit finansielle udsyn? Tilmeld dig Floventra i dag!',
         'education_register_btn' => 'TILMELD DIG NU >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Hvorfor forbinde med investeringsundervisere på Floventra?',
         'three_steps_item_1_title' => 'Virtuelt studie',
         'three_steps_item_1_text' => 'Floventra forbinder brugere med investeringsundervisere, der tilbyder digital læring i København, Danmark. Studer hvor som helst og genbesøg optagelser efter behov.',
@@ -2027,12 +2027,12 @@ return [
         'three_steps_item_3_title' => 'Sproglig mangfoldighed',
         'three_steps_item_3_text' => 'Lær på dit foretrukne sprog med Floventra’s FSA-regulerede partnere i København, Danmark, og fjern sprogbarrierer.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Hvem er en investor?',
         'investor_quote' => 'En investor engagerer kapital i aktiver eller planer for at opnå finansielle mål. Floventra i København, Danmark, forbinder dig med FSA-regulerede undervisere for at lære mere.',
         'investor_text' => 'Investorer står over for risici, der kan påvirke afkast. Lær at undersøge, budgettere og vurdere risici med FSA-regulerede investeringsuddannelsesfirmaer i København via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra Oversigt over investortyper',
         'investor_types_intro' => 'Investorer varierer efter mål, risikotolerance og strategier. Lær om kvantitative, socialt ansvarlige og institutionelle investorer med Floventra i København, Danmark.',
         'investor_type_1_title' => 'Kvantitativ investor',
@@ -2050,13 +2050,13 @@ return [
         'investor_type_3_content' => 'Institutionelle investorer styrer store investeringer. Tilmeld dig Floventra i København for at lære, hvordan de adskiller sig fra andre investorer.',
         'investor_types_register_btn' => 'TILMELD DIG GRATIS >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'Hvad er en indeksfond?',
         'index_funds_quote' => 'Indeksfonde sporer markedsudviklingen med lavere omkostninger. Lær om deres risici og fordele med Floventra’s FSA-regulerede undervisere i København, Danmark.',
         'index_funds_text_1' => 'Indeksfonde er knyttet til markedsudviklingen og kan være risikable. Forbind med FSA-regulerede investeringsundervisere i København via Floventra for at lære mere.',
         'index_funds_text_2' => 'Investorer vælger indeksfonde, åbner konti og overvåger porteføljer. Opdag indeksfondsstrategier med Floventra i København, Danmark.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Lær om børshandlede fonde (ETF’er) via Floventra',
         'etfs_text_1' => 'ETF’er tillader investering i forskellige værdipapirer. Lær, hvordan de fungerer med FSA-regulerede undervisere i København via Floventra.',
         'etfs_text_2' => 'ETF’er handles på børser med varierende afkast. Forbind med Floventra i København, Danmark, for at udforske ETF-typer og strategier.',
@@ -2070,7 +2070,7 @@ return [
         'etf_type_4_text' => 'Aktie-ETF’er sporer aktier for diversificering. Forbind med Floventra i København, Danmark, for detaljeret ETF-uddannelse.',
         'etfs_learn_btn' => 'LÆR MERE >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Miljømæssig, social og ledelsesmæssig (ESG) investering',
         'assets_esg_quote' => 'ESG-investering prioriterer etiske faktorer. Lær, hvordan det stemmer overens med danske regler via Floventra i København.',
         'assets_esg_text' => 'ESG evaluerer virksomheder ud fra miljømæssige, sociale og ledelsesmæssige standarder. Forbind med FSA-regulerede undervisere i København via Floventra.',
@@ -2080,7 +2080,7 @@ return [
         'assets_market_cap_text_1' => 'Markedsværdi spænder fra mikro til stor. Opdag deres risici og vækstpotentiale med Floventra i København, Danmark.',
         'assets_market_cap_text_2' => 'Mellemstore og store virksomheder tilbyder vækst, men varierer i volatilitet. Lær mere med Floventra’s FSA-regulerede partnere i København.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Forstå hedging via Floventra',
         'metrics_hedging_text' => 'Hedging reducerer investeringsrisici ved hjælp af derivater. Lær dens kompleksiteter med FSA-regulerede undervisere i København via Floventra.',
         'metrics_terms_title' => 'Kend grundlæggende investeringsbegreber via Floventra',
@@ -2097,12 +2097,12 @@ return [
         'metrics_debt_instrument_title' => 'Gældsinstrument',
         'metrics_debt_instrument_text' => 'Gældsinstrumenter rejser kapital via obligationer eller lån. Opdag dem med Floventra i København, Danmark.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Det er aldrig for sent at starte',
         'padding_60_quote' => 'Kæmper du med at finde pålidelig investeringsuddannelse i København, Danmark? Floventra forbinder dig med FSA-regulerede firmaer.',
         'padding_60_text' => 'Floventra hjælper tusindvis af danske borgere i København med at få adgang til pålidelig investeringsuddannelse. Tilmeld dig gratis i dag.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra Ofte Stillede Spørgsmål',
         'faq_1_question' => 'Hvad underviser Floventra folk i?',
         'faq_1_answer' => 'Floventra forbinder danske borgere i København med FSA-regulerede investeringsuddannelsesfirmaer for omfattende finansiel læring.',
@@ -2111,7 +2111,7 @@ return [
         'faq_3_question' => 'Hvordan forbinder Floventra folk med undervisere?',
         'faq_3_answer' => 'Brugere registrerer sig med deres navn, e-mail og telefonnummer, og FSA-regulerede firmaer i København kontakter dem, i overensstemmelse med GDPR.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra Højdepunkter',
         'highlight_enrollment_cost_title' => '🤖 Tilmeldingsomkostninger',
         'highlight_enrollment_cost_text' => 'Gratis tilmelding for danske borgere i København',
@@ -2124,28 +2124,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Tilgængelige regioner',
         'highlight_accessible_regions_text' => 'Tilgængelig i København, Danmark, og de fleste regioner, undtagen USA',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Floventra’s rolle i investeringslandskabet',
         'about_principles_role_text' => 'Floventra fremmer investeringsuddannelse i København, Danmark, ved at forbinde brugere med FSA-regulerede firmaer for informerede finansielle beslutninger.',
         'about_principles_gap_title' => 'Udjævning af investeringsvidenskløften',
         'about_principles_gap_text' => 'Floventra udjævner investeringsvidenskløften i København, Danmark, ved at forbinde brugere med FSA-regulerede undervisere.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra sigter mod en fremtidsorienteret verden',
         'about_forward_thinking_quote' => 'Floventra fremmer finansiel forståelse i København, Danmark, gennem innovative investeringsuddannelsesløsninger.',
         'about_forward_thinking_text' => 'Floventra transformerer finansielle tankesæt i København, Danmark, ved at forbinde brugere med FSA-regulerede investeringsuddannelser.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra vægter uddannelse højt',
         'about_education_text_1' => 'Floventra styrker danske borgere i København med investeringsviden, værktøjer og strategier via FSA-regulerede undervisere.',
         'about_education_people_title' => 'Floventra’s folk',
         'about_education_people_text' => 'Vores team i København, Danmark, arbejder for at gøre investeringsuddannelse tilgængelig ved at forbinde brugere med FSA-regulerede firmaer.',
         'about_education_mission_text' => 'Floventra sikrer, at danske borgere i København kan få adgang til investeringsuddannelse og udjævne videnskløften globalt.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Kontaktformular',
         'contact_form_name_placeholder' => 'Dit navn',
         'contact_form_email_placeholder' => 'E-mail',
@@ -2153,7 +2153,7 @@ return [
         'contact_form_submit_button' => 'Send besked',
         'contact_form_success' => 'Formularen blev sendt succesfuldt!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra Log ind',
         'login_subtitle' => 'Log ind instruktioner for nye Floventra brugere',
         'login_instructions_text' => 'Nye brugere modtager loginoplysninger fra FSA-regulerede investeringsuddannelsesfirmaer i København, Danmark, til deres hjemmesider.',
@@ -2169,13 +2169,13 @@ return [
         'login_form_error_last_name' => 'Dit efternavn er for kort (mindst 2 tegn)',
         'login_form_error_email' => 'Indtast venligst din rigtige e-mailadresse (f.eks. bruger@eksempel.dk)',
 
-        // Terms of Use
+
         'terms_general_title' => '1. Generelt',
         'terms_general_1' => 'Velkommen til floventus.com (”Hjemmesiden”).',
         'terms_general_2' => 'Vores e-mail: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'Hjemmesiden indeholder information om tredjepartsplatforme (”Tredjepartsplatformene”), nemlig uddannelsestjenester om generelle investeringsteknikker eller markedsundersøgelser. Floventra fungerer som en formidler, der forbinder brugere med sådanne Tredjepartsplatforme (”Tjenesterne”).',
         'terms_general_4' => 'Disse brugsbetingelser (”Betingelserne”) regulerer din (”Dig”, ”Din” eller ”Bruger”) brug af Hjemmesiden og Tjenesterne. Disse Betingelser bør læses omhyggeligt af Dig i deres helhed, før du bruger Tjenesterne. Bemærk venligst, at disse Betingelser udgør en juridisk bindende aftale mellem Dig og Hjemmesidens operatør Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Hvis du ikke er enig i nogen bestemmelse i disse Betingelser, skal du straks ophøre med at bruge Hjemmesiden. Ved at bruge Hjemmesiden accepterer du Betingelserne, som ændres fra tid til anden.',
-        'terms_general_5' => 'Disse Betingelser inkluderer vores Privatlivspolitik, og ved at acceptere disse Betingelser bekræfter du, at du også accepterer og er enig i vores privatlivspolitik (du kan gennemgå vores Privatlivspolitik ved at <a href="/dk/privacy-policy/">klikke her</a>).',
+        'terms_general_5' => 'Disse Betingelser inkluderer vores Privatlivspolitik, og ved at acceptere disse Betingelser bekræfter du, at du også accepterer og er enig i vores privatlivspolitik (du kan gennemgå vores Privatlivspolitik ved at <a href="./privacy">klikke her</a>).',
         'terms_services_title' => '2. Beskrivelse af Tjenesterne',
         'terms_services_1' => 'Vi er ikke en investeringsplatform, og vi sætter dig ikke i kontakt med sådanne investeringsplatforme, medmindre en sådan platform forpligter sig til kun at tilbyde dig uddannelsestjenester eller markedsundersøgelser.',
         'terms_services_2' => 'Vi fungerer som en formidler for at forbinde dig med en tjenesteudbyder, der kan tilbyde uddannelsesindhold om generelle investeringsteknikker eller markedsundersøgelser inden for dine interesseområder, i overensstemmelse med FSA-regler i Danmark.',
@@ -2237,7 +2237,7 @@ return [
         'terms_miscellaneous_8' => 'Disse betingelser skal være underlagt dansk lov.',
         'terms_miscellaneous_9' => 'Den eksklusive jurisdiktion for alle tvister, der opstår i forbindelse med disse Betingelser, skal være domstolene i Danmark.',
 
-        // Privacy Policy
+
         'privacy_purpose_title' => 'Formål med meddelelsen',
         'privacy_purpose_text' => 'Formålet med denne databeskyttelsesmeddelelse (”Meddelelsen”) er at forklare, hvordan Floventra (”Floventra” eller ”Vi” eller ”Os”) vil behandle, som dataansvarlig, dine personlige data, du giver os, når du besøger hjemmesiden floventus.com (”Hjemmesiden”), eller som vi modtager fra tredjeparter, for at sætte dig i kontakt med fagfolk, du måske er interesseret i.',
         'privacy_data_categories_title' => 'Hvilke kategorier af personlige data vil blive behandlet?',
@@ -2283,7 +2283,7 @@ return [
         'privacy_last_updated' => 'Sidst opdateret: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'nl' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Nederland',
         'locale' => 'nl_NL',
         'locale_lang' => 'nl-NL',
@@ -2299,25 +2299,25 @@ return [
         'jsonld_organization_review_author' => 'Floventra Gebruiker',
         'jsonld_organization_review_body' => 'Floventra verbindt inwoners van Amsterdam, Nederland, met door de AFM gereguleerde investeringseducatiebedrijven, die toegankelijke en betrouwbare financiële leerervaringen bieden.',
         'jsonld_software_categories' => 'Investeringseducatieplatform',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'EUR',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Investeringseducatie in Amsterdam, Nederland',
         'og_description' => 'Sluit je aan bij Floventra in Amsterdam, Nederland, om in contact te komen met door de AFM gereguleerde investeringseducatiebedrijven. Start vandaag je financiële leerreis!',
-        'og_image' => 'https://floventus.com/nl/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/nl/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Investeringseducatie in Amsterdam',
         'twitter_description' => 'Ontdek investeringseducatie met Floventra in Amsterdam, Nederland. Maak gratis contact met door de AFM gereguleerde bedrijven!',
-        'twitter_image' => 'https://floventus.com/nl/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Investeringseducatieplatform in Amsterdam, Nederland | De officiële website',
         'meta_description' => 'Sluit je aan bij Floventra in Amsterdam, Nederland, om in contact te komen met door de AFM gereguleerde investeringseducatiebedrijven. Start vandaag je financiële leerreis!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, investeringseducatie Amsterdam, financiële educatie Nederland, Floventra, door de AFM gereguleerde educatie, investeringsplatform Nederland',
@@ -2334,60 +2334,60 @@ return [
         'jsonld_faq_6_question' => 'Kan ik toegang krijgen tot Floventra in Amsterdam?',
         'jsonld_faq_6_answer' => 'Floventra is volledig toegankelijk voor inwoners van Amsterdam, Nederland, en biedt een gebruiksvriendelijk platform voor investeringseducatie.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Over Floventra - Investeringseducatie in Amsterdam, Nederland',
         'about_desc_content' => 'Leer meer over Floventra, een toonaangevend platform in Amsterdam, Nederland, dat gebruikers verbindt met door de AFM gereguleerde investeringseducatiebedrijven.',
         'about_keywords' => 'over Floventra, investeringseducatie Amsterdam, financiële educatie Nederland, door de AFM gereguleerde educatie, investeringsplatform Nederland',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contacteer Floventra - Investeringseducatie in Amsterdam, Nederland',
         'contact_desc_content' => 'Neem contact op met Floventra in Amsterdam, Nederland, voor vragen over onze door de AFM gereguleerde investeringseducatiediensten. Neem vandaag nog contact op!',
         'contact_keywords' => 'Floventra contact, investeringseducatie Amsterdam, financiële educatie Nederland, door de AFM gereguleerd platform, contact investeringseducatie',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra Cookiebeleid - Amsterdam, Nederland',
         'cookie_desc_content' => 'Ontdek het cookiebeleid van Floventra voor investeringseducatiediensten in Amsterdam, Nederland. Leer hoe we cookies gebruiken om je ervaring te verbeteren.',
         'cookie_keywords' => 'Floventra cookiebeleid, investeringseducatie Amsterdam, Nederland cookiebeleid, door de AFM gereguleerd platform, cookies financiële educatie',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra Gebruiksvoorwaarden - Investeringseducatie in Amsterdam, Nederland',
         'terms_desc_content' => 'Ontdek de gebruiksvoorwaarden van Floventra, die toegang regelen tot ons investeringseducatieplatform in Amsterdam, Nederland. Leer over geschiktheid en AFM-naleving.',
         'terms_keywords' => 'Floventra gebruiksvoorwaarden, investeringseducatieplatform, Nederland algemene voorwaarden, door de AFM gereguleerde diensten, financiële educatie Amsterdam',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra Privacybeleid - Amsterdam, Nederland',
         'privacy_desc_content' => 'Lees het privacybeleid van Floventra voor investeringseducatiediensten in Amsterdam, Nederland. Ontdek hoe we je gegevens beschermen onder de AVG.',
         'privacy_keywords' => 'Floventra privacy, investeringseducatie Amsterdam, Nederland AVG-naleving, privacy financiële educatie, door de AFM gereguleerd platform',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Maak je profiel aan - Floventra Investeringseducatie in Amsterdam, Nederland',
         'create-profile_content' => 'Meld je aan bij Floventra in Amsterdam, Nederland, om in contact te komen met door de AFM gereguleerde investeringseducatiebedrijven. Start vandaag je leerreis!',
         'create-profile_keywords' => 'Floventra aanmelden, investeringseducatie Amsterdam, financiële educatie Nederland, door de AFM gereguleerd platform, profiel aanmaken investeringen',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Home',
         'about' => 'Over ons',
         'contact' => 'Contact',
         'privacy' => 'Privacybeleid',
         'terms' => 'Gebruiksvoorwaarden',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Inloggen',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Meld je nu aan',
         'main_form_terms_text' => '* Door op de knop te klikken, ga je akkoord met en accepteer je het Privacybeleid en de Gebruiksvoorwaarden',
 
-        // Section: About Platform
+
         'about_subtitle' => 'Wat is Floventra AI?',
         'about_quote' => 'Floventra verbindt inwoners van Amsterdam, Nederland, met door de AFM gereguleerde investeringseducatiebedrijven, waardoor financiële educatie toegankelijk en effectief wordt.',
         'about_text_1' => 'Floventra vereenvoudigt toegang tot investeringseducatie in Amsterdam, Nederland. Ons platform werkt samen met door de AFM gereguleerde bedrijven om op maat gemaakte leerervaringen te bieden voor alle niveaus.',
         'about_text_2' => 'Geen voorafgaande investeringskennis nodig. Registreer eenvoudig met je naam, e-mail en telefoonnummer, en onze partners nemen contact met je op om je financiële leerreis in Amsterdam te starten.',
         'about_register_btn' => 'HIER REGISTREREN >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Verbeter je financiële vaardigheden met Floventra in Amsterdam',
         'education_item_1_title' => 'Beheers nieuwe investeringsvaardigheden',
         'education_item_1_text' => 'Floventra verbindt inwoners van Amsterdam, Nederland, met door de AFM gereguleerde bedrijven om investeringsstrategieën te leren. Perfect voor beginners, professionals of iedereen die financiële kennis zoekt.',
@@ -2399,7 +2399,7 @@ return [
         'education_item_3_text_2' => 'Klaar om je financiële kijk te transformeren? Meld je vandaag aan bij Floventra!',
         'education_register_btn' => 'NU REGISTREREN >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Waarom contact opnemen met investeringsdocenten via Floventra?',
         'three_steps_item_1_title' => 'Virtueel leren',
         'three_steps_item_1_text' => 'Floventra verbindt gebruikers met investeringsdocenten die digitaal leren aanbieden in Amsterdam, Nederland. Leer vanaf elke locatie en bekijk opnames indien nodig.',
@@ -2408,12 +2408,12 @@ return [
         'three_steps_item_3_title' => 'Meertalige ondersteuning',
         'three_steps_item_3_text' => 'Leer in je voorkeurstaal met de door de AFM gereguleerde partners van Floventra in Amsterdam, Nederland, zonder taalbarrières.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Wie is een investeerder?',
         'investor_quote' => 'Een investeerder zet kapitaal in activa of plannen om financiële doelen te bereiken. Floventra in Amsterdam, Nederland, verbindt je met door de AFM gereguleerde educators om meer te leren.',
         'investor_text' => 'Investeerders worden geconfronteerd met risico’s die rendementen kunnen beïnvloeden. Leer onderzoek doen, budgetteren en risico’s inschatten met door de AFM gereguleerde investeringseducatiebedrijven in Amsterdam via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra Overzicht van Investeerderstypen',
         'investor_types_intro' => 'Investeerders verschillen in doelen, risicotolerantie en strategieën. Leer over kwantitatieve, maatschappelijk verantwoorde en institutionele investeerders met Floventra in Amsterdam, Nederland.',
         'investor_type_1_title' => 'Kwantitatieve investeerder',
@@ -2431,13 +2431,13 @@ return [
         'investor_type_3_content' => 'Institutionele investeerders beheren grootschalige investeringen. Meld je aan bij Floventra in Amsterdam om te leren hoe zij verschillen van andere investeerders.',
         'investor_types_register_btn' => 'GRATIS REGISTREREN >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'Wat is een indexfonds?',
         'index_funds_quote' => 'Indexfondsen volgen de marktprestaties met lagere kosten. Leer over hun risico’s en voordelen met de door de AFM gereguleerde educators van Floventra in Amsterdam, Nederland.',
         'index_funds_text_1' => 'Indexfondsen zijn gekoppeld aan marktprestaties en kunnen risicovol zijn. Maak contact met door de AFM gereguleerde investeringseducators in Amsterdam via Floventra om meer te leren.',
         'index_funds_text_2' => 'Investeerders kiezen indexfondsen, openen rekeningen en volgen portefeuilles. Ontdek indexfondsstrategieën met Floventra in Amsterdam, Nederland.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Leer over Exchange-Traded Funds (ETFs) via Floventra',
         'etfs_text_1' => 'ETFs maken investeringen in diverse effecten mogelijk. Leer hoe ze werken met door de AFM gereguleerde educators in Amsterdam via Floventra.',
         'etfs_text_2' => 'ETFs worden verhandeld op beurzen met wisselende rendementen. Maak contact met Floventra in Amsterdam, Nederland, om ETF-typen en strategieën te verkennen.',
@@ -2451,7 +2451,7 @@ return [
         'etf_type_4_text' => 'Aandelen-ETFs volgen aandelen voor diversificatie. Maak contact met Floventra in Amsterdam, Nederland, voor gedetailleerde ETF-educatie.',
         'etfs_learn_btn' => 'MEER LEREN >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Milieu, Sociaal en Bestuur (ESG) Investeren',
         'assets_esg_quote' => 'ESG-investeren geeft prioriteit aan ethische factoren. Leer hoe het aansluit bij Nederlandse regelgeving via Floventra in Amsterdam.',
         'assets_esg_text' => 'ESG beoordeelt bedrijven op milieu-, sociale en bestuursnormen. Maak contact met door de AFM gereguleerde educators in Amsterdam via Floventra.',
@@ -2461,7 +2461,7 @@ return [
         'assets_market_cap_text_1' => 'Marktkapitalisatie varieert van micro tot groot. Ontdek hun risico’s en groeipotentieel met Floventra in Amsterdam, Nederland.',
         'assets_market_cap_text_2' => 'Midden- en grootkapitaalbedrijven bieden groei maar variëren in volatiliteit. Leer meer met de door de AFM gereguleerde partners van Floventra in Amsterdam.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Begrijp hedging via Floventra',
         'metrics_hedging_text' => 'Hedging beperkt investeringsrisico’s met behulp van derivaten. Leer de complexiteiten met door de AFM gereguleerde educators in Amsterdam via Floventra.',
         'metrics_terms_title' => 'Ken basistermen voor investeringen via Floventra',
@@ -2478,12 +2478,12 @@ return [
         'metrics_debt_instrument_title' => 'Schuldinstrument',
         'metrics_debt_instrument_text' => 'Schuldinstrumenten genereren kapitaal via obligaties of leningen. Ontdek ze met Floventra in Amsterdam, Nederland.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Het is nooit te laat om te beginnen',
         'padding_60_quote' => 'Moeite met het vinden van betrouwbare investeringseducatie in Amsterdam, Nederland? Floventra verbindt je met door de AFM gereguleerde bedrijven.',
         'padding_60_text' => 'Floventra helpt duizenden inwoners van Amsterdam, Nederland, toegang te krijgen tot vertrouwde investeringseducatie. Meld je vandaag gratis aan.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra Veelgestelde Vragen',
         'faq_1_question' => 'Wat leert Floventra mensen?',
         'faq_1_answer' => 'Floventra verbindt inwoners van Amsterdam, Nederland, met door de AFM gereguleerde investeringseducatiebedrijven voor uitgebreide financiële educatie.',
@@ -2492,7 +2492,7 @@ return [
         'faq_3_question' => 'Hoe verbindt Floventra mensen met docenten?',
         'faq_3_answer' => 'Gebruikers registreren met hun naam, e-mail en telefoonnummer, en door de AFM gereguleerde bedrijven in Amsterdam nemen contact met hen op, in overeenstemming met de AVG.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra Hoogtepunten',
         'highlight_enrollment_cost_title' => '🤖 Inschrijvingskosten',
         'highlight_enrollment_cost_text' => 'Gratis inschrijving voor inwoners van Amsterdam, Nederland',
@@ -2505,28 +2505,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Toegankelijke regio’s',
         'highlight_accessible_regions_text' => 'Beschikbaar in Amsterdam, Nederland, en de meeste regio’s, behalve de VS',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'De rol van Floventra in het investeringslandschap',
         'about_principles_role_text' => 'Floventra bevordert investeringseducatie in Amsterdam, Nederland, door gebruikers te verbinden met door de AFM gereguleerde bedrijven voor weloverwogen financiële beslissingen.',
         'about_principles_gap_title' => 'Het overbruggen van de investeringskenniskloof',
         'about_principles_gap_text' => 'Floventra overbrugt de investeringskenniskloof in Amsterdam, Nederland, door gebruikers te koppelen aan door de AFM gereguleerde educators.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra streeft naar een vooruitdenkende wereld',
         'about_forward_thinking_quote' => 'Floventra bevordert financiële geletterdheid in Amsterdam, Nederland, door innovatieve investeringseducatieoplossingen.',
         'about_forward_thinking_text' => 'Floventra transformeert financiële mindsets in Amsterdam, Nederland, door gebruikers te verbinden met door de AFM gereguleerde investeringseducatie.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra legt de nadruk op educatie',
         'about_education_text_1' => 'Floventra stelt inwoners van Amsterdam, Nederland, in staat met investeringskennis, tools en strategieën via door de AFM gereguleerde educators.',
         'about_education_people_title' => 'De mensen van Floventra',
         'about_education_people_text' => 'Ons team in Amsterdam, Nederland, werkt eraan om investeringseducatie toegankelijk te maken door gebruikers te verbinden met door de AFM gereguleerde bedrijven.',
         'about_education_mission_text' => 'Floventra zorgt ervoor dat inwoners van Amsterdam, Nederland, toegang hebben tot investeringseducatie, waardoor de kenniskloof wereldwijd wordt gedicht.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Contactformulier',
         'contact_form_name_placeholder' => 'Je naam',
         'contact_form_email_placeholder' => 'E-mail',
@@ -2534,7 +2534,7 @@ return [
         'contact_form_submit_button' => 'Bericht verzenden',
         'contact_form_success' => 'Formulier succesvol verzonden!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra Inloggen',
         'login_subtitle' => 'Inloginstructies voor nieuwe Floventra-gebruikers',
         'login_instructions_text' => 'Nieuwe gebruikers ontvangen inloggegevens van door de AFM gereguleerde investeringseducatiebedrijven in Amsterdam, Nederland, voor hun websites.',
@@ -2550,13 +2550,13 @@ return [
         'login_form_error_last_name' => 'Je achternaam is te kort (minimaal 2 tekens)',
         'login_form_error_email' => 'Voer je echte e-mailadres in (bijv. gebruiker@voorbeeld.nl)',
 
-        // Section: Terms of Use
+
         'terms_general_title' => '1. Algemeen',
         'terms_general_1' => 'Welkom bij floventus.com (de "Website").',
         'terms_general_2' => 'Onze e-mail: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'De Website bevat informatie over platforms van derden (de <b>"Derdenplatforms"</b>), namelijk educatieve diensten over algemene investeringstechnieken of marktonderzoek. Floventra fungeert als tussenpersoon en verbindt gebruikers met dergelijke Derdenplatforms (de <b>"Diensten"</b>).',
         'terms_general_4' => 'Deze gebruiksvoorwaarden (de <b>"Voorwaarden"</b>) regelen jouw (<b>"Jij"</b>, <b>"Jouw"</b> of <b>"Gebruiker"</b>) gebruik van de Website en de Diensten. Deze Voorwaarden dienen zorgvuldig en volledig door jou te worden gelezen voordat je de Diensten gebruikt. Let op: deze Voorwaarden vormen een juridisch bindende overeenkomst tussen jou en de exploitant van de Website, Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Als je niet akkoord gaat met een van de bepalingen van deze Voorwaarden, dien je onmiddellijk te stoppen met het gebruik van de Website. Door de Website te gebruiken, ga je akkoord met de Voorwaarden, zoals deze van tijd tot tijd worden gewijzigd.',
-        'terms_general_5' => 'Deze Voorwaarden omvatten ons Privacybeleid en door akkoord te gaan met deze Voorwaarden, bevestig je dat je ook ons privacybeleid accepteert en ermee instemt (je kunt ons Privacybeleid bekijken door <a href="/nl/privacy-policy/">hier te klikken</a>).',
+        'terms_general_5' => 'Deze Voorwaarden omvatten ons Privacybeleid en door akkoord te gaan met deze Voorwaarden, bevestig je dat je ook ons privacybeleid accepteert en ermee instemt (je kunt ons Privacybeleid bekijken door <a href="./privacy">hier te klikken</a>).',
         'terms_services_title' => '2. Beschrijving van de Diensten',
         'terms_services_1' => 'Wij zijn geen investeringsplatform, noch brengen wij je in contact met dergelijke investeringsplatforms, tenzij een dergelijk platform zich ertoe verbindt om jou uitsluitend educatieve diensten of marktonderzoek aan te bieden.',
         'terms_services_2' => 'Wij fungeren als tussenpersoon om je in contact te brengen met een dienstverlener die educatieve inhoud kan aanbieden over algemene investeringstechnieken of marktonderzoek in jouw interessegebieden, in overeenstemming met AFM-regelgeving in Nederland.',
@@ -2618,7 +2618,7 @@ return [
         'terms_miscellaneous_8' => 'Deze voorwaarden worden beheerst door Nederlands recht.',
         'terms_miscellaneous_9' => 'De exclusieve bevoegde rechtbank voor alle geschillen die voortvloeien uit of in verband met deze Voorwaarden zal de rechtbank van Amsterdam, Nederland, zijn.',
 
-        // Section: Privacy Policy
+
         'privacy_purpose_title' => 'Doel van de kennisgeving',
         'privacy_purpose_text' => 'Het doel van deze Gegevensprivacykennisgeving (de "Kennisgeving") is om uit te leggen hoe Floventra ("Floventra" of "Wij" of "Ons") jouw persoonlijke gegevens, die jij ons verstrekt wanneer je de website floventus.com (de "Website") bezoekt, of die wij van derden ontvangen, zal verwerken als gegevensbeheerder om je in contact te brengen met professionals waarin je mogelijk geïnteresseerd bent.',
         'privacy_data_categories_title' => 'Welke categorieën persoonlijke gegevens worden verwerkt?',
@@ -2664,7 +2664,7 @@ return [
         'privacy_last_updated' => 'Laatst bijgewerkt: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'be-nl' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'België',
         'locale' => 'nl_BE',
         'locale_lang' => 'nl-BE',
@@ -2680,25 +2680,25 @@ return [
         'jsonld_organization_review_author' => 'Floventra Gebruiker',
         'jsonld_organization_review_body' => 'Floventra verbindt inwoners van Brussel, België, met door de FSMA gereguleerde investeringseducatiebedrijven, die toegankelijke en betrouwbare financiële leerervaringen bieden.',
         'jsonld_software_categories' => 'Investeringseducatieplatform',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'EUR',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Investeringseducatie in Brussel, België',
         'og_description' => 'Sluit je aan bij Floventra in Brussel, België, om in contact te komen met door de FSMA gereguleerde investeringseducatiebedrijven. Start vandaag je financiële leerreis!',
-        'og_image' => 'https://floventus.com/be-nl/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/be-nl/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Investeringseducatie in Brussel',
         'twitter_description' => 'Ontdek investeringseducatie met Floventra in Brussel, België. Maak gratis contact met door de FSMA gereguleerde bedrijven!',
-        'twitter_image' => 'https://floventus.com/be-nl/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Investeringseducatieplatform in Brussel, België | De officiële website',
         'meta_description' => 'Sluit je aan bij Floventra in Brussel, België, om in contact te komen met door de FSMA gereguleerde investeringseducatiebedrijven. Start vandaag je financiële leerreis!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, investeringseducatie Brussel, financiële educatie België, Floventra, door de FSMA gereguleerde educatie, investeringsplatform België',
@@ -2715,60 +2715,60 @@ return [
         'jsonld_faq_6_question' => 'Kan ik toegang krijgen tot Floventra in Brussel?',
         'jsonld_faq_6_answer' => 'Floventra is volledig toegankelijk voor inwoners van Brussel, België, en biedt een gebruiksvriendelijk platform voor investeringseducatie.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Over Floventra - Investeringseducatie in Brussel, België',
         'about_desc_content' => 'Leer meer over Floventra, een toonaangevend platform in Brussel, België, dat gebruikers verbindt met door de FSMA gereguleerde investeringseducatiebedrijven.',
         'about_keywords' => 'over Floventra, investeringseducatie Brussel, financiële educatie België, door de FSMA gereguleerde educatie, investeringsplatform België',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contacteer Floventra - Investeringseducatie in Brussel, België',
         'contact_desc_content' => 'Neem contact op met Floventra in Brussel, België, voor vragen over onze door de FSMA gereguleerde investeringseducatiediensten. Neem vandaag nog contact op!',
         'contact_keywords' => 'Floventra contact, investeringseducatie Brussel, financiële educatie België, door de FSMA gereguleerd platform, contact investeringseducatie',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra Cookiebeleid - Brussel, België',
         'cookie_desc_content' => 'Ontdek het cookiebeleid van Floventra voor investeringseducatiediensten in Brussel, België. Leer hoe we cookies gebruiken om je ervaring te verbeteren.',
         'cookie_keywords' => 'Floventra cookiebeleid, investeringseducatie Brussel, België cookiebeleid, door de FSMA gereguleerd platform, cookies financiële educatie',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra Gebruiksvoorwaarden - Investeringseducatie in Brussel, België',
         'terms_desc_content' => 'Ontdek de gebruiksvoorwaarden van Floventra, die toegang regelen tot ons investeringseducatieplatform in Brussel, België. Leer over geschiktheid en FSMA-naleving.',
         'terms_keywords' => 'Floventra gebruiksvoorwaarden, investeringseducatieplatform, België algemene voorwaarden, door de FSMA gereguleerde diensten, financiële educatie Brussel',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra Privacybeleid - Brussel, België',
         'privacy_desc_content' => 'Lees het privacybeleid van Floventra voor investeringseducatiediensten in Brussel, België. Ontdek hoe we je gegevens beschermen onder de AVG.',
         'privacy_keywords' => 'Floventra privacy, investeringseducatie Brussel, België AVG-naleving, privacy financiële educatie, door de FSMA gereguleerd platform',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Maak je profiel aan - Floventra Investeringseducatie in Brussel, België',
         'create-profile_content' => 'Meld je aan bij Floventra in Brussel, België, om in contact te komen met door de FSMA gereguleerde investeringseducatiebedrijven. Start vandaag je leerreis!',
         'create-profile_keywords' => 'Floventra aanmelden, investeringseducatie Brussel, financiële educatie België, door de FSMA gereguleerd platform, profiel aanmaken investeringen',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Home',
         'about' => 'Over ons',
         'contact' => 'Contact',
         'privacy' => 'Privacybeleid',
         'terms' => 'Gebruiksvoorwaarden',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Inloggen',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Meld je nu aan',
         'main_form_terms_text' => '* Door op de knop te klikken, ga je akkoord met en accepteer je het Privacybeleid en de Gebruiksvoorwaarden',
 
-        // Section: About Platform
+
         'about_subtitle' => 'Wat is Floventra AI?',
         'about_quote' => 'Floventra verbindt inwoners van Brussel, België, met door de FSMA gereguleerde investeringseducatiebedrijven, waardoor financiële educatie toegankelijk en effectief wordt.',
         'about_text_1' => 'Floventra vereenvoudigt toegang tot investeringseducatie in Brussel, België. Ons platform werkt samen met door de FSMA gereguleerde bedrijven om op maat gemaakte leerervaringen te bieden voor alle niveaus.',
         'about_text_2' => 'Geen voorafgaande investeringskennis nodig. Registreer eenvoudig met je naam, e-mail en telefoonnummer, en onze partners nemen contact met je op om je financiële leerreis in Brussel te starten.',
         'about_register_btn' => 'HIER REGISTREREN >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Verbeter je financiële vaardigheden met Floventra in Brussel',
         'education_item_1_title' => 'Beheers nieuwe investeringsvaardigheden',
         'education_item_1_text' => 'Floventra verbindt inwoners van Brussel, België, met door de FSMA gereguleerde bedrijven om investeringsstrategieën te leren. Perfect voor beginners, professionals of iedereen die financiële kennis zoekt.',
@@ -2780,7 +2780,7 @@ return [
         'education_item_3_text_2' => 'Klaar om je financiële kijk te transformeren? Meld je vandaag aan bij Floventra!',
         'education_register_btn' => 'NU REGISTREREN >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Waarom contact opnemen met investeringsdocenten via Floventra?',
         'three_steps_item_1_title' => 'Virtueel leren',
         'three_steps_item_1_text' => 'Floventra verbindt gebruikers met investeringsdocenten die digitaal leren aanbieden in Brussel, België. Leer vanaf elke locatie en bekijk opnames indien nodig.',
@@ -2789,12 +2789,12 @@ return [
         'three_steps_item_3_title' => 'Meertalige ondersteuning',
         'three_steps_item_3_text' => 'Leer in je voorkeurstaal met de door de FSMA gereguleerde partners van Floventra in Brussel, België, zonder taalbarrières.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Wie is een investeerder?',
         'investor_quote' => 'Een investeerder zet kapitaal in activa of plannen om financiële doelen te bereiken. Floventra in Brussel, België, verbindt je met door de FSMA gereguleerde educators om meer te leren.',
         'investor_text' => 'Investeerders worden geconfronteerd met risico’s die rendementen kunnen beïnvloeden. Leer onderzoek doen, budgetteren en risico’s inschatten met door de FSMA gereguleerde investeringseducatiebedrijven in Brussel via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra Overzicht van Investeerderstypen',
         'investor_types_intro' => 'Investeerders verschillen in doelen, risicotolerantie en strategieën. Leer over kwantitatieve, maatschappelijk verantwoorde en institutionele investeerders met Floventra in Brussel, België.',
         'investor_type_1_title' => 'Kwantitatieve investeerder',
@@ -2812,13 +2812,13 @@ return [
         'investor_type_3_content' => 'Institutionele investeerders beheren grootschalige investeringen. Meld je aan bij Floventra in Brussel om te leren hoe zij verschillen van andere investeerders.',
         'investor_types_register_btn' => 'GRATIS REGISTREREN >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'Wat is een indexfonds?',
         'index_funds_quote' => 'Indexfondsen volgen de marktprestaties met lagere kosten. Leer over hun risico’s en voordelen met de door de FSMA gereguleerde educators van Floventra in Brussel, België.',
         'index_funds_text_1' => 'Indexfondsen zijn gekoppeld aan marktprestaties en kunnen risicovol zijn. Maak contact met door de FSMA gereguleerde investeringseducators in Brussel via Floventra om meer te leren.',
         'index_funds_text_2' => 'Investeerders kiezen indexfondsen, openen rekeningen en volgen portefeuilles. Ontdek indexfondsstrategieën met Floventra in Brussel, België.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Leer over Exchange-Traded Funds (ETFs) via Floventra',
         'etfs_text_1' => 'ETFs maken investeringen in diverse effecten mogelijk. Leer hoe ze werken met door de FSMA gereguleerde educators in Brussel via Floventra.',
         'etfs_text_2' => 'ETFs worden verhandeld op beurzen met wisselende rendementen. Maak contact met Floventra in Brussel, België, om ETF-typen en strategieën te verkennen.',
@@ -2832,7 +2832,7 @@ return [
         'etf_type_4_text' => 'Aandelen-ETFs volgen aandelen voor diversificatie. Maak contact met Floventra in Brussel, België, voor gedetailleerde ETF-educatie.',
         'etfs_learn_btn' => 'MEER LEREN >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Milieu, Sociaal en Bestuur (ESG) Investeren',
         'assets_esg_quote' => 'ESG-investeren geeft prioriteit aan ethische factoren. Leer hoe het aansluit bij Belgische regelgeving via Floventra in Brussel.',
         'assets_esg_text' => 'ESG beoordeelt bedrijven op milieu-, sociale en bestuursnormen. Maak contact met door de FSMA gereguleerde educators in Brussel via Floventra.',
@@ -2842,7 +2842,7 @@ return [
         'assets_market_cap_text_1' => 'Marktkapitalisatie varieert van micro tot groot. Ontdek hun risico’s en groeipotentieel met Floventra in Brussel, België.',
         'assets_market_cap_text_2' => 'Midden- en grootkapitaalbedrijven bieden groei maar variëren in volatiliteit. Leer meer met de door de FSMA gereguleerde partners van Floventra in Brussel.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Begrijp hedging via Floventra',
         'metrics_hedging_text' => 'Hedging beperkt investeringsrisico’s met behulp van derivaten. Leer de complexiteiten met door de FSMA gereguleerde educators in Brussel via Floventra.',
         'metrics_terms_title' => 'Ken basistermen voor investeringen via Floventra',
@@ -2859,12 +2859,12 @@ return [
         'metrics_debt_instrument_title' => 'Schuldinstrument',
         'metrics_debt_instrument_text' => 'Schuldinstrumenten genereren kapitaal via obligaties of leningen. Ontdek ze met Floventra in Brussel, België.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Het is nooit te laat om te beginnen',
         'padding_60_quote' => 'Moeite met het vinden van betrouwbare investeringseducatie in Brussel, België? Floventra verbindt je met door de FSMA gereguleerde bedrijven.',
         'padding_60_text' => 'Floventra helpt duizenden inwoners van Brussel, België, toegang te krijgen tot vertrouwde investeringseducatie. Meld je vandaag gratis aan.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra Veelgestelde Vragen',
         'faq_1_question' => 'Wat leert Floventra mensen?',
         'faq_1_answer' => 'Floventra verbindt inwoners van Brussel, België, met door de FSMA gereguleerde investeringseducatiebedrijven voor uitgebreide financiële educatie.',
@@ -2873,7 +2873,7 @@ return [
         'faq_3_question' => 'Hoe verbindt Floventra mensen met docenten?',
         'faq_3_answer' => 'Gebruikers registreren met hun naam, e-mail en telefoonnummer, en door de FSMA gereguleerde bedrijven in Brussel nemen contact met hen op, in overeenstemming met de AVG.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra Hoogtepunten',
         'highlight_enrollment_cost_title' => '🤖 Inschrijvingskosten',
         'highlight_enrollment_cost_text' => 'Gratis inschrijving voor inwoners van Brussel, België',
@@ -2886,28 +2886,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Toegankelijke regio’s',
         'highlight_accessible_regions_text' => 'Beschikbaar in Brussel, België, en de meeste regio’s, behalve de VS',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'De rol van Floventra in het investeringslandschap',
         'about_principles_role_text' => 'Floventra bevordert investeringseducatie in Brussel, België, door gebruikers te verbinden met door de FSMA gereguleerde bedrijven voor weloverwogen financiële beslissingen.',
         'about_principles_gap_title' => 'Het overbruggen van de investeringskenniskloof',
         'about_principles_gap_text' => 'Floventra overbrugt de investeringskenniskloof in Brussel, België, door gebruikers te koppelen aan door de FSMA gereguleerde educators.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra streeft naar een vooruitdenkende wereld',
         'about_forward_thinking_quote' => 'Floventra bevordert financiële geletterdheid in Brussel, België, door innovatieve investeringseducatieoplossingen.',
         'about_forward_thinking_text' => 'Floventra transformeert financiële mindsets in Brussel, België, door gebruikers te verbinden met door de FSMA gereguleerde investeringseducatie.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra legt de nadruk op educatie',
         'about_education_text_1' => 'Floventra stelt inwoners van Brussel, België, in staat met investeringskennis, tools en strategieën via door de FSMA gereguleerde educators.',
         'about_education_people_title' => 'De mensen van Floventra',
         'about_education_people_text' => 'Ons team in Brussel, België, werkt eraan om investeringseducatie toegankelijk te maken door gebruikers te verbinden met door de FSMA gereguleerde bedrijven.',
         'about_education_mission_text' => 'Floventra zorgt ervoor dat inwoners van Brussel, België, toegang hebben tot investeringseducatie, waardoor de kenniskloof wereldwijd wordt gedicht.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Contactformulier',
         'contact_form_name_placeholder' => 'Je naam',
         'contact_form_email_placeholder' => 'E-mail',
@@ -2915,7 +2915,7 @@ return [
         'contact_form_submit_button' => 'Bericht verzenden',
         'contact_form_success' => 'Formulier succesvol verzonden!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra Inloggen',
         'login_subtitle' => 'Inloginstructies voor nieuwe Floventra-gebruikers',
         'login_instructions_text' => 'Nieuwe gebruikers ontvangen inloggegevens van door de FSMA gereguleerde investeringseducatiebedrijven in Brussel, België, voor hun websites.',
@@ -2931,13 +2931,13 @@ return [
         'login_form_error_last_name' => 'Je achternaam is te kort (minimaal 2 tekens)',
         'login_form_error_email' => 'Voer je echte e-mailadres in (bijv. gebruiker@voorbeeld.be)',
 
-        // Section: Terms of Use
+
         'terms_general_title' => '1. Algemeen',
         'terms_general_1' => 'Welkom bij floventus.com (de "Website").',
         'terms_general_2' => 'Onze e-mail: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'De Website bevat informatie over platforms van derden (de <b>"Derdenplatforms"</b>), namelijk educatieve diensten over algemene investeringstechnieken of marktonderzoek. Floventra fungeert als tussenpersoon en verbindt gebruikers met dergelijke Derdenplatforms (de <b>"Diensten"</b>).',
         'terms_general_4' => 'Deze gebruiksvoorwaarden (de <b>"Voorwaarden"</b>) regelen jouw (<b>"Jij"</b>, <b>"Jouw"</b> of <b>"Gebruiker"</b>) gebruik van de Website en de Diensten. Deze Voorwaarden dienen zorgvuldig en volledig door jou te worden gelezen voordat je de Diensten gebruikt. Let op: deze Voorwaarden vormen een juridisch bindende overeenkomst tussen jou en de exploitant van de Website, Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Als je niet akkoord gaat met een van de bepalingen van deze Voorwaarden, dien je onmiddellijk te stoppen met het gebruik van de Website. Door de Website te gebruiken, ga je akkoord met de Voorwaarden, zoals deze van tijd tot tijd worden gewijzigd.',
-        'terms_general_5' => 'Deze Voorwaarden omvatten ons Privacybeleid en door akkoord te gaan met deze Voorwaarden, bevestig je dat je ook ons privacybeleid accepteert en ermee instemt (je kunt ons Privacybeleid bekijken door <a href="/be-nl/privacy-policy/">hier te klikken</a>).',
+        'terms_general_5' => 'Deze Voorwaarden omvatten ons Privacybeleid en door akkoord te gaan met deze Voorwaarden, bevestig je dat je ook ons privacybeleid accepteert en ermee instemt (je kunt ons Privacybeleid bekijken door <a href="./privacy">hier te klikken</a>).',
         'terms_services_title' => '2. Beschrijving van de Diensten',
         'terms_services_1' => 'Wij zijn geen investeringsplatform, noch brengen wij je in contact met dergelijke investeringsplatforms, tenzij een dergelijk platform zich ertoe verbindt om jou uitsluitend educatieve diensten of marktonderzoek aan te bieden.',
         'terms_services_2' => 'Wij fungeren als tussenpersoon om je in contact te brengen met een dienstverlener die educatieve inhoud kan aanbieden over algemene investeringstechnieken of marktonderzoek in jouw interessegebieden, in overeenstemming met FSMA-regelgeving in België.',
@@ -2999,7 +2999,7 @@ return [
         'terms_miscellaneous_8' => 'Deze voorwaarden worden beheerst door Belgisch recht.',
         'terms_miscellaneous_9' => 'De exclusieve bevoegde rechtbank voor alle geschillen die voortvloeien uit of in verband met deze Voorwaarden zal de rechtbank van Brussel, België, zijn.',
 
-        // Section: Privacy Policy
+
         'privacy_purpose_title' => 'Doel van de kennisgeving',
         'privacy_purpose_text' => 'Het doel van deze Gegevensprivacykennisgeving (de "Kennisgeving") is om uit te leggen hoe Floventra ("Floventra" of "Wij" of "Ons") jouw persoonlijke gegevens, die jij ons verstrekt wanneer je de website floventus.com (de "Website") bezoekt, of die wij van derden ontvangen, zal verwerken als gegevensbeheerder om je in contact te brengen met professionals waarin je mogelijk geïnteresseerd bent.',
         'privacy_data_categories_title' => 'Welke categorieën persoonlijke gegevens worden verwerkt?',
@@ -3045,7 +3045,7 @@ return [
         'privacy_last_updated' => 'Laatst bijgewerkt: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'be-fr' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Belgique',
         'locale' => 'fr_BE',
         'locale_lang' => 'fr-BE',
@@ -3061,25 +3061,25 @@ return [
         'jsonld_organization_review_author' => 'Utilisateur de Floventra',
         'jsonld_organization_review_body' => 'Floventra met en relation les résidents belges à Bruxelles avec des entreprises d’éducation financière régulées par l’FSMA, offrant un apprentissage financier accessible et fiable.',
         'jsonld_software_categories' => 'Plateforme d’éducation financière',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'EUR',
         'social_links' => [
-            'https://facebook.com/floventus.com-be-fr',
-            'https://twitter.com/floventus.com-be-fr',
-            'https://linkedin.com/company/floventus.com-be-fr'
+            'https://facebook.com/floventus-be-fr',
+            'https://twitter.com/floventus-be-fr',
+            'https://linkedin.com/company/floventus-be-fr'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Éducation financière à Bruxelles, Belgique',
         'og_description' => 'Rejoignez Floventra à Bruxelles, Belgique, pour vous connecter avec des entreprises d’éducation financière régulées par l’FSMA. Commencez votre parcours d’apprentissage financier dès aujourd’hui !',
-        'og_image' => 'https://floventus.com/be-fr/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/be-fr/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Éducation financière à Bruxelles',
         'twitter_description' => 'Découvrez l’éducation financière avec Floventra à Bruxelles, Belgique. Connectez-vous gratuitement avec des entreprises régulées par l’FSMA !',
-        'twitter_image' => 'https://floventus.com/be-fr/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Plateforme d’éducation financière à Bruxelles, Belgique | Le site officiel',
         'meta_description' => 'Rejoignez Floventra à Bruxelles, Belgique, pour vous connecter avec des entreprises d’éducation financière régulées par l’FSMA. Commencez votre parcours d’apprentissage financier dès aujourd’hui !',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, éducation financière Bruxelles, apprentissage financier Belgique, Floventra, éducation régulée par l’FSMA, plateforme d’investissement Belgique',
@@ -3096,60 +3096,60 @@ return [
         'jsonld_faq_6_question' => 'Puis-je accéder à Floventra à Bruxelles ?',
         'jsonld_faq_6_answer' => 'Floventra est entièrement accessible aux résidents belges à Bruxelles, offrant une plateforme conviviale pour l’éducation financière.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'À propos de Floventra - Éducation financière à Bruxelles, Belgique',
         'about_desc_content' => 'Découvrez Floventra, une plateforme de premier plan à Bruxelles, Belgique, qui met en relation les utilisateurs avec des entreprises d’éducation financière régulées par l’FSMA.',
         'about_keywords' => 'à propos de Floventra, éducation financière Bruxelles, apprentissage financier Belgique, éducation régulée par l’FSMA, plateforme d’investissement Belgique',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contactez Floventra - Éducation financière à Bruxelles, Belgique',
         'contact_desc_content' => 'Contactez Floventra à Bruxelles, Belgique, pour toute question concernant nos services d’éducation financière régulés par l’FSMA. Prenez contact dès aujourd’hui !',
         'contact_keywords' => 'contact Floventra, éducation financière Bruxelles, apprentissage financier Belgique, plateforme régulée par l’FSMA, contact éducation financière',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Politique de cookies de Floventra - Bruxelles, Belgique',
         'cookie_desc_content' => 'Découvrez la politique de cookies de Floventra pour les services d’éducation financière à Bruxelles, Belgique. Apprenez comment nous utilisons les cookies pour améliorer votre expérience.',
         'cookie_keywords' => 'politique de cookies Floventra, éducation financière Bruxelles, politique de cookies Belgique, plateforme régulée par l’FSMA, cookies éducation financière',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Conditions d’utilisation de Floventra - Éducation financière à Bruxelles, Belgique',
         'terms_desc_content' => 'Découvrez les conditions d’utilisation de Floventra, régissant l’accès à notre plateforme d’éducation financière à Bruxelles, Belgique. Informez-vous sur l’éligibilité et la conformité FSMA.',
         'terms_keywords' => 'conditions Floventra, plateforme d’éducation financière, conditions Belgique, services régulés par l’FSMA, éducation financière Bruxelles',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Politique de confidentialité de Floventra - Bruxelles, Belgique',
         'privacy_desc_content' => 'Lisez la politique de confidentialité de Floventra pour les services d’éducation financière à Bruxelles, Belgique. Découvrez comment nous protégeons vos données conformément au RGPD européen.',
         'privacy_keywords' => 'confidentialité Floventra, éducation financière Bruxelles, conformité RGPD Belgique, confidentialité éducation financière, plateforme régulée par l’FSMA',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Créez votre profil - Éducation financière Floventra à Bruxelles, Belgique',
         'create-profile_content' => 'Inscrivez-vous avec Floventra à Bruxelles, Belgique, pour vous connecter avec des entreprises d’éducation financière régulées par l’FSMA. Commencez votre parcours d’apprentissage dès aujourd’hui !',
         'create-profile_keywords' => 'inscription Floventra, éducation financière Bruxelles, apprentissage financier Belgique, plateforme régulée par l’FSMA, créer un profil investissement',
 
-        // Контентные ключи
+
         'home' => 'Accueil',
         'about' => 'À propos',
         'contact' => 'Contactez-nous',
         'privacy' => 'Politique de confidentialité',
         'terms' => 'Conditions d’utilisation',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Connexion',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Inscrivez-vous maintenant',
         'main_form_terms_text' => '* En cliquant sur le bouton, vous acceptez la politique de confidentialité et les conditions d’utilisation',
 
-        // Section: About Platform
+
         'about_subtitle' => 'Qu’est-ce que Floventra AI ?',
         'about_quote' => 'Floventra met en relation les résidents belges avec des entreprises d’éducation financière régulées par l’FSMA à Bruxelles, rendant l’apprentissage financier accessible et efficace.',
         'about_text_1' => 'Floventra simplifie l’accès à l’éducation financière à Bruxelles, Belgique. Notre plateforme collabore avec des entreprises régulées par l’FSMA pour offrir des expériences d’apprentissage adaptées à tous les niveaux.',
         'about_text_2' => 'Aucune connaissance préalable en investissement n’est requise. Inscrivez-vous simplement avec votre nom, email et numéro de téléphone, et nos partenaires vous contacteront pour commencer votre parcours d’éducation financière à Bruxelles.',
         'about_register_btn' => 'INSCRIVEZ-VOUS ICI >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Améliorez vos compétences financières avec Floventra à Bruxelles',
         'education_item_1_title' => 'Maîtrisez de nouvelles compétences en investissement',
         'education_item_1_text' => 'Floventra met en relation les résidents belges à Bruxelles avec des entreprises régulées par l’FSMA pour apprendre des stratégies d’investissement. Idéal pour les débutants, professionnels ou toute personne cherchant des connaissances financières.',
@@ -3161,7 +3161,7 @@ return [
         'education_item_3_text_2' => 'Prêt à transformer votre vision financière ? Inscrivez-vous avec Floventra aujourd’hui !',
         'education_register_btn' => 'INSCRIVEZ-VOUS MAINTENANT >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Pourquoi se connecter avec des enseignants en investissement sur Floventra ?',
         'three_steps_item_1_title' => 'Étude virtuelle',
         'three_steps_item_1_text' => 'Floventra met en relation les utilisateurs avec des éducateurs en investissement offrant un apprentissage numérique à Bruxelles, Belgique. Étudiez de n’importe où et revoyez les enregistrements selon vos besoins.',
@@ -3170,12 +3170,12 @@ return [
         'three_steps_item_3_title' => 'Multilinguisme',
         'three_steps_item_3_text' => 'Apprenez dans votre langue préférée avec les partenaires régulés par l’FSMA de Floventra à Bruxelles, Belgique, éliminant les barrières linguistiques.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Qui est un investisseur ?',
         'investor_quote' => 'Un investisseur engage du capital dans des actifs ou des plans pour atteindre des objectifs financiers. Floventra à Bruxelles, Belgique, vous connecte avec des éducateurs régulés par l’FSMA pour en savoir plus.',
         'investor_text' => 'Les investisseurs font face à des risques qui peuvent affecter les rendements. Apprenez à rechercher, établir un budget et évaluer les risques avec des entreprises d’éducation financière régulées par l’FSMA à Bruxelles via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Aperçu des types d’investisseurs par Floventra',
         'investor_types_intro' => 'Les investisseurs varient selon leurs objectifs, leur tolérance au risque et leurs stratégies. Découvrez les investisseurs quantitatifs, socialement responsables et institutionnels avec Floventra à Bruxelles, Belgique.',
         'investor_type_1_title' => 'Investisseur quantitatif',
@@ -3193,13 +3193,13 @@ return [
         'investor_type_3_content' => 'Les investisseurs institutionnels gèrent des investissements à grande échelle. Inscrivez-vous avec Floventra à Bruxelles pour découvrir comment ils diffèrent des autres investisseurs.',
         'investor_types_register_btn' => 'INSCRIVEZ-VOUS GRATUITEMENT >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'Qu’est-ce qu’un fonds indiciel ?',
         'index_funds_quote' => 'Les fonds indiciels suivent la performance des marchés avec des coûts réduits. Apprenez leurs risques et avantages avec les éducateurs régulés par l’FSMA de Floventra à Bruxelles, Belgique.',
         'index_funds_text_1' => 'Les fonds indiciels sont liés à la performance des marchés et peuvent être risqués. Connectez-vous avec des éducateurs en investissement régulés par l’FSMA à Bruxelles via Floventra pour en savoir plus.',
         'index_funds_text_2' => 'Les investisseurs choisissent des fonds indiciels, ouvrent des comptes et surveillent leurs portefeuilles. Découvrez les stratégies des fonds indiciels avec Floventra à Bruxelles, Belgique.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Découvrez les fonds négociés en bourse (ETF) avec Floventra',
         'etfs_text_1' => 'Les ETF permettent d’investir dans divers titres. Apprenez leur fonctionnement avec des éducateurs régulés par l’FSMA à Bruxelles via Floventra.',
         'etfs_text_2' => 'Les ETF se négocient en bourse avec des rendements variables. Connectez-vous avec Floventra à Bruxelles, Belgique, pour explorer les types et stratégies d’ETF.',
@@ -3213,7 +3213,7 @@ return [
         'etf_type_4_text' => 'Les ETF sur actions suivent les actions pour diversifier. Connectez-vous avec Floventra à Bruxelles, Belgique, pour une éducation détaillée sur les ETF.',
         'etfs_learn_btn' => 'EN SAVOIR PLUS >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Investissement environnemental, social et de gouvernance (ESG)',
         'assets_esg_quote' => 'L’investissement ESG privilégie les facteurs éthiques. Apprenez comment il s’aligne avec les réglementations belges via Floventra à Bruxelles.',
         'assets_esg_text' => 'L’ESG évalue les entreprises selon des normes environnementales, sociales et de gouvernance. Connectez-vous avec des éducateurs régulés par l’FSMA à Bruxelles via Floventra.',
@@ -3223,7 +3223,7 @@ return [
         'assets_market_cap_text_1' => 'La capitalisation boursière varie de micro à grande. Découvrez leurs risques et leur potentiel de croissance avec Floventra à Bruxelles, Belgique.',
         'assets_market_cap_text_2' => 'Les entreprises de moyenne et grande capitalisation offrent de la croissance mais varient en volatilité. Apprenez-en davantage avec les partenaires régulés par l’FSMA de Floventra à Bruxelles.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Comprendre le hedging avec Floventra',
         'metrics_hedging_text' => 'Le hedging atténue les risques d’investissement à l’aide de dérivés. Apprenez ses complexités avec des éducateurs régulés par l’FSMA à Bruxelles via Floventra.',
         'metrics_terms_title' => 'Connaître les termes de base en investissement avec Floventra',
@@ -3240,12 +3240,12 @@ return [
         'metrics_debt_instrument_title' => 'Instrument de dette',
         'metrics_debt_instrument_text' => 'Les instruments de dette lèvent des capitaux via des obligations ou des prêts. Découvrez-les avec Floventra à Bruxelles, Belgique.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Il n’est jamais trop tard pour commencer',
         'padding_60_quote' => 'Vous peinez à trouver une éducation financière fiable à Bruxelles, Belgique ? Floventra vous connecte avec des entreprises régulées par l’FSMA.',
         'padding_60_text' => 'Floventra aide des milliers de résidents belges à Bruxelles à accéder à une éducation financière fiable. Inscrivez-vous gratuitement aujourd’hui.',
 
-        // Section: FAQ
+
         'faq_title' => 'FAQ Floventra',
         'faq_1_question' => 'Que enseigne Floventra ?',
         'faq_1_answer' => 'Floventra met en relation les résidents belges à Bruxelles avec des entreprises d’éducation financière régulées par l’FSMA pour un apprentissage financier complet.',
@@ -3254,7 +3254,7 @@ return [
         'faq_3_question' => 'Comment Floventra connecte-t-il les gens avec des tuteurs ?',
         'faq_3_answer' => 'Les utilisateurs s’inscrivent avec leur nom, email et numéro de téléphone, et des entreprises régulées par l’FSMA à Bruxelles les contactent, en conformité avec le RGPD européen.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Points forts de Floventra',
         'highlight_enrollment_cost_title' => '🤖 Coût d’inscription',
         'highlight_enrollment_cost_text' => 'Inscription gratuite pour les résidents belges à Bruxelles',
@@ -3267,28 +3267,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Régions accessibles',
         'highlight_accessible_regions_text' => 'Disponible à Bruxelles, Belgique, et dans la plupart des régions, à l’exception des États-Unis',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Le rôle de Floventra dans le paysage de l’investissement',
         'about_principles_role_text' => 'Floventra promeut l’éducation financière à Bruxelles, Belgique, en connectant les utilisateurs avec des entreprises régulées par l’FSMA pour des décisions financières éclairées.',
         'about_principles_gap_title' => 'Combler le fossé des connaissances en investissement',
         'about_principles_gap_text' => 'Floventra réduit l’écart de connaissances en investissement à Bruxelles, Belgique, en mettant en relation les utilisateurs avec des éducateurs régulés par l’FSMA.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra vise un monde visionnaire',
         'about_forward_thinking_quote' => 'Floventra favorise la littératie financière à Bruxelles, Belgique, grâce à des solutions innovantes en éducation financière.',
         'about_forward_thinking_text' => 'Floventra transforme les mentalités financières à Bruxelles, Belgique, en connectant les utilisateurs avec une éducation financière régulée par l’FSMA.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra met l’accent sur l’éducation',
         'about_education_text_1' => 'Floventra donne aux résidents belges à Bruxelles des connaissances, outils et stratégies d’investissement via des éducateurs régulés par l’FSMA.',
         'about_education_people_title' => 'L’équipe de Floventra',
         'about_education_people_text' => 'Notre équipe à Bruxelles, Belgique, travaille pour rendre l’éducation financière accessible en connectant les utilisateurs avec des entreprises régulées par l’FSMA.',
         'about_education_mission_text' => 'Floventra garantit que les résidents belges à Bruxelles peuvent accéder à l’éducation financière, comblant l’écart de connaissances à l’échelle mondiale.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Formulaire de contact',
         'contact_form_name_placeholder' => 'Votre nom',
         'contact_form_email_placeholder' => 'Email',
@@ -3296,7 +3296,7 @@ return [
         'contact_form_submit_button' => 'Envoyer le message',
         'contact_form_success' => 'Formulaire envoyé avec succès !',
 
-        // Section: Login Page
+
         'login_title' => 'Connexion Floventra',
         'login_subtitle' => 'Instructions de connexion pour les nouveaux utilisateurs de Floventra',
         'login_instructions_text' => 'Les nouveaux utilisateurs reçoivent des identifiants de connexion des entreprises d’éducation financière régulées par l’FSMA à Bruxelles, Belgique, pour leurs sites web.',
@@ -3312,13 +3312,13 @@ return [
         'login_form_error_last_name' => 'Votre nom de famille est trop court (au moins 2 caractères)',
         'login_form_error_email' => 'Veuillez entrer votre véritable adresse email (par exemple, utilisateur@exemple.com)',
 
-        // Section: Terms
+
         'terms_general_title' => '1. Généralités',
         'terms_general_1' => 'Bienvenue sur floventus.com/be-fr (le « Site »).',
         'terms_general_2' => 'Notre email : <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'Le Site inclut des informations sur des plateformes tierces (les <b>« Plateformes tierces »</b>), notamment des services éducatifs sur les techniques d’investissement générales ou les recherches de marché. Floventra agit en tant qu’intermédiaire, mettant en relation les utilisateurs avec ces Plateformes tierces (les <b>« Services »</b>).',
         'terms_general_4' => 'Ces conditions d’utilisation (les <b>« Conditions »</b>) régissent votre (<b>« Vous »</b>, <b>« Votre »</b> ou <b>« Utilisateur »</b>) utilisation du Site et des Services. Ces Conditions doivent être lues attentivement par Vous dans leur intégralité avant d’utiliser les Services. Veuillez noter que ces Conditions constituent un accord juridiquement contraignant entre Vous et l’opérateur du Site, Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Si Vous n’êtes pas d’accord avec une disposition de ces Conditions, Vous devez immédiatement cesser d’utiliser le Site. En utilisant le Site, Vous acceptez les Conditions, telles que modifiées de temps à autre.',
-        'terms_general_5' => 'Ces Conditions intègrent notre Politique de confidentialité et, en acceptant ces Conditions, Vous confirmez que Vous acceptez et consentez également à notre politique de confidentialité (Vous pouvez consulter notre Politique de confidentialité en <a href="/be-fr/privacy-policy/">cliquant ici</a>).',
+        'terms_general_5' => 'Ces Conditions intègrent notre Politique de confidentialité et, en acceptant ces Conditions, Vous confirmez que Vous acceptez et consentez également à notre politique de confidentialité (Vous pouvez consulter notre Politique de confidentialité en <a href="./privacy">cliquant ici</a>).',
         'terms_services_title' => '2. Description des Services',
         'terms_services_1' => 'Nous ne sommes pas une plateforme d’investissement, et nous ne vous mettons pas en contact avec de telles plateformes, sauf si ces plateformes s’engagent à vous offrir uniquement des services éducatifs ou des recherches de marché.',
         'terms_services_2' => 'Nous agissons en tant qu’intermédiaire pour vous connecter avec un prestataire de services capable de proposer du contenu éducatif sur les techniques d’investissement générales ou les recherches de marché dans vos domaines d’intérêt, conformément aux régulations de l’FSMA en Belgique.',
@@ -3380,7 +3380,7 @@ return [
         'terms_miscellaneous_8' => 'Ces conditions sont régies par la loi belge.',
         'terms_miscellaneous_9' => 'Le lieu de juridiction exclusif pour tous les litiges découlant ou en lien avec ces Conditions sera les tribunaux de Bruxelles, Belgique.',
 
-        // Section: Privacy
+
         'privacy_purpose_title' => 'Objectif de la présente notice',
         'privacy_purpose_text' => 'L’objectif de cette notice de confidentialité des données (la « Notice ») est d’expliquer comment Floventra (« Floventra », « Nous » ou « Notre ») traitera, en tant que responsable du traitement, les données personnelles que vous nous fournissez lorsque vous visitez le site web floventus.com/be-fr (le « Site »), ou que nous recevons de tiers, afin de vous mettre en contact avec des professionnels qui pourraient vous intéresser.',
         'privacy_data_categories_title' => 'Quelles catégories de données personnelles seront traitées ?',
@@ -3426,7 +3426,7 @@ return [
         'privacy_last_updated' => 'Dernière mise à jour : 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'es' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'España',
         'locale' => 'es_ES',
         'locale_lang' => 'es-ES',
@@ -3442,25 +3442,25 @@ return [
         'jsonld_organization_review_author' => 'Usuario de Floventra',
         'jsonld_organization_review_body' => 'Floventra conecta a residentes de Madrid, España, con empresas de educación en inversiones reguladas por la CNMV, ofreciendo aprendizaje financiero accesible y confiable.',
         'jsonld_software_categories' => 'Plataforma de Educación en Inversiones',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'EUR',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Educación en Inversiones en Madrid, España',
         'og_description' => 'Únete a Floventra en Madrid, España, para conectarte con empresas de educación en inversiones reguladas por la CNMV. ¡Comienza tu viaje de aprendizaje financiero hoy!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/es/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Educación en Inversiones en Madrid',
         'twitter_description' => 'Descubre la educación en inversiones con Floventra en Madrid, España. ¡Conéctate gratis con empresas reguladas por la CNMV!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Plataforma de Educación en Inversiones en Madrid, España | El sitio web oficial',
         'meta_description' => 'Únete a Floventra en Madrid, España, para conectarte con empresas de educación en inversiones reguladas por la CNMV. ¡Comienza tu viaje de aprendizaje financiero hoy!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, educación en inversiones Madrid, aprendizaje financiero España, Floventra, educación regulada por CNMV, plataforma de inversiones España',
@@ -3477,60 +3477,60 @@ return [
         'jsonld_faq_6_question' => '¿Puedo acceder a Floventra en Madrid?',
         'jsonld_faq_6_answer' => 'Floventra es completamente accesible para residentes de Madrid, España, ofreciendo una plataforma fácil de usar para la educación en inversiones.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Sobre Floventra - Educación en Inversiones en Madrid, España',
         'about_desc_content' => 'Conoce Floventra, una plataforma líder en Madrid, España, que conecta a usuarios con empresas de educación en inversiones reguladas por la CNMV.',
         'about_keywords' => 'Floventra sobre nosotros, educación en inversiones Madrid, aprendizaje financiero España, educación regulada por CNMV, plataforma de inversiones España',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contacta con Floventra - Educación en Inversiones en Madrid, España',
         'contact_desc_content' => 'Contacta con Floventra en Madrid, España, para consultas sobre nuestros servicios de educación en inversiones regulados por la CNMV. ¡Ponte en contacto hoy!',
         'contact_keywords' => 'Floventra contacto, educación en inversiones Madrid, aprendizaje financiero España, plataforma regulada por CNMV, contacto educación en inversiones',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Política de Cookies de Floventra - Madrid, España',
         'cookie_desc_content' => 'Explora la Política de Cookies de Floventra para servicios de educación en inversiones en Madrid, España. Aprende cómo usamos cookies para mejorar tu experiencia.',
         'cookie_keywords' => 'Floventra política de cookies, educación en inversiones Madrid, política de cookies España, plataforma regulada por CNMV, cookies educación financiera',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Términos de Uso de Floventra - Educación en Inversiones en Madrid, España',
         'terms_desc_content' => 'Explora los Términos de Uso de Floventra, que regulan el acceso a nuestra plataforma de educación en inversiones en Madrid, España. Conoce la elegibilidad y el cumplimiento con la CNMV.',
         'terms_keywords' => 'Floventra términos, plataforma de educación en inversiones, términos y condiciones España, servicios regulados por CNMV, educación financiera Madrid',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Política de Privacidad de Floventra - Madrid, España',
         'privacy_desc_content' => 'Lee la Política de Privacidad de Floventra para servicios de educación en inversiones en Madrid, España. Descubre cómo protegemos tus datos bajo el RGPD de la UE.',
         'privacy_keywords' => 'Floventra privacidad, educación en inversiones Madrid, cumplimiento RGPD UE, privacidad educación financiera, plataforma regulada por CNMV',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Crea Tu Perfil - Educación en Inversiones con Floventra en Madrid, España',
         'create-profile_content' => 'Regístrate con Floventra en Madrid, España, para conectarte con empresas de educación en inversiones reguladas por la CNMV. ¡Comienza tu viaje de aprendizaje hoy!',
         'create-profile_keywords' => 'Floventra registro, educación en inversiones Madrid, aprendizaje financiero España, plataforma regulada por CNMV, crear perfil inversiones',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Inicio',
         'about' => 'Sobre Nosotros',
         'contact' => 'Contacto',
         'privacy' => 'Política de Privacidad',
         'terms' => 'Términos y Condiciones',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Iniciar Sesión',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Regístrate ahora',
         'main_form_terms_text' => '* Al hacer clic en el botón, aceptas y estás de acuerdo con la Política de Privacidad y los Términos y Condiciones',
 
-        // Section: About Platform
+
         'about_subtitle' => '¿Qué es Floventra AI?',
         'about_quote' => 'Floventra conecta a residentes de Madrid, España, con empresas de educación en inversiones reguladas por la CNMV, haciendo que el aprendizaje financiero sea accesible y efectivo.',
         'about_text_1' => 'Floventra simplifica el acceso a la educación en inversiones en Madrid, España. Nuestra plataforma colabora con empresas reguladas por la CNMV para ofrecer experiencias de aprendizaje personalizadas para todos los niveles.',
         'about_text_2' => 'No se necesitan conocimientos previos en inversiones. Solo regístrate con tu nombre, correo electrónico y número de teléfono, y nuestros socios te contactarán para comenzar tu viaje de educación financiera en Madrid.',
         'about_register_btn' => 'REGÍSTRATE AQUÍ >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Mejora Tus Habilidades Financieras con Floventra en Madrid',
         'education_item_1_title' => 'Domina Nuevas Habilidades de Inversión',
         'education_item_1_text' => 'Floventra conecta a residentes de Madrid, España, con empresas reguladas por la CNMV para aprender estrategias de inversión. Perfecto para principiantes, profesionales o cualquiera que busque conocimientos financieros.',
@@ -3542,7 +3542,7 @@ return [
         'education_item_3_text_2' => '¿Listo para transformar tu perspectiva financiera? ¡Regístrate con Floventra hoy!',
         'education_register_btn' => 'REGÍSTRATE AHORA >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => '¿Por Qué Conectarte con Profesores de Inversiones en Floventra?',
         'three_steps_item_1_title' => 'Estudio Virtual',
         'three_steps_item_1_text' => 'Floventra conecta a usuarios con educadores en inversiones que ofrecen aprendizaje digital en Madrid, España. Estudia desde cualquier lugar y revisa las grabaciones cuando lo necesites.',
@@ -3551,12 +3551,12 @@ return [
         'three_steps_item_3_title' => 'Multitud de Idiomas',
         'three_steps_item_3_text' => 'Aprende en tu idioma preferido con los socios regulados por la CNMV de Floventra en Madrid, España, eliminando las barreras lingüísticas.',
 
-        // Section: Investor Definition
+
         'investor_title' => '¿Quién es un Inversor?',
         'investor_quote' => 'Un inversor compromete capital en activos o planes para alcanzar objetivos financieros. Floventra en Madrid, España, te conecta con educadores regulados por la CNMV para aprender más.',
         'investor_text' => 'Los inversores enfrentan riesgos que pueden afectar los rendimientos. Aprende a investigar, presupuestar y evaluar riesgos con empresas de educación en inversiones reguladas por la CNMV en Madrid a través de Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Resumen de Tipos de Inversores de Floventra',
         'investor_types_intro' => 'Los inversores varían según sus objetivos, tolerancia al riesgo y estrategias. Aprende sobre inversores cuantitativos, socialmente responsables e institucionales con Floventra en Madrid, España.',
         'investor_type_1_title' => 'Inversor Cuantitativo',
@@ -3574,13 +3574,13 @@ return [
         'investor_type_3_content' => 'Los inversores institucionales gestionan inversiones a gran escala. Regístrate con Floventra en Madrid para aprender cómo se diferencian de otros inversores.',
         'investor_types_register_btn' => 'REGÍSTRATE GRATIS >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => '¿Qué es un Fondo Indexado?',
         'index_funds_quote' => 'Los fondos indexados siguen el rendimiento del mercado con menores costos. Aprende sobre sus riesgos y beneficios con los educadores regulados por la CNMV de Floventra en Madrid, España.',
         'index_funds_text_1' => 'Los fondos indexados están ligados al rendimiento del mercado y pueden ser arriesgados. Conéctate con educadores en inversiones regulados por la CNMV en Madrid a través de Floventra para aprender más.',
         'index_funds_text_2' => 'Los inversores eligen fondos indexados, abren cuentas y supervisan carteras. Descubre estrategias de fondos indexados con Floventra en Madrid, España.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Aprende Sobre Fondos Cotizados (ETFs) con Floventra',
         'etfs_text_1' => 'Los ETFs permiten invertir en diversos valores. Aprende cómo funcionan con educadores regulados por la CNMV en Madrid a través de Floventra.',
         'etfs_text_2' => 'Los ETFs se negocian en bolsas con rendimientos variables. Conéctate con Floventra en Madrid, España, para explorar tipos y estrategias de ETFs.',
@@ -3594,7 +3594,7 @@ return [
         'etf_type_4_text' => 'Los ETFs de acciones siguen valores para diversificación. Conéctate con Floventra en Madrid, España, para una educación detallada sobre ETFs.',
         'etfs_learn_btn' => 'APRENDE MÁS >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Inversión Ambiental, Social y de Gobernanza (ESG)',
         'assets_esg_quote' => 'La inversión ESG prioriza factores éticos. Aprende cómo se alinea con las regulaciones de España a través de Floventra en Madrid.',
         'assets_esg_text' => 'ESG evalúa empresas según estándares ambientales, sociales y de gobernanza. Conéctate con educadores regulados por la CNMV en Madrid a través de Floventra.',
@@ -3604,7 +3604,7 @@ return [
         'assets_market_cap_text_1' => 'La capitalización de mercado varía de micro a grande. Descubre sus riesgos y potencial de crecimiento con Floventra en Madrid, España.',
         'assets_market_cap_text_2' => 'Las empresas de mediana y gran capitalización ofrecen crecimiento pero varían en volatilidad. Aprende más con los socios regulados por la CNMV de Floventra en Madrid.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Comprende la Cobertura con Floventra',
         'metrics_hedging_text' => 'La cobertura mitiga riesgos de inversión usando derivados. Aprende sus complejidades con educadores regulados por la CNMV en Madrid a través de Floventra.',
         'metrics_terms_title' => 'Conoce Términos Básicos de Inversión con Floventra',
@@ -3621,12 +3621,12 @@ return [
         'metrics_debt_instrument_title' => 'Instrumento de Deuda',
         'metrics_debt_instrument_text' => 'Los instrumentos de deuda recaudan capital mediante bonos o préstamos. Descúbrelos con Floventra en Madrid, España.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Nunca es Tarde para Empezar',
         'padding_60_quote' => '¿Te cuesta encontrar educación en inversiones confiable en Madrid, España? Floventra te conecta con empresas reguladas por la CNMV.',
         'padding_60_text' => 'Floventra ayuda a miles de residentes de Madrid, España, a acceder a una educación en inversiones confiable. ¡Regístrate gratis hoy!',
 
-        // Section: FAQ
+
         'faq_title' => 'Preguntas Frecuentes de Floventra',
         'faq_1_question' => '¿Qué Enseña Floventra a las Personas?',
         'faq_1_answer' => 'Floventra conecta a residentes de Madrid, España, con empresas de educación en inversiones reguladas por la CNMV para un aprendizaje financiero completo.',
@@ -3635,7 +3635,7 @@ return [
         'faq_3_question' => '¿Cómo Conecta Floventra a las Personas con Tutores?',
         'faq_3_answer' => 'Los usuarios se registran con su nombre, correo electrónico y número de teléfono, y las empresas reguladas por la CNMV en Madrid los contactan, cumpliendo con el RGPD de la UE.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Destacados de Floventra',
         'highlight_enrollment_cost_title' => '🤖 Coste de Inscripción',
         'highlight_enrollment_cost_text' => 'Inscripción gratuita para residentes de Madrid, España',
@@ -3648,28 +3648,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Regiones Accesibles',
         'highlight_accessible_regions_text' => 'Disponible en Madrid, España, y en la mayoría de las regiones, excluyendo EE. UU.',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'El Rol de Floventra en el Panorama de las Inversiones',
         'about_principles_role_text' => 'Floventra promueve la educación en inversiones en Madrid, España, conectando a usuarios con empresas reguladas por la CNMV para tomar decisiones financieras informadas.',
         'about_principles_gap_title' => 'Cerrando la Brecha de Conocimiento en Inversiones',
         'about_principles_gap_text' => 'Floventra cierra la brecha de conocimiento en inversiones en Madrid, España, vinculando a usuarios con educadores regulados por la CNMV.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Apunta a un Mundo con Visión de Futuro',
         'about_forward_thinking_quote' => 'Floventra fomenta la alfabetización financiera en Madrid, España, a través de soluciones innovadoras de educación en inversiones.',
         'about_forward_thinking_text' => 'Floventra transforma mentalidades financieras en Madrid, España, conectando a usuarios con educación en inversiones regulada por la CNMV.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Valora la Educación',
         'about_education_text_1' => 'Floventra empodera a residentes de Madrid, España, con conocimientos, herramientas y estrategias de inversión a través de educadores regulados por la CNMV.',
         'about_education_people_title' => 'La Gente de Floventra',
         'about_education_people_text' => 'Nuestro equipo en Madrid, España, trabaja para hacer accesible la educación en inversiones conectando a usuarios con empresas reguladas por la CNMV.',
         'about_education_mission_text' => 'Floventra asegura que los residentes de Madrid, España, puedan acceder a la educación en inversiones, cerrando la brecha de conocimiento globalmente.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Formulario de Contacto',
         'contact_form_name_placeholder' => 'Tu Nombre',
         'contact_form_email_placeholder' => 'Correo Electrónico',
@@ -3677,7 +3677,7 @@ return [
         'contact_form_submit_button' => 'Enviar Mensaje',
         'contact_form_success' => '¡Formulario enviado con éxito!',
 
-        // Section: Login Page
+
         'login_title' => 'Inicio de Sesión en Floventra',
         'login_subtitle' => 'Instrucciones de Inicio de Sesión para Nuevos Usuarios de Floventra',
         'login_instructions_text' => 'Los nuevos usuarios reciben credenciales de inicio de sesión de empresas de educación en inversiones reguladas por la CNMV en Madrid, España, para sus sitios web.',
@@ -3693,13 +3693,13 @@ return [
         'login_form_error_last_name' => 'Tu apellido es demasiado corto (mínimo 2 caracteres)',
         'login_form_error_email' => 'Por favor, introduce una dirección de correo electrónico válida (por ejemplo, usuario@ejemplo.com)',
 
-        // Section: Terms
+
         'terms_general_title' => '1. General',
         'terms_general_1' => 'Bienvenido a floventus.com (el "Sitio Web").',
         'terms_general_2' => 'Nuestro correo electrónico: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'El Sitio Web incluye información sobre plataformas de terceros (las <b>"Plataformas de Terceros"</b>), específicamente servicios educativos sobre técnicas generales de inversión o investigación de mercado. Floventra actúa como intermediario, conectando a usuarios con dichas Plataformas de Terceros (los <b>"Servicios"</b>).',
         'terms_general_4' => 'Estos términos de uso (los <b>"Términos"</b>) regulan tu uso (<b>"Tú"</b>, <b>"Tu"</b> o <b>"Usuario"</b>) del Sitio Web y los Servicios. Estos Términos deben ser leídos cuidadosamente por Ti en su totalidad antes de usar los Servicios. Ten en cuenta que estos Términos constituyen un acuerdo legalmente vinculante entre Tú y el operador del Sitio Web, Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Si no estás de acuerdo con alguna disposición de estos Términos, deberás cesar inmediatamente el uso del Sitio Web. Al usar el Sitio Web, aceptas los Términos, según se modifiquen de vez en cuando.',
-        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y, al aceptar estos Términos, confirmas que también aceptas y estás de acuerdo con Nuestra Política de Privacidad (puedes revisar Nuestra Política de Privacidad haciendo <a href="/es/privacy-policy/">clic aquí</a>).',
+        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y, al aceptar estos Términos, confirmas que también aceptas y estás de acuerdo con Nuestra Política de Privacidad (puedes revisar Nuestra Política de Privacidad haciendo <a href="./privacy">clic aquí</a>).',
         'terms_services_title' => '2. Descripción de los Servicios',
         'terms_services_1' => 'No somos una plataforma de inversión, ni te ponemos en contacto con plataformas de inversión, a menos que dichas plataformas se comprometan a ofrecerte únicamente servicios educativos o investigación de mercado.',
         'terms_services_2' => 'Actuamos como intermediarios para conectarte con un proveedor de servicios capaz de ofrecer contenido educativo sobre técnicas generales de inversión o investigación de mercado en tus áreas de interés, conforme a las regulaciones de la CNMV en España.',
@@ -3761,7 +3761,7 @@ return [
         'terms_miscellaneous_8' => 'Estos términos se regirán por la ley española.',
         'terms_miscellaneous_9' => 'El lugar exclusivo de jurisdicción para todas las disputas que surjan de o en conexión con estos Términos serán los tribunales de Madrid, España.',
 
-        // Section: Privacy
+
         'privacy_purpose_title' => 'Propósito de la Notificación',
         'privacy_purpose_text' => 'El propósito de esta Notificación de Privacidad de Datos (la "Notificación") es explicar cómo Floventra ("Floventra" o "Nosotros") procesará, como controlador de datos, los datos personales que nos proporciones cuando visites el sitio web floventus.com (el "Sitio Web"), o que recibamos de terceros, para ponerte en contacto con profesionales que podrían interesarte.',
         'privacy_data_categories_title' => '¿Qué Categorías de Datos Personales Serán Procesadas?',
@@ -3807,7 +3807,7 @@ return [
         'privacy_last_updated' => 'Última actualización: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'no' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Norge',
         'locale' => 'no_NO',
         'locale_lang' => 'nb-NO',
@@ -3823,25 +3823,25 @@ return [
         'jsonld_organization_review_author' => 'Floventra Bruker',
         'jsonld_organization_review_body' => 'Floventra kobler norske innbyggere i Oslo med Finanstilsynet-regulerte investeringsopplæringsfirmaer, og tilbyr tilgjengelig og pålitelig finansiell læring.',
         'jsonld_software_categories' => 'Investeringsopplæringsplattform',
-        'jsonld_software_price' => '0', // Registrering er gratis
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'NOK',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Investeringsopplæring i Oslo, Norge',
         'og_description' => 'Bli med Floventra i Oslo, Norge, for å koble deg til Finanstilsynet-regulerte investeringsopplæringsfirmaer. Start din finansielle læringsreise i dag!',
-        'og_image' => 'https://floventus.com/no/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/no/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Investeringsopplæring i Oslo',
         'twitter_description' => 'Oppdag investeringsopplæring med Floventra i Oslo, Norge. Koble deg til Finanstilsynet-regulerte firmaer gratis!',
-        'twitter_image' => 'https://floventus.com/no/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Investeringsopplæringsplattform i Oslo, Norge | Den offisielle nettsiden',
         'meta_description' => 'Bli med Floventra i Oslo, Norge, for å koble deg til Finanstilsynet-regulerte investeringsopplæringsfirmaer. Start din finansielle læringsreise i dag!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, investeringsopplæring Oslo, finansiell læring Norge, Floventra, Finanstilsynet-regulert opplæring, investeringsplattform Norge',
@@ -3858,60 +3858,60 @@ return [
         'jsonld_faq_6_question' => 'Kan jeg få tilgang til Floventra i Oslo?',
         'jsonld_faq_6_answer' => 'Floventra er fullt tilgjengelig for norske innbyggere i Oslo, og tilbyr en brukervennlig plattform for investeringsopplæring.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Om Floventra - Investeringsopplæring i Oslo, Norge',
         'about_desc_content' => 'Lær om Floventra, en ledende plattform i Oslo, Norge, som kobler brukere med Finanstilsynet-regulerte investeringsopplæringsfirmaer.',
         'about_keywords' => 'Floventra om, investeringsopplæring Oslo, finansiell opplæring Norge, Finanstilsynet-regulert læring, investeringsplattform Norge',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Kontakt Floventra - Investeringsopplæring i Oslo, Norge',
         'contact_desc_content' => 'Kontakt Floventra i Oslo, Norge, for spørsmål om våre Finanstilsynet-regulerte investeringsopplæringstjenester. Ta kontakt i dag!',
         'contact_keywords' => 'Floventra kontakt, investeringsopplæring Oslo, finansiell læring Norge, Finanstilsynet-regulert plattform, kontakt investeringsopplæring',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra Informasjonskapselpolicy - Oslo, Norge',
         'cookie_desc_content' => 'Utforsk Floventras informasjonskapselpolicy for investeringsopplæringstjenester i Oslo, Norge. Lær hvordan vi bruker informasjonskapsler for å forbedre din opplevelse.',
         'cookie_keywords' => 'Floventra informasjonskapselpolicy, investeringsopplæring Oslo, informasjonskapselpolicy Norge, Finanstilsynet-regulert plattform, finansielle opplæringskapsler',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra Bruksvilkår - Investeringsopplæring i Oslo, Norge',
         'terms_desc_content' => 'Utforsk bruksvilkårene for Floventra, som regulerer tilgangen til vår investeringsopplæringsplattform i Oslo, Norge. Lær om kvalifikasjoner og Finanstilsynet-samsvar.',
         'terms_keywords' => 'Floventra vilkår, investeringsopplæringsplattform, vilkår og betingelser Norge, Finanstilsynet-regulerte tjenester, finansiell opplæring Oslo',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra Personvernpolicy - Oslo, Norge',
         'privacy_desc_content' => 'Les Floventras personvernpolicy for investeringsopplæringstjenester i Oslo, Norge. Lær hvordan vi beskytter dine data i samsvar med EUs GDPR.',
         'privacy_keywords' => 'Floventra personvern, investeringsopplæring Oslo, EUs GDPR-samsvar, finansiell opplæring personvern, Finanstilsynet-regulert plattform',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Opprett din profil - Floventra Investeringsopplæring i Oslo, Norge',
         'create-profile_content' => 'Registrer deg med Floventra i Oslo, Norge, for å koble deg til Finanstilsynet-regulerte investeringsopplæringsfirmaer. Start din læringsreise i dag!',
         'create-profile_keywords' => 'Floventra registrering, investeringsopplæring Oslo, finansiell læring Norge, Finanstilsynet-regulert plattform, opprett profil investering',
 
-        // Контентные ключи
+
         'home' => 'Hjem',
         'about' => 'Om oss',
         'contact' => 'Kontakt oss',
         'privacy' => 'Personvernpolicy',
         'terms' => 'Bruksvilkår',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Logg inn',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Registrer deg nå',
         'main_form_terms_text' => '* Ved å klikke på knappen godtar og aksepterer du Personvernpolicyen og Bruksvilkårene',
 
-        // Section: About Platform
+
         'about_subtitle' => 'Hva er Floventra AI?',
         'about_quote' => 'Floventra kobler norske innbyggere med Finanstilsynet-regulerte investeringsopplæringsfirmaer i Oslo, og gjør finansiell læring tilgjengelig og effektiv.',
         'about_text_1' => 'Floventra forenkler tilgangen til investeringsopplæring i Oslo, Norge. Vår plattform samarbeider med Finanstilsynet-regulerte firmaer for å gi skreddersydde læringsopplevelser for alle ferdighetsnivåer.',
         'about_text_2' => 'Ingen tidligere investeringskunnskap er nødvendig. Registrer deg med navn, e-post og telefonnummer, og våre partnere vil kontakte deg for å starte din finansielle læringsreise i Oslo.',
         'about_register_btn' => 'REGISTRER DEG HER >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Forbedre dine finansielle ferdigheter med Floventra i Oslo',
         'education_item_1_title' => 'Mestre nye investeringsferdigheter',
         'education_item_1_text' => 'Floventra kobler norske innbyggere i Oslo med Finanstilsynet-regulerte firmaer for å lære investeringsstrategier. Perfekt for nybegynnere, profesjonelle eller alle som søker finansiell kunnskap.',
@@ -3923,7 +3923,7 @@ return [
         'education_item_3_text_2' => 'Klar til å transformere ditt finansielle syn? Registrer deg med Floventra i dag!',
         'education_register_btn' => 'REGISTRER DEG NÅ >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Hvorfor koble deg til investeringslærere på Floventra?',
         'three_steps_item_1_title' => 'Virtuell læring',
         'three_steps_item_1_text' => 'Floventra kobler brukere med investeringslærere som tilbyr digital læring i Oslo, Norge. Studer hvor som helst og se opptak når du trenger det.',
@@ -3932,12 +3932,12 @@ return [
         'three_steps_item_3_title' => 'Språklig mangfold',
         'three_steps_item_3_text' => 'Lær på ditt foretrukne språk med Floventras Finanstilsynet-regulerte partnere i Oslo, Norge, og fjern språkbarrierer.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Hvem er en investor?',
         'investor_quote' => 'En investor forplikter kapital til aktiva eller planer for å oppnå finansielle mål. Floventra i Oslo, Norge, kobler deg til Finanstilsynet-regulerte lærere for å lære mer.',
         'investor_text' => 'Investorer møter risikoer som kan påvirke avkastningen. Lær å forske, budsjettere og vurdere risikoer med Finanstilsynet-regulerte investeringsopplæringsfirmaer i Oslo via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra Oversikt over investortyper',
         'investor_types_intro' => 'Investorer varierer etter mål, risikotoleranse og strategier. Lær om kvantitative, sosialt ansvarlige og institusjonelle investorer med Floventra i Oslo, Norge.',
         'investor_type_1_title' => 'Kvantitativ investor',
@@ -3955,13 +3955,13 @@ return [
         'investor_type_3_content' => 'Institusjonelle investorer håndterer store investeringer. Registrer deg med Floventra i Oslo for å lære hvordan de skiller seg fra andre investorer.',
         'investor_types_register_btn' => 'REGISTRER DEG GRATIS >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'Hva er et indeksfond?',
         'index_funds_quote' => 'Indeksfond sporer markedsytelse med lavere kostnader. Lær om deres risikoer og fordeler med Floventras Finanstilsynet-regulerte lærere i Oslo, Norge.',
         'index_funds_text_1' => 'Indeksfond er knyttet til markedsytelse og kan være risikable. Koble deg til Finanstilsynet-regulerte investeringslærere i Oslo via Floventra for å lære mer.',
         'index_funds_text_2' => 'Investorer velger indeksfond, åpner kontoer og overvåker porteføljer. Oppdag indeksfondstrategier med Floventra i Oslo, Norge.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Lær om børshandlede fond (ETF-er) via Floventra',
         'etfs_text_1' => 'ETF-er tillater investering i ulike verdipapirer. Lær hvordan de fungerer med Finanstilsynet-regulerte lærere i Oslo via Floventra.',
         'etfs_text_2' => 'ETF-er handles på børser med varierende avkastning. Koble deg til Floventra i Oslo, Norge, for å utforske ETF-typer og strategier.',
@@ -3975,7 +3975,7 @@ return [
         'etf_type_4_text' => 'Aksje-ETF-er sporer aksjer for diversifisering. Koble deg til Floventra i Oslo, Norge, for detaljert ETF-opplæring.',
         'etfs_learn_btn' => 'LÆR MER >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Miljømessig, sosial og styringsmessig (ESG) investering',
         'assets_esg_quote' => 'ESG-investering prioriterer etiske faktorer. Lær hvordan det samsvarer med norske reguleringer via Floventra i Oslo.',
         'assets_esg_text' => 'ESG vurderer selskaper basert på miljømessige, sosiale og styringsmessige standarder. Koble deg til Finanstilsynet-regulerte lærere i Oslo via Floventra.',
@@ -3985,7 +3985,7 @@ return [
         'assets_market_cap_text_1' => 'Markedsverdi spenner fra mikro til stor. Oppdag deres risikoer og vekstpotensial med Floventra i Oslo, Norge.',
         'assets_market_cap_text_2' => 'Mellomstore og store selskaper tilbyr vekst, men varierer i volatilitet. Lær mer med Floventras Finanstilsynet-regulerte partnere i Oslo.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Forstå sikring via Floventra',
         'metrics_hedging_text' => 'Sikring reduserer investeringsrisiko ved bruk av derivater. Lær om kompleksitetene med Finanstilsynet-regulerte lærere i Oslo via Floventra.',
         'metrics_terms_title' => 'Kjenn grunnleggende investeringsbegreper via Floventra',
@@ -4002,12 +4002,12 @@ return [
         'metrics_debt_instrument_title' => 'Gjeldsinstrument',
         'metrics_debt_instrument_text' => 'Gjeldsinstrumenter samler inn kapital via obligasjoner eller lån. Oppdag dem med Floventra i Oslo, Norge.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Det er aldri for sent å starte',
         'padding_60_quote' => 'Sliter du med å finne pålitelig investeringsopplæring i Oslo, Norge? Floventra kobler deg til Finanstilsynet-regulerte firmaer.',
         'padding_60_text' => 'Floventra hjelper tusenvis av norske innbyggere i Oslo med å få tilgang til pålitelig investeringsopplæring. Registrer deg gratis i dag.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra Vanlige spørsmål',
         'faq_1_question' => 'Hva lærer Floventra folk?',
         'faq_1_answer' => 'Floventra kobler norske innbyggere i Oslo med Finanstilsynet-regulerte investeringsopplæringsfirmaer for omfattende finansiell læring.',
@@ -4016,7 +4016,7 @@ return [
         'faq_3_question' => 'Hvordan kobler Floventra folk med lærere?',
         'faq_3_answer' => 'Brukere registrerer seg med navn, e-post og telefonnummer, og Finanstilsynet-regulerte firmaer i Oslo kontakter dem, i samsvar med EUs GDPR.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra Høydepunkter',
         'highlight_enrollment_cost_title' => '🤖 Registreringskostnad',
         'highlight_enrollment_cost_text' => 'Gratis registrering for norske innbyggere i Oslo',
@@ -4029,28 +4029,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Tilgjengelige regioner',
         'highlight_accessible_regions_text' => 'Tilgjengelig i Oslo, Norge, og de fleste regioner, unntatt USA',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Floventras rolle i investeringslandskapet',
         'about_principles_role_text' => 'Floventra fremmer investeringsopplæring i Oslo, Norge, ved å koble brukere med Finanstilsynet-regulerte firmaer for informerte finansielle beslutninger.',
         'about_principles_gap_title' => 'Lukke kunnskapsgapet om investeringer',
         'about_principles_gap_text' => 'Floventra bygger bro over kunnskapsgapet om investeringer i Oslo, Norge, ved å koble brukere med Finanstilsynet-regulerte lærere.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra sikter mot en fremtidsrettet verden',
         'about_forward_thinking_quote' => 'Floventra fremmer finansiell kompetanse i Oslo, Norge, gjennom innovative investeringsopplæringsløsninger.',
         'about_forward_thinking_text' => 'Floventra transformerer finansielle tankesett i Oslo, Norge, ved å koble brukere med Finanstilsynet-regulerte investeringsopplæringer.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra setter en premie på opplæring',
         'about_education_text_1' => 'Floventra styrker norske innbyggere i Oslo med investeringskunnskap, verktøy og strategier via Finanstilsynet-regulerte lærere.',
         'about_education_people_title' => 'Floventras folk',
         'about_education_people_text' => 'Vårt team i Oslo, Norge, jobber for å gjøre investeringsopplæring tilgjengelig ved å koble brukere med Finanstilsynet-regulerte firmaer.',
         'about_education_mission_text' => 'Floventra sikrer at norske innbyggere i Oslo kan få tilgang til investeringsopplæring, og lukker kunnskapsgapet globalt.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Kontaktskjema',
         'contact_form_name_placeholder' => 'Ditt navn',
         'contact_form_email_placeholder' => 'E-post',
@@ -4058,7 +4058,7 @@ return [
         'contact_form_submit_button' => 'Send melding',
         'contact_form_success' => 'Skjema sendt vellykket!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra Innlogging',
         'login_subtitle' => 'Innloggingsinstruksjoner for nye Floventra-brukere',
         'login_instructions_text' => 'Nye brukere mottar innloggingsdetaljer fra Finanstilsynet-regulerte investeringsopplæringsfirmaer i Oslo, Norge, for deres nettsider.',
@@ -4079,7 +4079,7 @@ return [
         'terms_general_2' => 'Vår e-post: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'Nettsiden inneholder informasjon om tredjepartsplattformer (heretter <b>"Tredjepartsplattformer"</b>), nærmere bestemt opplæringstjenester om generelle investeringsteknikker eller markedsundersøkelser. Floventra fungerer som en mellommann som kobler brukere med slike Tredjepartsplattformer (heretter <b>"Tjenestene"</b>).',
         'terms_general_4' => 'Disse bruksvilkårene (heretter <b>"Vilkårene"</b>) regulerer din (<b>"Du"</b>, <b>"Din"</b> eller <b>"Bruker"</b>) bruk av Nettsiden og Tjenestene. Disse Vilkårene bør leses nøye i sin helhet før du bruker Tjenestene. Vær oppmerksom på at disse Vilkårene utgjør en juridisk bindende avtale mellom deg og Nettsidens operatør Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Hvis du ikke er enig i noen del av disse Vilkårene, skal du umiddelbart slutte å bruke Nettsiden. Ved å bruke Nettsiden godtar du Vilkårene, som kan endres fra tid til annen.',
-        'terms_general_5' => 'Disse Vilkårene inkluderer vår Personvernpolicy, og ved å godta disse Vilkårene bekrefter du at du også aksepterer og godtar vår Personvernpolicy (du kan lese vår Personvernpolicy ved å <a href="/no/privacy-policy/">klikke her</a>).',
+        'terms_general_5' => 'Disse Vilkårene inkluderer vår Personvernpolicy, og ved å godta disse Vilkårene bekrefter du at du også aksepterer og godtar vår Personvernpolicy (du kan lese vår Personvernpolicy ved å <a href="./privacy">klikke her</a>).',
         'terms_services_title' => '2. Beskrivelse av Tjenestene',
         'terms_services_1' => 'Vi er ikke en investeringsplattform, og vi setter deg ikke i kontakt med slike investeringsplattformer, med mindre en slik plattform forplikter seg til kun å tilby opplæringstjenester eller markedsundersøkelser.',
         'terms_services_2' => 'Vi fungerer som en mellommann for å koble deg til en tjenesteleverandør som kan tilby opplæringsinnhold om generelle investeringsteknikker eller markedsundersøkelser i dine interesseområder, i samsvar med Finanstilsynets reguleringer i Norge.',
@@ -4186,7 +4186,7 @@ return [
         'privacy_last_updated' => 'Sist oppdatert: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'ro' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Romania',
         'locale' => 'en_RO',
         'locale_lang' => 'en-RO',
@@ -4202,25 +4202,25 @@ return [
         'jsonld_organization_review_author' => 'Floventra User',
         'jsonld_organization_review_body' => 'Floventra connects Romanian residents in Bucharest with ASF-regulated investment education firms, offering accessible and reliable financial learning.',
         'jsonld_software_categories' => 'Investment Education Platform',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'RON',
         'social_links' => [
-            'https://facebook.com/xivoralunex',
-            'https://twitter.com/xivoralunex',
-            'https://linkedin.com/company/xivoralunex'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Investment Education in Bucharest, Romania',
         'og_description' => 'Join Floventra in Bucharest, Romania, to connect with ASF-regulated investment education firms. Start your financial learning journey today!',
-        'og_image' => 'https://floventus.com/ro/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/ro/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Investment Education in Bucharest',
         'twitter_description' => 'Discover investment education with Floventra in Bucharest, Romania. Connect with ASF-regulated firms for free!',
-        'twitter_image' => 'https://floventus.com/ro/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Investment Education Platform in Bucharest, Romania | The Official Website',
         'meta_description' => 'Join Floventra in Bucharest, Romania, to connect with ASF-regulated investment education firms. Start your financial learning journey today!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, investment education Bucharest, Romania financial learning, Floventra, ASF-regulated education, investment platform Romania',
@@ -4237,60 +4237,60 @@ return [
         'jsonld_faq_6_question' => 'Can I access Floventra in Bucharest?',
         'jsonld_faq_6_answer' => 'Floventra is fully accessible for Romanian residents in Bucharest, offering a user-friendly platform for investment education.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'About Floventra - Investment Education in Bucharest, Romania',
         'about_desc_content' => 'Learn about Floventra, a leading platform in Bucharest, Romania, connecting users with ASF-regulated investment education firms.',
         'about_keywords' => 'Floventra about, investment education Bucharest, Romania financial education, ASF-regulated learning, investment platform Romania',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contact Floventra - Investment Education in Bucharest, Romania',
         'contact_desc_content' => 'Contact Floventra in Bucharest, Romania, for inquiries about our ASF-regulated investment education services. Get in touch today!',
         'contact_keywords' => 'Floventra contact, investment education Bucharest, Romania financial learning, ASF-regulated platform, contact investment education',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra Cookie Policy - Bucharest, Romania',
         'cookie_desc_content' => 'Explore Floventra’s Cookie Policy for investment education services in Bucharest, Romania. Learn how we use cookies to enhance your experience.',
         'cookie_keywords' => 'Floventra cookie policy, investment education Bucharest, Romania cookie policy, ASF-regulated platform, financial education cookies',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra Terms of Use - Investment Education in Bucharest, Romania',
         'terms_desc_content' => 'Explore the Terms of Use for Floventra, governing access to our investment education platform in Bucharest, Romania. Learn about eligibility and ASF compliance.',
         'terms_keywords' => 'Floventra terms, investment education platform, Romania terms and conditions, ASF-regulated services, financial education Bucharest',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra Privacy Policy - Bucharest, Romania',
         'privacy_desc_content' => 'Read Floventra’s Privacy Policy for investment education services in Bucharest, Romania. Learn how we protect your data under GDPR.',
         'privacy_keywords' => 'Floventra privacy, investment education Bucharest, Romania GDPR compliance, financial education privacy, ASF-regulated platform',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Create Your Profile - Floventra Investment Education in Bucharest, Romania',
         'create-profile_content' => 'Sign up with Floventra in Bucharest, Romania, to connect with ASF-regulated investment education firms. Start your learning journey today!',
         'create-profile_keywords' => 'Floventra sign up, investment education Bucharest, Romania financial learning, ASF-regulated platform, create profile investment',
 
-        // Контентные ключи
+
         'home' => 'Home',
         'about' => 'About Us',
         'contact' => 'Contact Us',
         'privacy' => 'Privacy Policy',
         'terms' => 'Terms and Conditions',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Login',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Sign up now',
         'main_form_terms_text' => '* By clicking the button you agree and accept the Privacy Policy and Terms & Conditions',
 
-        // Section: About Platform
+
         'about_subtitle' => 'What is Floventra AI?',
         'about_quote' => 'Floventra connects Romanian residents with ASF-regulated investment education firms in Bucharest, making financial learning accessible and effective.',
         'about_text_1' => 'Floventra simplifies access to investment education in Bucharest, Romania. Our platform partners with ASF-regulated firms to provide tailored learning experiences for all skill levels.',
         'about_text_2' => 'No prior investment knowledge is needed. Simply register with your name, email, and phone number, and our partners will contact you to start your financial education journey in Bucharest.',
         'about_register_btn' => 'REGISTER HERE >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Enhance Your Financial Skills with Floventra in Bucharest',
         'education_item_1_title' => 'Master New Investment Skills',
         'education_item_1_text' => 'Floventra connects Romanian residents in Bucharest with ASF-regulated firms to learn investment strategies. Perfect for beginners, professionals, or anyone seeking financial knowledge.',
@@ -4302,7 +4302,7 @@ return [
         'education_item_3_text_2' => 'Ready to transform your financial outlook? Sign up with Floventra today!',
         'education_register_btn' => 'REGISTER NOW >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Why Connect with Investment Teachers on Floventra?',
         'three_steps_item_1_title' => 'Virtual Study',
         'three_steps_item_1_text' => 'Floventra connects users with investment educators offering digital learning in Bucharest, Romania. Study from anywhere and revisit recordings as needed.',
@@ -4311,12 +4311,12 @@ return [
         'three_steps_item_3_title' => 'Language Multiplicity',
         'three_steps_item_3_text' => 'Learn in your preferred language with Floventra’s ASF-regulated partners in Bucharest, Romania, removing language barriers.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Who is an Investor?',
         'investor_quote' => 'An investor commits capital to assets or plans to achieve financial goals. Floventra in Bucharest, Romania, connects you with ASF-regulated educators to learn more.',
         'investor_text' => 'Investors face risks that can impact returns. Learn to research, budget, and assess risks with ASF-regulated investment education firms in Bucharest via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra Overview of Investor Types',
         'investor_types_intro' => 'Investors vary by goals, risk tolerance, and strategies. Learn about quantitative, socially responsible, and institutional investors with Floventra in Bucharest, Romania.',
         'investor_type_1_title' => 'Quantitative Investor',
@@ -4334,13 +4334,13 @@ return [
         'investor_type_3_content' => 'Institutional investors manage large-scale investments. Sign up with Floventra in Bucharest to learn how they differ from other investors.',
         'investor_types_register_btn' => 'REGISTER FOR FREE >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'What is an Index Fund?',
         'index_funds_quote' => 'Index funds track market performance with lower costs. Learn about their risks and benefits with Floventra’s ASF-regulated educators in Bucharest, Romania.',
         'index_funds_text_1' => 'Index funds are tied to market performance and can be risky. Connect with ASF-regulated investment educators in Bucharest via Floventra to learn more.',
         'index_funds_text_2' => 'Investors choose index funds, open accounts, and monitor portfolios. Discover index fund strategies with Floventra in Bucharest, Romania.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Learn About Exchange-Traded Funds (ETFs) via Floventra',
         'etfs_text_1' => 'ETFs allow investment in diverse securities. Learn how they work with ASF-regulated educators in Bucharest via Floventra.',
         'etfs_text_2' => 'ETFs trade on exchanges with varying returns. Connect with Floventra in Bucharest, Romania, to explore ETF types and strategies.',
@@ -4354,7 +4354,7 @@ return [
         'etf_type_4_text' => 'Stock ETFs track equities for diversification. Connect with Floventra in Bucharest, Romania, for detailed ETF education.',
         'etfs_learn_btn' => 'LEARN MORE >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Environmental, Social, and Governance (ESG) Investing',
         'assets_esg_quote' => 'ESG investing prioritizes ethical factors. Learn how it aligns with Romanian regulations via Floventra in Bucharest.',
         'assets_esg_text' => 'ESG evaluates companies on environmental, social, and governance standards. Connect with ASF-regulated educators in Bucharest via Floventra.',
@@ -4364,7 +4364,7 @@ return [
         'assets_market_cap_text_1' => 'Market cap ranges from micro to large. Discover their risks and growth potential with Floventra in Bucharest, Romania.',
         'assets_market_cap_text_2' => 'Mid and large-cap companies offer growth but vary in volatility. Learn more with Floventra’s ASF-regulated partners in Bucharest.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Understand Hedging via Floventra',
         'metrics_hedging_text' => 'Hedging mitigates investment risks using derivatives. Learn its complexities with ASF-regulated educators in Bucharest via Floventra.',
         'metrics_terms_title' => 'Know Basic Investment Terms via Floventra',
@@ -4381,12 +4381,12 @@ return [
         'metrics_debt_instrument_title' => 'Debt Instrument',
         'metrics_debt_instrument_text' => 'Debt instruments raise capital via bonds or loans. Discover them with Floventra in Bucharest, Romania.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'It is Never Too Late to Start',
         'padding_60_quote' => 'Struggling to find reliable investment education in Bucharest, Romania? Floventra connects you with ASF-regulated firms.',
         'padding_60_text' => 'Floventra helps thousands of Romanian residents in Bucharest access trusted investment education. Sign up for free today.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra FAQs',
         'faq_1_question' => 'What Does Floventra Teach People?',
         'faq_1_answer' => 'Floventra connects Romanian residents in Bucharest with ASF-regulated investment education firms for comprehensive financial learning.',
@@ -4395,7 +4395,7 @@ return [
         'faq_3_question' => 'How Does Floventra Connect People with Tutors?',
         'faq_3_answer' => 'Users register with their name, email, and phone number, and ASF-regulated firms in Bucharest contact them, compliant with GDPR.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra Highlights',
         'highlight_enrollment_cost_title' => '🤖 Enrollment Cost',
         'highlight_enrollment_cost_text' => 'Free enrollment for Romanian residents in Bucharest',
@@ -4408,28 +4408,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Accessible Regions',
         'highlight_accessible_regions_text' => 'Available in Bucharest, Romania, and most regions, excluding the USA',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Floventra’s Role In the Investment Landscape',
         'about_principles_role_text' => 'Floventra promotes investment education in Bucharest, Romania, by connecting users with ASF-regulated firms for informed financial decisions.',
         'about_principles_gap_title' => 'Closing the Investment Knowledge Gap',
         'about_principles_gap_text' => 'Floventra bridges the investment knowledge gap in Bucharest, Romania, by linking users with ASF-regulated educators.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Aims For a Forward-Thinking World',
         'about_forward_thinking_quote' => 'Floventra fosters financial literacy in Bucharest, Romania, through innovative investment education solutions.',
         'about_forward_thinking_text' => 'Floventra transforms financial mindsets in Bucharest, Romania, by connecting users with ASF-regulated investment education.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Places a Premium on Education',
         'about_education_text_1' => 'Floventra empowers Romanian residents in Bucharest with investment knowledge, tools, and strategies via ASF-regulated educators.',
         'about_education_people_title' => 'The People of Floventra',
         'about_education_people_text' => 'Our team in Bucharest, Romania, works to make investment education accessible by connecting users with ASF-regulated firms.',
         'about_education_mission_text' => 'Floventra ensures Romanian residents in Bucharest can access investment education, closing the knowledge gap globally.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Contact Form',
         'contact_form_name_placeholder' => 'Your Name',
         'contact_form_email_placeholder' => 'Email',
@@ -4437,7 +4437,7 @@ return [
         'contact_form_submit_button' => 'Send Message',
         'contact_form_success' => 'Form submitted successfully!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra Login',
         'login_subtitle' => 'Login Instructions for New Floventra Users',
         'login_instructions_text' => 'New users receive login credentials from ASF-regulated investment education firms in Bucharest, Romania, for their websites.',
@@ -4458,7 +4458,7 @@ return [
         'terms_general_2' => 'Our email: <a href="mailto:info@investsmart-romania.org">info@investsmart-romania.org</a>',
         'terms_general_3' => 'The Website includes information about third-party platforms (the <b>"Third-Party Platforms"</b>) namely educational services on general investment techniques or market research. Floventra serves as an intermediary, connecting users with such Third-Party Platforms (the <b>"Services"</b>).',
         'terms_general_4' => 'These terms of use (the <b>"Terms"</b>) govern your (<b>"You"</b>, <b>"Your"</b> or <b>"User"</b>) use of the Website and the Services. These Terms should be read carefully by You in their entirety prior to Your use of the Services. Please note that these Terms constitute a legally binding agreement between You and the Website’s operator Floventra, <a href="mailto:info@investsmart-romania.org">info@investsmart-romania.org</a>. If You do not agree with any provision of these Terms, You shall immediately cease using the Website. By using the Website, You agree to the Terms, as amended from time to time.',
-        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="/ro/privacy-policy/">clicking here</a>).',
+        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="./privacy">clicking here</a>).',
         'terms_services_title' => '2. Description of the Services',
         'terms_services_1' => 'We are not an investment platform, nor do we put You in touch with such investment platforms, unless such investment platform commits to offer you only educational services or market research.',
         'terms_services_2' => 'We serve as an intermediary to connect You with a service provider able to propose educational content on general investment techniques or market research in their areas of interest to You, compliant with ASF regulations in Romania.',
@@ -4565,7 +4565,7 @@ return [
         'privacy_last_updated' => 'Last updated: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'at' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Österreich',
         'locale' => 'de_AT',
         'locale_lang' => 'de-AT',
@@ -4581,25 +4581,25 @@ return [
         'jsonld_organization_review_author' => 'Floventra Nutzer',
         'jsonld_organization_review_body' => 'Floventra verbindet Wiener Bürger mit von der FMA regulierten Bildungsunternehmen für Investitionen und bietet zugängliche und zuverlässige Finanzbildung.',
         'jsonld_software_categories' => 'Investitionsbildungsplattform',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'EUR',
         'social_links' => [
-            'https://facebook.com/floventus.com/at',
-            'https://twitter.com/floventus.com/at',
-            'https://linkedin.com/company/floventus.com/at'
+            'https://facebook.com/floventus/',
+            'https://twitter.com/floventus/',
+            'https://linkedin.com/company/floventus/'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Investitionsbildung in Wien, Österreich',
         'og_description' => 'Schließen Sie sich Floventra in Wien, Österreich, an, um mit von der FMA regulierten Bildungsunternehmen für Investitionen in Kontakt zu treten. Starten Sie Ihre Finanzlernreise heute!',
-        'og_image' => 'https://floventus.com/at/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/at/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Investitionsbildung in Wien',
         'twitter_description' => 'Entdecken Sie Investitionsbildung mit Floventra in Wien, Österreich. Kostenlos mit von der FMA regulierten Unternehmen verbinden!',
-        'twitter_image' => 'https://floventus.com/at/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Investitionsbildungsplattform in Wien, Österreich | Die offizielle Website',
         'meta_description' => 'Schließen Sie sich Floventra in Wien, Österreich, an, um mit von der FMA regulierten Bildungsunternehmen für Investitionen in Kontakt zu treten. Starten Sie Ihre Finanzlernreise heute!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, Investitionsbildung Wien, Finanzbildung Österreich, Floventra, FMA-regulierte Bildung, Investitionsplattform Österreich',
@@ -4616,60 +4616,60 @@ return [
         'jsonld_faq_6_question' => 'Kann ich in Wien auf Floventra zugreifen?',
         'jsonld_faq_6_answer' => 'Floventra ist für Wiener Bürger vollständig zugänglich und bietet eine benutzerfreundliche Plattform für Investitionsbildung.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Über Floventra - Investitionsbildung in Wien, Österreich',
         'about_desc_content' => 'Erfahren Sie mehr über Floventra, eine führende Plattform in Wien, Österreich, die Nutzer mit von der FMA regulierten Bildungsunternehmen für Investitionen verbindet.',
         'about_keywords' => 'Floventra über uns, Investitionsbildung Wien, Finanzbildung Österreich, FMA-regulierte Bildung, Investitionsplattform Österreich',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Kontaktieren Sie Floventra - Investitionsbildung in Wien, Österreich',
         'contact_desc_content' => 'Kontaktieren Sie Floventra in Wien, Österreich, für Anfragen zu unseren von der FMA regulierten Investitionsbildungsdiensten. Nehmen Sie noch heute Kontakt auf!',
         'contact_keywords' => 'Floventra Kontakt, Investitionsbildung Wien, Finanzbildung Österreich, FMA-regulierte Plattform, Kontakt Investitionsbildung',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra Cookie-Richtlinie - Wien, Österreich',
         'cookie_desc_content' => 'Entdecken Sie die Cookie-Richtlinie von Floventra für Investitionsbildungsdienste in Wien, Österreich. Erfahren Sie, wie wir Cookies verwenden, um Ihre Erfahrung zu verbessern.',
         'cookie_keywords' => 'Floventra Cookie-Richtlinie, Investitionsbildung Wien, Österreich Cookie-Richtlinie, FMA-regulierte Plattform, Finanzbildung Cookies',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra Nutzungsbedingungen - Investitionsbildung in Wien, Österreich',
         'terms_desc_content' => 'Entdecken Sie die Nutzungsbedingungen von Floventra, die den Zugang zu unserer Investitionsbildungsplattform in Wien, Österreich, regeln. Erfahren Sie mehr über Berechtigung und FMA-Konformität.',
         'terms_keywords' => 'Floventra Nutzungsbedingungen, Investitionsbildungsplattform, Österreich Nutzungsbedingungen, FMA-regulierte Dienste, Finanzbildung Wien',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra Datenschutzrichtlinie - Wien, Österreich',
         'privacy_desc_content' => 'Lesen Sie die Datenschutzrichtlinie von Floventra für Investitionsbildungsdienste in Wien, Österreich. Erfahren Sie, wie wir Ihre Daten gemäß EU-DSGVO schützen.',
         'privacy_keywords' => 'Floventra Datenschutz, Investitionsbildung Wien, EU-DSGVO-Konformität, Finanzbildung Datenschutz, FMA-regulierte Plattform',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Erstellen Sie Ihr Profil - Floventra Investitionsbildung in Wien, Österreich',
         'create-profile_content' => 'Melden Sie sich bei Floventra in Wien, Österreich, an, um mit von der FMA regulierten Bildungsunternehmen für Investitionen in Kontakt zu treten. Starten Sie Ihre Lernreise heute!',
         'create-profile_keywords' => 'Floventra Anmeldung, Investitionsbildung Wien, Finanzbildung Österreich, FMA-regulierte Plattform, Profil erstellen Investitionen',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Startseite',
         'about' => 'Über Uns',
         'contact' => 'Kontakt',
         'privacy' => 'Datenschutzrichtlinie',
         'terms' => 'Nutzungsbedingungen',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Anmelden',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Jetzt anmelden',
         'main_form_terms_text' => '* Durch Klicken auf die Schaltfläche stimmen Sie der Datenschutzrichtlinie und den Nutzungsbedingungen zu',
 
-        // Section: About Platform
+
         'about_subtitle' => 'Was ist Floventra AI?',
         'about_quote' => 'Floventra verbindet Wiener Bürger mit von der FMA regulierten Bildungsunternehmen für Investitionen und macht Finanzbildung zugänglich und effektiv.',
         'about_text_1' => 'Floventra vereinfacht den Zugang zu Investitionsbildung in Wien, Österreich. Unsere Plattform arbeitet mit FMA-regulierten Unternehmen zusammen, um maßgeschneiderte Lernerfahrungen für alle Kenntnisstufen zu bieten.',
         'about_text_2' => 'Keine Vorkenntnisse in Investitionen erforderlich. Registrieren Sie sich einfach mit Ihrem Namen, Ihrer E-Mail-Adresse und Telefonnummer, und unsere Partner werden Sie kontaktieren, um Ihre Finanzbildung in Wien zu beginnen.',
         'about_register_btn' => 'HIER REGISTRIEREN >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Verbessern Sie Ihre finanziellen Fähigkeiten mit Floventra in Wien',
         'education_item_1_title' => 'Neue Investitionsfähigkeiten meistern',
         'education_item_1_text' => 'Floventra verbindet Wiener Bürger mit von der FMA regulierten Unternehmen, um Investitionsstrategien zu erlernen. Perfekt für Anfänger, Profis oder jeden, der finanzielles Wissen sucht.',
@@ -4681,7 +4681,7 @@ return [
         'education_item_3_text_2' => 'Bereit, Ihre finanzielle Sichtweise zu transformieren? Melden Sie sich heute bei Floventra an!',
         'education_register_btn' => 'JETZT REGISTRIEREN >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Warum mit Investitionslehrern auf Floventra verbinden?',
         'three_steps_item_1_title' => 'Virtuelles Lernen',
         'three_steps_item_1_text' => 'Floventra verbindet Nutzer mit Investitionslehrern, die digitales Lernen in Wien, Österreich, anbieten. Lernen Sie von überall aus und greifen Sie bei Bedarf auf Aufzeichnungen zu.',
@@ -4690,12 +4690,12 @@ return [
         'three_steps_item_3_title' => 'Mehrsprachigkeit',
         'three_steps_item_3_text' => 'Lernen Sie in Ihrer bevorzugten Sprache mit den FMA-regulierten Partnern von Floventra in Wien, Österreich, ohne Sprachbarrieren.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Wer ist ein Investor?',
         'investor_quote' => 'Ein Investor bindet Kapital an Vermögenswerte oder Pläne, um finanzielle Ziele zu erreichen. Floventra in Wien, Österreich, verbindet Sie mit FMA-regulierten Bildungsanbietern, um mehr zu lernen.',
         'investor_text' => 'Investoren stehen Risiken gegenüber, die Renditen beeinflussen können. Lernen Sie, zu recherchieren, Budgets zu erstellen und Risiken mit FMA-regulierten Bildungsunternehmen für Investitionen in Wien über Floventra zu bewerten.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra Übersicht der Investorenarten',
         'investor_types_intro' => 'Investoren unterscheiden sich nach Zielen, Risikotoleranz und Strategien. Lernen Sie über quantitative, sozial verantwortliche und institutionelle Investoren mit Floventra in Wien, Österreich.',
         'investor_type_1_title' => 'Quantitativer Investor',
@@ -4713,13 +4713,13 @@ return [
         'investor_type_3_content' => 'Institutionelle Investoren verwalten groß angelegte Investitionen. Melden Sie sich bei Floventra in Wien an, um zu erfahren, wie sie sich von anderen Investoren unterscheiden.',
         'investor_types_register_btn' => 'KOSTENLOS REGISTRIEREN >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'Was ist ein Indexfonds?',
         'index_funds_quote' => 'Indexfonds verfolgen die Marktperformance mit niedrigeren Kosten. Lernen Sie ihre Risiken und Vorteile mit den FMA-regulierten Bildungsanbietern von Floventra in Wien, Österreich.',
         'index_funds_text_1' => 'Indexfonds sind an die Marktperformance gebunden und können riskant sein. Verbinden Sie sich mit FMA-regulierten Bildungsanbietern für Investitionen in Wien über Floventra, um mehr zu erfahren.',
         'index_funds_text_2' => 'Investoren wählen Indexfonds, eröffnen Konten und überwachen Portfolios. Entdecken Sie Indexfonds-Strategien mit Floventra in Wien, Österreich.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Erfahren Sie mehr über Exchange-Traded Funds (ETFs) über Floventra',
         'etfs_text_1' => 'ETFs ermöglichen Investitionen in diverse Wertpapiere. Lernen Sie, wie sie funktionieren, mit FMA-regulierten Bildungsanbietern in Wien über Floventra.',
         'etfs_text_2' => 'ETFs werden an Börsen gehandelt und bieten unterschiedliche Renditen. Verbinden Sie sich mit Floventra in Wien, Österreich, um ETF-Typen und -Strategien zu erkunden.',
@@ -4733,7 +4733,7 @@ return [
         'etf_type_4_text' => 'Aktien-ETFs verfolgen Aktien zur Diversifikation. Verbinden Sie sich mit Floventra in Wien, Österreich, für detaillierte ETF-Bildung.',
         'etfs_learn_btn' => 'MEHR ERFAHREN >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Umwelt, Soziales und Governance (ESG) Investieren',
         'assets_esg_quote' => 'ESG-Investieren priorisiert ethische Faktoren. Lernen Sie, wie es mit österreichischen Vorschriften übereinstimmt, über Floventra in Wien.',
         'assets_esg_text' => 'ESG bewertet Unternehmen nach Umwelt-, Sozial- und Governance-Standards. Verbinden Sie sich mit FMA-regulierten Bildungsanbietern in Wien über Floventra.',
@@ -4743,7 +4743,7 @@ return [
         'assets_market_cap_text_1' => 'Die Marktkapitalisierung reicht von mikro bis groß. Entdecken Sie ihre Risiken und Wachstumspotentiale mit Floventra in Wien, Österreich.',
         'assets_market_cap_text_2' => 'Mittel- und großkapitalisierte Unternehmen bieten Wachstum, variieren aber in Volatilität. Lernen Sie mehr mit den FMA-regulierten Partnern von Floventra in Wien.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Hedging verstehen über Floventra',
         'metrics_hedging_text' => 'Hedging mindert Investitionsrisiken durch Derivate. Lernen Sie seine Komplexitäten mit FMA-regulierten Bildungsanbietern in Wien über Floventra.',
         'metrics_terms_title' => 'Grundlegende Investitionsbegriffe über Floventra kennen',
@@ -4760,12 +4760,12 @@ return [
         'metrics_debt_instrument_title' => 'Schuldinstrument',
         'metrics_debt_instrument_text' => 'Schuldinstrumente beschaffen Kapital durch Anleihen oder Kredite. Entdecken Sie sie mit Floventra in Wien, Österreich.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Es ist nie zu spät, zu beginnen',
         'padding_60_quote' => 'Schwierigkeiten, zuverlässige Investitionsbildung in Wien, Österreich, zu finden? Floventra verbindet Sie mit FMA-regulierten Unternehmen.',
         'padding_60_text' => 'Floventra hilft Tausenden von Wiener Bürgern, Zugang zu vertrauenswürdiger Investitionsbildung zu erhalten. Melden Sie sich heute kostenlos an.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra FAQs',
         'faq_1_question' => 'Was lehrt Floventra Menschen?',
         'faq_1_answer' => 'Floventra verbindet Wiener Bürger mit FMA-regulierten Bildungsunternehmen für Investitionen für umfassende Finanzbildung.',
@@ -4774,7 +4774,7 @@ return [
         'faq_3_question' => 'Wie verbindet Floventra Menschen mit Tutoren?',
         'faq_3_answer' => 'Nutzer registrieren sich mit ihrem Namen, ihrer E-Mail-Adresse und Telefonnummer, und FMA-regulierte Unternehmen in Wien kontaktieren sie, in Übereinstimmung mit EU-DSGVO.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra Highlights',
         'highlight_enrollment_cost_title' => '🤖 Anmeldekosten',
         'highlight_enrollment_cost_text' => 'Kostenlose Anmeldung für Wiener Bürger',
@@ -4787,28 +4787,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Zugängliche Regionen',
         'highlight_accessible_regions_text' => 'Verfügbar in Wien, Österreich, und den meisten Regionen, außer den USA',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Die Rolle von Floventra im Investitionsbereich',
         'about_principles_role_text' => 'Floventra fördert Investitionsbildung in Wien, Österreich, indem es Nutzer mit FMA-regulierten Unternehmen für fundierte finanzielle Entscheidungen verbindet.',
         'about_principles_gap_title' => 'Schließung der Investitionswissenslücke',
         'about_principles_gap_text' => 'Floventra überbrückt die Investitionswissenslücke in Wien, Österreich, indem es Nutzer mit FMA-regulierten Bildungsanbietern verbindet.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra strebt eine zukunftsorientierte Welt an',
         'about_forward_thinking_quote' => 'Floventra fördert finanzielle Bildung in Wien, Österreich, durch innovative Investitionsbildungslösungen.',
         'about_forward_thinking_text' => 'Floventra transformiert finanzielle Denkweisen in Wien, Österreich, indem es Nutzer mit FMA-regulierten Bildungsanbietern für Investitionen verbindet.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra legt großen Wert auf Bildung',
         'about_education_text_1' => 'Floventra befähigt Wiener Bürger mit Investitionswissen, Tools und Strategien über FMA-regulierte Bildungsanbieter.',
         'about_education_people_title' => 'Die Menschen von Floventra',
         'about_education_people_text' => 'Unser Team in Wien, Österreich, arbeitet daran, Investitionsbildung zugänglich zu machen, indem es Nutzer mit FMA-regulierten Unternehmen verbindet.',
         'about_education_mission_text' => 'Floventra stellt sicher, dass Wiener Bürger Zugang zu Investitionsbildung haben und die Wissenslücke weltweit schließen.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Kontaktformular',
         'contact_form_name_placeholder' => 'Ihr Name',
         'contact_form_email_placeholder' => 'E-Mail',
@@ -4816,7 +4816,7 @@ return [
         'contact_form_submit_button' => 'Nachricht senden',
         'contact_form_success' => 'Formular erfolgreich gesendet!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra Anmeldung',
         'login_subtitle' => 'Anmeldeanweisungen für neue Floventra Nutzer',
         'login_instructions_text' => 'Neue Nutzer erhalten Zugangsdaten von FMA-regulierten Bildungsunternehmen für Investitionen in Wien, Österreich, für deren Websites.',
@@ -4832,13 +4832,13 @@ return [
         'login_form_error_last_name' => 'Ihr Nachname ist zu kurz (mindestens 2 Zeichen)',
         'login_form_error_email' => 'Bitte geben Sie Ihre echte E-Mail-Adresse ein (z.B. nutzer@beispiel.com)',
 
-        // Terms
+
         'terms_general_title' => '1. Allgemein',
         'terms_general_1' => 'Willkommen auf floventus.com/at (die „Website“).',
         'terms_general_2' => 'Unsere E-Mail: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'Die Website enthält Informationen über Drittanbieter-Plattformen (die <b>„Drittanbieter-Plattformen“</b>), nämlich Bildungsdienste zu allgemeinen Investitionstechniken oder Marktforschung. Floventra dient als Vermittler und verbindet Nutzer mit solchen Drittanbieter-Plattformen (die <b>„Dienste“</b>).',
         'terms_general_4' => 'Diese Nutzungsbedingungen (die <b>„Bedingungen“</b>) regeln Ihre (<b>„Sie“</b>, <b>„Ihr“</b> oder <b>„Nutzer“</b>) Nutzung der Website und der Dienste. Diese Bedingungen sollten von Ihnen vor der Nutzung der Dienste sorgfältig gelesen werden. Bitte beachten Sie, dass diese Bedingungen eine rechtsverbindliche Vereinbarung zwischen Ihnen und dem Betreiber der Website, Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>, darstellen. Wenn Sie mit irgendeiner Bestimmung dieser Bedingungen nicht einverstanden sind, sollten Sie die Nutzung der Website sofort einstellen. Durch die Nutzung der Website stimmen Sie den Bedingungen zu, wie sie von Zeit zu Zeit geändert werden.',
-        'terms_general_5' => 'Diese Bedingungen beinhalten unsere Datenschutzrichtlinie, und indem Sie diesen Bedingungen zustimmen, bestätigen Sie, dass Sie auch unsere Datenschutzrichtlinie akzeptieren und zustimmen (Sie können unsere Datenschutzrichtlinie <a href="/at/privacy-policy/">hier</a> einsehen).',
+        'terms_general_5' => 'Diese Bedingungen beinhalten unsere Datenschutzrichtlinie, und indem Sie diesen Bedingungen zustimmen, bestätigen Sie, dass Sie auch unsere Datenschutzrichtlinie akzeptieren und zustimmen (Sie können unsere Datenschutzrichtlinie <a href="./privacy">hier</a> einsehen).',
         'terms_services_title' => '2. Beschreibung der Dienste',
         'terms_services_1' => 'Wir sind keine Investitionsplattform und stellen auch keinen Kontakt zu solchen Investitionsplattformen her, es sei denn, eine solche Investitionsplattform verpflichtet sich, Ihnen ausschließlich Bildungsdienste oder Marktforschung anzubieten.',
         'terms_services_2' => 'Wir dienen als Vermittler, um Sie mit einem Dienstleister zu verbinden, der Bildungsinhalte zu allgemeinen Investitionstechniken oder Marktforschung in Ihren Interessensbereichen anbieten kann, die mit den FMA-Vorschriften in Österreich konform sind.',
@@ -4945,7 +4945,7 @@ return [
         'privacy_last_updated' => 'Zuletzt aktualisiert: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'cz' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Česká republika',
         'locale' => 'cs_CZ',
         'locale_lang' => 'cs-CZ',
@@ -4961,25 +4961,25 @@ return [
         'jsonld_organization_review_author' => 'Uživatel Floventra',
         'jsonld_organization_review_body' => 'Floventra propojuje obyvatele Prahy s regulovanými firmami pro vzdělávání v oblasti investic, nabízející dostupné a spolehlivé finanční vzdělávání.',
         'jsonld_software_categories' => 'Platforma pro vzdělávání v oblasti investic',
-        'jsonld_software_price' => '0', // Registrace je zdarma
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'CZK',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Vzdělávání v oblasti investic v Praze, Česká republika',
         'og_description' => 'Připojte se k Floventra v Praze, Česká republika, a spojte se s regulovanými firmami pro vzdělávání v oblasti investic. Začněte svou cestu finančním vzděláváním ještě dnes!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/cz/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Vzdělávání v oblasti investic v Praze',
         'twitter_description' => 'Objevte vzdělávání v oblasti investic s Floventra v Praze, Česká republika. Spojte se s regulovanými firmami zdarma!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Platforma pro vzdělávání v oblasti investic v Praze, Česká republika | Oficiální webové stránky',
         'meta_description' => 'Připojte se k Floventra v Praze, Česká republika, a spojte se s regulovanými firmami pro vzdělávání v oblasti investic. Začněte svou cestu finančním vzděláváním ještě dnes!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, vzdělávání v oblasti investic Praha, finanční vzdělávání Česká republika, Floventra, regulované vzdělávání, investiční platforma ČR',
@@ -4996,60 +4996,60 @@ return [
         'jsonld_faq_6_question' => 'Mohu přistupovat k Floventra v Praze?',
         'jsonld_faq_6_answer' => 'Floventra je plně dostupné pro obyvatele České republiky v Praze, nabízející uživatelsky přívětivou platformu pro vzdělávání v oblasti investic.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'O Floventra - Vzdělávání v oblasti investic v Praze, Česká republika',
         'about_desc_content' => 'Dozvěděte se více o Floventra, přední platformě v Praze, Česká republika, která propojuje uživatele s regulovanými firmami pro vzdělávání v oblasti investic.',
         'about_keywords' => 'o Floventra, vzdělávání v oblasti investic Praha, finanční vzdělávání Česká republika, regulované vzdělávání, investiční platforma ČR',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Kontaktujte Floventra - Vzdělávání v oblasti investic v Praze, Česká republika',
         'contact_desc_content' => 'Kontaktujte Floventra v Praze, Česká republika, ohledně dotazů na naše regulované služby pro vzdělávání v oblasti investic. Spojte se s námi ještě dnes!',
         'contact_keywords' => 'kontakt Floventra, vzdělávání v oblasti investic Praha, finanční vzdělávání Česká republika, regulovaná platforma, kontakt investiční vzdělávání',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Zásady používání souborů cookie Floventra - Praha, Česká republika',
         'cookie_desc_content' => 'Prozkoumejte zásady používání souborů cookie Floventra pro služby vzdělávání v oblasti investic v Praze, Česká republika. Zjistěte, jak používáme cookies k vylepšení vašeho zážitku.',
         'cookie_keywords' => 'zásady cookies Floventra, vzdělávání v oblasti investic Praha, zásady cookies Česká republika, regulovaná platforma, cookies finanční vzdělávání',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Podmínky používání Floventra - Vzdělávání v oblasti investic v Praze, Česká republika',
         'terms_desc_content' => 'Prozkoumejte podmínky používání Floventra, které upravují přístup k naší platformě pro vzdělávání v oblasti investic v Praze, Česká republika. Zjistěte více o způsobilosti a souladu s regulacemi.',
         'terms_keywords' => 'podmínky Floventra, platforma pro vzdělávání v oblasti investic, podmínky Česká republika, regulované služby, finanční vzdělávání Praha',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Zásady ochrany osobních údajů Floventra - Praha, Česká republika',
         'privacy_desc_content' => 'Přečtěte si zásady ochrany osobních údajů Floventra pro služby vzdělávání v oblasti investic v Praze, Česká republika. Zjistěte, jak chráníme vaše údaje v souladu s GDPR.',
         'privacy_keywords' => 'ochrana osobních údajů Floventra, vzdělávání v oblasti investic Praha, soulad s GDPR Česká republika, ochrana finančního vzdělávání, regulovaná platforma',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Vytvořte si profil - Floventra Vzdělávání v oblasti investic v Praze, Česká republika',
         'create-profile_content' => 'Zaregistrujte se u Floventra v Praze, Česká republika, a spojte se s regulovanými firmami pro vzdělávání v oblasti investic. Začněte svou vzdělávací cestu ještě dnes!',
         'create-profile_keywords' => 'registrace Floventra, vzdělávání v oblasti investic Praha, finanční vzdělávání Česká republika, regulovaná platforma, vytvoření profilu investice',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Domů',
         'about' => 'O nás',
         'contact' => 'Kontaktujte nás',
         'privacy' => 'Zásady ochrany osobních údajů',
         'terms' => 'Podmínky používání',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Přihlásit se',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Zaregistrujte se nyní',
         'main_form_terms_text' => '* Kliknutím na tlačítko souhlasíte a přijímáte Zásady ochrany osobních údajů a Podmínky používání',
 
-        // Section: About Platform
+
         'about_subtitle' => 'Co je Floventra AI?',
         'about_quote' => 'Floventra propojuje obyvatele České republiky s regulovanými firmami pro vzdělávání v oblasti investic v Praze, díky čemuž je finanční vzdělávání dostupné a efektivní.',
         'about_text_1' => 'Floventra zjednodušuje přístup k vzdělávání v oblasti investic v Praze, Česká republika. Naše platforma spolupracuje s regulovanými firmami, aby poskytovala personalizované vzdělávací zážitky pro všechny úrovně dovedností.',
         'about_text_2' => 'Nejsou potřeba žádné předchozí znalosti o investicích. Stačí se zaregistrovat se svým jménem, e-mailem a telefonním číslem a naši partneři vás budou kontaktovat, aby zahájili vaši cestu finančním vzděláváním v Praze.',
         'about_register_btn' => 'ZAREGISTRUJTE SE ZDE >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Zlepšete své finanční dovednosti s Floventra v Praze',
         'education_item_1_title' => 'Osvojte si nové investiční dovednosti',
         'education_item_1_text' => 'Floventra propojuje obyvatele České republiky v Praze s regulovanými firmami, aby se naučili investiční strategie. Ideální pro začátečníky, profesionály nebo kohokoli, kdo hledá finanční znalosti.',
@@ -5061,7 +5061,7 @@ return [
         'education_item_3_text_2' => 'Jste připraveni změnit svůj finanční pohled? Zaregistrujte se u Floventra ještě dnes!',
         'education_register_btn' => 'ZAREGISTRUJTE SE NYNÍ >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Proč se spojit s lektory investic na Floventra?',
         'three_steps_item_1_title' => 'Virtuální studium',
         'three_steps_item_1_text' => 'Floventra propojuje uživatele s lektory investic nabízejícími digitální vzdělávání v Praze, Česká republika. Studujte odkudkoli a vraťte se k záznamům podle potřeby.',
@@ -5070,12 +5070,12 @@ return [
         'three_steps_item_3_title' => 'Jazyková rozmanitost',
         'three_steps_item_3_text' => 'Učte se ve svém preferovaném jazyce s regulovanými partnery Floventra v Praze, Česká republika, a odstraňte jazykové bariéry.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Kdo je investor?',
         'investor_quote' => 'Investor vkládá kapitál do aktiv nebo plánů k dosažení finančních cílů. Floventra v Praze, Česká republika, vás propojuje s regulovanými vzdělavateli, abyste se dozvěděli více.',
         'investor_text' => 'Investoři čelí rizikům, která mohou ovlivnit výnosy. Naučte se zkoumat, rozpočítat a posuzovat rizika s regulovanými firmami pro vzdělávání v oblasti investic v Praze prostřednictvím Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Přehled typů investorů od Floventra',
         'investor_types_intro' => 'Investoři se liší podle cílů, tolerance rizika a strategií. Zjistěte více o kvantitativních, sociálně odpovědných a institucionálních investorech s Floventra v Praze, Česká republika.',
         'investor_type_1_title' => 'Kvantitativní investor',
@@ -5093,13 +5093,13 @@ return [
         'investor_type_3_content' => 'Institucionální investoři spravují velké investice. Zaregistrujte se u Floventra v Praze a zjistěte, jak se liší od ostatních investorů.',
         'investor_types_register_btn' => 'ZAREGISTRUJTE SE ZDARMA >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'Co je indexový fond?',
         'index_funds_quote' => 'Indexové fondy sledují výkonnost trhu s nižšími náklady. Zjistěte více o jejich rizicích a přínosech s regulovanými vzdělavateli Floventra v Praze, Česká republika.',
         'index_funds_text_1' => 'Indexové fondy jsou vázány na výkonnost trhu a mohou být rizikové. Spojte se s regulovanými vzdělavateli v oblasti investic v Praze prostřednictvím Floventra a zjistěte více.',
         'index_funds_text_2' => 'Investoři volí indexové fondy, otevírají účty a sledují portfolia. Objevte strategie indexových fondů s Floventra v Praze, Česká republika.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Zjistěte více o burzovně obchodovaných fondech (ETF) prostřednictvím Floventra',
         'etfs_text_1' => 'ETF umožňují investice do různých cenných papírů. Zjistěte, jak fungují, s regulovanými vzdělavateli v Praze prostřednictvím Floventra.',
         'etfs_text_2' => 'ETF se obchodují na burzách s různými výnosy. Spojte se s Floventra v Praze, Česká republika, a prozkoumejte typy a strategie ETF.',
@@ -5113,7 +5113,7 @@ return [
         'etf_type_4_text' => 'Akciové ETF sledují akcie pro diverzifikaci. Spojte se s Floventra v Praze, Česká republika, pro podrobné vzdělávání o ETF.',
         'etfs_learn_btn' => 'ZJISTĚTE VÍCE >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Investování podle kritérií ESG (environmentální, sociální a správní)',
         'assets_esg_quote' => 'Investování podle ESG upřednostňuje etické faktory. Zjistěte, jak je v souladu s českými regulacemi, prostřednictvím Floventra v Praze.',
         'assets_esg_text' => 'ESG hodnotí společnosti podle environmentálních, sociálních a správních standardů. Spojte se s regulovanými vzdělavateli v Praze prostřednictvím Floventra.',
@@ -5123,7 +5123,7 @@ return [
         'assets_market_cap_text_1' => 'Tržní kapitalizace se pohybuje od mikro po velké. Objevte jejich rizika a růstový potenciál s Floventra v Praze, Česká republika.',
         'assets_market_cap_text_2' => 'Střední a velké společnosti nabízejí růst, ale liší se volatilitou. Zjistěte více s regulovanými partnery Floventra v Praze.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Pochopte hedging prostřednictvím Floventra',
         'metrics_hedging_text' => 'Hedging zmírňuje investiční rizika pomocí derivátů. Zjistěte jeho složitosti s regulovanými vzdělavateli v Praze prostřednictvím Floventra.',
         'metrics_terms_title' => 'Seznamte se se základními investičními pojmy prostřednictvím Floventra',
@@ -5140,12 +5140,12 @@ return [
         'metrics_debt_instrument_title' => 'Dluhový nástroj',
         'metrics_debt_instrument_text' => 'Dluhové nástroje získávají kapitál prostřednictvím dluhopisů nebo půjček. Objevte je s Floventra v Praze, Česká republika.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Nikdy není pozdě začít',
         'padding_60_quote' => 'Snažíte se najít spolehlivé vzdělávání v oblasti investic v Praze, Česká republika? Floventra vás propojuje s regulovanými firmami.',
         'padding_60_text' => 'Floventra pomáhá tisícům obyvatel České republiky v Praze získat přístup k důvěryhodnému vzdělávání v oblasti investic. Zaregistrujte se zdarma ještě dnes.',
 
-        // Section: FAQ
+
         'faq_title' => 'Časté otázky Floventra',
         'faq_1_question' => 'Co Floventra učí lidi?',
         'faq_1_answer' => 'Floventra propojuje obyvatele České republiky v Praze s regulovanými firmami pro komplexní finanční vzdělávání.',
@@ -5154,7 +5154,7 @@ return [
         'faq_3_question' => 'Jak Floventra propojuje lidi s lektory?',
         'faq_3_answer' => 'Uživatelé se registrují se svým jménem, e-mailem a telefonním číslem a regulované firmy v Praze je kontaktují v souladu s GDPR.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Hlavní přednosti Floventra',
         'highlight_enrollment_cost_title' => '🤖 Náklady na registraci',
         'highlight_enrollment_cost_text' => 'Zdarma registrace pro obyvatele České republiky v Praze',
@@ -5167,28 +5167,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Dostupné regiony',
         'highlight_accessible_regions_text' => 'Dostupné v Praze, Česká republika, a většině regionů, kromě USA',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Role Floventra v investičním prostředí',
         'about_principles_role_text' => 'Floventra podporuje vzdělávání v oblasti investic v Praze, Česká republika, propojením uživatelů s regulovanými firmami pro informovaná finanční rozhodnutí.',
         'about_principles_gap_title' => 'Překlenutí mezery ve znalostech o investicích',
         'about_principles_gap_text' => 'Floventra překlenuje mezeru ve znalostech o investicích v Praze, Česká republika, propojením uživatelů s regulovanými vzdělavateli.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra usiluje o pokrokový svět',
         'about_forward_thinking_quote' => 'Floventra podporuje finanční gramotnost v Praze, Česká republika, prostřednictvím inovativních řešení pro vzdělávání v oblasti investic.',
         'about_forward_thinking_text' => 'Floventra transformuje finanční myšlení v Praze, Česká republika, propojením uživatelů s regulovaným vzděláváním v oblasti investic.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra klade důraz na vzdělávání',
         'about_education_text_1' => 'Floventra umožňuje obyvatelům České republiky v Praze získávat znalosti, nástroje a strategie v oblasti investic prostřednictvím regulovaných vzdělavatelů.',
         'about_education_people_title' => 'Lidé Floventra',
         'about_education_people_text' => 'Náš tým v Praze, Česká republika, pracuje na tom, aby bylo vzdělávání v oblasti investic dostupné propojením uživatelů s regulovanými firmami.',
         'about_education_mission_text' => 'Floventra zajišťuje, že obyvatelé České republiky v Praze mají přístup k vzdělávání v oblasti investic, čímž překlenuje mezery ve znalostech globálně.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Kontaktní formulář',
         'contact_form_name_placeholder' => 'Vaše jméno',
         'contact_form_email_placeholder' => 'E-mail',
@@ -5196,7 +5196,7 @@ return [
         'contact_form_submit_button' => 'Odeslat zprávu',
         'contact_form_success' => 'Formulář byl úspěšně odeslán!',
 
-        // Section: Login Page
+
         'login_title' => 'Přihlášení Floventra',
         'login_subtitle' => 'Pokyny k přihlášení pro nové uživatele Floventra',
         'login_instructions_text' => 'Noví uživatelé obdrží přihlašovací údaje od regulovaných firem pro vzdělávání v oblasti investic v Praze, Česká republika, pro jejich webové stránky.',
@@ -5212,13 +5212,13 @@ return [
         'login_form_error_last_name' => 'Vaše příjmení je příliš krátké (alespoň 2 znaky)',
         'login_form_error_email' => 'Zadejte prosím svou skutečnou e-mailovou adresu (např. uzivatel@priklad.cz)',
 
-        // Terms and Conditions
+
         'terms_general_title' => '1. Obecné',
         'terms_general_1' => 'Vítejte na floventus.com (dále jen „Web“).',
         'terms_general_2' => 'Náš e-mail: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'Web obsahuje informace o platformách třetích stran (dále jen <b>„Platformy třetích stran“</b>), konkrétně o vzdělávacích službách v oblasti obecných investičních technik nebo průzkumu trhu. Floventra funguje jako zprostředkovatel, který propojuje uživatele s těmito Platformami třetích stran (dále jen <b>„Služby“</b>).',
         'terms_general_4' => 'Tyto podmínky používání (dále jen <b>„Podmínky“</b>) upravují vaše (<b>„Vy“</b>, <b>„Váš“</b> nebo <b>„Uživatel“</b>) používání Webu a Služeb. Tyto Podmínky byste si měli pečlivě přečíst v celém rozsahu před použitím Služeb. Upozorňujeme, že tyto Podmínky představují právně závaznou smlouvu mezi Vámi a provozovatelem Webu Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Pokud nesouhlasíte s jakýmkoli ustanovením těchto Podmínek, měli byste okamžitě přestat Web používat. Používáním Webu souhlasíte s těmito Podmínkami, jak jsou čas od času novelizovány.',
-        'terms_general_5' => 'Tyto Podmínky zahrnují naše Zásady ochrany osobních údajů a souhlasem s těmito Podmínkami potvrzujete, že rovněž přijímáte a souhlasíte s našimi Zásadami ochrany osobních údajů (naše Zásady ochrany osobních údajů si můžete přečíst <a href="/cz/privacy-policy/">kliknutím zde</a>).',
+        'terms_general_5' => 'Tyto Podmínky zahrnují naše Zásady ochrany osobních údajů a souhlasem s těmito Podmínkami potvrzujete, že rovněž přijímáte a souhlasíte s našimi Zásadami ochrany osobních údajů (naše Zásady ochrany osobních údajů si můžete přečíst <a href="./privacy">kliknutím zde</a>).',
         'terms_services_title' => '2. Popis Služeb',
         'terms_services_1' => 'Nejsme investiční platformou, ani vás nespojujeme s takovými platformami, pokud tyto platformy nenabízejí pouze vzdělávací služby nebo průzkum trhu.',
         'terms_services_2' => 'Fungujeme jako zprostředkovatel, který vás propojuje s poskytovatelem služeb schopným nabídnout vzdělávací obsah o obecných investičních technikách nebo průzkumu trhu ve vašich oblastech zájmu, v souladu s českými regulacemi.',
@@ -5280,7 +5280,7 @@ return [
         'terms_miscellaneous_8' => 'Tyto podmínky se řídí českým právem.',
         'terms_miscellaneous_9' => 'Výhradním místem soudní příslušnosti pro všechny spory vyplývající z těchto Podmínek nebo v souvislosti s nimi budou soudy v Praze, Česká republika.',
 
-        // Privacy Policy
+
         'privacy_purpose_title' => 'Účel oznámení',
         'privacy_purpose_text' => 'Účelem tohoto Oznámení o ochraně osobních údajů (dále jen „Oznámení“) je vysvětlit, jak Floventra („Floventra“ nebo „My“ nebo „Nás“) bude zpracovávat jako správce údajů vaše osobní údaje, které nám poskytnete při návštěvě webu floventus.com (dále jen „Web“), nebo které obdržíme od třetích stran, abychom vás propojili s profesionály, o které byste mohli mít zájem.',
         'privacy_data_categories_title' => 'Jaké kategorie osobních údajů budou zpracovávány?',
@@ -5326,41 +5326,41 @@ return [
         'privacy_last_updated' => 'Naposledy aktualizováno: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'pe' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Perú',
         'locale' => 'es_PE',
         'locale_lang' => 'es-PE',
         'language_name' => 'Español',
-        'city' => 'Ciudad de Panamá', // Панамская локация
+        'city' => 'Ciudad de Panamá',
         'country_code' => 'PE',
         'country_iso' => 'pe',
         'language_iso' => 'es',
         'brand_name_api' => 'flovantreasure',
-        'geo_position' => '8.982379, -79.519870', // Координаты Панамы
+        'geo_position' => '8.982379, -79.519870',
         'jsonld_organization_name' => 'Floventra',
         'jsonld_organization_review_rating' => '4.96',
         'jsonld_organization_review_author' => 'Usuario de Floventra',
         'jsonld_organization_review_body' => 'Floventra conecta a residentes de Panamá con empresas de educación en inversiones reguladas, ofreciendo aprendizaje financiero accesible y confiable.',
         'jsonld_software_categories' => 'Plataforma de Educación en Inversiones',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'PEN',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Educación en Inversiones en Ciudad de Panamá, Perú',
         'og_description' => 'Únete a Floventra en Ciudad de Panamá, Perú, para conectarte con empresas de educación en inversiones reguladas. ¡Comienza tu viaje de aprendizaje financiero hoy!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/pe/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Educación en Inversiones en Ciudad de Panamá',
         'twitter_description' => 'Descubre la educación en inversiones con Floventra en Ciudad de Panamá, Perú. ¡Conéctate gratis con empresas reguladas!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Plataforma de Educación en Inversiones en Ciudad de Panamá, Perú | El sitio web oficial',
         'meta_description' => 'Únete a Floventra en Ciudad de Panamá, Perú, para conectarte con empresas de educación en inversiones reguladas. ¡Comienza tu viaje de aprendizaje financiero hoy!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, educación en inversiones Ciudad de Panamá, aprendizaje financiero Perú, Floventra, educación regulada, plataforma de inversiones Perú',
@@ -5377,60 +5377,60 @@ return [
         'jsonld_faq_6_question' => '¿Puedo acceder a Floventra en Ciudad de Panamá?',
         'jsonld_faq_6_answer' => 'Floventra es totalmente accesible para residentes de Panamá en Ciudad de Panamá, ofreciendo una plataforma amigable para la educación en inversiones.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Acerca de Floventra - Educación en Inversiones en Ciudad de Panamá, Perú',
         'about_desc_content' => 'Conoce Floventra, una plataforma líder en Ciudad de Panamá, Perú, que conecta a usuarios con empresas de educación en inversiones reguladas.',
         'about_keywords' => 'Floventra acerca, educación en inversiones Ciudad de Panamá, aprendizaje financiero Perú, educación regulada, plataforma de inversiones Perú',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contacta a Floventra - Educación en Inversiones en Ciudad de Panamá, Perú',
         'contact_desc_content' => 'Contacta a Floventra en Ciudad de Panamá, Perú, para consultas sobre nuestros servicios de educación en inversiones reguladas. ¡Ponte en contacto hoy!',
         'contact_keywords' => 'Floventra contacto, educación en inversiones Ciudad de Panamá, aprendizaje financiero Perú, plataforma regulada, contacto educación en inversiones',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Política de Cookies de Floventra - Ciudad de Panamá, Perú',
         'cookie_desc_content' => 'Explora la Política de Cookies de Floventra para servicios de educación en inversiones en Ciudad de Panamá, Perú. Aprende cómo usamos cookies para mejorar tu experiencia.',
         'cookie_keywords' => 'Floventra política de cookies, educación en inversiones Ciudad de Panamá, política de cookies Perú, plataforma regulada, cookies educación financiera',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Términos de Uso de Floventra - Educación en Inversiones en Ciudad de Panamá, Perú',
         'terms_desc_content' => 'Explora los Términos de Uso de Floventra, que rigen el acceso a nuestra plataforma de educación en inversiones en Ciudad de Panamá, Perú. Conoce la elegibilidad y el cumplimiento normativo.',
         'terms_keywords' => 'Floventra términos, plataforma de educación en inversiones, términos y condiciones Perú, servicios regulados, educación financiera Ciudad de Panamá',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Política de Privacidad de Floventra - Ciudad de Panamá, Perú',
         'privacy_desc_content' => 'Lee la Política de Privacidad de Floventra para servicios de educación en inversiones en Ciudad de Panamá, Perú. Descubre cómo protegemos tus datos bajo las normativas de privacidad.',
         'privacy_keywords' => 'Floventra privacidad, educación en inversiones Ciudad de Panamá, cumplimiento normativo Perú, privacidad educación financiera, plataforma regulada',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Crea Tu Perfil - Educación en Inversiones de Floventra en Ciudad de Panamá, Perú',
         'create-profile_content' => 'Regístrate con Floventra en Ciudad de Panamá, Perú, para conectarte con empresas de educación en inversiones reguladas. ¡Comienza tu viaje de aprendizaje hoy!',
         'create-profile_keywords' => 'Floventra registro, educación en inversiones Ciudad de Panamá, aprendizaje financiero Perú, plataforma regulada, crear perfil inversiones',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Inicio',
         'about' => 'Acerca de Nosotros',
         'contact' => 'Contáctanos',
         'privacy' => 'Política de Privacidad',
         'terms' => 'Términos y Condiciones',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Iniciar Sesión',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Regístrate ahora',
         'main_form_terms_text' => '* Al hacer clic en el botón, aceptas y estás de acuerdo con la Política de Privacidad y los Términos y Condiciones',
 
-        // Section: About Platform
+
         'about_subtitle' => '¿Qué es Floventra AI?',
         'about_quote' => 'Floventra conecta a residentes de Panamá con empresas de educación en inversiones reguladas en Ciudad de Panamá, haciendo que el aprendizaje financiero sea accesible y efectivo.',
         'about_text_1' => 'Floventra simplifica el acceso a la educación en inversiones en Ciudad de Panamá, Perú. Nuestra plataforma se asocia con empresas reguladas para proporcionar experiencias de aprendizaje personalizadas para todos los niveles de habilidad.',
         'about_text_2' => 'No se necesita conocimiento previo en inversiones. Solo regístrate con tu nombre, correo electrónico y número de teléfono, y nuestros socios te contactarán para iniciar tu viaje de educación financiera en Ciudad de Panamá.',
         'about_register_btn' => 'REGÍSTRATE AQUÍ >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Mejora Tus Habilidades Financieras con Floventra en Ciudad de Panamá',
         'education_item_1_title' => 'Domina Nuevas Habilidades de Inversión',
         'education_item_1_text' => 'Floventra conecta a residentes de Panamá en Ciudad de Panamá con empresas reguladas para aprender estrategias de inversión. Perfecto para principiantes, profesionales o cualquiera que busque conocimiento financiero.',
@@ -5442,7 +5442,7 @@ return [
         'education_item_3_text_2' => '¿Listo para transformar tu perspectiva financiera? ¡Regístrate con Floventra hoy!',
         'education_register_btn' => 'REGÍSTRATE AHORA >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => '¿Por Qué Conectarte con Profesores de Inversiones en Floventra?',
         'three_steps_item_1_title' => 'Estudio Virtual',
         'three_steps_item_1_text' => 'Floventra conecta a usuarios con educadores en inversiones que ofrecen aprendizaje digital en Ciudad de Panamá, Perú. Estudia desde cualquier lugar y revisa las grabaciones cuando lo necesites.',
@@ -5451,12 +5451,12 @@ return [
         'three_steps_item_3_title' => 'Multilingüismo',
         'three_steps_item_3_text' => 'Aprende en tu idioma preferido con los socios regulados de Floventra en Ciudad de Panamá, Perú, eliminando barreras lingüísticas.',
 
-        // Section: Investor Definition
+
         'investor_title' => '¿Quién es un Inversor?',
         'investor_quote' => 'Un inversor compromete capital a activos o planes para alcanzar metas financieras. Floventra en Ciudad de Panamá, Perú, te conecta con educadores regulados para aprender más.',
         'investor_text' => 'Los inversores enfrentan riesgos que pueden afectar los rendimientos. Aprende a investigar, presupuestar y evaluar riesgos con empresas de educación en inversiones reguladas en Ciudad de Panamá a través de Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Resumen de Tipos de Inversores de Floventra',
         'investor_types_intro' => 'Los inversores varían según metas, tolerancia al riesgo y estrategias. Aprende sobre inversores cuantitativos, socialmente responsables e institucionales con Floventra en Ciudad de Panamá, Perú.',
         'investor_type_1_title' => 'Inversor Cuantitativo',
@@ -5474,13 +5474,13 @@ return [
         'investor_type_3_content' => 'Los inversores institucionales gestionan inversiones a gran escala. Regístrate con Floventra en Ciudad de Panamá para aprender cómo se diferencian de otros inversores.',
         'investor_types_register_btn' => 'REGÍSTRATE GRATIS >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => '¿Qué es un Fondo Indexado?',
         'index_funds_quote' => 'Los fondos indexados siguen el rendimiento del mercado con costos más bajos. Aprende sobre sus riesgos y beneficios con los educadores regulados de Floventra en Ciudad de Panamá, Perú.',
         'index_funds_text_1' => 'Los fondos indexados están ligados al rendimiento del mercado y pueden ser riesgosos. Conéctate con educadores en inversiones regulados en Ciudad de Panamá a través de Floventra para aprender más.',
         'index_funds_text_2' => 'Los inversores eligen fondos indexados, abren cuentas y monitorean carteras. Descubre estrategias de fondos indexados con Floventra en Ciudad de Panamá, Perú.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Aprende sobre Fondos Cotizados (ETFs) con Floventra',
         'etfs_text_1' => 'Los ETFs permiten invertir en diversos valores. Aprende cómo funcionan con educadores regulados en Ciudad de Panamá a través de Floventra.',
         'etfs_text_2' => 'Los ETFs se negocian en bolsas con rendimientos variables. Conéctate con Floventra en Ciudad de Panamá, Perú, para explorar tipos y estrategias de ETFs.',
@@ -5494,7 +5494,7 @@ return [
         'etf_type_4_text' => 'Los ETFs de acciones siguen valores para diversificación. Conéctate con Floventra en Ciudad de Panamá, Perú, para una educación detallada sobre ETFs.',
         'etfs_learn_btn' => 'APRENDE MÁS >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Inversión Ambiental, Social y de Gobernanza (ESG)',
         'assets_esg_quote' => 'La inversión ESG prioriza factores éticos. Aprende cómo se alinea con las regulaciones peruanas a través de Floventra en Ciudad de Panamá.',
         'assets_esg_text' => 'ESG evalúa empresas según estándares ambientales, sociales y de gobernanza. Conéctate con educadores regulados en Ciudad de Panamá a través de Floventra.',
@@ -5504,7 +5504,7 @@ return [
         'assets_market_cap_text_1' => 'La capitalización de mercado varía desde micro hasta grande. Descubre sus riesgos y potencial de crecimiento con Floventra en Ciudad de Panamá, Perú.',
         'assets_market_cap_text_2' => 'Las empresas de mediana y gran capitalización ofrecen crecimiento, pero varían en volatilidad. Aprende más con los socios regulados de Floventra en Ciudad de Panamá.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Entiende el Hedging con Floventra',
         'metrics_hedging_text' => 'El hedging mitiga riesgos de inversión usando derivados. Aprende sus complejidades con educadores regulados en Ciudad de Panamá a través de Floventra.',
         'metrics_terms_title' => 'Conoce Términos Básicos de Inversión con Floventra',
@@ -5521,12 +5521,12 @@ return [
         'metrics_debt_instrument_title' => 'Instrumento de Deuda',
         'metrics_debt_instrument_text' => 'Los instrumentos de deuda recaudan capital mediante bonos o préstamos. Descúbrelos con Floventra en Ciudad de Panamá, Perú.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Nunca es Tarde para Empezar',
         'padding_60_quote' => '¿Luchas por encontrar educación en inversiones confiable en Ciudad de Panamá, Perú? Floventra te conecta con empresas reguladas.',
         'padding_60_text' => 'Floventra ayuda a miles de residentes de Panamá en Ciudad de Panamá a acceder a educación en inversiones confiable. ¡Regístrate gratis hoy!',
 
-        // Section: FAQ
+
         'faq_title' => 'Preguntas Frecuentes de Floventra',
         'faq_1_question' => '¿Qué Enseña Floventra a las Personas?',
         'faq_1_answer' => 'Floventra conecta a residentes de Panamá en Ciudad de Panamá con empresas de educación en inversiones reguladas para un aprendizaje financiero integral.',
@@ -5535,7 +5535,7 @@ return [
         'faq_3_question' => '¿Cómo Conecta Floventra a las Personas con Tutores?',
         'faq_3_answer' => 'Los usuarios se registran con su nombre, correo electrónico y número de teléfono, y las empresas reguladas en Ciudad de Panamá los contactan, cumpliendo con las normativas de privacidad.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Destacados de Floventra',
         'highlight_enrollment_cost_title' => '🤖 Costo de Inscripción',
         'highlight_enrollment_cost_text' => 'Inscripción gratuita para residentes de Panamá en Ciudad de Panamá',
@@ -5548,28 +5548,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Regiones Accesibles',
         'highlight_accessible_regions_text' => 'Disponible en Ciudad de Panamá, Perú, y la mayoría de las regiones, excluyendo EE. UU.',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'El Rol de Floventra en el Panorama de Inversiones',
         'about_principles_role_text' => 'Floventra promueve la educación en inversiones en Ciudad de Panamá, Perú, conectando a usuarios con empresas reguladas para decisiones financieras informadas.',
         'about_principles_gap_title' => 'Cerrando la Brecha de Conocimiento en Inversiones',
         'about_principles_gap_text' => 'Floventra reduce la brecha de conocimiento en inversiones en Ciudad de Panamá, Perú, conectando a usuarios con educadores regulados.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Apunta a un Mundo Progresista',
         'about_forward_thinking_quote' => 'Floventra fomenta la alfabetización financiera en Ciudad de Panamá, Perú, a través de soluciones innovadoras de educación en inversiones.',
         'about_forward_thinking_text' => 'Floventra transforma mentalidades financieras en Ciudad de Panamá, Perú, conectando a usuarios con educación en inversiones regulada.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Valora la Educación',
         'about_education_text_1' => 'Floventra empodera a residentes de Panamá en Ciudad de Panamá con conocimiento, herramientas y estrategias de inversión a través de educadores regulados.',
         'about_education_people_title' => 'La Gente de Floventra',
         'about_education_people_text' => 'Nuestro equipo en Ciudad de Panamá, Perú, trabaja para hacer accesible la educación en inversiones conectando a usuarios con empresas reguladas.',
         'about_education_mission_text' => 'Floventra asegura que los residentes de Panamá en Ciudad de Panamá puedan acceder a la educación en inversiones, cerrando la brecha de conocimiento globalmente.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Formulario de Contacto',
         'contact_form_name_placeholder' => 'Tu Nombre',
         'contact_form_email_placeholder' => 'Correo Electrónico',
@@ -5577,7 +5577,7 @@ return [
         'contact_form_submit_button' => 'Enviar Mensaje',
         'contact_form_success' => '¡Formulario enviado exitosamente!',
 
-        // Section: Login Page
+
         'login_title' => 'Inicio de Sesión de Floventra',
         'login_subtitle' => 'Instrucciones de Inicio de Sesión para Nuevos Usuarios de Floventra',
         'login_instructions_text' => 'Los nuevos usuarios reciben credenciales de inicio de sesión de empresas de educación en inversiones reguladas en Ciudad de Panamá, Perú, para sus sitios web.',
@@ -5593,13 +5593,13 @@ return [
         'login_form_error_last_name' => 'Tu apellido es demasiado corto (mínimo 2 caracteres)',
         'login_form_error_email' => 'Por favor, ingresa tu correo electrónico real (por ejemplo, usuario@ejemplo.com)',
 
-        // Section: Terms
+
         'terms_general_title' => '1. General',
-        'terms_general_1' => 'Bienvenido a floventus.com/pe/ (el "Sitio Web").',
+        'terms_general_1' => 'Bienvenido a floventus.com/ (el "Sitio Web").',
         'terms_general_2' => 'Nuestro correo electrónico: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'El Sitio Web incluye información sobre plataformas de terceros (las <b>"Plataformas de Terceros"</b>), específicamente servicios educativos sobre técnicas generales de inversión o investigación de mercado. Floventra actúa como intermediario, conectando a usuarios con dichas Plataformas de Terceros (los <b>"Servicios"</b>).',
         'terms_general_4' => 'Estos términos de uso (los <b>"Términos"</b>) rigen tu uso (<b>"Tú"</b>, <b>"Tu"</b> o <b>"Usuario"</b>) del Sitio Web y los Servicios. Estos Términos deben ser leídos cuidadosamente por Ti en su totalidad antes de usar los Servicios. Ten en cuenta que estos Términos constituyen un acuerdo legalmente vinculante entre Tú y el operador del Sitio Web, Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Si no estás de acuerdo con alguna disposición de estos Términos, deberás cesar inmediatamente el uso del Sitio Web. Al usar el Sitio Web, aceptas los Términos, según se modifiquen de vez en cuando.',
-        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y, al aceptar estos Términos, confirmas que también aceptas y estás de acuerdo con Nuestra Política de Privacidad (Puedes revisar Nuestra Política de Privacidad haciendo <a href="/pe/privacy-policy/">clic aquí</a>).',
+        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y, al aceptar estos Términos, confirmas que también aceptas y estás de acuerdo con Nuestra Política de Privacidad (Puedes revisar Nuestra Política de Privacidad haciendo <a href="./privacy">clic aquí</a>).',
         'terms_services_title' => '2. Descripción de los Servicios',
         'terms_services_1' => 'No somos una plataforma de inversiones, ni te ponemos en contacto con plataformas de inversiones, a menos que dichas plataformas se comprometan a ofrecerte únicamente servicios educativos o investigación de mercado.',
         'terms_services_2' => 'Actuamos como intermediarios para conectarte con un proveedor de servicios que pueda proponer contenido educativo sobre técnicas generales de inversión o investigación de mercado en áreas de tu interés, cumpliendo con las regulaciones en Perú.',
@@ -5661,9 +5661,9 @@ return [
         'terms_miscellaneous_8' => 'Estos términos se regirán por la ley peruana.',
         'terms_miscellaneous_9' => 'El lugar exclusivo de jurisdicción para todas las disputas que surjan de o en conexión con estos Términos serán los tribunales de Perú.',
 
-        // Section: Privacy
+
         'privacy_purpose_title' => 'Propósito de la Notificación',
-        'privacy_purpose_text' => 'El propósito de esta Notificación de Privacidad de Datos (la "Notificación") es explicar cómo Floventra ("Floventra" o "Nosotros") procesará, como controlador de datos, tus datos personales que nos proporciones cuando visites el sitio web floventus.com/pe/, o que recibamos de terceros, para ponerte en contacto con profesionales que puedan interesarte.',
+        'privacy_purpose_text' => 'El propósito de esta Notificación de Privacidad de Datos (la "Notificación") es explicar cómo Floventra ("Floventra" o "Nosotros") procesará, como controlador de datos, tus datos personales que nos proporciones cuando visites el sitio web floventus.com/, o que recibamos de terceros, para ponerte en contacto con profesionales que puedan interesarte.',
         'privacy_data_categories_title' => '¿Qué Categorías de Datos Personales Serán Procesadas?',
         'privacy_data_categories_text' => 'Recopilamos y procesamos las siguientes categorías de datos personales sobre ti:',
         'privacy_data_collection_title' => '¿Cómo se Recopilan Tus Datos?',
@@ -5707,7 +5707,7 @@ return [
         'privacy_last_updated' => 'Última actualización: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'br' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Brasil',
         'locale' => 'pt_BR',
         'locale_lang' => 'pt-BR',
@@ -5723,25 +5723,25 @@ return [
         'jsonld_organization_review_author' => 'Usuário do Floventra',
         'jsonld_organization_review_body' => 'Floventra conecta residentes do Rio de Janeiro, Brasil, a empresas de educação em investimentos regulamentadas pela CVM, oferecendo aprendizado financeiro acessível e confiável.',
         'jsonld_software_categories' => 'Plataforma de Educação em Investimentos',
-        'jsonld_software_price' => '0', // Cadastro gratuito
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'BRL',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Educação em Investimentos no Rio de Janeiro, Brasil',
         'og_description' => 'Junte-se ao Floventra no Rio de Janeiro, Brasil, para se conectar com empresas de educação em investimentos regulamentadas pela CVM. Comece sua jornada de aprendizado financeiro hoje!',
-        'og_image' => 'https://floventus.com/br/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/br/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Educação em Investimentos no Rio de Janeiro',
         'twitter_description' => 'Descubra a educação em investimentos com Floventra no Rio de Janeiro, Brasil. Conecte-se com empresas regulamentadas pela CVM gratuitamente!',
-        'twitter_image' => 'https://floventus.com/br/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Plataforma de Educação em Investimentos no Rio de Janeiro, Brasil | O site oficial',
         'meta_description' => 'Junte-se ao Floventra no Rio de Janeiro, Brasil, para se conectar com empresas de educação em investimentos regulamentadas pela CVM. Comece sua jornada de aprendizado financeiro hoje!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, educação em investimentos Rio de Janeiro, aprendizado financeiro Brasil, Floventra, educação regulamentada pela CVM, plataforma de investimentos Brasil',
@@ -5758,60 +5758,60 @@ return [
         'jsonld_faq_6_question' => 'Posso acessar o Floventra no Rio de Janeiro?',
         'jsonld_faq_6_answer' => 'O Floventra é totalmente acessível para residentes do Brasil no Rio de Janeiro, oferecendo uma plataforma amigável para educação em investimentos.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Sobre Floventra - Educação em Investimentos no Rio de Janeiro, Brasil',
         'about_desc_content' => 'Conheça o Floventra, uma plataforma líder no Rio de Janeiro, Brasil, que conecta usuários a empresas de educação em investimentos regulamentadas pela CVM.',
         'about_keywords' => 'Floventra sobre, educação em investimentos Rio de Janeiro, aprendizado financeiro Brasil, educação regulamentada pela CVM, plataforma de investimentos Brasil',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contato Floventra - Educação em Investimentos no Rio de Janeiro, Brasil',
         'contact_desc_content' => 'Entre em contato com o Floventra no Rio de Janeiro, Brasil, para perguntas sobre nossos serviços de educação em investimentos regulamentados pela CVM. Fale conosco hoje!',
         'contact_keywords' => 'Floventra contato, educação em investimentos Rio de Janeiro, aprendizado financeiro Brasil, plataforma regulamentada pela CVM, contato educação em investimentos',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Política de Cookies Floventra - Rio de Janeiro, Brasil',
         'cookie_desc_content' => 'Conheça a Política de Cookies do Floventra para serviços de educação em investimentos no Rio de Janeiro, Brasil. Saiba como usamos cookies para melhorar sua experiência.',
         'cookie_keywords' => 'Floventra política de cookies, educação em investimentos Rio de Janeiro, política de cookies Brasil, plataforma regulamentada pela CVM, cookies educação financeira',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Termos de Uso Floventra - Educação em Investimentos no Rio de Janeiro, Brasil',
         'terms_desc_content' => 'Conheça os Termos de Uso do Floventra, que regem o acesso à nossa plataforma de educação em investimentos no Rio de Janeiro, Brasil. Saiba mais sobre elegibilidade e conformidade com a CVM.',
         'terms_keywords' => 'Floventra termos, plataforma de educação em investimentos, termos e condições Brasil, serviços regulamentados pela CVM, educação financeira Rio de Janeiro',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Política de Privacidade Floventra - Rio de Janeiro, Brasil',
         'privacy_desc_content' => 'Leia a Política de Privacidade do Floventra para serviços de educação em investimentos no Rio de Janeiro, Brasil. Saiba como protegemos seus dados sob a LGPD.',
         'privacy_keywords' => 'Floventra privacidade, educação em investimentos Rio de Janeiro, conformidade com LGPD, privacidade educação financeira, plataforma regulamentada pela CVM',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Crie Seu Perfil - Floventra Educação em Investimentos no Rio de Janeiro, Brasil',
         'create-profile_content' => 'Cadastre-se no Floventra no Rio de Janeiro, Brasil, para se conectar com empresas de educação em investimentos regulamentadas pela CVM. Comece sua jornada de aprendizado hoje!',
         'create-profile_keywords' => 'Floventra cadastro, educação em investimentos Rio de Janeiro, aprendizado financeiro Brasil, plataforma regulamentada pela CVM, criar perfil investimentos',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Início',
         'about' => 'Sobre Nós',
         'contact' => 'Contato',
         'privacy' => 'Política de Privacidade',
         'terms' => 'Termos e Condições',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Entrar',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Cadastre-se agora',
         'main_form_terms_text' => '* Ao clicar no botão, você concorda e aceita a Política de Privacidade e os Termos e Condições',
 
-        // Section: About Platform
+
         'about_subtitle' => 'O que é Floventra AI?',
         'about_quote' => 'Floventra conecta residentes do Brasil no Rio de Janeiro a empresas de educação em investimentos regulamentadas pela CVM, tornando o aprendizado financeiro acessível e eficaz.',
         'about_text_1' => 'Floventra simplifica o acesso à educação em investimentos no Rio de Janeiro, Brasil. Nossa plataforma faz parceria com empresas regulamentadas pela CVM para oferecer experiências de aprendizado personalizadas para todos os níveis de habilidade.',
         'about_text_2' => 'Não é necessário conhecimento prévio em investimentos. Basta se cadastrar com seu nome, e-mail e número de telefone, e nossos parceiros entrarão em contato para iniciar sua jornada de educação financeira no Rio de Janeiro.',
         'about_register_btn' => 'CADASTRE-SE AQUI >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Aprimore Suas Habilidades Financeiras com Floventra no Rio de Janeiro',
         'education_item_1_title' => 'Domine Novas Habilidades de Investimento',
         'education_item_1_text' => 'Floventra conecta residentes do Brasil no Rio de Janeiro a empresas regulamentadas pela CVM para aprender estratégias de investimento. Perfeito para iniciantes, profissionais ou qualquer pessoa em busca de conhecimento financeiro.',
@@ -5823,7 +5823,7 @@ return [
         'education_item_3_text_2' => 'Pronto para transformar sua visão financeira? Cadastre-se no Floventra hoje!',
         'education_register_btn' => 'CADASTRE-SE AGORA >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Por que se conectar com professores de investimentos no Floventra?',
         'three_steps_item_1_title' => 'Estudo Virtual',
         'three_steps_item_1_text' => 'Floventra conecta usuários a educadores de investimentos que oferecem aprendizado digital no Rio de Janeiro, Brasil. Estude de qualquer lugar e revisite as gravações quando necessário.',
@@ -5832,12 +5832,12 @@ return [
         'three_steps_item_3_title' => 'Diversidade de Idiomas',
         'three_steps_item_3_text' => 'Aprenda em seu idioma preferido com os parceiros regulamentados pela CVM do Floventra no Rio de Janeiro, Brasil, eliminando barreiras linguísticas.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Quem é um Investidor?',
         'investor_quote' => 'Um investidor compromete capital em ativos ou planos para alcançar objetivos financeiros. O Floventra no Rio de Janeiro, Brasil, conecta você a educadores regulamentados pela CVM para aprender mais.',
         'investor_text' => 'Investidores enfrentam riscos que podem impactar os retornos. Aprenda a pesquisar, planejar orçamentos e avaliar riscos com empresas de educação em investimentos regulamentadas pela CVM no Rio de Janeiro via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Visão Geral dos Tipos de Investidores pelo Floventra',
         'investor_types_intro' => 'Os investidores variam por objetivos, tolerância ao risco e estratégias. Aprenda sobre investidores quantitativos, socialmente responsáveis e institucionais com o Floventra no Rio de Janeiro, Brasil.',
         'investor_type_1_title' => 'Investidor Quantitativo',
@@ -5855,13 +5855,13 @@ return [
         'investor_type_3_content' => 'Investidores institucionais gerenciam investimentos em grande escala. Cadastre-se no Floventra no Rio de Janeiro para aprender como eles diferem de outros investidores.',
         'investor_types_register_btn' => 'CADASTRE-SE GRATUITAMENTE >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'O que é um Fundo de Índice?',
         'index_funds_quote' => 'Fundos de índice acompanham o desempenho do mercado com custos mais baixos. Aprenda sobre seus riscos e benefícios com os educadores regulamentados pela CVM do Floventra no Rio de Janeiro, Brasil.',
         'index_funds_text_1' => 'Fundos de índice estão vinculados ao desempenho do mercado e podem ser arriscados. Conecte-se com educadores de investimentos regulamentados pela CVM no Rio de Janeiro via Floventra para saber mais.',
         'index_funds_text_2' => 'Investidores escolhem fundos de índice, abrem contas e monitoram portfólios. Descubra estratégias de fundos de índice com o Floventra no Rio de Janeiro, Brasil.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Aprenda Sobre Fundos Negociados em Bolsa (ETFs) via Floventra',
         'etfs_text_1' => 'ETFs permitem investimento em diversos títulos. Aprenda como funcionam com educadores regulamentados pela CVM no Rio de Janeiro via Floventra.',
         'etfs_text_2' => 'ETFs são negociados em bolsas com retornos variados. Conecte-se com o Floventra no Rio de Janeiro, Brasil, para explorar tipos e estratégias de ETFs.',
@@ -5875,7 +5875,7 @@ return [
         'etf_type_4_text' => 'ETFs de ações acompanham equities para diversificação. Conecte-se com o Floventra no Rio de Janeiro, Brasil, para uma educação detalhada sobre ETFs.',
         'etfs_learn_btn' => 'SAIBA MAIS >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Investimento Ambiental, Social e de Governança (ESG)',
         'assets_esg_quote' => 'O investimento ESG prioriza fatores éticos. Aprenda como ele se alinha com as regulamentações brasileiras via Floventra no Rio de Janeiro.',
         'assets_esg_text' => 'ESG avalia empresas com base em padrões ambientais, sociais e de governança. Conecte-se com educadores regulamentados pela CVM no Rio de Janeiro via Floventra.',
@@ -5885,7 +5885,7 @@ return [
         'assets_market_cap_text_1' => 'A capitalização de mercado varia de micro a grande. Descubra seus riscos e potencial de crescimento com o Floventra no Rio de Janeiro, Brasil.',
         'assets_market_cap_text_2' => 'Empresas de média e grande capitalização oferecem crescimento, mas variam em volatilidade. Saiba mais com os parceiros regulamentados pela CVM do Floventra no Rio de Janeiro.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Entenda o Hedging via Floventra',
         'metrics_hedging_text' => 'O hedging mitiga riscos de investimento usando derivativos. Aprenda suas complexidades com educadores regulamentados pela CVM no Rio de Janeiro via Floventra.',
         'metrics_terms_title' => 'Conheça Termos Básicos de Investimento via Floventra',
@@ -5902,12 +5902,12 @@ return [
         'metrics_debt_instrument_title' => 'Instrumento de Dívida',
         'metrics_debt_instrument_text' => 'Instrumentos de dívida captam capital via títulos ou empréstimos. Descubra-os com o Floventra no Rio de Janeiro, Brasil.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Nunca é Tarde para Começar',
         'padding_60_quote' => 'Dificuldade em encontrar educação em investimentos confiável no Rio de Janeiro, Brasil? O Floventra conecta você a empresas regulamentadas pela CVM.',
         'padding_60_text' => 'O Floventra ajuda milhares de residentes do Brasil no Rio de Janeiro a acessar educação em investimentos confiável. Cadastre-se gratuitamente hoje.',
 
-        // Section: FAQ
+
         'faq_title' => 'Perguntas Frequentes do Floventra',
         'faq_1_question' => 'O que o Floventra Ensina às Pessoas?',
         'faq_1_answer' => 'O Floventra conecta residentes do Brasil no Rio de Janeiro a empresas de educação em investimentos regulamentadas pela CVM para um aprendizado financeiro abrangente.',
@@ -5916,7 +5916,7 @@ return [
         'faq_3_question' => 'Como o Floventra Conecta Pessoas a Tutores?',
         'faq_3_answer' => 'Os usuários se cadastram com nome, e-mail e número de telefone, e empresas regulamentadas pela CVM no Rio de Janeiro entram em contato, em conformidade com a LGPD.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Destaques do Floventra',
         'highlight_enrollment_cost_title' => '🤖 Custo de Inscrição',
         'highlight_enrollment_cost_text' => 'Inscrição gratuita para residentes do Brasil no Rio de Janeiro',
@@ -5929,28 +5929,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Regiões Acessíveis',
         'highlight_accessible_regions_text' => 'Disponível no Rio de Janeiro, Brasil, e na maioria das regiões, exceto os EUA',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'O Papel do Floventra no Cenário de Investimentos',
         'about_principles_role_text' => 'O Floventra promove educação em investimentos no Rio de Janeiro, Brasil, conectando usuários a empresas regulamentadas pela CVM para decisões financeiras informadas.',
         'about_principles_gap_title' => 'Fechando a Lacuna de Conhecimento em Investimentos',
         'about_principles_gap_text' => 'O Floventra reduz a lacuna de conhecimento em investimentos no Rio de Janeiro, Brasil, conectando usuários a educadores regulamentados pela CVM.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Busca um Mundo com Visão de Futuro',
         'about_forward_thinking_quote' => 'O Floventra promove alfabetização financeira no Rio de Janeiro, Brasil, por meio de soluções inovadoras de educação em investimentos.',
         'about_forward_thinking_text' => 'O Floventra transforma mentalidades financeiras no Rio de Janeiro, Brasil, conectando usuários a educação em investimentos regulamentada pela CVM.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Valoriza a Educação',
         'about_education_text_1' => 'O Floventra capacita residentes do Brasil no Rio de Janeiro com conhecimento, ferramentas e estratégias de investimento por meio de educadores regulamentados pela CVM.',
         'about_education_people_title' => 'As Pessoas do Floventra',
         'about_education_people_text' => 'Nossa equipe no Rio de Janeiro, Brasil, trabalha para tornar a educação em investimentos acessível, conectando usuários a empresas regulamentadas pela CVM.',
         'about_education_mission_text' => 'O Floventra garante que residentes do Brasil no Rio de Janeiro possam acessar educação em investimentos, reduzindo a lacuna de conhecimento globalmente.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Formulário de Contato',
         'contact_form_name_placeholder' => 'Seu Nome',
         'contact_form_email_placeholder' => 'E-mail',
@@ -5958,7 +5958,7 @@ return [
         'contact_form_submit_button' => 'Enviar Mensagem',
         'contact_form_success' => 'Formulário enviado com sucesso!',
 
-        // Section: Login Page
+
         'login_title' => 'Login Floventra',
         'login_subtitle' => 'Instruções de Login para Novos Usuários do Floventra',
         'login_instructions_text' => 'Novos usuários recebem credenciais de login de empresas de educação em investimentos regulamentadas pela CVM no Rio de Janeiro, Brasil, para seus sites.',
@@ -5974,13 +5974,13 @@ return [
         'login_form_error_last_name' => 'Seu sobrenome é muito curto (mínimo de 2 caracteres)',
         'login_form_error_email' => 'Por favor, insira seu endereço de e-mail real (exemplo: usuario@exemplo.com)',
 
-        // Section: Terms
+
         'terms_general_title' => '1. Geral',
         'terms_general_1' => 'Bem-vindo ao floventus.com (o "Site").',
         'terms_general_2' => 'Nosso e-mail: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'O Site inclui informações sobre plataformas de terceiros (as <b>"Plataformas de Terceiros"</b>), especificamente serviços educacionais sobre técnicas gerais de investimento ou pesquisa de mercado. O Floventra atua como intermediário, conectando usuários a tais Plataformas de Terceiros (os <b>"Serviços"</b>).',
         'terms_general_4' => 'Estes termos de uso (os <b>"Termos"</b>) regem seu uso (<b>"Você"</b>, <b>"Seu"</b> ou <b>"Usuário"</b>) do Site e dos Serviços. Estes Termos devem ser lidos cuidadosamente por Você na íntegra antes de usar os Serviços. Observe que estes Termos constituem um acordo juridicamente vinculativo entre Você e o operador do Site, Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Se Você não concordar com qualquer disposição destes Termos, Você deve cessar imediatamente o uso do Site. Ao usar o Site, Você concorda com os Termos, conforme alterados de tempos em tempos.',
-        'terms_general_5' => 'Estes Termos incorporam Nossa Política de Privacidade e, ao concordar com estes Termos, Você confirma que também aceita e concorda com nossa política de privacidade (Você pode revisar Nossa Política de Privacidade <a href="/br/privacy-policy/">clicando aqui</a>).',
+        'terms_general_5' => 'Estes Termos incorporam Nossa Política de Privacidade e, ao concordar com estes Termos, Você confirma que também aceita e concorda com nossa política de privacidade (Você pode revisar Nossa Política de Privacidade <a href="./privacy">clicando aqui</a>).',
         'terms_services_title' => '2. Descrição dos Serviços',
         'terms_services_1' => 'Não somos uma plataforma de investimentos, nem colocamos Você em contato com tais plataformas de investimentos, a menos que tal plataforma se comprometa a oferecer apenas serviços educacionais ou pesquisa de mercado.',
         'terms_services_2' => 'Atuamos como intermediário para conectar Você a um provedor de serviços capaz de propor conteúdo educacional sobre técnicas gerais de investimento ou pesquisa de mercado em áreas de seu interesse, em conformidade com as regulamentações da CVM no Brasil.',
@@ -6042,7 +6042,7 @@ return [
         'terms_miscellaneous_8' => 'Estes termos serão regidos pela lei brasileira.',
         'terms_miscellaneous_9' => 'O foro exclusivo para todas as disputas decorrentes ou relacionadas a estes Termos será os tribunais do Rio de Janeiro, Brasil.',
 
-        // Section: Privacy
+
         'privacy_purpose_title' => 'Finalidade do Aviso',
         'privacy_purpose_text' => 'O objetivo deste Aviso de Privacidade de Dados (o "Aviso") é explicar como o Floventra ("Floventra" ou "Nós") processará, como controlador de dados, seus dados pessoais que você nos fornece quando visita o site floventus.com (o "Site"), ou que recebemos de terceiros, para colocá-lo em contato com profissionais que possam ser de seu interesse.',
         'privacy_data_categories_title' => 'Quais Categorias de Dados Pessoais Serão Processadas?',
@@ -6088,7 +6088,7 @@ return [
         'privacy_last_updated' => 'Última atualização: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'pa' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Panamá',
         'locale' => 'es_PA',
         'locale_lang' => 'es-PA',
@@ -6104,25 +6104,25 @@ return [
         'jsonld_organization_review_author' => 'Usuario de Floventra',
         'jsonld_organization_review_body' => 'Floventra conecta a residentes de Panamá en Ciudad de Panamá con firmas de educación en inversiones reguladas por la SMV, ofreciendo aprendizaje financiero accesible y confiable.',
         'jsonld_software_categories' => 'Plataforma de Educación en Inversiones',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'PAB',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Educación en Inversiones en Ciudad de Panamá, Panamá',
         'og_description' => 'Únete a Floventra en Ciudad de Panamá, Panamá, para conectar con firmas de educación en inversiones reguladas por la SMV. ¡Comienza tu viaje de aprendizaje financiero hoy!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/pa/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Educación en Inversiones en Ciudad de Panamá',
         'twitter_description' => 'Descubre la educación en inversiones con Floventra en Ciudad de Panamá, Panamá. ¡Conecta con firmas reguladas por la SMV gratis!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Plataforma de Educación en Inversiones en Ciudad de Panamá, Panamá | El sitio web oficial',
         'meta_description' => 'Únete a Floventra en Ciudad de Panamá, Panamá, para conectar con firmas de educación en inversiones reguladas por la SMV. ¡Comienza tu viaje de aprendizaje financiero hoy!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, educación en inversiones Ciudad de Panamá, aprendizaje financiero Panamá, Floventra, educación regulada por la SMV, plataforma de inversiones Panamá',
@@ -6139,60 +6139,60 @@ return [
         'jsonld_faq_6_question' => '¿Puedo acceder a Floventra en Ciudad de Panamá?',
         'jsonld_faq_6_answer' => 'Floventra es totalmente accesible para residentes de Panamá en Ciudad de Panamá, ofreciendo una plataforma fácil de usar para la educación en inversiones.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Acerca de Floventra - Educación en Inversiones en Ciudad de Panamá, Panamá',
         'about_desc_content' => 'Conoce Floventra, una plataforma líder en Ciudad de Panamá, Panamá, que conecta a usuarios con firmas de educación en inversiones reguladas por la SMV.',
         'about_keywords' => 'Floventra acerca, educación en inversiones Ciudad de Panamá, aprendizaje financiero Panamá, educación regulada por la SMV, plataforma de inversiones Panamá',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contacta a Floventra - Educación en Inversiones en Ciudad de Panamá, Panamá',
         'contact_desc_content' => 'Contacta a Floventra en Ciudad de Panamá, Panamá, para consultas sobre nuestros servicios de educación en inversiones regulados por la SMV. ¡Ponte en contacto hoy!',
         'contact_keywords' => 'Floventra contacto, educación en inversiones Ciudad de Panamá, aprendizaje financiero Panamá, plataforma regulada por la SMV, contacto educación en inversiones',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Política de Cookies de Floventra - Ciudad de Panamá, Panamá',
         'cookie_desc_content' => 'Explora la Política de Cookies de Floventra para servicios de educación en inversiones en Ciudad de Panamá, Panamá. Aprende cómo usamos cookies para mejorar tu experiencia.',
         'cookie_keywords' => 'Floventra política de cookies, educación en inversiones Ciudad de Panamá, política de cookies Panamá, plataforma regulada por la SMV, cookies educación financiera',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Términos de Uso de Floventra - Educación en Inversiones en Ciudad de Panamá, Panamá',
         'terms_desc_content' => 'Explora los Términos de Uso de Floventra, que rigen el acceso a nuestra plataforma de educación en inversiones en Ciudad de Panamá, Panamá. Conoce la elegibilidad y el cumplimiento con la SMV.',
         'terms_keywords' => 'Floventra términos, plataforma de educación en inversiones, términos y condiciones Panamá, servicios regulados por la SMV, educación financiera Ciudad de Panamá',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Política de Privacidad de Floventra - Ciudad de Panamá, Panamá',
         'privacy_desc_content' => 'Lee la Política de Privacidad de Floventra para servicios de educación en inversiones en Ciudad de Panamá, Panamá. Aprende cómo protegemos tus datos conforme a las regulaciones de Panamá.',
         'privacy_keywords' => 'Floventra privacidad, educación en inversiones Ciudad de Panamá, cumplimiento normativo Panamá, privacidad educación financiera, plataforma regulada por la SMV',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Crea tu Perfil - Educación en Inversiones con Floventra en Ciudad de Panamá, Panamá',
         'create-profile_content' => 'Regístrate con Floventra en Ciudad de Panamá, Panamá, para conectar con firmas de educación en inversiones reguladas por la SMV. ¡Comienza tu viaje de aprendizaje hoy!',
         'create-profile_keywords' => 'Floventra registro, educación en inversiones Ciudad de Panamá, aprendizaje financiero Panamá, plataforma regulada por la SMV, crear perfil inversiones',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Inicio',
         'about' => 'Acerca de Nosotros',
         'contact' => 'Contáctanos',
         'privacy' => 'Política de Privacidad',
         'terms' => 'Términos y Condiciones',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Iniciar Sesión',
 
-        // Main Page Section
+
         'main_title' => 'Floventra IA',
         'main_form_title' => 'Regístrate ahora',
         'main_form_terms_text' => '* Al hacer clic en el botón, aceptas y estás de acuerdo con la Política de Privacidad y los Términos y Condiciones',
 
-        // Section: About Platform
+
         'about_subtitle' => '¿Qué es Floventra IA?',
         'about_quote' => 'Floventra conecta a residentes de Panamá con firmas de educación en inversiones reguladas por la SMV en Ciudad de Panamá, haciendo que el aprendizaje financiero sea accesible y efectivo.',
         'about_text_1' => 'Floventra simplifica el acceso a la educación en inversiones en Ciudad de Panamá, Panamá. Nuestra plataforma se asocia con firmas reguladas por la SMV para proporcionar experiencias de aprendizaje personalizadas para todos los niveles de habilidad.',
         'about_text_2' => 'No se necesita conocimiento previo en inversiones. Simplemente regístrate con tu nombre, correo electrónico y número de teléfono, y nuestros socios te contactarán para comenzar tu viaje de educación financiera en Ciudad de Panamá.',
         'about_register_btn' => 'REGÍSTRATE AQUÍ >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Mejora tus Habilidades Financieras con Floventra en Ciudad de Panamá',
         'education_item_1_title' => 'Domina Nuevas Habilidades de Inversión',
         'education_item_1_text' => 'Floventra conecta a residentes de Panamá en Ciudad de Panamá con firmas reguladas por la SMV para aprender estrategias de inversión. Perfecto para principiantes, profesionales o cualquier persona que busque conocimiento financiero.',
@@ -6204,7 +6204,7 @@ return [
         'education_item_3_text_2' => '¿Listo para transformar tu perspectiva financiera? ¡Regístrate con Floventra hoy!',
         'education_register_btn' => 'REGÍSTRATE AHORA >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => '¿Por qué Conectar con Profesores de Inversiones en Floventra?',
         'three_steps_item_1_title' => 'Estudio Virtual',
         'three_steps_item_1_text' => 'Floventra conecta a usuarios con educadores en inversiones que ofrecen aprendizaje digital en Ciudad de Panamá, Panamá. Estudia desde cualquier lugar y revisa las grabaciones cuando lo necesites.',
@@ -6213,12 +6213,12 @@ return [
         'three_steps_item_3_title' => 'Diversidad Lingüística',
         'three_steps_item_3_text' => 'Aprende en tu idioma preferido con los socios regulados por la SMV de Floventra en Ciudad de Panamá, Panamá, eliminando barreras lingüísticas.',
 
-        // Section: Investor Definition
+
         'investor_title' => '¿Quién es un Inversor?',
         'investor_quote' => 'Un inversor compromete capital a activos o planes para alcanzar metas financieras. Floventra en Ciudad de Panamá, Panamá, te conecta con educadores regulados por la SMV para aprender más.',
         'investor_text' => 'Los inversores enfrentan riesgos que pueden afectar los retornos. Aprende a investigar, presupuestar y evaluar riesgos con firmas de educación en inversiones reguladas por la SMV en Ciudad de Panamá a través de Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Resumen de Tipos de Inversores de Floventra',
         'investor_types_intro' => 'Los inversores varían según objetivos, tolerancia al riesgo y estrategias. Aprende sobre inversores cuantitativos, socialmente responsables e institucionales con Floventra en Ciudad de Panamá, Panamá.',
         'investor_type_1_title' => 'Inversor Cuantitativo',
@@ -6236,13 +6236,13 @@ return [
         'investor_type_3_content' => 'Los inversores institucionales gestionan inversiones a gran escala. Regístrate con Floventra en Ciudad de Panamá para aprender cómo se diferencian de otros inversores.',
         'investor_types_register_btn' => 'REGÍSTRATE GRATIS >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => '¿Qué es un Fondo Indexado?',
         'index_funds_quote' => 'Los fondos indexados siguen el rendimiento del mercado con menores costos. Aprende sobre sus riesgos y beneficios con los educadores regulados por la SMV de Floventra en Ciudad de Panamá, Panamá.',
         'index_funds_text_1' => 'Los fondos indexados están ligados al rendimiento del mercado y pueden ser riesgosos. Conecta con educadores en inversiones regulados por la SMV en Ciudad de Panamá a través de Floventra para aprender más.',
         'index_funds_text_2' => 'Los inversores eligen fondos indexados, abren cuentas y monitorean carteras. Descubre estrategias de fondos indexados con Floventra en Ciudad de Panamá, Panamá.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Aprende sobre Fondos Cotizados (ETFs) con Floventra',
         'etfs_text_1' => 'Los ETFs permiten invertir en diversos valores. Aprende cómo funcionan con educadores regulados por la SMV en Ciudad de Panamá a través de Floventra.',
         'etfs_text_2' => 'Los ETFs se negocian en bolsas con retornos variables. Conecta con Floventra en Ciudad de Panamá, Panamá, para explorar tipos y estrategias de ETFs.',
@@ -6256,7 +6256,7 @@ return [
         'etf_type_4_text' => 'Los ETFs de acciones siguen valores para diversificación. Conecta con Floventra en Ciudad de Panamá, Panamá, para una educación detallada sobre ETFs.',
         'etfs_learn_btn' => 'APRENDE MÁS >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Inversión Ambiental, Social y de Gobernanza (ESG)',
         'assets_esg_quote' => 'La inversión ESG prioriza factores éticos. Aprende cómo se alinea con las regulaciones de Panamá a través de Floventra en Ciudad de Panamá.',
         'assets_esg_text' => 'ESG evalúa empresas según estándares ambientales, sociales y de gobernanza. Conecta con educadores regulados por la SMV en Ciudad de Panamá a través de Floventra.',
@@ -6266,7 +6266,7 @@ return [
         'assets_market_cap_text_1' => 'La capitalización de mercado varía de micro a grande. Descubre sus riesgos y potencial de crecimiento con Floventra en Ciudad de Panamá, Panamá.',
         'assets_market_cap_text_2' => 'Las empresas de capitalización media y grande ofrecen crecimiento pero varían en volatilidad. Aprende más con los socios regulados por la SMV de Floventra en Ciudad de Panamá.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Entiende la Cobertura con Floventra',
         'metrics_hedging_text' => 'La cobertura mitiga riesgos de inversión usando derivados. Aprende sus complejidades con educadores regulados por la SMV en Ciudad de Panamá a través de Floventra.',
         'metrics_terms_title' => 'Conoce Términos Básicos de Inversión con Floventra',
@@ -6283,12 +6283,12 @@ return [
         'metrics_debt_instrument_title' => 'Instrumento de Deuda',
         'metrics_debt_instrument_text' => 'Los instrumentos de deuda recaudan capital mediante bonos o préstamos. Descúbrelos con Floventra en Ciudad de Panamá, Panamá.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Nunca es Tarde para Comenzar',
         'padding_60_quote' => '¿Luchas por encontrar educación en inversiones confiable en Ciudad de Panamá, Panamá? Floventra te conecta con firmas reguladas por la SMV.',
         'padding_60_text' => 'Floventra ayuda a miles de residentes de Panamá en Ciudad de Panamá a acceder a educación en inversiones confiable. Regístrate gratis hoy.',
 
-        // Section: FAQ
+
         'faq_title' => 'Preguntas Frecuentes de Floventra',
         'faq_1_question' => '¿Qué Enseña Floventra a las Personas?',
         'faq_1_answer' => 'Floventra conecta a residentes de Panamá en Ciudad de Panamá con firmas de educación en inversiones reguladas por la SMV para un aprendizaje financiero integral.',
@@ -6297,7 +6297,7 @@ return [
         'faq_3_question' => '¿Cómo Conecta Floventra a las Personas con Tutores?',
         'faq_3_answer' => 'Los usuarios se registran con su nombre, correo electrónico y número de teléfono, y las firmas reguladas por la SMV en Ciudad de Panamá los contactan, cumpliendo con las regulaciones de Panamá.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Destacados de Floventra',
         'highlight_enrollment_cost_title' => '🤖 Costo de Inscripción',
         'highlight_enrollment_cost_text' => 'Inscripción gratuita para residentes de Panamá en Ciudad de Panamá',
@@ -6310,28 +6310,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Regiones Accesibles',
         'highlight_accessible_regions_text' => 'Disponible en Ciudad de Panamá, Panamá, y la mayoría de las regiones, excluyendo los EE. UU.',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'El Rol de Floventra en el Panorama de Inversiones',
         'about_principles_role_text' => 'Floventra promueve la educación en inversiones en Ciudad de Panamá, Panamá, conectando a usuarios con firmas reguladas por la SMV para decisiones financieras informadas.',
         'about_principles_gap_title' => 'Cerrando la Brecha de Conocimiento en Inversiones',
         'about_principles_gap_text' => 'Floventra cierra la brecha de conocimiento en inversiones en Ciudad de Panamá, Panamá, vinculando a usuarios con educadores regulados por la SMV.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Apunta a un Mundo Progresista',
         'about_forward_thinking_quote' => 'Floventra fomenta la alfabetización financiera en Ciudad de Panamá, Panamá, a través de soluciones innovadoras de educación en inversiones.',
         'about_forward_thinking_text' => 'Floventra transforma mentalidades financieras en Ciudad de Panamá, Panamá, conectando a usuarios con educación en inversiones regulada por la SMV.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Valora la Educación',
         'about_education_text_1' => 'Floventra empodera a residentes de Panamá en Ciudad de Panamá con conocimiento, herramientas y estrategias de inversión a través de educadores regulados por la SMV.',
         'about_education_people_title' => 'La Gente de Floventra',
         'about_education_people_text' => 'Nuestro equipo en Ciudad de Panamá, Panamá, trabaja para hacer accesible la educación en inversiones conectando a usuarios con firmas reguladas por la SMV.',
         'about_education_mission_text' => 'Floventra asegura que los residentes de Panamá en Ciudad de Panamá puedan acceder a educación en inversiones, cerrando la brecha de conocimiento globalmente.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Formulario de Contacto',
         'contact_form_name_placeholder' => 'Tu Nombre',
         'contact_form_email_placeholder' => 'Correo Electrónico',
@@ -6339,7 +6339,7 @@ return [
         'contact_form_submit_button' => 'Enviar Mensaje',
         'contact_form_success' => '¡Formulario enviado con éxito!',
 
-        // Section: Login Page
+
         'login_title' => 'Inicio de Sesión en Floventra',
         'login_subtitle' => 'Instrucciones de Inicio de Sesión para Nuevos Usuarios de Floventra',
         'login_instructions_text' => 'Los nuevos usuarios reciben credenciales de inicio de sesión de firmas de educación en inversiones reguladas por la SMV en Ciudad de Panamá, Panamá, para sus sitios web.',
@@ -6355,13 +6355,13 @@ return [
         'login_form_error_last_name' => 'Tu apellido es demasiado corto (mínimo 2 caracteres)',
         'login_form_error_email' => 'Por favor, ingresa tu dirección de correo electrónico real (por ejemplo, usuario@ejemplo.com)',
 
-        // Section: Terms
+
         'terms_general_title' => '1. General',
         'terms_general_1' => 'Bienvenido a floventus.com (el "Sitio Web").',
         'terms_general_2' => 'Nuestro correo electrónico: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'El Sitio Web incluye información sobre plataformas de terceros (las <b>"Plataformas de Terceros"</b>), específicamente servicios educativos sobre técnicas generales de inversión o investigación de mercado. Floventra actúa como intermediario, conectando a usuarios con dichas Plataformas de Terceros (los <b>"Servicios"</b>).',
         'terms_general_4' => 'Estos términos de uso (los <b>"Términos"</b>) rigen tu uso (<b>"Tú"</b>, <b>"Tu"</b> o <b>"Usuario"</b>) del Sitio Web y los Servicios. Estos Términos deben ser leídos cuidadosamente por Ti en su totalidad antes de usar los Servicios. Ten en cuenta que estos Términos constituyen un acuerdo legalmente vinculante entre Tú y el operador del Sitio Web, Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Si no estás de acuerdo con alguna disposición de estos Términos, deberás cesar inmediatamente el uso del Sitio Web. Al usar el Sitio Web, aceptas los Términos, según se modifiquen de vez en cuando.',
-        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y, al aceptar estos Términos, confirmas que también aceptas y estás de acuerdo con Nuestra política de privacidad (puedes revisar Nuestra Política de Privacidad <a href="/pa/privacy-policy/">haciendo clic aquí</a>).',
+        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y, al aceptar estos Términos, confirmas que también aceptas y estás de acuerdo con Nuestra política de privacidad (puedes revisar Nuestra Política de Privacidad <a href="./privacy">haciendo clic aquí</a>).',
         'terms_services_title' => '2. Descripción de los Servicios',
         'terms_services_1' => 'No somos una plataforma de inversiones, ni te ponemos en contacto con dichas plataformas, a menos que dicha plataforma se comprometa a ofrecerte únicamente servicios educativos o investigación de mercado.',
         'terms_services_2' => 'Actuamos como intermediario para conectarte con un proveedor de servicios capaz de proponer contenido educativo sobre técnicas generales de inversión o investigación de mercado en áreas de tu interés, cumpliendo con las regulaciones de la SMV en Panamá.',
@@ -6423,7 +6423,7 @@ return [
         'terms_miscellaneous_8' => 'Estos términos se regirán por la ley de Panamá.',
         'terms_miscellaneous_9' => 'El lugar exclusivo de jurisdicción para todas las disputas que surjan de o en conexión con estos Términos serán los tribunales de Panamá.',
 
-        // Section: Privacy
+
         'privacy_purpose_title' => 'Propósito del Aviso',
         'privacy_purpose_text' => 'El propósito de este Aviso de Privacidad de Datos (el "Aviso") es explicar cómo Floventra ("Floventra" o "Nosotros") procesará, como controlador de datos, tus datos personales que nos proporcionas cuando visitas el sitio web floventus.com (el "Sitio Web"), o que recibimos de terceros, para ponerte en contacto con profesionales que podrían interesarte.',
         'privacy_data_categories_title' => '¿Qué Categorías de Datos Personales Serán Procesadas?',
@@ -6469,7 +6469,7 @@ return [
         'privacy_last_updated' => 'Última actualización: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'co' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Colombia',
         'locale' => 'es_CO',
         'locale_lang' => 'es-CO',
@@ -6479,31 +6479,31 @@ return [
         'country_iso' => 'co',
         'language_iso' => 'es',
         'brand_name_api' => 'flovantreasure',
-        'geo_position' => '4.710989, -74.072092', // Координаты Боготы
+        'geo_position' => '4.710989, -74.072092',
         'jsonld_organization_name' => 'Floventra',
         'jsonld_organization_review_rating' => '4.96',
         'jsonld_organization_review_author' => 'Usuario de Floventra',
         'jsonld_organization_review_body' => 'Floventra conecta a residentes de Colombia con empresas de educación en inversiones reguladas, ofreciendo aprendizaje financiero accesible y confiable en Bogotá.',
         'jsonld_software_categories' => 'Plataforma de Educación en Inversiones',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'COP',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Educación en Inversiones en Bogotá, Colombia',
         'og_description' => 'Únete a Floventra en Bogotá, Colombia, para conectarte con empresas de educación en inversiones reguladas. ¡Comienza tu viaje de aprendizaje financiero hoy!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/co/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Educación en Inversiones en Bogotá',
         'twitter_description' => 'Descubre la educación en inversiones con Floventra en Bogotá, Colombia. ¡Conéctate gratis con empresas reguladas!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Plataforma de Educación en Inversiones en Bogotá, Colombia | El sitio web oficial',
         'meta_description' => 'Únete a Floventra en Bogotá, Colombia, para conectarte con empresas de educación en inversiones reguladas. ¡Comienza tu viaje de aprendizaje financiero hoy!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, educación en inversiones Bogotá, aprendizaje financiero Colombia, Floventra, educación regulada, plataforma de inversiones Colombia',
@@ -6520,60 +6520,60 @@ return [
         'jsonld_faq_6_question' => '¿Puedo acceder a Floventra en Bogotá?',
         'jsonld_faq_6_answer' => 'Floventra es totalmente accesible para residentes de Colombia en Bogotá, ofreciendo una plataforma amigable para la educación en inversiones.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Acerca de Floventra - Educación en Inversiones en Bogotá, Colombia',
         'about_desc_content' => 'Conoce Floventra, una plataforma líder en Bogotá, Colombia, que conecta a usuarios con empresas de educación en inversiones reguladas.',
         'about_keywords' => 'Floventra acerca, educación en inversiones Bogotá, aprendizaje financiero Colombia, educación regulada, plataforma de inversiones Colombia',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contacta a Floventra - Educación en Inversiones en Bogotá, Colombia',
         'contact_desc_content' => 'Contacta a Floventra en Bogotá, Colombia, para consultas sobre nuestros servicios de educación en inversiones reguladas. ¡Ponte en contacto hoy!',
         'contact_keywords' => 'Floventra contacto, educación en inversiones Bogotá, aprendizaje financiero Colombia, plataforma regulada, contacto educación en inversiones',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Política de Cookies de Floventra - Bogotá, Colombia',
         'cookie_desc_content' => 'Explora la Política de Cookies de Floventra para servicios de educación en inversiones en Bogotá, Colombia. Aprende cómo usamos cookies para mejorar tu experiencia.',
         'cookie_keywords' => 'Floventra política de cookies, educación en inversiones Bogotá, política de cookies Colombia, plataforma regulada, cookies educación financiera',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Términos de Uso de Floventra - Educación en Inversiones en Bogotá, Colombia',
         'terms_desc_content' => 'Explora los Términos de Uso de Floventra, que rigen el acceso a nuestra plataforma de educación en inversiones en Bogotá, Colombia. Conoce la elegibilidad y el cumplimiento normativo.',
         'terms_keywords' => 'Floventra términos, plataforma de educación en inversiones, términos y condiciones Colombia, servicios regulados, educación financiera Bogotá',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Política de Privacidad de Floventra - Bogotá, Colombia',
         'privacy_desc_content' => 'Lee la Política de Privacidad de Floventra para servicios de educación en inversiones en Bogotá, Colombia. Descubre cómo protegemos tus datos bajo las normativas de privacidad.',
         'privacy_keywords' => 'Floventra privacidad, educación en inversiones Bogotá, cumplimiento normativo Colombia, privacidad educación financiera, plataforma regulada',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Crea Tu Perfil - Educación en Inversiones de Floventra en Bogotá, Colombia',
         'create-profile_content' => 'Regístrate con Floventra en Bogotá, Colombia, para conectarte con empresas de educación en inversiones reguladas. ¡Comienza tu viaje de aprendizaje hoy!',
         'create-profile_keywords' => 'Floventra registro, educación en inversiones Bogotá, aprendizaje financiero Colombia, plataforma regulada, crear perfil inversiones',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Inicio',
         'about' => 'Acerca de Nosotros',
         'contact' => 'Contáctanos',
         'privacy' => 'Política de Privacidad',
         'terms' => 'Términos y Condiciones',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Iniciar Sesión',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Regístrate ahora',
         'main_form_terms_text' => '* Al hacer clic en el botón, aceptas y estás de acuerdo con la Política de Privacidad y los Términos y Condiciones',
 
-        // Section: About Platform
+
         'about_subtitle' => '¿Qué es Floventra AI?',
         'about_quote' => 'Floventra conecta a residentes de Colombia con empresas de educación en inversiones reguladas en Bogotá, haciendo que el aprendizaje financiero sea accesible y efectivo.',
         'about_text_1' => 'Floventra simplifica el acceso a la educación en inversiones en Bogotá, Colombia. Nuestra plataforma se asocia con empresas reguladas para proporcionar experiencias de aprendizaje personalizadas para todos los niveles de habilidad.',
         'about_text_2' => 'No se necesita conocimiento previo en inversiones. Solo regístrate con tu nombre, correo electrónico y número de teléfono, y nuestros socios te contactarán para iniciar tu viaje de educación financiera en Bogotá.',
         'about_register_btn' => 'REGÍSTRATE AQUÍ >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Mejora Tus Habilidades Financieras con Floventra en Bogotá',
         'education_item_1_title' => 'Domina Nuevas Habilidades de Inversión',
         'education_item_1_text' => 'Floventra conecta a residentes de Colombia en Bogotá con empresas reguladas para aprender estrategias de inversión. Perfecto para principiantes, profesionales o cualquiera que busque conocimiento financiero.',
@@ -6585,7 +6585,7 @@ return [
         'education_item_3_text_2' => '¿Listo para transformar tu perspectiva financiera? ¡Regístrate con Floventra hoy!',
         'education_register_btn' => 'REGÍSTRATE AHORA >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => '¿Por Qué Conectarte con Profesores de Inversiones en Floventra?',
         'three_steps_item_1_title' => 'Estudio Virtual',
         'three_steps_item_1_text' => 'Floventra conecta a usuarios con educadores en inversiones que ofrecen aprendizaje digital en Bogotá, Colombia. Estudia desde cualquier lugar y revisa las grabaciones cuando lo necesites.',
@@ -6594,12 +6594,12 @@ return [
         'three_steps_item_3_title' => 'Multilingüismo',
         'three_steps_item_3_text' => 'Aprende en tu idioma preferido con los socios regulados de Floventra en Bogotá, Colombia, eliminando barreras lingüísticas.',
 
-        // Section: Investor Definition
+
         'investor_title' => '¿Quién es un Inversor?',
         'investor_quote' => 'Un inversor compromete capital a activos o planes para alcanzar metas financieras. Floventra en Bogotá, Colombia, te conecta con educadores regulados para aprender más.',
         'investor_text' => 'Los inversores enfrentan riesgos que pueden afectar los rendimientos. Aprende a investigar, presupuestar y evaluar riesgos con empresas de educación en inversiones reguladas en Bogotá a través de Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Resumen de Tipos de Inversores de Floventra',
         'investor_types_intro' => 'Los inversores varían según metas, tolerancia al riesgo y estrategias. Aprende sobre inversores cuantitativos, socialmente responsables e institucionales con Floventra en Bogotá, Colombia.',
         'investor_type_1_title' => 'Inversor Cuantitativo',
@@ -6617,13 +6617,13 @@ return [
         'investor_type_3_content' => 'Los inversores institucionales gestionan inversiones a gran escala. Regístrate con Floventra en Bogotá para aprender cómo se diferencian de otros inversores.',
         'investor_types_register_btn' => 'REGÍSTRATE GRATIS >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => '¿Qué es un Fondo Indexado?',
         'index_funds_quote' => 'Los fondos indexados siguen el rendimiento del mercado con costos más bajos. Aprende sobre sus riesgos y beneficios con los educadores regulados de Floventra en Bogotá, Colombia.',
         'index_funds_text_1' => 'Los fondos indexados están ligados al rendimiento del mercado y pueden ser riesgosos. Conéctate con educadores en inversiones regulados en Bogotá a través de Floventra para aprender más.',
         'index_funds_text_2' => 'Los inversores eligen fondos indexados, abren cuentas y monitorean carteras. Descubre estrategias de fondos indexados con Floventra en Bogotá, Colombia.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Aprende sobre Fondos Cotizados (ETFs) con Floventra',
         'etfs_text_1' => 'Los ETFs permiten invertir en diversos valores. Aprende cómo funcionan con educadores regulados en Bogotá a través de Floventra.',
         'etfs_text_2' => 'Los ETFs se negocian en bolsas con rendimientos variables. Conéctate con Floventra en Bogotá, Colombia, para explorar tipos y estrategias de ETFs.',
@@ -6637,7 +6637,7 @@ return [
         'etf_type_4_text' => 'Los ETFs de acciones siguen valores para diversificación. Conéctate con Floventra en Bogotá, Colombia, para una educación detallada sobre ETFs.',
         'etfs_learn_btn' => 'APRENDE MÁS >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Inversión Ambiental, Social y de Gobernanza (ESG)',
         'assets_esg_quote' => 'La inversión ESG prioriza factores éticos. Aprende cómo se alinea con las regulaciones colombianas a través de Floventra en Bogotá.',
         'assets_esg_text' => 'ESG evalúa empresas según estándares ambientales, sociales y de gobernanza. Conéctate con educadores regulados en Bogotá a través de Floventra.',
@@ -6647,7 +6647,7 @@ return [
         'assets_market_cap_text_1' => 'La capitalización de mercado varía desde micro hasta grande. Descubre sus riesgos y potencial de crecimiento con Floventra en Bogotá, Colombia.',
         'assets_market_cap_text_2' => 'Las empresas de mediana y gran capitalización ofrecen crecimiento, pero varían en volatilidad. Aprende más con los socios regulados de Floventra en Bogotá.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Entiende el Hedging con Floventra',
         'metrics_hedging_text' => 'El hedging mitiga riesgos de inversión usando derivados. Aprende sus complejidades con educadores regulados en Bogotá a través de Floventra.',
         'metrics_terms_title' => 'Conoce Términos Básicos de Inversión con Floventra',
@@ -6664,12 +6664,12 @@ return [
         'metrics_debt_instrument_title' => 'Instrumento de Deuda',
         'metrics_debt_instrument_text' => 'Los instrumentos de deuda recaudan capital mediante bonos o préstamos. Descúbrelos con Floventra en Bogotá, Colombia.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Nunca es Tarde para Empezar',
         'padding_60_quote' => '¿Luchas por encontrar educación en inversiones confiable en Bogotá, Colombia? Floventra te conecta con empresas reguladas.',
         'padding_60_text' => 'Floventra ayuda a miles de residentes de Colombia en Bogotá a acceder a educación en inversiones confiable. ¡Regístrate gratis hoy!',
 
-        // Section: FAQ
+
         'faq_title' => 'Preguntas Frecuentes de Floventra',
         'faq_1_question' => '¿Qué Enseña Floventra a las Personas?',
         'faq_1_answer' => 'Floventra conecta a residentes de Colombia en Bogotá con empresas de educación en inversiones reguladas para un aprendizaje financiero integral.',
@@ -6678,7 +6678,7 @@ return [
         'faq_3_question' => '¿Cómo Conecta Floventra a las Personas con Tutores?',
         'faq_3_answer' => 'Los usuarios se registran con su nombre, correo electrónico y número de teléfono, y las empresas reguladas en Bogotá los contactan, cumpliendo con las normativas de privacidad.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Destacados de Floventra',
         'highlight_enrollment_cost_title' => '🤖 Costo de Inscripción',
         'highlight_enrollment_cost_text' => 'Inscripción gratuita para residentes de Colombia en Bogotá',
@@ -6691,28 +6691,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Regiones Accesibles',
         'highlight_accessible_regions_text' => 'Disponible en Bogotá, Colombia, y la mayoría de las regiones, excluyendo EE. UU.',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'El Rol de Floventra en el Panorama de Inversiones',
         'about_principles_role_text' => 'Floventra promueve la educación en inversiones en Bogotá, Colombia, conectando a usuarios con empresas reguladas para decisiones financieras informadas.',
         'about_principles_gap_title' => 'Cerrando la Brecha de Conocimiento en Inversiones',
         'about_principles_gap_text' => 'Floventra reduce la brecha de conocimiento en inversiones en Bogotá, Colombia, conectando a usuarios con educadores regulados.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Apunta a un Mundo Progresista',
         'about_forward_thinking_quote' => 'Floventra fomenta la alfabetización financiera en Bogotá, Colombia, a través de soluciones innovadoras de educación en inversiones.',
         'about_forward_thinking_text' => 'Floventra transforma mentalidades financieras en Bogotá, Colombia, conectando a usuarios con educación en inversiones regulada.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Valora la Educación',
         'about_education_text_1' => 'Floventra empodera a residentes de Colombia en Bogotá con conocimiento, herramientas y estrategias de inversión a través de educadores regulados.',
         'about_education_people_title' => 'La Gente de Floventra',
         'about_education_people_text' => 'Nuestro equipo en Bogotá, Colombia, trabaja para hacer accesible la educación en inversiones conectando a usuarios con empresas reguladas.',
         'about_education_mission_text' => 'Floventra asegura que los residentes de Colombia en Bogotá puedan acceder a la educación en inversiones, cerrando la brecha de conocimiento globalmente.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Formulario de Contacto',
         'contact_form_name_placeholder' => 'Tu Nombre',
         'contact_form_email_placeholder' => 'Correo Electrónico',
@@ -6720,7 +6720,7 @@ return [
         'contact_form_submit_button' => 'Enviar Mensaje',
         'contact_form_success' => '¡Formulario enviado exitosamente!',
 
-        // Section: Login Page
+
         'login_title' => 'Inicio de Sesión de Floventra',
         'login_subtitle' => 'Instrucciones de Inicio de Sesión para Nuevos Usuarios de Floventra',
         'login_instructions_text' => 'Los nuevos usuarios reciben credenciales de inicio de sesión de empresas de educación en inversiones reguladas en Bogotá, Colombia, para sus sitios web.',
@@ -6736,13 +6736,13 @@ return [
         'login_form_error_last_name' => 'Tu apellido es demasiado corto (mínimo 2 caracteres)',
         'login_form_error_email' => 'Por favor, ingresa tu correo electrónico real (por ejemplo, usuario@ejemplo.com)',
 
-        // Section: Terms
+
         'terms_general_title' => '1. General',
-        'terms_general_1' => 'Bienvenido a floventus.com/co/ (el "Sitio Web").',
+        'terms_general_1' => 'Bienvenido a floventus.com/ (el "Sitio Web").',
         'terms_general_2' => 'Nuestro correo electrónico: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'El Sitio Web incluye información sobre plataformas de terceros (las <b>"Plataformas de Terceros"</b>), específicamente servicios educativos sobre técnicas generales de inversión o investigación de mercado. Floventra actúa como intermediario, conectando a usuarios con dichas Plataformas de Terceros (los <b>"Servicios"</b>).',
         'terms_general_4' => 'Estos términos de uso (los <b>"Términos"</b>) rigen tu uso (<b>"Tú"</b>, <b>"Tu"</b> o <b>"Usuario"</b>) del Sitio Web y los Servicios. Estos Términos deben ser leídos cuidadosamente por Ti en su totalidad antes de usar los Servicios. Ten en cuenta que estos Términos constituyen un acuerdo legalmente vinculante entre Tú y el operador del Sitio Web, Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Si no estás de acuerdo con alguna disposición de estos Términos, deberás cesar inmediatamente el uso del Sitio Web. Al usar el Sitio Web, aceptas los Términos, según se modifiquen de vez en cuando.',
-        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y, al aceptar estos Términos, confirmas que también aceptas y estás de acuerdo con Nuestra Política de Privacidad (Puedes revisar Nuestra Política de Privacidad haciendo <a href="/co/privacy-policy/">clic aquí</a>).',
+        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y, al aceptar estos Términos, confirmas que también aceptas y estás de acuerdo con Nuestra Política de Privacidad (Puedes revisar Nuestra Política de Privacidad haciendo <a href="./privacy">clic aquí</a>).',
         'terms_services_title' => '2. Descripción de los Servicios',
         'terms_services_1' => 'No somos una plataforma de inversiones, ni te ponemos en contacto con plataformas de inversiones, a menos que dichas plataformas se comprometan a ofrecerte únicamente servicios educativos o investigación de mercado.',
         'terms_services_2' => 'Actuamos como intermediarios para conectarte con un proveedor de servicios que pueda proponer contenido educativo sobre técnicas generales de inversión o investigación de mercado en áreas de tu interés, cumpliendo con las regulaciones en Colombia.',
@@ -6804,9 +6804,9 @@ return [
         'terms_miscellaneous_8' => 'Estos términos se regirán por la ley colombiana.',
         'terms_miscellaneous_9' => 'El lugar exclusivo de jurisdicción para todas las disputas que surjan de o en conexión con estos Términos serán los tribunales de Colombia.',
 
-        // Section: Privacy
+
         'privacy_purpose_title' => 'Propósito de la Notificación',
-        'privacy_purpose_text' => 'El propósito de esta Notificación de Privacidad de Datos (la "Notificación") es explicar cómo Floventra ("Floventra" o "Nosotros") procesará, como controlador de datos, tus datos personales que nos proporciones cuando visites el sitio web floventus.com/co/, o que recibamos de terceros, para ponerte en contacto con profesionales que puedan interesarte.',
+        'privacy_purpose_text' => 'El propósito de esta Notificación de Privacidad de Datos (la "Notificación") es explicar cómo Floventra ("Floventra" o "Nosotros") procesará, como controlador de datos, tus datos personales que nos proporciones cuando visites el sitio web floventus.com/, o que recibamos de terceros, para ponerte en contacto con profesionales que puedan interesarte.',
         'privacy_data_categories_title' => '¿Qué Categorías de Datos Personales Serán Procesadas?',
         'privacy_data_categories_text' => 'Recopilamos y procesamos las siguientes categorías de datos personales sobre ti:',
         'privacy_data_collection_title' => '¿Cómo se Recopilan Tus Datos?',
@@ -6850,41 +6850,41 @@ return [
         'privacy_last_updated' => 'Última actualización: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'hn' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Honduras',
         'locale' => 'es_HN',
         'locale_lang' => 'es-HN',
         'language_name' => 'Español',
-        'city' => 'Tegucigalpa', // Локация для Гондураса
+        'city' => 'Tegucigalpa',
         'country_code' => 'HN',
         'country_iso' => 'hn',
         'language_iso' => 'es',
         'brand_name_api' => 'flovantreasure',
-        'geo_position' => '14.0818, -87.2068', // Координаты Тегусигальпы
+        'geo_position' => '14.0818, -87.2068',
         'jsonld_organization_name' => 'Floventra',
         'jsonld_organization_review_rating' => '4.96',
         'jsonld_organization_review_author' => 'Usuario de Floventra',
         'jsonld_organization_review_body' => 'Floventra conecta a residentes de Honduras con empresas de educación en inversiones reguladas, ofreciendo aprendizaje financiero accesible y confiable.',
         'jsonld_software_categories' => 'Plataforma de Educación en Inversiones',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'HNL',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Educación en Inversiones en Tegucigalpa, Honduras',
         'og_description' => 'Únete a Floventra en Tegucigalpa, Honduras, para conectarte con empresas de educación en inversiones reguladas. ¡Comienza tu viaje de aprendizaje financiero hoy!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/hn/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Educación en Inversiones en Tegucigalpa',
         'twitter_description' => 'Descubre la educación en inversiones con Floventra en Tegucigalpa, Honduras. ¡Conéctate gratis con empresas reguladas!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Plataforma de Educación en Inversiones en Tegucigalpa, Honduras | El sitio web oficial',
         'meta_description' => 'Únete a Floventra en Tegucigalpa, Honduras, para conectarte con empresas de educación en inversiones reguladas. ¡Comienza tu viaje de aprendizaje financiero hoy!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, educación en inversiones Tegucigalpa, aprendizaje financiero Honduras, Floventra, educación regulada, plataforma de inversiones Honduras',
@@ -6901,60 +6901,60 @@ return [
         'jsonld_faq_6_question' => '¿Puedo acceder a Floventra en Tegucigalpa?',
         'jsonld_faq_6_answer' => 'Floventra es totalmente accesible para residentes de Honduras en Tegucigalpa, ofreciendo una plataforma amigable para la educación en inversiones.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Acerca de Floventra - Educación en Inversiones en Tegucigalpa, Honduras',
         'about_desc_content' => 'Conoce Floventra, una plataforma líder en Tegucigalpa, Honduras, que conecta a usuarios con empresas de educación en inversiones reguladas.',
         'about_keywords' => 'Floventra acerca, educación en inversiones Tegucigalpa, aprendizaje financiero Honduras, educación regulada, plataforma de inversiones Honduras',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contacta a Floventra - Educación en Inversiones en Tegucigalpa, Honduras',
         'contact_desc_content' => 'Contacta a Floventra en Tegucigalpa, Honduras, para consultas sobre nuestros servicios de educación en inversiones reguladas. ¡Ponte en contacto hoy!',
         'contact_keywords' => 'Floventra contacto, educación en inversiones Tegucigalpa, aprendizaje financiero Honduras, plataforma regulada, contacto educación en inversiones',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Política de Cookies de Floventra - Tegucigalpa, Honduras',
         'cookie_desc_content' => 'Explora la Política de Cookies de Floventra para servicios de educación en inversiones en Tegucigalpa, Honduras. Aprende cómo usamos cookies para mejorar tu experiencia.',
         'cookie_keywords' => 'Floventra política de cookies, educación en inversiones Tegucigalpa, política de cookies Honduras, plataforma regulada, cookies educación financiera',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Términos de Uso de Floventra - Educación en Inversiones en Tegucigalpa, Honduras',
         'terms_desc_content' => 'Explora los Términos de Uso de Floventra, que rigen el acceso a nuestra plataforma de educación en inversiones en Tegucigalpa, Honduras. Conoce la elegibilidad y el cumplimiento normativo.',
         'terms_keywords' => 'Floventra términos, plataforma de educación en inversiones, términos y condiciones Honduras, servicios regulados, educación financiera Tegucigalpa',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Política de Privacidad de Floventra - Tegucigalpa, Honduras',
         'privacy_desc_content' => 'Lee la Política de Privacidad de Floventra para servicios de educación en inversiones en Tegucigalpa, Honduras. Descubre cómo protegemos tus datos bajo las normativas de privacidad.',
         'privacy_keywords' => 'Floventra privacidad, educación en inversiones Tegucigalpa, cumplimiento normativo Honduras, privacidad educación financiera, plataforma regulada',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Crea Tu Perfil - Educación en Inversiones de Floventra en Tegucigalpa, Honduras',
         'create-profile_content' => 'Regístrate con Floventra en Tegucigalpa, Honduras, para conectarte con empresas de educación en inversiones reguladas. ¡Comienza tu viaje de aprendizaje hoy!',
         'create-profile_keywords' => 'Floventra registro, educación en inversiones Tegucigalpa, aprendizaje financiero Honduras, plataforma regulada, crear perfil inversiones',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Inicio',
         'about' => 'Acerca de Nosotros',
         'contact' => 'Contáctanos',
         'privacy' => 'Política de Privacidad',
         'terms' => 'Términos y Condiciones',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Iniciar Sesión',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Regístrate ahora',
         'main_form_terms_text' => '* Al hacer clic en el botón, aceptas y estás de acuerdo con la Política de Privacidad y los Términos y Condiciones',
 
-        // Section: About Platform
+
         'about_subtitle' => '¿Qué es Floventra AI?',
         'about_quote' => 'Floventra conecta a residentes de Honduras con empresas de educación en inversiones reguladas en Tegucigalpa, haciendo que el aprendizaje financiero sea accesible y efectivo.',
         'about_text_1' => 'Floventra simplifica el acceso a la educación en inversiones en Tegucigalpa, Honduras. Nuestra plataforma se asocia con empresas reguladas para proporcionar experiencias de aprendizaje personalizadas para todos los niveles de habilidad.',
         'about_text_2' => 'No se necesita conocimiento previo en inversiones. Solo regístrate con tu nombre, correo electrónico y número de teléfono, y nuestros socios te contactarán para iniciar tu viaje de educación financiera en Tegucigalpa.',
         'about_register_btn' => 'REGÍSTRATE AQUÍ >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Mejora Tus Habilidades Financieras con Floventra en Tegucigalpa',
         'education_item_1_title' => 'Domina Nuevas Habilidades de Inversión',
         'education_item_1_text' => 'Floventra conecta a residentes de Honduras en Tegucigalpa con empresas reguladas para aprender estrategias de inversión. Perfecto para principiantes, profesionales o cualquiera que busque conocimiento financiero.',
@@ -6966,7 +6966,7 @@ return [
         'education_item_3_text_2' => '¿Listo para transformar tu perspectiva financiera? ¡Regístrate con Floventra hoy!',
         'education_register_btn' => 'REGÍSTRATE AHORA >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => '¿Por Qué Conectarte con Profesores de Inversiones en Floventra?',
         'three_steps_item_1_title' => 'Estudio Virtual',
         'three_steps_item_1_text' => 'Floventra conecta a usuarios con educadores en inversiones que ofrecen aprendizaje digital en Tegucigalpa, Honduras. Estudia desde cualquier lugar y revisa las grabaciones cuando lo necesites.',
@@ -6975,12 +6975,12 @@ return [
         'three_steps_item_3_title' => 'Multilingüismo',
         'three_steps_item_3_text' => 'Aprende en tu idioma preferido con los socios regulados de Floventra en Tegucigalpa, Honduras, eliminando barreras lingüísticas.',
 
-        // Section: Investor Definition
+
         'investor_title' => '¿Quién es un Inversor?',
         'investor_quote' => 'Un inversor compromete capital a activos o planes para alcanzar metas financieras. Floventra en Tegucigalpa, Honduras, te conecta con educadores regulados para aprender más.',
         'investor_text' => 'Los inversores enfrentan riesgos que pueden afectar los rendimientos. Aprende a investigar, presupuestar y evaluar riesgos con empresas de educación en inversiones reguladas en Tegucigalpa a través de Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Resumen de Tipos de Inversores de Floventra',
         'investor_types_intro' => 'Los inversores varían según metas, tolerancia al riesgo y estrategias. Aprende sobre inversores cuantitativos, socialmente responsables e institucionales con Floventra en Tegucigalpa, Honduras.',
         'investor_type_1_title' => 'Inversor Cuantitativo',
@@ -6998,13 +6998,13 @@ return [
         'investor_type_3_content' => 'Los inversores institucionales gestionan inversiones a gran escala. Regístrate con Floventra en Tegucigalpa para aprender cómo se diferencian de otros inversores.',
         'investor_types_register_btn' => 'REGÍSTRATE GRATIS >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => '¿Qué es un Fondo Indexado?',
         'index_funds_quote' => 'Los fondos indexados siguen el rendimiento del mercado con costos más bajos. Aprende sobre sus riesgos y beneficios con los educadores regulados de Floventra en Tegucigalpa, Honduras.',
         'index_funds_text_1' => 'Los fondos indexados están ligados al rendimiento del mercado y pueden ser riesgosos. Conéctate con educadores en inversiones regulados en Tegucigalpa a través de Floventra para aprender más.',
         'index_funds_text_2' => 'Los inversores eligen fondos indexados, abren cuentas y monitorean carteras. Descubre estrategias de fondos indexados con Floventra en Tegucigalpa, Honduras.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Aprende sobre Fondos Cotizados (ETFs) con Floventra',
         'etfs_text_1' => 'Los ETFs permiten invertir en diversos valores. Aprende cómo funcionan con educadores regulados en Tegucigalpa a través de Floventra.',
         'etfs_text_2' => 'Los ETFs se negocian en bolsas con rendimientos variables. Conéctate con Floventra en Tegucigalpa, Honduras, para explorar tipos y estrategias de ETFs.',
@@ -7018,7 +7018,7 @@ return [
         'etf_type_4_text' => 'Los ETFs de acciones siguen valores para diversificación. Conéctate con Floventra en Tegucigalpa, Honduras, para una educación detallada sobre ETFs.',
         'etfs_learn_btn' => 'APRENDE MÁS >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Inversión Ambiental, Social y de Gobernanza (ESG)',
         'assets_esg_quote' => 'La inversión ESG prioriza factores éticos. Aprende cómo se alinea con las regulaciones hondureñas a través de Floventra en Tegucigalpa.',
         'assets_esg_text' => 'ESG evalúa empresas según estándares ambientales, sociales y de gobernanza. Conéctate con educadores regulados en Tegucigalpa a través de Floventra.',
@@ -7028,7 +7028,7 @@ return [
         'assets_market_cap_text_1' => 'La capitalización de mercado varía desde micro hasta grande. Descubre sus riesgos y potencial de crecimiento con Floventra en Tegucigalpa, Honduras.',
         'assets_market_cap_text_2' => 'Las empresas de mediana y gran capitalización ofrecen crecimiento, pero varían en volatilidad. Aprende más con los socios regulados de Floventra en Tegucigalpa.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Entiende el Hedging con Floventra',
         'metrics_hedging_text' => 'El hedging mitiga riesgos de inversión usando derivados. Aprende sus complejidades con educadores regulados en Tegucigalpa a través de Floventra.',
         'metrics_terms_title' => 'Conoce Términos Básicos de Inversión con Floventra',
@@ -7045,12 +7045,12 @@ return [
         'metrics_debt_instrument_title' => 'Instrumento de Deuda',
         'metrics_debt_instrument_text' => 'Los instrumentos de deuda recaudan capital mediante bonos o préstamos. Descúbrelos con Floventra en Tegucigalpa, Honduras.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Nunca es Tarde para Empezar',
         'padding_60_quote' => '¿Luchas por encontrar educación en inversiones confiable en Tegucigalpa, Honduras? Floventra te conecta con empresas reguladas.',
         'padding_60_text' => 'Floventra ayuda a miles de residentes de Honduras en Tegucigalpa a acceder a educación en inversiones confiable. ¡Regístrate gratis hoy!',
 
-        // Section: FAQ
+
         'faq_title' => 'Preguntas Frecuentes de Floventra',
         'faq_1_question' => '¿Qué Enseña Floventra a las Personas?',
         'faq_1_answer' => 'Floventra conecta a residentes de Honduras en Tegucigalpa con empresas de educación en inversiones reguladas para un aprendizaje financiero integral.',
@@ -7059,7 +7059,7 @@ return [
         'faq_3_question' => '¿Cómo Conecta Floventra a las Personas con Tutores?',
         'faq_3_answer' => 'Los usuarios se registran con su nombre, correo electrónico y número de teléfono, y las empresas reguladas en Tegucigalpa los contactan, cumpliendo con las normativas de privacidad.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Destacados de Floventra',
         'highlight_enrollment_cost_title' => '🤖 Costo de Inscripción',
         'highlight_enrollment_cost_text' => 'Inscripción gratuita para residentes de Honduras en Tegucigalpa',
@@ -7072,28 +7072,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Regiones Accesibles',
         'highlight_accessible_regions_text' => 'Disponible en Tegucigalpa, Honduras, y la mayoría de las regiones, excluyendo EE. UU.',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'El Rol de Floventra en el Panorama de Inversiones',
         'about_principles_role_text' => 'Floventra promueve la educación en inversiones en Tegucigalpa, Honduras, conectando a usuarios con empresas reguladas para decisiones financieras informadas.',
         'about_principles_gap_title' => 'Cerrando la Brecha de Conocimiento en Inversiones',
         'about_principles_gap_text' => 'Floventra reduce la brecha de conocimiento en inversiones en Tegucigalpa, Honduras, conectando a usuarios con educadores regulados.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Apunta a un Mundo Progresista',
         'about_forward_thinking_quote' => 'Floventra fomenta la alfabetización financiera en Tegucigalpa, Honduras, a través de soluciones innovadoras de educación en inversiones.',
         'about_forward_thinking_text' => 'Floventra transforma mentalidades financieras en Tegucigalpa, Honduras, conectando a usuarios con educación en inversiones regulada.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Valora la Educación',
         'about_education_text_1' => 'Floventra empodera a residentes de Honduras en Tegucigalpa con conocimiento, herramientas y estrategias de inversión a través de educadores regulados.',
         'about_education_people_title' => 'La Gente de Floventra',
         'about_education_people_text' => 'Nuestro equipo en Tegucigalpa, Honduras, trabaja para hacer accesible la educación en inversiones conectando a usuarios con empresas reguladas.',
         'about_education_mission_text' => 'Floventra asegura que los residentes de Honduras en Tegucigalpa puedan acceder a la educación en inversiones, cerrando la brecha de conocimiento globalmente.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Formulario de Contacto',
         'contact_form_name_placeholder' => 'Tu Nombre',
         'contact_form_email_placeholder' => 'Correo Electrónico',
@@ -7101,7 +7101,7 @@ return [
         'contact_form_submit_button' => 'Enviar Mensaje',
         'contact_form_success' => '¡Formulario enviado exitosamente!',
 
-        // Section: Login Page
+
         'login_title' => 'Inicio de Sesión de Floventra',
         'login_subtitle' => 'Instrucciones de Inicio de Sesión para Nuevos Usuarios de Floventra',
         'login_instructions_text' => 'Los nuevos usuarios reciben credenciales de inicio de sesión de empresas de educación en inversiones reguladas en Tegucigalpa, Honduras, para sus sitios web.',
@@ -7117,13 +7117,13 @@ return [
         'login_form_error_last_name' => 'Tu apellido es demasiado corto (mínimo 2 caracteres)',
         'login_form_error_email' => 'Por favor, ingresa tu correo electrónico real (por ejemplo, usuario@ejemplo.com)',
 
-        // Section: Terms
+
         'terms_general_title' => '1. General',
-        'terms_general_1' => 'Bienvenido a floventus.com/hn/ (el "Sitio Web").',
+        'terms_general_1' => 'Bienvenido a floventus.com/ (el "Sitio Web").',
         'terms_general_2' => 'Nuestro correo electrónico: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'El Sitio Web incluye información sobre plataformas de terceros (las <b>"Plataformas de Terceros"</b>), específicamente servicios educativos sobre técnicas generales de inversión o investigación de mercado. Floventra actúa como intermediario, conectando a usuarios con dichas Plataformas de Terceros (los <b>"Servicios"</b>).',
         'terms_general_4' => 'Estos términos de uso (los <b>"Términos"</b>) rigen tu uso (<b>"Tú"</b>, <b>"Tu"</b> o <b>"Usuario"</b>) del Sitio Web y los Servicios. Estos Términos deben ser leídos cuidadosamente por Ti en su totalidad antes de usar los Servicios. Ten en cuenta que estos Términos constituyen un acuerdo legalmente vinculante entre Tú y el operador del Sitio Web, Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Si no estás de acuerdo con alguna disposición de estos Términos, deberás cesar inmediatamente el uso del Sitio Web. Al usar el Sitio Web, aceptas los Términos, según se modifiquen de vez en cuando.',
-        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y, al aceptar estos Términos, confirmas que también aceptas y estás de acuerdo con Nuestra Política de Privacidad (Puedes revisar Nuestra Política de Privacidad haciendo <a href="/hn/privacy-policy/">clic aquí</a>).',
+        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y, al aceptar estos Términos, confirmas que también aceptas y estás de acuerdo con Nuestra Política de Privacidad (Puedes revisar Nuestra Política de Privacidad haciendo <a href="./privacy">clic aquí</a>).',
         'terms_services_title' => '2. Descripción de los Servicios',
         'terms_services_1' => 'No somos una plataforma de inversiones, ni te ponemos en contacto con plataformas de inversiones, a menos que dichas plataformas se comprometan a ofrecerte únicamente servicios educativos o investigación de mercado.',
         'terms_services_2' => 'Actuamos como intermediarios para conectarte con un proveedor de servicios que pueda proponer contenido educativo sobre técnicas generales de inversión o investigación de mercado en áreas de tu interés, cumpliendo con las regulaciones en Honduras.',
@@ -7185,9 +7185,9 @@ return [
         'terms_miscellaneous_8' => 'Estos términos se regirán por la ley hondureña.',
         'terms_miscellaneous_9' => 'El lugar exclusivo de jurisdicción para todas las disputas que surjan de o en conexión con estos Términos serán los tribunales de Honduras.',
 
-        // Section: Privacy
+
         'privacy_purpose_title' => 'Propósito de la Notificación',
-        'privacy_purpose_text' => 'El propósito de esta Notificación de Privacidad de Datos (la "Notificación") es explicar cómo Floventra ("Floventra" o "Nosotros") procesará, como controlador de datos, tus datos personales que nos proporciones cuando visites el sitio web floventus.com/hn/, o que recibamos de terceros, para ponerte en contacto con profesionales que puedan interesarte.',
+        'privacy_purpose_text' => 'El propósito de esta Notificación de Privacidad de Datos (la "Notificación") es explicar cómo Floventra ("Floventra" o "Nosotros") procesará, como controlador de datos, tus datos personales que nos proporciones cuando visites el sitio web floventus.com/, o que recibamos de terceros, para ponerte en contacto con profesionales que puedan interesarte.',
         'privacy_data_categories_title' => '¿Qué Categorías de Datos Personales Serán Procesadas?',
         'privacy_data_categories_text' => 'Recopilamos y procesamos las siguientes categorías de datos personales sobre ti:',
         'privacy_data_collection_title' => '¿Cómo se Recopilan Tus Datos?',
@@ -7231,7 +7231,7 @@ return [
         'privacy_last_updated' => 'Última actualización: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'ar' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Argentina',
         'locale' => 'es_AR',
         'locale_lang' => 'es-AR',
@@ -7247,25 +7247,25 @@ return [
         'jsonld_organization_review_author' => 'Usuario de Floventra',
         'jsonld_organization_review_body' => 'Floventra conecta a residentes de Argentina en Buenos Aires con firmas de educación en inversiones reguladas por la CNV, ofreciendo aprendizaje financiero accesible y confiable.',
         'jsonld_software_categories' => 'Plataforma de Educación en Inversiones',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'ARS',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Educación en Inversiones en Buenos Aires, Argentina',
         'og_description' => 'Sumate a Floventra en Buenos Aires, Argentina, para conectar con firmas de educación en inversiones reguladas por la CNV. ¡Empezá tu viaje de aprendizaje financiero hoy!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/ar/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Educación en Inversiones en Buenos Aires',
         'twitter_description' => 'Descubrí la educación en inversiones con Floventra en Buenos Aires, Argentina. ¡Conectá con firmas reguladas por la CNV gratis!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Plataforma de Educación en Inversiones en Buenos Aires, Argentina | El sitio web oficial',
         'meta_description' => 'Sumate a Floventra en Buenos Aires, Argentina, para conectar con firmas de educación en inversiones reguladas por la CNV. ¡Empezá tu viaje de aprendizaje financiero hoy!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, educación en inversiones Buenos Aires, aprendizaje financiero Argentina, Floventra, educación regulada por la CNV, plataforma de inversiones Argentina',
@@ -7282,60 +7282,60 @@ return [
         'jsonld_faq_6_question' => '¿Puedo acceder a Floventra en Buenos Aires?',
         'jsonld_faq_6_answer' => 'Floventra es totalmente accesible para residentes de Argentina en Buenos Aires, ofreciendo una plataforma fácil de usar para la educación en inversiones.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Acerca de Floventra - Educación en Inversiones en Buenos Aires, Argentina',
         'about_desc_content' => 'Conocé Floventra, una plataforma líder en Buenos Aires, Argentina, que conecta a usuarios con firmas de educación en inversiones reguladas por la CNV.',
         'about_keywords' => 'Floventra acerca, educación en inversiones Buenos Aires, aprendizaje financiero Argentina, educación regulada por la CNV, plataforma de inversiones Argentina',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contactá a Floventra - Educación en Inversiones en Buenos Aires, Argentina',
         'contact_desc_content' => 'Contactá a Floventra en Buenos Aires, Argentina, para consultas sobre nuestros servicios de educación en inversiones regulados por la CNV. ¡Ponele contacto hoy!',
         'contact_keywords' => 'Floventra contacto, educación en inversiones Buenos Aires, aprendizaje financiero Argentina, plataforma regulada por la CNV, contacto educación en inversiones',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Política de Cookies de Floventra - Buenos Aires, Argentina',
         'cookie_desc_content' => 'Explorá la Política de Cookies de Floventra para servicios de educación en inversiones en Buenos Aires, Argentina. Aprendé cómo usamos cookies para mejorar tu experiencia.',
         'cookie_keywords' => 'Floventra política de cookies, educación en inversiones Buenos Aires, política de cookies Argentina, plataforma regulada por la CNV, cookies educación financiera',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Términos de Uso de Floventra - Educación en Inversiones en Buenos Aires, Argentina',
         'terms_desc_content' => 'Explorá los Términos de Uso de Floventra, que rigen el acceso a nuestra plataforma de educación en inversiones en Buenos Aires, Argentina. Conocé la elegibilidad y el cumplimiento con la CNV.',
         'terms_keywords' => 'Floventra términos, plataforma de educación en inversiones, términos y condiciones Argentina, servicios regulados por la CNV, educación financiera Buenos Aires',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Política de Privacidad de Floventra - Buenos Aires, Argentina',
         'privacy_desc_content' => 'Leé la Política de Privacidad de Floventra para servicios de educación en inversiones en Buenos Aires, Argentina. Aprendé cómo protegemos tus datos conforme a las regulaciones de Argentina.',
         'privacy_keywords' => 'Floventra privacidad, educación en inversiones Buenos Aires, cumplimiento normativo Argentina, privacidad educación financiera, plataforma regulada por la CNV',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Creá tu Perfil - Educación en Inversiones con Floventra en Buenos Aires, Argentina',
         'create-profile_content' => 'Registrate con Floventra en Buenos Aires, Argentina, para conectar con firmas de educación en inversiones reguladas por la CNV. ¡Empezá tu viaje de aprendizaje hoy!',
         'create-profile_keywords' => 'Floventra registro, educación en inversiones Buenos Aires, aprendizaje financiero Argentina, plataforma regulada por la CNV, crear perfil inversiones',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Inicio',
         'about' => 'Acerca de Nosotros',
         'contact' => 'Contactanos',
         'privacy' => 'Política de Privacidad',
         'terms' => 'Términos y Condiciones',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Iniciar Sesión',
 
-        // Main Page Section
+
         'main_title' => 'Floventra IA',
         'main_form_title' => 'Registrate ahora',
         'main_form_terms_text' => '* Al hacer clic en el botón, aceptás y estás de acuerdo con la Política de Privacidad y los Términos y Condiciones',
 
-        // Section: About Platform
+
         'about_subtitle' => '¿Qué es Floventra IA?',
         'about_quote' => 'Floventra conecta a residentes de Argentina con firmas de educación en inversiones reguladas por la CNV en Buenos Aires, haciendo que el aprendizaje financiero sea accesible y efectivo.',
         'about_text_1' => 'Floventra simplifica el acceso a la educación en inversiones en Buenos Aires, Argentina. Nuestra plataforma se asocia con firmas reguladas por la CNV para proporcionar experiencias de aprendizaje personalizadas para todos los niveles de habilidad.',
         'about_text_2' => 'No se necesita conocimiento previo en inversiones. Simplemente registrate con tu nombre, correo electrónico y número de teléfono, y nuestros socios te contactarán para comenzar tu viaje de educación financiera en Buenos Aires.',
         'about_register_btn' => 'REGISTRATE AQUÍ >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Mejorá tus Habilidades Financieras con Floventra en Buenos Aires',
         'education_item_1_title' => 'Dominá Nuevas Habilidades de Inversión',
         'education_item_1_text' => 'Floventra conecta a residentes de Argentina en Buenos Aires con firmas reguladas por la CNV para aprender estrategias de inversión. Perfecto para principiantes, profesionales o cualquier persona que busque conocimiento financiero.',
@@ -7347,7 +7347,7 @@ return [
         'education_item_3_text_2' => '¿Listo para transformar tu perspectiva financiera? ¡Registrate con Floventra hoy!',
         'education_register_btn' => 'REGISTRATE AHORA >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => '¿Por qué Conectar con Profesores de Inversiones en Floventra?',
         'three_steps_item_1_title' => 'Estudio Virtual',
         'three_steps_item_1_text' => 'Floventra conecta a usuarios con educadores en inversiones que ofrecen aprendizaje digital en Buenos Aires, Argentina. Estudiá desde cualquier lugar y revisá las grabaciones cuando lo necesites.',
@@ -7356,12 +7356,12 @@ return [
         'three_steps_item_3_title' => 'Diversidad Lingüística',
         'three_steps_item_3_text' => 'Aprendé en tu idioma preferido con los socios regulados por la CNV de Floventra en Buenos Aires, Argentina, eliminando barreras lingüísticas.',
 
-        // Section: Investor Definition
+
         'investor_title' => '¿Quién es un Inversor?',
         'investor_quote' => 'Un inversor compromete capital a activos o planes para alcanzar metas financieras. Floventra en Buenos Aires, Argentina, te conecta con educadores regulados por la CNV para aprender más.',
         'investor_text' => 'Los inversores enfrentan riesgos que pueden afectar los retornos. Aprendé a investigar, presupuestar y evaluar riesgos con firmas de educación en inversiones reguladas por la CNV en Buenos Aires a través de Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Resumen de Tipos de Inversores de Floventra',
         'investor_types_intro' => 'Los inversores varían según objetivos, tolerancia al riesgo y estrategias. Aprendé sobre inversores cuantitativos, socialmente responsables e institucionales con Floventra en Buenos Aires, Argentina.',
         'investor_type_1_title' => 'Inversor Cuantitativo',
@@ -7379,13 +7379,13 @@ return [
         'investor_type_3_content' => 'Los inversores institucionales gestionan inversiones a gran escala. Registrate con Floventra en Buenos Aires para aprender cómo se diferencian de otros inversores.',
         'investor_types_register_btn' => 'REGISTRATE GRATIS >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => '¿Qué es un Fondo Indexado?',
         'index_funds_quote' => 'Los fondos indexados siguen el rendimiento del mercado con menores costos. Aprendé sobre sus riesgos y beneficios con los educadores regulados por la CNV de Floventra en Buenos Aires, Argentina.',
         'index_funds_text_1' => 'Los fondos indexados están ligados al rendimiento del mercado y pueden ser riesgosos. Conectá con educadores en inversiones regulados por la CNV en Buenos Aires a través de Floventra para aprender más.',
         'index_funds_text_2' => 'Los inversores eligen fondos indexados, abren cuentas y monitorean carteras. Descubrí estrategias de fondos indexados con Floventra en Buenos Aires, Argentina.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Aprendé sobre Fondos Cotizados (ETFs) con Floventra',
         'etfs_text_1' => 'Los ETFs permiten invertir en diversos valores. Aprendé cómo funcionan con educadores regulados por la CNV en Buenos Aires a través de Floventra.',
         'etfs_text_2' => 'Los ETFs se negocian en bolsas con retornos variables. Conectá con Floventra en Buenos Aires, Argentina, para explorar tipos y estrategias de ETFs.',
@@ -7399,7 +7399,7 @@ return [
         'etf_type_4_text' => 'Los ETFs de acciones siguen valores para diversificación. Conectá con Floventra en Buenos Aires, Argentina, para una educación detallada sobre ETFs.',
         'etfs_learn_btn' => 'APRENDÉ MÁS >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Inversión Ambiental, Social y de Gobernanza (ESG)',
         'assets_esg_quote' => 'La inversión ESG prioriza factores éticos. Aprendé cómo se alinea con las regulaciones de Argentina a través de Floventra en Buenos Aires.',
         'assets_esg_text' => 'ESG evalúa empresas según estándares ambientales, sociales y de gobernanza. Conectá con educadores regulados por la CNV en Buenos Aires a través de Floventra.',
@@ -7409,7 +7409,7 @@ return [
         'assets_market_cap_text_1' => 'La capitalización de mercado varía de micro a grande. Descubrí sus riesgos y potencial de crecimiento con Floventra en Buenos Aires, Argentina.',
         'assets_market_cap_text_2' => 'Las empresas de capitalización media y grande ofrecen crecimiento pero varían en volatilidad. Aprendé más con los socios regulados por la CNV de Floventra en Buenos Aires.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Entendé la Cobertura con Floventra',
         'metrics_hedging_text' => 'La cobertura mitiga riesgos de inversión usando derivados. Aprendé sus complejidades con educadores regulados por la CNV en Buenos Aires a través de Floventra.',
         'metrics_terms_title' => 'Conocé Términos Básicos de Inversión con Floventra',
@@ -7426,12 +7426,12 @@ return [
         'metrics_debt_instrument_title' => 'Instrumento de Deuda',
         'metrics_debt_instrument_text' => 'Los instrumentos de deuda recaudan capital mediante bonos o préstamos. Descubrí con Floventra en Buenos Aires, Argentina.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Nunca es Tarde para Empezar',
         'padding_60_quote' => '¿Te cuesta encontrar educación en inversiones confiable en Buenos Aires, Argentina? Floventra te conecta con firmas reguladas por la CNV.',
         'padding_60_text' => 'Floventra ayuda a miles de residentes de Argentina en Buenos Aires a acceder a educación en inversiones confiable. Registrate gratis hoy.',
 
-        // Section: FAQ
+
         'faq_title' => 'Preguntas Frecuentes de Floventra',
         'faq_1_question' => '¿Qué Enseña Floventra a las Personas?',
         'faq_1_answer' => 'Floventra conecta a residentes de Argentina en Buenos Aires con firmas de educación en inversiones reguladas por la CNV para un aprendizaje financiero integral.',
@@ -7440,7 +7440,7 @@ return [
         'faq_3_question' => '¿Cómo Conecta Floventra a las Personas con Tutores?',
         'faq_3_answer' => 'Los usuarios se registran con su nombre, correo electrónico y número de teléfono, y las firmas reguladas por la CNV en Buenos Aires los contactan, cumpliendo con las regulaciones de Argentina.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Destacados de Floventra',
         'highlight_enrollment_cost_title' => '🤖 Costo de Inscripción',
         'highlight_enrollment_cost_text' => 'Inscripción gratuita para residentes de Argentina en Buenos Aires',
@@ -7453,28 +7453,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Regiones Accesibles',
         'highlight_accessible_regions_text' => 'Disponible en Buenos Aires, Argentina, y la mayoría de las regiones, excluyendo los EE. UU.',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'El Rol de Floventra en el Panorama de Inversiones',
         'about_principles_role_text' => 'Floventra promueve la educación en inversiones en Buenos Aires, Argentina, conectando a usuarios con firmas reguladas por la CNV para decisiones financieras informadas.',
         'about_principles_gap_title' => 'Cerrando la Brecha de Conocimiento en Inversiones',
         'about_principles_gap_text' => 'Floventra cierra la brecha de conocimiento en inversiones en Buenos Aires, Argentina, vinculando a usuarios con educadores regulados por la CNV.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Apunta a un Mundo Progresista',
         'about_forward_thinking_quote' => 'Floventra fomenta la alfabetización financiera en Buenos Aires, Argentina, a través de soluciones innovadoras de educación en inversiones.',
         'about_forward_thinking_text' => 'Floventra transforma mentalidades financieras en Buenos Aires, Argentina, conectando a usuarios con educación en inversiones regulada por la CNV.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Valora la Educación',
         'about_education_text_1' => 'Floventra empodera a residentes de Argentina en Buenos Aires con conocimiento, herramientas y estrategias de inversión a través de educadores regulados por la CNV.',
         'about_education_people_title' => 'La Gente de Floventra',
         'about_education_people_text' => 'Nuestro equipo en Buenos Aires, Argentina, trabaja para hacer accesible la educación en inversiones conectando a usuarios con firmas reguladas por la CNV.',
         'about_education_mission_text' => 'Floventra asegura que los residentes de Argentina en Buenos Aires puedan acceder a educación en inversiones, cerrando la brecha de conocimiento globalmente.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Formulario de Contacto',
         'contact_form_name_placeholder' => 'Tu Nombre',
         'contact_form_email_placeholder' => 'Correo Electrónico',
@@ -7482,7 +7482,7 @@ return [
         'contact_form_submit_button' => 'Enviar Mensaje',
         'contact_form_success' => '¡Formulario enviado con éxito!',
 
-        // Section: Login Page
+
         'login_title' => 'Inicio de Sesión en Floventra',
         'login_subtitle' => 'Instrucciones de Inicio de Sesión para Nuevos Usuarios de Floventra',
         'login_instructions_text' => 'Los nuevos usuarios reciben credenciales de inicio de sesión de firmas de educación en inversiones reguladas por la CNV en Buenos Aires, Argentina, para sus sitios web.',
@@ -7498,13 +7498,13 @@ return [
         'login_form_error_last_name' => 'Tu apellido es demasiado corto (mínimo 2 caracteres)',
         'login_form_error_email' => 'Por favor, ingresá tu dirección de correo electrónico real (por ejemplo, usuario@ejemplo.com)',
 
-        // Section: Terms
+
         'terms_general_title' => '1. General',
         'terms_general_1' => 'Bienvenido a floventus.com (el "Sitio Web").',
         'terms_general_2' => 'Nuestro correo electrónico: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'El Sitio Web incluye información sobre plataformas de terceros (las <b>"Plataformas de Terceros"</b>), específicamente servicios educativos sobre técnicas generales de inversión o investigación de mercado. Floventra actúa como intermediario, conectando a usuarios con dichas Plataformas de Terceros (los <b>"Servicios"</b>).',
         'terms_general_4' => 'Estos términos de uso (los <b>"Términos"</b>) rigen tu uso (<b>"Vos"</b>, <b>"Tu"</b> o <b>"Usuario"</b>) del Sitio Web y los Servicios. Estos Términos deben ser leídos cuidadosamente por Vos en su totalidad antes de usar los Servicios. Tené en cuenta que estos Términos constituyen un acuerdo legalmente vinculante entre Vos y el operador del Sitio Web, Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Si no estás de acuerdo con alguna disposición de estos Términos, deberás cesar inmediatamente el uso del Sitio Web. Al usar el Sitio Web, aceptás los Términos, según se modifiquen de vez en cuando.',
-        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y, al aceptar estos Términos, confirmás que también aceptás y estás de acuerdo con Nuestra política de privacidad (podés revisar Nuestra Política de Privacidad <a href="/ar/privacy-policy/">haciendo clic aquí</a>).',
+        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y, al aceptar estos Términos, confirmás que también aceptás y estás de acuerdo con Nuestra política de privacidad (podés revisar Nuestra Política de Privacidad <a href="./privacy">haciendo clic aquí</a>).',
         'terms_services_title' => '2. Descripción de los Servicios',
         'terms_services_1' => 'No somos una plataforma de inversiones, ni te ponemos en contacto con dichas plataformas, a menos que dicha plataforma se comprometa a ofrecerte únicamente servicios educativos o investigación de mercado.',
         'terms_services_2' => 'Actuamos como intermediario para conectarte con un proveedor de servicios capaz de proponer contenido educativo sobre técnicas generales de inversión o investigación de mercado en áreas de tu interés, cumpliendo con las regulaciones de la CNV en Argentina.',
@@ -7566,7 +7566,7 @@ return [
         'terms_miscellaneous_8' => 'Estos términos se regirán por la ley de Argentina.',
         'terms_miscellaneous_9' => 'El lugar exclusivo de jurisdicción para todas las disputas que surjan de o en conexión con estos Términos serán los tribunales de Argentina.',
 
-        // Section: Privacy
+
         'privacy_purpose_title' => 'Propósito del Aviso',
         'privacy_purpose_text' => 'El propósito de este Aviso de Privacidad de Datos (el "Aviso") es explicar cómo Floventra ("Floventra" o "Nosotros") procesará, como controlador de datos, tus datos personales que nos proporcionás cuando visitás el sitio web floventus.com (el "Sitio Web"), o que recibimos de terceros, para ponerte en contacto con profesionales que podrían interesarte.',
         'privacy_data_categories_title' => '¿Qué Categorías de Datos Personales Serán Procesadas?',
@@ -7612,7 +7612,7 @@ return [
         'privacy_last_updated' => 'Última actualización: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'mx' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'México',
         'locale' => 'es_MX',
         'locale_lang' => 'es-MX',
@@ -7622,31 +7622,31 @@ return [
         'country_iso' => 'mx',
         'language_iso' => 'es',
         'brand_name_api' => 'flovantreasure',
-        'geo_position' => '19.432608, -99.133209', // Координаты Мехико
+        'geo_position' => '19.432608, -99.133209',
         'jsonld_organization_name' => 'Floventra',
         'jsonld_organization_review_rating' => '4.96',
         'jsonld_organization_review_author' => 'Usuario de Floventra',
         'jsonld_organization_review_body' => 'Floventra conecta a residentes de México en la Ciudad de México con empresas de educación en inversiones reguladas por la CNBV, ofreciendo aprendizaje financiero accesible y confiable.',
         'jsonld_software_categories' => 'Plataforma de Educación en Inversiones',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'MXN',
         'social_links' => [
-            'https://facebook.com/xivoralunex',
-            'https://twitter.com/xivoralunex',
-            'https://linkedin.com/company/xivoralunex'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Educación en Inversiones en la Ciudad de México, México',
         'og_description' => 'Únete a Floventra en la Ciudad de México para conectarte con empresas de educación en inversiones reguladas por la CNBV. ¡Comienza tu viaje de aprendizaje financiero hoy!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
+        'og_image' => '/assets/images/og-home-image.jpg',
         'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Educación en Inversiones en la Ciudad de México',
         'twitter_description' => 'Descubre la educación en inversiones con Floventra en la Ciudad de México, México. ¡Conéctate gratis con empresas reguladas por la CNBV!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Plataforma de Educación en Inversiones en la Ciudad de México, México | El sitio web oficial',
         'meta_description' => 'Únete a Floventra en la Ciudad de México para conectarte con empresas de educación en inversiones reguladas por la CNBV. ¡Comienza tu viaje de aprendizaje financiero hoy!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, educación en inversiones Ciudad de México, aprendizaje financiero México, Floventra, educación regulada por CNBV, plataforma de inversiones México',
@@ -7663,60 +7663,60 @@ return [
         'jsonld_faq_6_question' => '¿Puedo acceder a Floventra en la Ciudad de México?',
         'jsonld_faq_6_answer' => 'Floventra es totalmente accesible para residentes de México en la Ciudad de México, ofreciendo una plataforma amigable para la educación en inversiones.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Acerca de Floventra - Educación en Inversiones en la Ciudad de México, México',
         'about_desc_content' => 'Conoce Floventra, una plataforma líder en la Ciudad de México que conecta a usuarios con empresas de educación en inversiones reguladas por la CNBV.',
         'about_keywords' => 'Floventra acerca, educación en inversiones Ciudad de México, educación financiera México, aprendizaje regulado por CNBV, plataforma de inversiones México',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contacta a Floventra - Educación en Inversiones en la Ciudad de México, México',
         'contact_desc_content' => 'Contacta a Floventra en la Ciudad de México para consultas sobre nuestros servicios de educación en inversiones regulados por la CNBV. ¡Ponte en contacto hoy!',
         'contact_keywords' => 'Floventra contacto, educación en inversiones Ciudad de México, aprendizaje financiero México, plataforma regulada por CNBV, contacto educación en inversiones',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Política de Cookies de Floventra - Ciudad de México, México',
         'cookie_desc_content' => 'Explora la Política de Cookies de Floventra para servicios de educación en inversiones en la Ciudad de México. Aprende cómo usamos cookies para mejorar tu experiencia.',
         'cookie_keywords' => 'política de cookies Floventra, educación en inversiones Ciudad de México, política de cookies México, plataforma regulada por CNBV, cookies educación financiera',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Términos de Uso de Floventra - Educación en Inversiones en la Ciudad de México, México',
         'terms_desc_content' => 'Explora los Términos de Uso de Floventra, que regulan el acceso a nuestra plataforma de educación en inversiones en la Ciudad de México. Conoce la elegibilidad y el cumplimiento con la CNBV.',
         'terms_keywords' => 'términos Floventra, plataforma de educación en inversiones, términos y condiciones México, servicios regulados por CNBV, educación financiera Ciudad de México',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Política de Privacidad de Floventra - Ciudad de México, México',
         'privacy_desc_content' => 'Lee la Política de Privacidad de Floventra para servicios de educación en inversiones en la Ciudad de México. Aprende cómo protegemos tus datos conforme a la LFPDPPP.',
         'privacy_keywords' => 'privacidad Floventra, educación en inversiones Ciudad de México, cumplimiento LFPDPPP, privacidad educación financiera, plataforma regulada por CNBV',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Crea Tu Perfil - Floventra Educación en Inversiones en la Ciudad de México, México',
         'create-profile_content' => 'Regístrate con Floventra en la Ciudad de México para conectarte con empresas de educación en inversiones reguladas por la CNBV. ¡Comienza tu viaje de aprendizaje hoy!',
         'create-profile_keywords' => 'registro Floventra, educación en inversiones Ciudad de México, aprendizaje financiero México, plataforma regulada por CNBV, crear perfil inversiones',
 
-        // Контентные ключи
+
         'home' => 'Inicio',
         'about' => 'Acerca de Nosotros',
         'contact' => 'Contáctanos',
         'privacy' => 'Política de Privacidad',
         'terms' => 'Términos y Condiciones',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Iniciar Sesión',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Regístrate ahora',
         'main_form_terms_text' => '* Al hacer clic en el botón, aceptas y confirmas la Política de Privacidad y los Términos y Condiciones',
 
-        // Section: About Platform
+
         'about_subtitle' => '¿Qué es Floventra AI?',
         'about_quote' => 'Floventra conecta a residentes de México con empresas de educación en inversiones reguladas por la CNBV en la Ciudad de México, haciendo el aprendizaje financiero accesible y efectivo.',
         'about_text_1' => 'Floventra simplifica el acceso a la educación en inversiones en la Ciudad de México. Nuestra plataforma colabora con empresas reguladas por la CNBV para ofrecer experiencias de aprendizaje personalizadas para todos los niveles.',
         'about_text_2' => 'No se necesita conocimiento previo en inversiones. Solo regístrate con tu nombre, correo electrónico y número de teléfono, y nuestros socios te contactarán para iniciar tu viaje de educación financiera en la Ciudad de México.',
         'about_register_btn' => 'REGÍSTRATE AQUÍ >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Mejora Tus Habilidades Financieras con Floventra en la Ciudad de México',
         'education_item_1_title' => 'Domina Nuevas Habilidades en Inversiones',
         'education_item_1_text' => 'Floventra conecta a residentes de México en la Ciudad de México con empresas reguladas por la CNBV para aprender estrategias de inversión. Perfecto para principiantes, profesionales o cualquier persona que busque conocimiento financiero.',
@@ -7728,7 +7728,7 @@ return [
         'education_item_3_text_2' => '¿Listo para transformar tu perspectiva financiera? ¡Regístrate con Floventra hoy!',
         'education_register_btn' => 'REGÍSTRATE AHORA >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => '¿Por Qué Conectarte con Profesores de Inversiones en Floventra?',
         'three_steps_item_1_title' => 'Estudio Virtual',
         'three_steps_item_1_text' => 'Floventra conecta a usuarios con educadores en inversiones que ofrecen aprendizaje digital en la Ciudad de México. Estudia desde cualquier lugar y revisa las grabaciones cuando lo necesites.',
@@ -7737,12 +7737,12 @@ return [
         'three_steps_item_3_title' => 'Diversidad de Idiomas',
         'three_steps_item_3_text' => 'Aprende en tu idioma preferido con los socios regulados por la CNBV de Floventra en la Ciudad de México, eliminando barreras lingüísticas.',
 
-        // Section: Investor Definition
+
         'investor_title' => '¿Quién es un Inversor?',
         'investor_quote' => 'Un inversor compromete capital a activos o planes para alcanzar metas financieras. Floventra en la Ciudad de México te conecta con educadores regulados por la CNBV para aprender más.',
         'investor_text' => 'Los inversores enfrentan riesgos que pueden impactar los rendimientos. Aprende a investigar, presupuestar y evaluar riesgos con empresas de educación en inversiones reguladas por la CNBV en la Ciudad de México a través de Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Resumen de Tipos de Inversores por Floventra',
         'investor_types_intro' => 'Los inversores varían según sus objetivos, tolerancia al riesgo y estrategias. Aprende sobre inversores cuantitativos, socialmente responsables e institucionales con Floventra en la Ciudad de México.',
         'investor_type_1_title' => 'Inversor Cuantitativo',
@@ -7760,13 +7760,13 @@ return [
         'investor_type_3_content' => 'Los inversores institucionales manejan inversiones a gran escala. Regístrate con Floventra en la Ciudad de México para aprender cómo se diferencian de otros inversores.',
         'investor_types_register_btn' => 'REGÍSTRATE GRATIS >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => '¿Qué es un Fondo Indexado?',
         'index_funds_quote' => 'Los fondos indexados siguen el rendimiento del mercado con costos más bajos. Aprende sobre sus riesgos y beneficios con los educadores regulados por la CNBV de Floventra en la Ciudad de México.',
         'index_funds_text_1' => 'Los fondos indexados están ligados al rendimiento del mercado y pueden ser riesgosos. Conéctate con educadores en inversiones regulados por la CNBV en la Ciudad de México a través de Floventra para aprender más.',
         'index_funds_text_2' => 'Los inversores eligen fondos indexados, abren cuentas y monitorean carteras. Descubre estrategias de fondos indexados con Floventra en la Ciudad de México.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Aprende Sobre Fondos Cotizados (ETFs) con Floventra',
         'etfs_text_1' => 'Los ETFs permiten invertir en valores diversificados. Aprende cómo funcionan con educadores regulados por la CNBV en la Ciudad de México a través de Floventra.',
         'etfs_text_2' => 'Los ETFs se negocian en bolsas con rendimientos variables. Conéctate con Floventra en la Ciudad de México para explorar tipos y estrategias de ETFs.',
@@ -7780,7 +7780,7 @@ return [
         'etf_type_4_text' => 'Los ETFs de acciones siguen valores para diversificación. Conéctate con Floventra en la Ciudad de México para una educación detallada sobre ETFs.',
         'etfs_learn_btn' => 'APRENDE MÁS >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Inversión Ambiental, Social y de Gobernanza (ESG)',
         'assets_esg_quote' => 'La inversión ESG prioriza factores éticos. Aprende cómo se alinea con las regulaciones mexicanas a través de Floventra en la Ciudad de México.',
         'assets_esg_text' => 'ESG evalúa empresas según estándares ambientales, sociales y de gobernanza. Conéctate con educadores regulados por la CNBV en la Ciudad de México a través de Floventra.',
@@ -7790,7 +7790,7 @@ return [
         'assets_market_cap_text_1' => 'La capitalización de mercado varía desde micro hasta grande. Descubre sus riesgos y potencial de crecimiento con Floventra en la Ciudad de México.',
         'assets_market_cap_text_2' => 'Las empresas de mediana y gran capitalización ofrecen crecimiento, pero varían en volatilidad. Aprende más con los socios regulados por la CNBV de Floventra en la Ciudad de México.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Entiende la Cobertura con Floventra',
         'metrics_hedging_text' => 'La cobertura mitiga riesgos de inversión usando derivados. Aprende sus complejidades con educadores regulados por la CNBV en la Ciudad de México a través de Floventra.',
         'metrics_terms_title' => 'Conoce Términos Básicos de Inversión con Floventra',
@@ -7807,12 +7807,12 @@ return [
         'metrics_debt_instrument_title' => 'Instrumento de Deuda',
         'metrics_debt_instrument_text' => 'Los instrumentos de deuda recaudan capital mediante bonos o préstamos. Descúbrelos con Floventra en la Ciudad de México.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Nunca es Tarde para Comenzar',
         'padding_60_quote' => '¿Strugas por encontrar educación en inversiones confiable en la Ciudad de México? Floventra te conecta con empresas reguladas por la CNBV.',
         'padding_60_text' => 'Floventra ayuda a miles de residentes de México en la Ciudad de México a acceder a educación en inversiones confiable. ¡Regístrate gratis hoy!',
 
-        // Section: FAQ
+
         'faq_title' => 'Preguntas Frecuentes de Floventra',
         'faq_1_question' => '¿Qué Enseña Floventra a las Personas?',
         'faq_1_answer' => 'Floventra conecta a residentes de México en la Ciudad de México con empresas de educación en inversiones reguladas por la CNBV para un aprendizaje financiero integral.',
@@ -7821,7 +7821,7 @@ return [
         'faq_3_question' => '¿Cómo Conecta Floventra a las Personas con Tutores?',
         'faq_3_answer' => 'Los usuarios se registran con su nombre, correo electrónico y número de teléfono, y las empresas reguladas por la CNBV en la Ciudad de México los contactan, cumpliendo con la LFPDPPP.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Resumen de Floventra',
         'highlight_enrollment_cost_title' => '🤖 Costo de Inscripción',
         'highlight_enrollment_cost_text' => 'Inscripción gratuita para residentes de México en la Ciudad de México',
@@ -7834,28 +7834,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Regiones Accesibles',
         'highlight_accessible_regions_text' => 'Disponible en la Ciudad de México, México, y la mayoría de las regiones, excluyendo los EE. UU.',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'El Rol de Floventra en el Panorama de Inversiones',
         'about_principles_role_text' => 'Floventra promueve la educación en inversiones en la Ciudad de México al conectar a usuarios con empresas reguladas por la CNBV para decisiones financieras informadas.',
         'about_principles_gap_title' => 'Cerrando la Brecha de Conocimiento en Inversiones',
         'about_principles_gap_text' => 'Floventra cierra la brecha de conocimiento en inversiones en la Ciudad de México al conectar a usuarios con educadores regulados por la CNBV.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Apunta a un Mundo Progresista',
         'about_forward_thinking_quote' => 'Floventra fomenta la alfabetización financiera en la Ciudad de México a través de soluciones innovadoras de educación en inversiones.',
         'about_forward_thinking_text' => 'Floventra transforma las mentalidades financieras en la Ciudad de México al conectar a usuarios con educación en inversiones regulada por la CNBV.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Valora la Educación',
         'about_education_text_1' => 'Floventra empodera a los residentes de México en la Ciudad de México con conocimientos, herramientas y estrategias de inversión a través de educadores regulados por la CNBV.',
         'about_education_people_title' => 'El Equipo de Floventra',
         'about_education_people_text' => 'Nuestro equipo en la Ciudad de México trabaja para hacer accesible la educación en inversiones al conectar a usuarios con empresas reguladas por la CNBV.',
         'about_education_mission_text' => 'Floventra asegura que los residentes de México en la Ciudad de México puedan acceder a educación en inversiones, cerrando la brecha de conocimiento globalmente.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Formulario de Contacto',
         'contact_form_name_placeholder' => 'Tu Nombre',
         'contact_form_email_placeholder' => 'Correo Electrónico',
@@ -7863,7 +7863,7 @@ return [
         'contact_form_submit_button' => 'Enviar Mensaje',
         'contact_form_success' => '¡Formulario enviado con éxito!',
 
-        // Section: Login Page
+
         'login_title' => 'Inicio de Sesión de Floventra',
         'login_subtitle' => 'Instrucciones de Inicio de Sesión para Nuevos Usuarios de Floventra',
         'login_instructions_text' => 'Los nuevos usuarios reciben credenciales de inicio de sesión de empresas de educación en inversiones reguladas por la CNBV en la Ciudad de México para sus sitios web.',
@@ -7879,13 +7879,13 @@ return [
         'login_form_error_last_name' => 'Tu apellido es demasiado corto (mínimo 2 caracteres)',
         'login_form_error_email' => 'Por favor, ingresa tu correo electrónico real (por ejemplo, usuario@ejemplo.com)',
 
-        // Условия использования (terms)
+
         'terms_general_title' => '1. General',
         'terms_general_1' => 'Bienvenido a floventus.com (el "Sitio Web").',
         'terms_general_2' => 'Nuestro correo electrónico: <a href="mailto:info@zevrio-educacionfinanciera.org">info@zevrio-educacionfinanciera.org</a>',
         'terms_general_3' => 'El Sitio Web incluye información sobre plataformas de terceros (las <b>"Plataformas de Terceros"</b>) específicamente servicios educativos sobre técnicas generales de inversión o investigación de mercado. Floventra actúa como intermediario, conectando a usuarios con dichas Plataformas de Terceros (los <b>"Servicios"</b>).',
         'terms_general_4' => 'Estos términos de uso (los <b>"Términos"</b>) rigen tu uso (<b>"Tú"</b>, <b>"Tu"</b> o <b>"Usuario"</b>) del Sitio Web y los Servicios. Estos Términos deben ser leídos cuidadosamente por Ti en su totalidad antes de usar los Servicios. Ten en cuenta que estos Términos constituyen un acuerdo legalmente vinculante entre Tú y el operador del Sitio Web, Floventra, <a href="mailto:info@zevrio-educacionfinanciera.org">info@zevrio-educacionfinanciera.org</a>. Si no estás de acuerdo con alguna disposición de estos Términos, deberás cesar inmediatamente el uso del Sitio Web. Al usar el Sitio Web, aceptas los Términos, según sean modificados de vez en cuando.',
-        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y al aceptar estos Términos, confirmas que también aceptas y estás de acuerdo con Nuestra política de privacidad (Puedes revisar Nuestra Política de Privacidad haciendo <a href="/mx/privacy-policy/">clic aquí</a>).',
+        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y al aceptar estos Términos, confirmas que también aceptas y estás de acuerdo con Nuestra política de privacidad (Puedes revisar Nuestra Política de Privacidad haciendo <a href="./privacy">clic aquí</a>).',
         'terms_services_title' => '2. Descripción de los Servicios',
         'terms_services_1' => 'No somos una plataforma de inversiones, ni te ponemos en contacto con dichas plataformas, a menos que dicha plataforma se comprometa a ofrecerte únicamente servicios educativos o investigación de mercado.',
         'terms_services_2' => 'Actuamos como intermediario para conectarte con un proveedor de servicios capaz de proponer contenido educativo sobre técnicas generales de inversión o investigación de mercado en tus áreas de interés, cumpliendo con las regulaciones de la CNBV en México.',
@@ -7947,7 +7947,7 @@ return [
         'terms_miscellaneous_8' => 'Estos términos se regirán por la ley mexicana.',
         'terms_miscellaneous_9' => 'El lugar exclusivo de jurisdicción para todas las disputas que surjan de o en conexión con estos Términos serán los tribunales de la Ciudad de México.',
 
-        // Политика конфиденциальности (privacy)
+
         'privacy_purpose_title' => 'Propósito del Aviso',
         'privacy_purpose_text' => 'El propósito de este Aviso de Privacidad de Datos (el "Aviso") es explicar cómo Floventra ("Floventra" o "Nosotros") procesará, como controlador de datos, tus datos personales que nos proporcionas cuando visitas el sitio web floventus.com (el "Sitio Web"), o que recibimos de terceros, para ponerte en contacto con profesionales que podrían interesarte.',
         'privacy_data_categories_title' => '¿Qué Categorías de Datos Personales Serán Procesadas?',
@@ -7993,7 +7993,7 @@ return [
         'privacy_last_updated' => 'Última actualización: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'cr' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Costa Rica',
         'locale' => 'es_CR',
         'locale_lang' => 'es-CR',
@@ -8003,31 +8003,31 @@ return [
         'country_iso' => 'cr',
         'language_iso' => 'es',
         'brand_name_api' => 'flovantreasure',
-        'geo_position' => '9.933333, -84.083333', // Координаты Сан-Хосе
+        'geo_position' => '9.933333, -84.083333',
         'jsonld_organization_name' => 'Floventra',
         'jsonld_organization_review_rating' => '4.96',
         'jsonld_organization_review_author' => 'Usuario de Floventra',
         'jsonld_organization_review_body' => 'Floventra conecta a residentes de San José, Costa Rica, con empresas de educación en inversiones reguladas, ofreciendo aprendizaje financiero accesible y confiable.',
         'jsonld_software_categories' => 'Plataforma de Educación en Inversiones',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'CRC',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Educación en Inversiones en San José, Costa Rica',
         'og_description' => 'Únete a Floventra en San José, Costa Rica, para conectarte con empresas de educación en inversiones reguladas. ¡Comienza tu viaje de aprendizaje financiero hoy!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/cr/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Educación en Inversiones en San José',
         'twitter_description' => 'Descubre la educación en inversiones con Floventra en San José, Costa Rica. ¡Conéctate gratis con empresas reguladas!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Plataforma de Educación en Inversiones en San José, Costa Rica | El sitio web oficial',
         'meta_description' => 'Únete a Floventra en San José, Costa Rica, para conectarte con empresas de educación en inversiones reguladas. ¡Comienza tu viaje de aprendizaje financiero hoy!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, educación en inversiones San José, aprendizaje financiero Costa Rica, Floventra, educación regulada, plataforma de inversiones Costa Rica',
@@ -8044,60 +8044,60 @@ return [
         'jsonld_faq_6_question' => '¿Puedo acceder a Floventra en San José?',
         'jsonld_faq_6_answer' => 'Floventra es completamente accesible para residentes de Costa Rica en San José, ofreciendo una plataforma fácil de usar para la educación en inversiones.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Acerca de Floventra - Educación en Inversiones en San José, Costa Rica',
         'about_desc_content' => 'Conoce Floventra, una plataforma líder en San José, Costa Rica, que conecta a usuarios con empresas de educación en inversiones reguladas.',
         'about_keywords' => 'acerca de Floventra, educación en inversiones San José, aprendizaje financiero Costa Rica, educación regulada, plataforma de inversiones Costa Rica',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contacta a Floventra - Educación en Inversiones en San José, Costa Rica',
         'contact_desc_content' => 'Contacta a Floventra en San José, Costa Rica, para consultas sobre nuestros servicios de educación en inversiones reguladas. ¡Ponte en contacto hoy!',
         'contact_keywords' => 'contacto Floventra, educación en inversiones San José, aprendizaje financiero Costa Rica, plataforma regulada, contacto educación en inversiones',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Política de Cookies de Floventra - San José, Costa Rica',
         'cookie_desc_content' => 'Explora la Política de Cookies de Floventra para servicios de educación en inversiones en San José, Costa Rica. Aprende cómo usamos cookies para mejorar tu experiencia.',
         'cookie_keywords' => 'política de cookies Floventra, educación en inversiones San José, política de cookies Costa Rica, plataforma regulada, cookies educación financiera',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Términos de Uso de Floventra - Educación en Inversiones en San José, Costa Rica',
         'terms_desc_content' => 'Explora los Términos de Uso de Floventra, que rigen el acceso a nuestra plataforma de educación en inversiones en San José, Costa Rica. Conoce la elegibilidad y el cumplimiento normativo.',
         'terms_keywords' => 'términos Floventra, plataforma de educación en inversiones, términos y condiciones Costa Rica, servicios regulados, educación financiera San José',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Política de Privacidad de Floventra - San José, Costa Rica',
         'privacy_desc_content' => 'Lee la Política de Privacidad de Floventra para servicios de educación en inversiones en San José, Costa Rica. Descubre cómo protegemos tus datos bajo las normativas de Costa Rica.',
         'privacy_keywords' => 'privacidad Floventra, educación en inversiones San José, cumplimiento normativo Costa Rica, privacidad educación financiera, plataforma regulada',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Crea Tu Perfil - Educación en Inversiones con Floventra en San José, Costa Rica',
         'create-profile_content' => 'Regístrate con Floventra en San José, Costa Rica, para conectarte con empresas de educación en inversiones reguladas. ¡Comienza tu viaje de aprendizaje hoy!',
         'create-profile_keywords' => 'registro Floventra, educación en inversiones San José, aprendizaje financiero Costa Rica, plataforma regulada, crear perfil inversiones',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Inicio',
         'about' => 'Acerca de Nosotros',
         'contact' => 'Contáctanos',
         'privacy' => 'Política de Privacidad',
         'terms' => 'Términos y Condiciones',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Iniciar Sesión',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Regístrate ahora',
         'main_form_terms_text' => '* Al hacer clic en el botón, aceptas y reconoces la Política de Privacidad y los Términos y Condiciones',
 
-        // Section: About Platform
+
         'about_subtitle' => '¿Qué es Floventra AI?',
         'about_quote' => 'Floventra conecta a residentes de Costa Rica en San José con empresas de educación en inversiones reguladas, haciendo que el aprendizaje financiero sea accesible y efectivo.',
         'about_text_1' => 'Floventra simplifica el acceso a la educación en inversiones en San José, Costa Rica. Nuestra plataforma colabora con empresas reguladas para ofrecer experiencias de aprendizaje personalizadas para todos los niveles.',
         'about_text_2' => 'No se necesita conocimiento previo en inversiones. Solo regístrate con tu nombre, correo electrónico y número de teléfono, y nuestros socios te contactarán para comenzar tu viaje de educación financiera en San José.',
         'about_register_btn' => 'REGÍSTRATE AQUÍ >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Mejora Tus Habilidades Financieras con Floventra en San José',
         'education_item_1_title' => 'Domina Nuevas Habilidades de Inversión',
         'education_item_1_text' => 'Floventra conecta a residentes de Costa Rica en San José con empresas reguladas para aprender estrategias de inversión. Perfecto para principiantes, profesionales o cualquier persona que busque conocimiento financiero.',
@@ -8109,7 +8109,7 @@ return [
         'education_item_3_text_2' => '¿Listo para transformar tu perspectiva financiera? ¡Regístrate con Floventra hoy!',
         'education_register_btn' => 'REGÍSTRATE AHORA >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => '¿Por Qué Conectarte con Profesores de Inversiones en Floventra?',
         'three_steps_item_1_title' => 'Estudio Virtual',
         'three_steps_item_1_text' => 'Floventra conecta a usuarios con educadores en inversiones que ofrecen aprendizaje digital en San José, Costa Rica. Estudia desde cualquier lugar y revisa grabaciones cuando lo necesites.',
@@ -8118,12 +8118,12 @@ return [
         'three_steps_item_3_title' => 'Multilingüismo',
         'three_steps_item_3_text' => 'Aprende en tu idioma preferido con los socios regulados de Floventra en San José, Costa Rica, eliminando barreras lingüísticas.',
 
-        // Section: Investor Definition
+
         'investor_title' => '¿Quién es un Inversor?',
         'investor_quote' => 'Un inversor compromete capital a activos o planes para alcanzar objetivos financieros. Floventra en San José, Costa Rica, te conecta con educadores regulados para aprender más.',
         'investor_text' => 'Los inversores enfrentan riesgos que pueden afectar los retornos. Aprende a investigar, presupuestar y evaluar riesgos con empresas de educación en inversiones reguladas en San José a través de Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Resumen de Tipos de Inversores de Floventra',
         'investor_types_intro' => 'Los inversores varían según sus objetivos, tolerancia al riesgo y estrategias. Aprende sobre inversores cuantitativos, socialmente responsables e institucionales con Floventra en San José, Costa Rica.',
         'investor_type_1_title' => 'Inversor Cuantitativo',
@@ -8141,13 +8141,13 @@ return [
         'investor_type_3_content' => 'Los inversores institucionales gestionan inversiones a gran escala. Regístrate con Floventra en San José para aprender cómo se diferencian de otros inversores.',
         'investor_types_register_btn' => 'REGÍSTRATE GRATIS >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => '¿Qué es un Fondo Indexado?',
         'index_funds_quote' => 'Los fondos indexados siguen el rendimiento del mercado con menores costos. Aprende sobre sus riesgos y beneficios con los educadores regulados de Floventra en San José, Costa Rica.',
         'index_funds_text_1' => 'Los fondos indexados están ligados al rendimiento del mercado y pueden ser riesgosos. Conéctate con educadores en inversiones regulados en San José a través de Floventra para aprender más.',
         'index_funds_text_2' => 'Los inversores eligen fondos indexados, abren cuentas y monitorean carteras. Descubre estrategias de fondos indexados con Floventra en San José, Costa Rica.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Aprende Sobre Fondos Cotizados (ETFs) con Floventra',
         'etfs_text_1' => 'Los ETFs permiten invertir en valores diversos. Aprende cómo funcionan con educadores regulados en San José a través de Floventra.',
         'etfs_text_2' => 'Los ETFs se negocian en bolsas con retornos variables. Conéctate con Floventra en San José, Costa Rica, para explorar tipos y estrategias de ETFs.',
@@ -8161,7 +8161,7 @@ return [
         'etf_type_4_text' => 'Los ETFs de acciones siguen valores para diversificación. Conéctate con Floventra en San José, Costa Rica, para una educación detallada sobre ETFs.',
         'etfs_learn_btn' => 'APRENDE MÁS >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Inversión Ambiental, Social y de Gobernanza (ESG)',
         'assets_esg_quote' => 'La inversión ESG prioriza factores éticos. Aprende cómo se alinea con las regulaciones de Costa Rica a través de Floventra en San José.',
         'assets_esg_text' => 'ESG evalúa empresas según estándares ambientales, sociales y de gobernanza. Conéctate con educadores regulados en San José a través de Floventra.',
@@ -8171,7 +8171,7 @@ return [
         'assets_market_cap_text_1' => 'La capitalización de mercado va desde micro hasta grande. Descubre sus riesgos y potencial de crecimiento con Floventra en San José, Costa Rica.',
         'assets_market_cap_text_2' => 'Las empresas de capitalización media y grande ofrecen crecimiento pero varían en volatilidad. Aprende más con los socios regulados de Floventra en San José.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Entiende el Hedging con Floventra',
         'metrics_hedging_text' => 'El hedging mitiga riesgos de inversión usando derivados. Aprende sus complejidades con educadores regulados en San José a través de Floventra.',
         'metrics_terms_title' => 'Conoce Términos Básicos de Inversión con Floventra',
@@ -8188,12 +8188,12 @@ return [
         'metrics_debt_instrument_title' => 'Instrumento de Deuda',
         'metrics_debt_instrument_text' => 'Los instrumentos de deuda recaudan capital mediante bonos o préstamos. Descúbrelos con Floventra en San José, Costa Rica.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Nunca es Tarde para Comenzar',
         'padding_60_quote' => '¿Luchas por encontrar educación en inversiones confiable en San José, Costa Rica? Floventra te conecta con empresas reguladas.',
         'padding_60_text' => 'Floventra ayuda a miles de residentes de Costa Rica en San José a acceder a educación en inversiones confiable. ¡Regístrate gratis hoy!',
 
-        // Section: FAQ
+
         'faq_title' => 'Preguntas Frecuentes de Floventra',
         'faq_1_question' => '¿Qué Enseña Floventra a las Personas?',
         'faq_1_answer' => 'Floventra conecta a residentes de Costa Rica en San José con empresas de educación en inversiones reguladas para un aprendizaje financiero integral.',
@@ -8202,7 +8202,7 @@ return [
         'faq_3_question' => '¿Cómo Conecta Floventra a las Personas con Tutores?',
         'faq_3_answer' => 'Los usuarios se registran con su nombre, correo electrónico y número de teléfono, y las empresas reguladas en San José los contactan, cumpliendo con las normativas de privacidad de Costa Rica.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Destacados de Floventra',
         'highlight_enrollment_cost_title' => '🤖 Costo de Inscripción',
         'highlight_enrollment_cost_text' => 'Inscripción gratuita para residentes de Costa Rica en San José',
@@ -8215,28 +8215,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Regiones Accesibles',
         'highlight_accessible_regions_text' => 'Disponible en San José, Costa Rica, y la mayoría de las regiones, excluyendo los EE. UU.',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'El Rol de Floventra en el Panorama de las Inversiones',
         'about_principles_role_text' => 'Floventra promueve la educación en inversiones en San José, Costa Rica, conectando a usuarios con empresas reguladas para decisiones financieras informadas.',
         'about_principles_gap_title' => 'Cerrando la Brecha de Conocimiento en Inversiones',
         'about_principles_gap_text' => 'Floventra reduce la brecha de conocimiento en inversiones en San José, Costa Rica, vinculando a usuarios con educadores regulados.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Apunta a un Mundo Progresista',
         'about_forward_thinking_quote' => 'Floventra fomenta la alfabetización financiera en San José, Costa Rica, a través de soluciones innovadoras de educación en inversiones.',
         'about_forward_thinking_text' => 'Floventra transforma mentalidades financieras en San José, Costa Rica, conectando a usuarios con educación en inversiones regulada.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Prioriza la Educación',
         'about_education_text_1' => 'Floventra empodera a residentes de Costa Rica en San José con conocimiento, herramientas y estrategias de inversión a través de educadores regulados.',
         'about_education_people_title' => 'La Gente de Floventra',
         'about_education_people_text' => 'Nuestro equipo en San José, Costa Rica, trabaja para hacer accesible la educación en inversiones conectando a usuarios con empresas reguladas.',
         'about_education_mission_text' => 'Floventra asegura que los residentes de Costa Rica en San José puedan acceder a la educación en inversiones, cerrando la brecha de conocimiento globalmente.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Formulario de Contacto',
         'contact_form_name_placeholder' => 'Tu Nombre',
         'contact_form_email_placeholder' => 'Correo Electrónico',
@@ -8244,7 +8244,7 @@ return [
         'contact_form_submit_button' => 'Enviar Mensaje',
         'contact_form_success' => '¡Formulario enviado con éxito!',
 
-        // Section: Login Page
+
         'login_title' => 'Inicio de Sesión en Floventra',
         'login_subtitle' => 'Instrucciones de Inicio de Sesión para Nuevos Usuarios de Floventra',
         'login_instructions_text' => 'Los nuevos usuarios reciben credenciales de inicio de sesión de empresas de educación en inversiones reguladas en San José, Costa Rica, para sus sitios web.',
@@ -8260,13 +8260,13 @@ return [
         'login_form_error_last_name' => 'Tu apellido es demasiado corto (mínimo 2 caracteres)',
         'login_form_error_email' => 'Por favor, ingresa un correo electrónico real (por ejemplo, usuario@ejemplo.com)',
 
-        // Section: Terms
+
         'terms_general_title' => '1. General',
-        'terms_general_1' => 'Bienvenido a floventus.com/cr/ (el "Sitio Web").',
+        'terms_general_1' => 'Bienvenido a floventus.com/ (el "Sitio Web").',
         'terms_general_2' => 'Nuestro correo electrónico: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'El Sitio Web incluye información sobre plataformas de terceros (las <b>"Plataformas de Terceros"</b>) específicamente servicios educativos sobre técnicas generales de inversión o investigación de mercado. Floventra actúa como intermediario, conectando a usuarios con dichas Plataformas de Terceros (los <b>"Servicios"</b>).',
         'terms_general_4' => 'Estos términos de uso (los <b>"Términos"</b>) rigen tu uso (<b>"Tú"</b>, <b>"Tu"</b> o <b>"Usuario"</b>) del Sitio Web y los Servicios. Estos Términos deben ser leídos cuidadosamente por Ti en su totalidad antes de usar los Servicios. Ten en cuenta que estos Términos constituyen un acuerdo legalmente vinculante entre Tú y el operador del Sitio Web, Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Si no estás de acuerdo con alguna disposición de estos Términos, debes cesar inmediatamente de usar el Sitio Web. Al usar el Sitio Web, aceptas los Términos, según sean modificados de vez en cuando.',
-        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y, al aceptar estos Términos, confirmas que también aceptas y estás de acuerdo con Nuestra política de privacidad (Puedes revisar Nuestra Política de Privacidad haciendo <a href="/cr/privacy-policy/">clic aquí</a>).',
+        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y, al aceptar estos Términos, confirmas que también aceptas y estás de acuerdo con Nuestra política de privacidad (Puedes revisar Nuestra Política de Privacidad haciendo <a href="./privacy">clic aquí</a>).',
         'terms_services_title' => '2. Descripción de los Servicios',
         'terms_services_1' => 'No somos una plataforma de inversiones, ni te ponemos en contacto con plataformas de inversiones, a menos que dichas plataformas se comprometan a ofrecerte únicamente servicios educativos o investigación de mercado.',
         'terms_services_2' => 'Actuamos como intermediarios para conectarte con un proveedor de servicios capaz de proponer contenido educativo sobre técnicas generales de inversión o investigación de mercado en tus áreas de interés, cumpliendo con las regulaciones de Costa Rica.',
@@ -8328,9 +8328,9 @@ return [
         'terms_miscellaneous_8' => 'Estos términos estarán regidos por la ley de Costa Rica.',
         'terms_miscellaneous_9' => 'El lugar exclusivo de jurisdicción para todas las disputas que surjan de o en conexión con estos Términos serán los tribunales de San José, Costa Rica.',
 
-        // Section: Privacy
+
         'privacy_purpose_title' => 'Propósito de la Notificación',
-        'privacy_purpose_text' => 'El propósito de esta Notificación de Privacidad de Datos (la "Notificación") es explicar cómo Floventra ("Floventra" o "Nosotros") procesará, como controlador de datos, tus datos personales que nos proporciones cuando visites el sitio web floventus.com/cr/, o que recibamos de terceros, para ponerte en contacto con profesionales que puedan interesarte.',
+        'privacy_purpose_text' => 'El propósito de esta Notificación de Privacidad de Datos (la "Notificación") es explicar cómo Floventra ("Floventra" o "Nosotros") procesará, como controlador de datos, tus datos personales que nos proporciones cuando visites el sitio web floventus.com/, o que recibamos de terceros, para ponerte en contacto con profesionales que puedan interesarte.',
         'privacy_data_categories_title' => '¿Qué Categorías de Datos Personales Serán Procesadas?',
         'privacy_data_categories_text' => 'Recolectamos y procesamos las siguientes categorías de datos personales sobre ti:',
         'privacy_data_collection_title' => '¿Cómo Se Recolectan Tus Datos?',
@@ -8374,7 +8374,7 @@ return [
         'privacy_last_updated' => 'Última actualización: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'cl' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Chile',
         'locale' => 'es_CL',
         'locale_lang' => 'es-CL',
@@ -8390,25 +8390,25 @@ return [
         'jsonld_organization_review_author' => 'Usuario de Floventra',
         'jsonld_organization_review_body' => 'Floventra conecta a residentes de Chile en Santiago con firmas de educación en inversiones reguladas por la CMF, ofreciendo aprendizaje financiero accesible y confiable.',
         'jsonld_software_categories' => 'Plataforma de Educación en Inversiones',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'CLP',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Educación en Inversiones en Santiago, Chile',
         'og_description' => 'Únete a Floventra en Santiago, Chile, para conectar con firmas de educación en inversiones reguladas por la CMF. ¡Comienza tu viaje de aprendizaje financiero hoy!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/cl/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Educación en Inversiones en Santiago',
         'twitter_description' => 'Descubre la educación en inversiones con Floventra en Santiago, Chile. ¡Conecta con firmas reguladas por la CMF gratis!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Plataforma de Educación en Inversiones en Santiago, Chile | El sitio web oficial',
         'meta_description' => 'Únete a Floventra en Santiago, Chile, para conectar con firmas de educación en inversiones reguladas por la CMF. ¡Comienza tu viaje de aprendizaje financiero hoy!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, educación en inversiones Santiago, aprendizaje financiero Chile, Floventra, educación regulada por la CMF, plataforma de inversiones Chile',
@@ -8425,60 +8425,60 @@ return [
         'jsonld_faq_6_question' => '¿Puedo acceder a Floventra en Santiago?',
         'jsonld_faq_6_answer' => 'Floventra es totalmente accesible para residentes de Chile en Santiago, ofreciendo una plataforma fácil de usar para la educación en inversiones.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Acerca de Floventra - Educación en Inversiones en Santiago, Chile',
         'about_desc_content' => 'Conoce Floventra, una plataforma líder en Santiago, Chile, que conecta a usuarios con firmas de educación en inversiones reguladas por la CMF.',
         'about_keywords' => 'Floventra acerca, educación en inversiones Santiago, aprendizaje financiero Chile, educación regulada por la CMF, plataforma de inversiones Chile',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contacta a Floventra - Educación en Inversiones en Santiago, Chile',
         'contact_desc_content' => 'Contacta a Floventra en Santiago, Chile, para consultas sobre nuestros servicios de educación en inversiones regulados por la CMF. ¡Ponte en contacto hoy!',
         'contact_keywords' => 'Floventra contacto, educación en inversiones Santiago, aprendizaje financiero Chile, plataforma regulada por la CMF, contacto educación en inversiones',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Política de Cookies de Floventra - Santiago, Chile',
         'cookie_desc_content' => 'Explora la Política de Cookies de Floventra para servicios de educación en inversiones en Santiago, Chile. Aprende cómo usamos cookies para mejorar tu experiencia.',
         'cookie_keywords' => 'Floventra política de cookies, educación en inversiones Santiago, política de cookies Chile, plataforma regulada por la CMF, cookies educación financiera',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Términos de Uso de Floventra - Educación en Inversiones en Santiago, Chile',
         'terms_desc_content' => 'Explora los Términos de Uso de Floventra, que rigen el acceso a nuestra plataforma de educación en inversiones en Santiago, Chile. Conoce la elegibilidad y el cumplimiento con la CMF.',
         'terms_keywords' => 'Floventra términos, plataforma de educación en inversiones, términos y condiciones Chile, servicios regulados por la CMF, educación financiera Santiago',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Política de Privacidad de Floventra - Santiago, Chile',
         'privacy_desc_content' => 'Lee la Política de Privacidad de Floventra para servicios de educación en inversiones en Santiago, Chile. Aprende cómo protegemos tus datos conforme a las regulaciones de Chile.',
         'privacy_keywords' => 'Floventra privacidad, educación en inversiones Santiago, cumplimiento normativo Chile, privacidad educación financiera, plataforma regulada por la CMF',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Crea tu Perfil - Educación en Inversiones con Floventra en Santiago, Chile',
         'create-profile_content' => 'Regístrate con Floventra en Santiago, Chile, para conectar con firmas de educación en inversiones reguladas por la CMF. ¡Comienza tu viaje de aprendizaje hoy!',
         'create-profile_keywords' => 'Floventra registro, educación en inversiones Santiago, aprendizaje financiero Chile, plataforma regulada por la CMF, crear perfil inversiones',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Inicio',
         'about' => 'Acerca de Nosotros',
         'contact' => 'Contáctanos',
         'privacy' => 'Política de Privacidad',
         'terms' => 'Términos y Condiciones',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Iniciar Sesión',
 
-        // Main Page Section
+
         'main_title' => 'Floventra IA',
         'main_form_title' => 'Regístrate ahora',
         'main_form_terms_text' => '* Al hacer clic en el botón, aceptas y estás de acuerdo con la Política de Privacidad y los Términos y Condiciones',
 
-        // Section: About Platform
+
         'about_subtitle' => '¿Qué es Floventra IA?',
         'about_quote' => 'Floventra conecta a residentes de Chile con firmas de educación en inversiones reguladas por la CMF en Santiago, haciendo que el aprendizaje financiero sea accesible y efectivo.',
         'about_text_1' => 'Floventra simplifica el acceso a la educación en inversiones en Santiago, Chile. Nuestra plataforma se asocia con firmas reguladas por la CMF para proporcionar experiencias de aprendizaje personalizadas para todos los niveles de habilidad.',
         'about_text_2' => 'No se necesita conocimiento previo en inversiones. Simplemente regístrate con tu nombre, correo electrónico y número de teléfono, y nuestros socios te contactarán para comenzar tu viaje de educación financiera en Santiago.',
         'about_register_btn' => 'REGÍSTRATE AQUÍ >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Mejora tus Habilidades Financieras con Floventra en Santiago',
         'education_item_1_title' => 'Domina Nuevas Habilidades de Inversión',
         'education_item_1_text' => 'Floventra conecta a residentes de Chile en Santiago con firmas reguladas por la CMF para aprender estrategias de inversión. Perfecto para principiantes, profesionales o cualquier persona que busque conocimiento financiero.',
@@ -8490,7 +8490,7 @@ return [
         'education_item_3_text_2' => '¿Listo para transformar tu perspectiva financiera? ¡Regístrate con Floventra hoy!',
         'education_register_btn' => 'REGÍSTRATE AHORA >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => '¿Por qué Conectar con Profesores de Inversiones en Floventra?',
         'three_steps_item_1_title' => 'Estudio Virtual',
         'three_steps_item_1_text' => 'Floventra conecta a usuarios con educadores en inversiones que ofrecen aprendizaje digital en Santiago, Chile. Estudia desde cualquier lugar y revisa las grabaciones cuando lo necesites.',
@@ -8499,12 +8499,12 @@ return [
         'three_steps_item_3_title' => 'Diversidad Lingüística',
         'three_steps_item_3_text' => 'Aprende en tu idioma preferido con los socios regulados por la CMF de Floventra en Santiago, Chile, eliminando barreras lingüísticas.',
 
-        // Section: Investor Definition
+
         'investor_title' => '¿Quién es un Inversor?',
         'investor_quote' => 'Un inversor compromete capital a activos o planes para alcanzar metas financieras. Floventra en Santiago, Chile, te conecta con educadores regulados por la CMF para aprender más.',
         'investor_text' => 'Los inversores enfrentan riesgos que pueden afectar los retornos. Aprende a investigar, presupuestar y evaluar riesgos con firmas de educación en inversiones reguladas por la CMF en Santiago a través de Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Resumen de Tipos de Inversores de Floventra',
         'investor_types_intro' => 'Los inversores varían según objetivos, tolerancia al riesgo y estrategias. Aprende sobre inversores cuantitativos, socialmente responsables e institucionales con Floventra en Santiago, Chile.',
         'investor_type_1_title' => 'Inversor Cuantitativo',
@@ -8522,13 +8522,13 @@ return [
         'investor_type_3_content' => 'Los inversores institucionales gestionan inversiones a gran escala. Regístrate con Floventra en Santiago para aprender cómo se diferencian de otros inversores.',
         'investor_types_register_btn' => 'REGÍSTRATE GRATIS >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => '¿Qué es un Fondo Indexado?',
         'index_funds_quote' => 'Los fondos indexados siguen el rendimiento del mercado con menores costos. Aprende sobre sus riesgos y beneficios con los educadores regulados por la CMF de Floventra en Santiago, Chile.',
         'index_funds_text_1' => 'Los fondos indexados están ligados al rendimiento del mercado y pueden ser riesgosos. Conecta con educadores en inversiones regulados por la CMF en Santiago a través de Floventra para aprender más.',
         'index_funds_text_2' => 'Los inversores eligen fondos indexados, abren cuentas y monitorean carteras. Descubre estrategias de fondos indexados con Floventra en Santiago, Chile.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Aprende sobre Fondos Cotizados (ETFs) con Floventra',
         'etfs_text_1' => 'Los ETFs permiten invertir en diversos valores. Aprende cómo funcionan con educadores regulados por la CMF en Santiago a través de Floventra.',
         'etfs_text_2' => 'Los ETFs se negocian en bolsas con retornos variables. Conecta con Floventra en Santiago, Chile, para explorar tipos y estrategias de ETFs.',
@@ -8542,7 +8542,7 @@ return [
         'etf_type_4_text' => 'Los ETFs de acciones siguen valores para diversificación. Conecta con Floventra en Santiago, Chile, para una educación detallada sobre ETFs.',
         'etfs_learn_btn' => 'APRENDE MÁS >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Inversión Ambiental, Social y de Gobernanza (ESG)',
         'assets_esg_quote' => 'La inversión ESG prioriza factores éticos. Aprende cómo se alinea con las regulaciones de Chile a través de Floventra en Santiago.',
         'assets_esg_text' => 'ESG evalúa empresas según estándares ambientales, sociales y de gobernanza. Conecta con educadores regulados por la CMF en Santiago a través de Floventra.',
@@ -8552,7 +8552,7 @@ return [
         'assets_market_cap_text_1' => 'La capitalización de mercado varía de micro a grande. Descubre sus riesgos y potencial de crecimiento con Floventra en Santiago, Chile.',
         'assets_market_cap_text_2' => 'Las empresas de capitalización media y grande ofrecen crecimiento pero varían en volatilidad. Aprende más con los socios regulados por la CMF de Floventra en Santiago.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Entiende la Cobertura con Floventra',
         'metrics_hedging_text' => 'La cobertura mitiga riesgos de inversión usando derivados. Aprende sus complejidades con educadores regulados por la CMF en Santiago a través de Floventra.',
         'metrics_terms_title' => 'Conoce Términos Básicos de Inversión con Floventra',
@@ -8569,12 +8569,12 @@ return [
         'metrics_debt_instrument_title' => 'Instrumento de Deuda',
         'metrics_debt_instrument_text' => 'Los instrumentos de deuda recaudan capital mediante bonos o préstamos. Descubre con Floventra en Santiago, Chile.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Nunca es Tarde para Empezar',
         'padding_60_quote' => '¿Te cuesta encontrar educación en inversiones confiable en Santiago, Chile? Floventra te conecta con firmas reguladas por la CMF.',
         'padding_60_text' => 'Floventra ayuda a miles de residentes de Chile en Santiago a acceder a educación en inversiones confiable. Regístrate gratis hoy.',
 
-        // Section: FAQ
+
         'faq_title' => 'Preguntas Frecuentes de Floventra',
         'faq_1_question' => '¿Qué Enseña Floventra a las Personas?',
         'faq_1_answer' => 'Floventra conecta a residentes de Chile en Santiago con firmas de educación en inversiones reguladas por la CMF para un aprendizaje financiero integral.',
@@ -8583,7 +8583,7 @@ return [
         'faq_3_question' => '¿Cómo Conecta Floventra a las Personas con Tutores?',
         'faq_3_answer' => 'Los usuarios se registran con su nombre, correo electrónico y número de teléfono, y las firmas reguladas por la CMF en Santiago los contactan, cumpliendo con las regulaciones de Chile.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Destacados de Floventra',
         'highlight_enrollment_cost_title' => '🤖 Costo de Inscripción',
         'highlight_enrollment_cost_text' => 'Inscripción gratuita para residentes de Chile en Santiago',
@@ -8596,28 +8596,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Regiones Accesibles',
         'highlight_accessible_regions_text' => 'Disponible en Santiago, Chile, y la mayoría de las regiones, excluyendo los EE. UU.',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'El Rol de Floventra en el Panorama de Inversiones',
         'about_principles_role_text' => 'Floventra promueve la educación en inversiones en Santiago, Chile, conectando a usuarios con firmas reguladas por la CMF para decisiones financieras informadas.',
         'about_principles_gap_title' => 'Cerrando la Brecha de Conocimiento en Inversiones',
         'about_principles_gap_text' => 'Floventra cierra la brecha de conocimiento en inversiones en Santiago, Chile, vinculando a usuarios con educadores regulados por la CMF.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Apunta a un Mundo Progresista',
         'about_forward_thinking_quote' => 'Floventra fomenta la alfabetización financiera en Santiago, Chile, a través de soluciones innovadoras de educación en inversiones.',
         'about_forward_thinking_text' => 'Floventra transforma mentalidades financieras en Santiago, Chile, conectando a usuarios con educación en inversiones regulada por la CMF.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Valora la Educación',
         'about_education_text_1' => 'Floventra empodera a residentes de Chile en Santiago con conocimiento, herramientas y estrategias de inversión a través de educadores regulados por la CMF.',
         'about_education_people_title' => 'La Gente de Floventra',
         'about_education_people_text' => 'Nuestro equipo en Santiago, Chile, trabaja para hacer accesible la educación en inversiones conectando a usuarios con firmas reguladas por la CMF.',
         'about_education_mission_text' => 'Floventra asegura que los residentes de Chile en Santiago puedan acceder a educación en inversiones, cerrando la brecha de conocimiento globalmente.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Formulario de Contacto',
         'contact_form_name_placeholder' => 'Tu Nombre',
         'contact_form_email_placeholder' => 'Correo Electrónico',
@@ -8625,7 +8625,7 @@ return [
         'contact_form_submit_button' => 'Enviar Mensaje',
         'contact_form_success' => '¡Formulario enviado con éxito!',
 
-        // Section: Login Page
+
         'login_title' => 'Inicio de Sesión en Floventra',
         'login_subtitle' => 'Instrucciones de Inicio de Sesión para Nuevos Usuarios de Floventra',
         'login_instructions_text' => 'Los nuevos usuarios reciben credenciales de inicio de sesión de firmas de educación en inversiones reguladas por la CMF en Santiago, Chile, para sus sitios web.',
@@ -8641,13 +8641,13 @@ return [
         'login_form_error_last_name' => 'Tu apellido es demasiado corto (mínimo 2 caracteres)',
         'login_form_error_email' => 'Por favor, ingresa tu dirección de correo electrónico real (por ejemplo, usuario@ejemplo.com)',
 
-        // Section: Terms
+
         'terms_general_title' => '1. General',
         'terms_general_1' => 'Bienvenido a floventus.com (el "Sitio Web").',
         'terms_general_2' => 'Nuestro correo electrónico: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'El Sitio Web incluye información sobre plataformas de terceros (las <b>"Plataformas de Terceros"</b>), específicamente servicios educativos sobre técnicas generales de inversión o investigación de mercado. Floventra actúa como intermediario, conectando a usuarios con dichas Plataformas de Terceros (los <b>"Servicios"</b>).',
         'terms_general_4' => 'Estos términos de uso (los <b>"Términos"</b>) rigen tu uso (<b>"Tú"</b>, <b>"Tu"</b> o <b>"Usuario"</b>) del Sitio Web y los Servicios. Estos Términos deben ser leídos cuidadosamente por Ti en su totalidad antes de usar los Servicios. Ten en cuenta que estos Términos constituyen un acuerdo legalmente vinculante entre Tú y el operador del Sitio Web, Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Si no estás de acuerdo con alguna disposición de estos Términos, deberás cesar inmediatamente el uso del Sitio Web. Al usar el Sitio Web, aceptas los Términos, según se modifiquen de vez en cuando.',
-        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y, al aceptar estos Términos, confirmas que también aceptas y estás de acuerdo con Nuestra política de privacidad (puedes revisar Nuestra Política de Privacidad <a href="/cl/privacy-policy/">haciendo clic aquí</a>).',
+        'terms_general_5' => 'Estos Términos incorporan Nuestra Política de Privacidad y, al aceptar estos Términos, confirmas que también aceptas y estás de acuerdo con Nuestra política de privacidad (puedes revisar Nuestra Política de Privacidad <a href="./privacy">haciendo clic aquí</a>).',
         'terms_services_title' => '2. Descripción de los Servicios',
         'terms_services_1' => 'No somos una plataforma de inversiones, ni te ponemos en contacto con dichas plataformas, a menos que dicha plataforma se comprometa a ofrecerte únicamente servicios educativos o investigación de mercado.',
         'terms_services_2' => 'Actuamos como intermediario para conectarte con un proveedor de servicios capaz de proponer contenido educativo sobre técnicas generales de inversión o investigación de mercado en áreas de tu interés, cumpliendo con las regulaciones de la CMF en Chile.',
@@ -8709,7 +8709,7 @@ return [
         'terms_miscellaneous_8' => 'Estos términos se regirán por la ley de Chile.',
         'terms_miscellaneous_9' => 'El lugar exclusivo de jurisdicción para todas las disputas que surjan de o en conexión con estos Términos serán los tribunales de Chile.',
 
-        // Section: Privacy
+
         'privacy_purpose_title' => 'Propósito del Aviso',
         'privacy_purpose_text' => 'El propósito de este Aviso de Privacidad de Datos (el "Aviso") es explicar cómo Floventra ("Floventra" o "Nosotros") procesará, como controlador de datos, tus datos personales que nos proporcionas cuando visitas el sitio web floventus.com (el "Sitio Web"), o que recibimos de terceros, para ponerte en contacto con profesionales que podrían interesarte.',
         'privacy_data_categories_title' => '¿Qué Categorías de Datos Personales Serán Procesadas?',
@@ -8755,7 +8755,7 @@ return [
         'privacy_last_updated' => 'Última actualización: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'jp' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => '日本',
         'locale' => 'ja_JP',
         'locale_lang' => 'ja-JP',
@@ -8771,25 +8771,25 @@ return [
         'jsonld_organization_review_author' => '山田太郎',
         'jsonld_organization_review_body' => 'Floventraは、東京の日本居住者をJFSA規制の投資教育機関と結びつけ、アクセスしやすく信頼性の高い金融学習を提供します。',
         'jsonld_software_categories' => '投資教育プラットフォーム',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'JPY',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://x.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://x.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - 東京、日本の投資教育',
         'og_description' => '東京のFloventraに参加して、JFSA規制の投資教育機関とつながりましょう。今日から金融学習の旅を始めましょう！',
-        'og_image' => 'https://floventus.com/jp/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/jp/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - 東京の投資教育',
         'twitter_description' => '東京、日本のFloventraで投資教育を発見しましょう。JFSA規制の機関と無料でつながります！',
-        'twitter_image' => 'https://floventus.com/jp/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - 東京、日本の投資教育プラットフォーム | 公式ウェブサイト',
         'meta_description' => '東京のFloventraに参加して、JFSA規制の投資教育機関とつながりましょう。今日から金融学習の旅を始めましょう！',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, 東京の投資教育, 日本の金融学習, Floventra, JFSA規制の教育, 日本の投資プラットフォーム',
@@ -8806,60 +8806,60 @@ return [
         'jsonld_faq_6_question' => '東京でFloventraを利用できますか？',
         'jsonld_faq_6_answer' => 'Floventraは、東京の日本居住者向けに完全にアクセス可能で、ユーザーフレンドリーな投資教育プラットフォームを提供します。',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Floventraについて - 東京、日本の投資教育',
         'about_desc_content' => '東京のFloventraについて学びましょう。JFSA規制の投資教育機関とユーザーを結びつけるリーディングプラットフォームです。',
         'about_keywords' => 'Floventraについて, 東京の投資教育, 日本の金融教育, JFSA規制の学習, 日本の投資プラットフォーム',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Floventraに連絡 - 東京、日本の投資教育',
         'contact_desc_content' => '東京のFloventraに、JFSA規制の投資教育サービスに関するご質問でご連絡ください。今日お問い合わせください！',
         'contact_keywords' => 'Floventra連絡先, 東京の投資教育, 日本の金融学習, JFSA規制のプラットフォーム, 投資教育連絡先',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventraのクッキーポリシー - 東京、日本',
         'cookie_desc_content' => '東京の投資教育サービスのためのFloventraのクッキーポリシーをご覧ください。クッキーがあなたの体験をどのように向上させるかを学びましょう。',
         'cookie_keywords' => 'Floventraのクッキーポリシー, 東京の投資教育, 日本のクッキーポリシー, JFSA規制のプラットフォーム, 金融教育クッキー',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventraの利用規約 - 東京、日本の投資教育',
         'terms_desc_content' => '東京のFloventraの投資教育プラットフォームの利用規約をご覧ください。適格性とJFSA準拠について学びましょう。',
         'terms_keywords' => 'Floventraの利用規約, 投資教育プラットフォーム, 日本の利用規約, JFSA規制のサービス, 東京の金融教育',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventraのプライバシーポリシー - 東京、日本',
         'privacy_desc_content' => '東京の投資教育サービスのFloventraのプライバシーポリシーをお読みください。日本の個人情報保護法に基づくデータ保護について学びましょう。',
         'privacy_keywords' => 'Floventraのプライバシー, 東京の投資教育, 日本の個人情報保護法準拠, 金融教育プライバシー, JFSA規制のプラットフォーム',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'プロフィールを作成 - 東京、日本のFloventra投資教育',
         'create-profile_content' => '東京のFloventraに登録して、JFSA規制の投資教育機関とつながりましょう。今日から学習の旅を始めましょう！',
         'create-profile_keywords' => 'Floventra登録, 東京の投資教育, 日本の金融学習, JFSA規制のプラットフォーム, 投資プロフィール作成',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'ホーム',
         'about' => '私たちについて',
         'contact' => 'お問い合わせ',
         'privacy' => 'プライバシーポリシー',
         'terms' => '利用規約',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'ログイン',
 
-        // Main Page Section
+
         'main_title' => 'FloventraAI',
         'main_form_title' => '今すぐ登録',
         'main_form_terms_text' => '※ ボタンをクリックすることで、プライバシーポリシーおよび利用規約に同意し、受け入れます。',
 
-        // Section: About Platform
+
         'about_subtitle' => 'FloventraAIとは？',
         'about_quote' => 'Floventraは、東京の日本居住者をJFSA規制の投資教育機関と結びつけ、アクセスしやすく効果的な金融学習を提供します。',
         'about_text_1' => 'Floventraは、東京、日本の投資教育へのアクセスを簡素化します。私たちのプラットフォームは、JFSA規制の機関と提携し、あらゆるスキルレベルのユーザーに合わせた学習体験を提供します。',
         'about_text_2' => '投資の事前知識は必要ありません。名前、メールアドレス、電話番号を登録するだけで、パートナーが東京での金融教育の旅を始めるために連絡します。',
         'about_register_btn' => 'ここで登録 >>',
 
-        // Section: Education Benefits
+
         'education_title' => '東京のFloventraで金融スキルを向上させる',
         'education_item_1_title' => '新しい投資スキルを習得',
         'education_item_1_text' => 'Floventraは、東京の日本居住者をJFSA規制の機関と結びつけ、投資戦略を学びます。初心者、プロ、または金融知識を求めるすべての人に最適です。',
@@ -8871,7 +8871,7 @@ return [
         'education_item_3_text_2' => '金融の視点を変える準備はできていますか？今日、Floventraに登録しましょう！',
         'education_register_btn' => '今すぐ登録 >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Floventraで投資教師とつながる理由は？',
         'three_steps_item_1_title' => 'オンライン学習',
         'three_steps_item_1_text' => 'Floventraは、東京、日本の投資教育者とユーザーを結びつけ、デジタル学習を提供します。どこからでも学び、必要に応じて録画を復習できます。',
@@ -8880,12 +8880,12 @@ return [
         'three_steps_item_3_title' => '多言語対応',
         'three_steps_item_3_text' => '東京、日本のJFSA規制のパートナーと一緒に、あなたの好みの言語で学び、言語の壁を取り除きます。',
 
-        // Section: Investor Definition
+
         'investor_title' => '投資家とは？',
         'investor_quote' => '投資家は、資産やプランに資本を投じて財務目標を達成します。東京のFloventraは、JFSA規制の教育者とあなたをつなげ、さらなる学習をサポートします。',
         'investor_text' => '投資家はリターンに影響を与えるリスクに直面します。東京のFloventraを通じてJFSA規制の投資教育機関とつながり、リサーチ、予算、リスク評価を学びましょう。',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventraによる投資家の種類の概要',
         'investor_types_intro' => '投資家は目標、リスク許容度、戦略によって異なります。東京、日本のFloventraで、定量的、社会的責任、機関投資家について学びましょう。',
         'investor_type_1_title' => '定量的投資家',
@@ -8903,13 +8903,13 @@ return [
         'investor_type_3_content' => '機関投資家は大規模な投資を管理します。東京のFloventraに登録して、他の投資家との違いを学びましょう。',
         'investor_types_register_btn' => '無料で登録 >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'インデックスファンドとは？',
         'index_funds_quote' => 'インデックスファンドは低コストで市場のパフォーマンスを追跡します。東京のFloventraのJFSA規制の教育者でそのリスクと利点を学びましょう。',
         'index_funds_text_1' => 'インデックスファンドは市場のパフォーマンスに連動し、リスクを伴う可能性があります。東京のFloventraを通じてJFSA規制の投資教育者とつながり、詳細を学びましょう。',
         'index_funds_text_2' => '投資家はインデックスファンドを選び、口座を開設し、ポートフォリオを監視します。東京、日本のFloventraでインデックスファンドの戦略を発見しましょう。',
 
-        // Section: ETFs
+
         'etfs_title' => 'Floventraで上場投資信託（ETF）を学ぶ',
         'etfs_text_1' => 'ETFは多様な証券への投資を可能にします。東京のFloventraを通じてJFSA規制の教育者とその仕組みを学びましょう。',
         'etfs_text_2' => 'ETFは取引所で取引され、リターンが変動します。東京、日本のFloventraでETFの種類と戦略を探求しましょう。',
@@ -8923,7 +8923,7 @@ return [
         'etf_type_4_text' => '株式ETFは多様化のために株式を追跡します。東京、日本のFloventraで詳細なETF教育を受けましょう。',
         'etfs_learn_btn' => '詳細を学ぶ >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => '環境・社会・ガバナンス（ESG）投資',
         'assets_esg_quote' => 'ESG投資は倫理的要因を優先します。東京のFloventraを通じて日本の規制にどのように適合するかを学びましょう。',
         'assets_esg_text' => 'ESGは環境、社会、ガバナンスの基準で企業を評価します。東京のFloventraを通じてJFSA規制の教育者とつながりましょう。',
@@ -8933,7 +8933,7 @@ return [
         'assets_market_cap_text_1' => '市場資本はマイクロからラージまであります。東京のFloventraでそのリスクと成長の可能性を発見しましょう。',
         'assets_market_cap_text_2' => '中型および大型の企業は成長を提供しますが、ボラティリティは異なります。東京、日本のFloventraのJFSA規制のパートナーで詳細を学びましょう。',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Floventraでヘッジングを理解する',
         'metrics_hedging_text' => 'ヘッジングはデリバティブを使用して投資リスクを軽減します。東京のFloventraを通じてJFSA規制の教育者でその複雑さを学びましょう。',
         'metrics_terms_title' => 'Floventraで基本的な投資用語を知る',
@@ -8950,12 +8950,12 @@ return [
         'metrics_debt_instrument_title' => '債務商品',
         'metrics_debt_instrument_text' => '債務商品は債券またはローンを通じて資金を調達します。東京、日本のFloventraでそれらを発見しましょう。',
 
-        // Section: Padding-60
+
         'padding_60_title' => '始めるのに遅すぎることはありません',
         'padding_60_quote' => '東京、日本で信頼できる投資教育を見つけるのに苦労していますか？FloventraはJFSA規制の機関とあなたをつなげます。',
         'padding_60_text' => 'Floventraは、東京の日本居住者が信頼できる投資教育にアクセスするのを助けます。今日、無料で登録してください。',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventraのよくある質問',
         'faq_1_question' => 'Floventraは何を教えますか？',
         'faq_1_answer' => 'Floventraは、東京の日本居住者をJFSA規制の投資教育機関と結びつけ、包括的な金融学習を提供します。',
@@ -8964,7 +8964,7 @@ return [
         'faq_3_question' => 'Floventraはどのように人々を教師と結びつけますか？',
         'faq_3_answer' => 'ユーザーは名前、メールアドレス、電話番号を登録し、東京のJFSA規制の機関が日本の個人情報保護法に準拠して連絡します。',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventraのハイライト',
         'highlight_enrollment_cost_title' => '🤖 登録費用',
         'highlight_enrollment_cost_text' => '東京の日本居住者向けに無料で登録',
@@ -8977,28 +8977,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 利用可能な地域',
         'highlight_accessible_regions_text' => '東京、日本、および米国を除くほとんどの地域で利用可能',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => '投資環境におけるFloventraの役割',
         'about_principles_role_text' => 'Floventraは、東京、日本のJFSA規制の機関とユーザーを結びつけ、情報に基づいた財務決定のための投資教育を推進します。',
         'about_principles_gap_title' => '投資知識のギャップを埋める',
         'about_principles_gap_text' => 'Floventraは、東京、日本のJFSA規制の教育者とユーザーを結びつけ、投資知識のギャップを埋めます。',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventraは前向きな世界を目指します',
         'about_forward_thinking_quote' => 'Floventraは、東京、日本で革新的な投資教育ソリューションを通じて金融リテラシーを育みます。',
         'about_forward_thinking_text' => 'Floventraは、東京、日本のJFSA規制の投資教育とユーザーを結びつけ、金融マインドセットを変革します。',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventraは教育を重視します',
         'about_education_text_1' => 'Floventraは、東京の日本居住者にJFSA規制の教育者を通じて投資知識、ツール、戦略を提供します。',
         'about_education_people_title' => 'Floventraのチーム',
         'about_education_people_text' => '東京、日本の私たちのチームは、JFSA規制の機関とユーザーを結びつけ、投資教育をアクセスしやすくします。',
         'about_education_mission_text' => 'Floventraは、東京の日本居住者が投資教育にアクセスでき、グローバルな知識のギャップを埋めることを保証します。',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'お問い合わせフォーム',
         'contact_form_name_placeholder' => 'お名前',
         'contact_form_email_placeholder' => 'メールアドレス',
@@ -9006,7 +9006,7 @@ return [
         'contact_form_submit_button' => 'メッセージを送信',
         'contact_form_success' => 'フォームが正常に送信されました！',
 
-        // Section: Login Page
+
         'login_title' => 'Floventraログイン',
         'login_subtitle' => 'Floventraの新規ユーザー向けログイン手順',
         'login_instructions_text' => '新規ユーザーは、東京、日本のJFSA規制の投資教育機関からそのウェブサイト用のログイン認証情報を受け取ります。',
@@ -9022,13 +9022,13 @@ return [
         'login_form_error_last_name' => '姓が短すぎます（少なくとも2文字）',
         'login_form_error_email' => '本物のメールアドレスを入力してください（例：user@example.com）',
 
-        // Section: Terms
+
         'terms_general_title' => '1. 一般',
         'terms_general_1' => 'floventus.com（「ウェブサイト」）へようこそ。',
         'terms_general_2' => '私たちのメールアドレス：<a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'ウェブサイトには、一般的な投資技術または市場調査に関する教育サービスを提供する第三者のプラットフォーム（「第三者プラットフォーム」）に関する情報が含まれています。Floventraは、ユーザーをそのような第三者プラットフォームと結びつける仲介者として機能します（「サービス」）。',
         'terms_general_4' => 'これらの利用規約（「規約」）は、ウェブサイトおよびサービスの利用（「あなた」、「あなたの」、または「ユーザー」）を管理します。これらの規約は、サービスを利用する前に慎重に全文を読む必要があります。これらの規約は、あなたとウェブサイトの運営者であるFloventra（<a href="mailto:info@floventus.com">info@floventus.com</a>）との間の法的に拘束力のある契約を構成します。規約のいずれかの条項に同意しない場合、直ちにウェブサイトの使用を中止してください。ウェブサイトを使用することで、随時改正される規約に同意したものとみなされます。',
-        'terms_general_5' => 'これらの規約にはプライバシーポリシーが含まれており、規約に同意することで、プライバシーポリシーにも同意し、受け入れることを確認します（プライバシーポリシーは<a href="/jp/privacy-policy/">こちらをクリック</a>して確認できます）。',
+        'terms_general_5' => 'これらの規約にはプライバシーポリシーが含まれており、規約に同意することで、プライバシーポリシーにも同意し、受け入れることを確認します（プライバシーポリシーは<a href="./privacy">こちらをクリック</a>して確認できます）。',
         'terms_services_title' => '2. サービスの説明',
         'terms_services_1' => '私たちは投資プラットフォームではなく、そのような投資プラットフォームとあなたをつなげるものでもありません。ただし、そのような投資プラットフォームが教育サービスまたは市場調査のみを提供することを約束する場合を除きます。',
         'terms_services_2' => '私たちは、あなたが興味を持つ分野で一般的な投資技術または市場調査に関する教育コンテンツを提案できるサービス提供者とあなたをつなぐ仲介者として機能し、日本のJFSA規制に準拠します。',
@@ -9090,7 +9090,7 @@ return [
         'terms_miscellaneous_8' => 'これらの規約は日本の法律に準拠します。',
         'terms_miscellaneous_9' => 'これらの規約に起因または関連するすべての紛争の専属管轄地は、日本の裁判所とします。',
 
-        // Section: Privacy
+
         'privacy_purpose_title' => '通知の目的',
         'privacy_purpose_text' => 'このデータプライバシー通知（「通知」）の目的は、Floventra（「Floventra」、「私たち」、または「我々」）が、データ管理者として、あなたがウェブサイトfloventus.com（「ウェブサイト」）を訪問する際に提供する個人データ、または第三者から受け取る個人データを、あなたが興味を持つかもしれない専門家と連絡を取るためにどのように処理するかを説明することです。',
         'privacy_data_categories_title' => 'どのカテゴリーの個人データが処理されますか？',
@@ -9136,7 +9136,7 @@ return [
         'privacy_last_updated' => '最終更新日：<script>document.write(new Date().getFullYear() - 2)</script>年12月20日',
     ],
     'ph' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Philippines',
         'locale' => 'en_PH',
         'locale_lang' => 'en-PH',
@@ -9152,25 +9152,25 @@ return [
         'jsonld_organization_review_author' => 'Juan Dela Cruz',
         'jsonld_organization_review_body' => 'Floventra connects Filipino residents in Manila with SEC-regulated investment education firms, offering accessible and reliable financial learning.',
         'jsonld_software_categories' => 'Investment Education Platform',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'PHP',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Investment Education in Manila, Philippines',
         'og_description' => 'Join Floventra in Manila, Philippines, to connect with SEC-regulated investment education firms. Start your financial learning journey today!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/ph/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Investment Education in Manila',
         'twitter_description' => 'Discover investment education with Floventra in Manila, Philippines. Connect with SEC-regulated firms for free!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Investment Education Platform in Manila, Philippines | The Official Website',
         'meta_description' => 'Join Floventra in Manila, Philippines, to connect with SEC-regulated investment education firms. Start your financial learning journey today!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, investment education Manila, Philippines financial learning, Floventra, SEC-regulated education, investment platform Philippines',
@@ -9187,60 +9187,60 @@ return [
         'jsonld_faq_6_question' => 'Can I access Floventra in Manila?',
         'jsonld_faq_6_answer' => 'Floventra is fully accessible for Filipino residents in Manila, offering a user-friendly platform for investment education.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'About Floventra - Investment Education in Manila, Philippines',
         'about_desc_content' => 'Learn about Floventra, a leading platform in Manila, Philippines, connecting users with SEC-regulated investment education firms.',
         'about_keywords' => 'Floventra about, investment education Manila, Philippines financial education, SEC-regulated learning, investment platform Philippines',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contact Floventra - Investment Education in Manila, Philippines',
         'contact_desc_content' => 'Contact Floventra in Manila, Philippines, for inquiries about our SEC-regulated investment education services. Get in touch today!',
         'contact_keywords' => 'Floventra contact, investment education Manila, Philippines financial learning, SEC-regulated platform, contact investment education',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra Cookie Policy - Manila, Philippines',
         'cookie_desc_content' => 'Explore Floventra’s Cookie Policy for investment education services in Manila, Philippines. Learn how we use cookies to enhance your experience.',
         'cookie_keywords' => 'Floventra cookie policy, investment education Manila, Philippines cookie policy, SEC-regulated platform, financial education cookies',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra Terms of Use - Investment Education in Manila, Philippines',
         'terms_desc_content' => 'Explore the Terms of Use for Floventra, governing access to our investment education platform in Manila, Philippines. Learn about eligibility and SEC compliance.',
         'terms_keywords' => 'Floventra terms, investment education platform, Philippines terms and conditions, SEC-regulated services, financial education Manila',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra Privacy Policy - Manila, Philippines',
         'privacy_desc_content' => 'Read Floventra’s Privacy Policy for investment education services in Manila, Philippines. Learn how we protect your data under the Philippine Data Privacy Act.',
         'privacy_keywords' => 'Floventra privacy, investment education Manila, Philippines Data Privacy Act compliance, financial education privacy, SEC-regulated platform',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Create Your Profile - Floventra Investment Education in Manila, Philippines',
         'create-profile_content' => 'Sign up with Floventra in Manila, Philippines, to connect with SEC-regulated investment education firms. Start your learning journey today!',
         'create-profile_keywords' => 'Floventra sign up, investment education Manila, Philippines financial learning, SEC-regulated platform, create profile investment',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Home',
         'about' => 'About Us',
         'contact' => 'Contact Us',
         'privacy' => 'Privacy Policy',
         'terms' => 'Terms and Conditions',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Login',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Sign up now',
         'main_form_terms_text' => '* By clicking the button you agree and accept the Privacy Policy and Terms & Conditions',
 
-        // Section: About Platform
+
         'about_subtitle' => 'What is Floventra AI?',
         'about_quote' => 'Floventra connects Filipino residents with SEC-regulated investment education firms in Manila, making financial learning accessible and effective.',
         'about_text_1' => 'Floventra simplifies access to investment education in Manila, Philippines. Our platform partners with SEC-regulated firms to provide tailored learning experiences for all skill levels.',
         'about_text_2' => 'No prior investment knowledge is needed. Simply register with your name, email, and phone number, and our partners will contact you to start your financial education journey in Manila.',
         'about_register_btn' => 'REGISTER HERE >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Enhance Your Financial Skills with Floventra in Manila',
         'education_item_1_title' => 'Master New Investment Skills',
         'education_item_1_text' => 'Floventra connects Filipino residents in Manila with SEC-regulated firms to learn investment strategies. Perfect for beginners, professionals, or anyone seeking financial knowledge.',
@@ -9252,7 +9252,7 @@ return [
         'education_item_3_text_2' => 'Ready to transform your financial outlook? Sign up with Floventra today!',
         'education_register_btn' => 'REGISTER NOW >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Why Connect with Investment Teachers on Floventra?',
         'three_steps_item_1_title' => 'Virtual Study',
         'three_steps_item_1_text' => 'Floventra connects users with investment educators offering digital learning in Manila, Philippines. Study from anywhere and revisit recordings as needed.',
@@ -9261,12 +9261,12 @@ return [
         'three_steps_item_3_title' => 'Language Multiplicity',
         'three_steps_item_3_text' => 'Learn in your preferred language with Floventra’s SEC-regulated partners in Manila, Philippines, removing language barriers.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Who is an Investor?',
         'investor_quote' => 'An investor commits capital to assets or plans to achieve financial goals. Floventra in Manila, Philippines, connects you with SEC-regulated educators to learn more.',
         'investor_text' => 'Investors face risks that can impact returns. Learn to research, budget, and assess risks with SEC-regulated investment education firms in Manila via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra Overview of Investor Types',
         'investor_types_intro' => 'Investors vary by goals, risk tolerance, and strategies. Learn about quantitative, socially responsible, and institutional investors with Floventra in Manila, Philippines.',
         'investor_type_1_title' => 'Quantitative Investor',
@@ -9284,13 +9284,13 @@ return [
         'investor_type_3_content' => 'Institutional investors manage large-scale investments. Sign up with Floventra in Manila to learn how they differ from other investors.',
         'investor_types_register_btn' => 'REGISTER FOR FREE >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'What is an Index Fund?',
         'index_funds_quote' => 'Index funds track market performance with lower costs. Learn about their risks and benefits with Floventra’s SEC-regulated educators in Manila, Philippines.',
         'index_funds_text_1' => 'Index funds are tied to market performance and can be risky. Connect with SEC-regulated investment educators in Manila via Floventra to learn more.',
         'index_funds_text_2' => 'Investors choose index funds, open accounts, and monitor portfolios. Discover index fund strategies with Floventra in Manila, Philippines.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Learn About Exchange-Traded Funds (ETFs) via Floventra',
         'etfs_text_1' => 'ETFs allow investment in diverse securities. Learn how they work with SEC-regulated educators in Manila via Floventra.',
         'etfs_text_2' => 'ETFs trade on exchanges with varying returns. Connect with Floventra in Manila, Philippines, to explore ETF types and strategies.',
@@ -9304,7 +9304,7 @@ return [
         'etf_type_4_text' => 'Stock ETFs track equities for diversification. Connect with Floventra in Manila, Philippines, for detailed ETF education.',
         'etfs_learn_btn' => 'LEARN MORE >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Environmental, Social, and Governance (ESG) Investing',
         'assets_esg_quote' => 'ESG investing prioritizes ethical factors. Learn how it aligns with Philippine regulations via Floventra in Manila.',
         'assets_esg_text' => 'ESG evaluates companies on environmental, social, and governance standards. Connect with SEC-regulated educators in Manila via Floventra.',
@@ -9314,7 +9314,7 @@ return [
         'assets_market_cap_text_1' => 'Market cap ranges from micro to large. Discover their risks and growth potential with Floventra in Manila, Philippines.',
         'assets_market_cap_text_2' => 'Mid and large-cap companies offer growth but vary in volatility. Learn more with Floventra’s SEC-regulated partners in Manila.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Understand Hedging via Floventra',
         'metrics_hedging_text' => 'Hedging mitigates investment risks using derivatives. Learn its complexities with SEC-regulated educators in Manila via Floventra.',
         'metrics_terms_title' => 'Know Basic Investment Terms via Floventra',
@@ -9331,12 +9331,12 @@ return [
         'metrics_debt_instrument_title' => 'Debt Instrument',
         'metrics_debt_instrument_text' => 'Debt instruments raise capital via bonds or loans. Discover them with Floventra in Manila, Philippines.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'It is Never Too Late to Start',
         'padding_60_quote' => 'Struggling to find reliable investment education in Manila, Philippines? Floventra connects you with SEC-regulated firms.',
         'padding_60_text' => 'Floventra helps thousands of Filipino residents in Manila access trusted investment education. Sign up for free today.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra FAQs',
         'faq_1_question' => 'What Does Floventra Teach People?',
         'faq_1_answer' => 'Floventra connects Filipino residents in Manila with SEC-regulated investment education firms for comprehensive financial learning.',
@@ -9345,7 +9345,7 @@ return [
         'faq_3_question' => 'How Does Floventra Connect People with Tutors?',
         'faq_3_answer' => 'Users register with their name, email, and phone number, and SEC-regulated firms in Manila contact them, compliant with the Philippine Data Privacy Act.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra Highlights',
         'highlight_enrollment_cost_title' => '🤖 Enrollment Cost',
         'highlight_enrollment_cost_text' => 'Free enrollment for Filipino residents in Manila',
@@ -9358,28 +9358,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Accessible Regions',
         'highlight_accessible_regions_text' => 'Available in Manila, Philippines, and most regions, excluding the USA',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Floventra’s Role In the Investment Landscape',
         'about_principles_role_text' => 'Floventra promotes investment education in Manila, Philippines, by connecting users with SEC-regulated firms for informed financial decisions.',
         'about_principles_gap_title' => 'Closing the Investment Knowledge Gap',
         'about_principles_gap_text' => 'Floventra bridges the investment knowledge gap in Manila, Philippines, by linking users with SEC-regulated educators.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Aims For a Forward-Thinking World',
         'about_forward_thinking_quote' => 'Floventra fosters financial literacy in Manila, Philippines, through innovative investment education solutions.',
         'about_forward_thinking_text' => 'Floventra transforms financial mindsets in Manila, Philippines, by connecting users with SEC-regulated investment education.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Places a Premium on Education',
         'about_education_text_1' => 'Floventra empowers Filipino residents in Manila with investment knowledge, tools, and strategies via SEC-regulated educators.',
         'about_education_people_title' => 'The People of Floventra',
         'about_education_people_text' => 'Our team in Manila, Philippines, works to make investment education accessible by connecting users with SEC-regulated firms.',
         'about_education_mission_text' => 'Floventra ensures Filipino residents in Manila can access investment education, closing the knowledge gap globally.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Contact Form',
         'contact_form_name_placeholder' => 'Your Name',
         'contact_form_email_placeholder' => 'Email',
@@ -9387,7 +9387,7 @@ return [
         'contact_form_submit_button' => 'Send Message',
         'contact_form_success' => 'Form submitted successfully!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra Login',
         'login_subtitle' => 'Login Instructions for New Floventra Users',
         'login_instructions_text' => 'New users receive login credentials from SEC-regulated investment education firms in Manila, Philippines, for their websites.',
@@ -9403,13 +9403,13 @@ return [
         'login_form_error_last_name' => 'Your last name is too short (at least 2 characters)',
         'login_form_error_email' => 'Please enter your real email address (e.g., user@example.com)',
 
-        // Terms of Use
+
         'terms_general_title' => '1. General',
         'terms_general_1' => 'Welcome to floventus.com (the "Website").',
         'terms_general_2' => 'Our email: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'The Website includes information about third-party platforms (the <b>"Third-Party Platforms"</b>) namely educational services on general investment techniques or market research. Floventra serves as an intermediary, connecting users with such Third-Party Platforms (the <b>"Services"</b>).',
         'terms_general_4' => 'These terms of use (the <b>"Terms"</b>) govern your (<b>"You"</b>, <b>"Your"</b> or <b>"User"</b>) use of the Website and the Services. These Terms should be read carefully by You in their entirety prior to Your use of the Services. Please note that these Terms constitute a legally binding agreement between You and the Website’s operator Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. If You do not agree with any provision of these Terms, You shall immediately cease using the Website. By using the Website, You agree to the Terms, as amended from time to time.',
-        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="/ph/privacy-policy/">clicking here</a>).',
+        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="./privacy">clicking here</a>).',
         'terms_services_title' => '2. Description of the Services',
         'terms_services_1' => 'We are not an investment platform, nor do we put You in touch with such investment platforms, unless such investment platform commits to offer you only educational services or market research.',
         'terms_services_2' => 'We serve as an intermediary to connect You with a service provider able to propose educational content on general investment techniques or market research in their areas of interest to You, compliant with SEC regulations in the Philippines.',
@@ -9471,7 +9471,7 @@ return [
         'terms_miscellaneous_8' => 'These terms shall be governed by Philippine law.',
         'terms_miscellaneous_9' => 'The exclusive place of jurisdiction for all disputes arising from or in connection with these Terms shall be the courts of Manila, Philippines.',
 
-        // Privacy Policy
+
         'privacy_purpose_title' => 'Purpose of Notice',
         'privacy_purpose_text' => 'The purpose of this Data Privacy Notice (the "Notice") is to explain how Floventra ("Floventra" or "We" or "Us") will process, as data controller, your personal data you provide Us when you visit the website floventus.com (the "Website"), or that We receive from third parties, in order to put you in contact with professionals you might be interested in.',
         'privacy_data_categories_title' => 'What Categories of Personal Data Will Be Processed?',
@@ -9517,7 +9517,7 @@ return [
         'privacy_last_updated' => 'Last updated: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'ca_fr' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Canada',
         'locale' => 'fr_CA',
         'locale_lang' => 'fr-CA',
@@ -9533,25 +9533,25 @@ return [
         'jsonld_organization_review_author' => 'Utilisateur de Floventra',
         'jsonld_organization_review_body' => 'Floventra met en relation les résidents du Canada à Montréal avec des entreprises d’éducation financière réglementées par l’AMF, offrant un apprentissage accessible et fiable.',
         'jsonld_software_categories' => 'Plateforme d’éducation financière',
-        'jsonld_software_price' => '0', // Inscription gratuite
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'CAD',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Éducation financière à Montréal, Canada',
         'og_description' => 'Rejoignez Floventra à Montréal, Canada, pour vous connecter avec des entreprises d’éducation financière réglementées par l’AMF. Commencez votre parcours d’apprentissage financier dès aujourd’hui !',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/ca_fr/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Éducation financière à Montréal',
         'twitter_description' => 'Découvrez l’éducation financière avec Floventra à Montréal, Canada. Connectez-vous gratuitement avec des entreprises réglementées par l’AMF !',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Plateforme d’éducation financière à Montréal, Canada | Le site officiel',
         'meta_description' => 'Rejoignez Floventra à Montréal, Canada, pour vous connecter avec des entreprises d’éducation financière réglementées par l’AMF. Commencez votre parcours d’apprentissage financier dès aujourd’hui !',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, éducation financière Montréal, apprentissage financier Canada, Floventra, éducation réglementée par l’AMF, plateforme d’investissement Canada',
@@ -9568,60 +9568,60 @@ return [
         'jsonld_faq_6_question' => 'Puis-je accéder à Floventra à Montréal ?',
         'jsonld_faq_6_answer' => 'Floventra est entièrement accessible aux résidents du Canada à Montréal, offrant une plateforme conviviale pour l’éducation financière.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'À propos de Floventra - Éducation financière à Montréal, Canada',
         'about_desc_content' => 'Découvrez Floventra, une plateforme de premier plan à Montréal, Canada, qui met en relation les utilisateurs avec des entreprises d’éducation financière réglementées par l’AMF.',
         'about_keywords' => 'Floventra à propos, éducation financière Montréal, apprentissage financier Canada, éducation réglementée par l’AMF, plateforme d’investissement Canada',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contacter Floventra - Éducation financière à Montréal, Canada',
         'contact_desc_content' => 'Contactez Floventra à Montréal, Canada, pour toute question concernant nos services d’éducation financière réglementés par l’AMF. Prenez contact dès aujourd’hui !',
         'contact_keywords' => 'Floventra contact, éducation financière Montréal, apprentissage financier Canada, plateforme réglementée par l’AMF, contacter éducation financière',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Politique de cookies de Floventra - Montréal, Canada',
         'cookie_desc_content' => 'Découvrez la politique de cookies de Floventra pour les services d’éducation financière à Montréal, Canada. Apprenez comment nous utilisons les cookies pour améliorer votre expérience.',
         'cookie_keywords' => 'politique de cookies Floventra, éducation financière Montréal, politique de cookies Canada, plateforme réglementée par l’AMF, cookies éducation financière',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Conditions d’utilisation de Floventra - Éducation financière à Montréal, Canada',
         'terms_desc_content' => 'Découvrez les conditions d’utilisation de Floventra, régissant l’accès à notre plateforme d’éducation financière à Montréal, Canada. Apprenez-en plus sur l’éligibilité et la conformité avec l’AMF.',
         'terms_keywords' => 'conditions Floventra, plateforme d’éducation financière, conditions Canada, services réglementés par l’AMF, éducation financière Montréal',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Politique de confidentialité de Floventra - Montréal, Canada',
         'privacy_desc_content' => 'Lisez la politique de confidentialité de Floventra pour les services d’éducation financière à Montréal, Canada. Découvrez comment nous protégeons vos données conformément à la LPRPDE.',
         'privacy_keywords' => 'confidentialité Floventra, éducation financière Montréal, conformité LPRPDE Canada, confidentialité éducation financière, plateforme réglementée par l’AMF',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Créez votre profil - Éducation financière Floventra à Montréal, Canada',
         'create-profile_content' => 'Inscrivez-vous avec Floventra à Montréal, Canada, pour vous connecter avec des entreprises d’éducation financière réglementées par l’AMF. Commencez votre parcours d’apprentissage dès aujourd’hui !',
         'create-profile_keywords' => 'inscription Floventra, éducation financière Montréal, apprentissage financier Canada, plateforme réglementée par l’AMF, créer profil investissement',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Accueil',
         'about' => 'À propos',
         'contact' => 'Nous contacter',
         'privacy' => 'Politique de confidentialité',
         'terms' => 'Conditions d’utilisation',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Connexion',
 
-        // Main Page Section
+
         'main_title' => 'Floventra IA',
         'main_form_title' => 'Inscrivez-vous maintenant',
         'main_form_terms_text' => '* En cliquant sur le bouton, vous acceptez la politique de confidentialité et les conditions d’utilisation',
 
-        // Section: About Platform
+
         'about_subtitle' => 'Qu’est-ce que Floventra IA ?',
         'about_quote' => 'Floventra met en relation les résidents du Canada avec des entreprises d’éducation financière réglementées par l’AMF à Montréal, rendant l’apprentissage financier accessible et efficace.',
         'about_text_1' => 'Floventra simplifie l’accès à l’éducation financière à Montréal, Canada. Notre plateforme collabore avec des entreprises réglementées par l’AMF pour offrir des expériences d’apprentissage adaptées à tous les niveaux de compétence.',
         'about_text_2' => 'Aucune connaissance préalable en investissement n’est requise. Inscrivez-vous simplement avec votre nom, courriel et numéro de téléphone, et nos partenaires vous contacteront pour commencer votre parcours d’éducation financière à Montréal.',
         'about_register_btn' => 'INSCRIVEZ-VOUS ICI >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Améliorez vos compétences financières avec Floventra à Montréal',
         'education_item_1_title' => 'Maîtrisez de nouvelles compétences en investissement',
         'education_item_1_text' => 'Floventra met en relation les résidents du Canada à Montréal avec des entreprises réglementées par l’AMF pour apprendre des stratégies d’investissement. Idéal pour les débutants, les professionnels ou toute personne en quête de connaissances financières.',
@@ -9633,7 +9633,7 @@ return [
         'education_item_3_text_2' => 'Prêt à transformer votre vision financière ? Inscrivez-vous avec Floventra dès aujourd’hui !',
         'education_register_btn' => 'INSCRIVEZ-VOUS MAINTENANT >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Pourquoi se connecter avec des enseignants en investissement sur Floventra ?',
         'three_steps_item_1_title' => 'Étude virtuelle',
         'three_steps_item_1_text' => 'Floventra met en relation les utilisateurs avec des éducateurs en investissement offrant un apprentissage numérique à Montréal, Canada. Étudiez de n’importe où et revoyez les enregistrements au besoin.',
@@ -9642,12 +9642,12 @@ return [
         'three_steps_item_3_title' => 'Multilinguisme',
         'three_steps_item_3_text' => 'Apprenez dans votre langue préférée avec les partenaires réglementés par l’AMF de Floventra à Montréal, Canada, éliminant les barrières linguistiques.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Qui est un investisseur ?',
         'investor_quote' => 'Un investisseur engage du capital dans des actifs ou des plans pour atteindre des objectifs financiers. Floventra à Montréal, Canada, vous met en relation avec des éducateurs réglementés par l’AMF pour en apprendre davantage.',
         'investor_text' => 'Les investisseurs font face à des risques qui peuvent affecter les rendements. Apprenez à rechercher, établir un budget et évaluer les risques avec des entreprises d’éducation financière réglementées par l’AMF à Montréal via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Aperçu des types d’investisseurs par Floventra',
         'investor_types_intro' => 'Les investisseurs varient selon leurs objectifs, leur tolérance au risque et leurs stratégies. Apprenez-en plus sur les investisseurs quantitatifs, socialement responsables et institutionnels avec Floventra à Montréal, Canada.',
         'investor_type_1_title' => 'Investisseur quantitatif',
@@ -9665,13 +9665,13 @@ return [
         'investor_type_3_content' => 'Les investisseurs institutionnels gèrent des investissements à grande échelle. Inscrivez-vous avec Floventra à Montréal pour découvrir en quoi ils diffèrent des autres investisseurs.',
         'investor_types_register_btn' => 'INSCRIVEZ-VOUS GRATUITEMENT >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'Qu’est-ce qu’un fonds indiciel ?',
         'index_funds_quote' => 'Les fonds indiciels suivent la performance du marché avec des coûts moindres. Apprenez leurs risques et avantages avec les éducateurs réglementés par l’AMF de Floventra à Montréal, Canada.',
         'index_funds_text_1' => 'Les fonds indiciels sont liés à la performance du marché et peuvent être risqués. Connectez-vous avec des éducateurs en investissement réglementés par l’AMF à Montréal via Floventra pour en savoir plus.',
         'index_funds_text_2' => 'Les investisseurs choisissent des fonds indiciels, ouvrent des comptes et surveillent leurs portefeuilles. Découvrez les stratégies des fonds indiciels avec Floventra à Montréal, Canada.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Apprenez sur les fonds négociés en bourse (ETF) via Floventra',
         'etfs_text_1' => 'Les ETF permettent d’investir dans divers titres. Apprenez leur fonctionnement avec des éducateurs réglementés par l’AMF à Montréal via Floventra.',
         'etfs_text_2' => 'Les ETF se négocient en bourse avec des rendements variables. Connectez-vous avec Floventra à Montréal, Canada, pour explorer les types et stratégies d’ETF.',
@@ -9685,7 +9685,7 @@ return [
         'etf_type_4_text' => 'Les ETF d’actions suivent les actions pour la diversification. Connectez-vous avec Floventra à Montréal, Canada, pour une éducation détaillée sur les ETF.',
         'etfs_learn_btn' => 'EN SAVOIR PLUS >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Investissement environnemental, social et de gouvernance (ESG)',
         'assets_esg_quote' => 'L’investissement ESG privilégie les facteurs éthiques. Apprenez comment il s’aligne avec les réglementations canadiennes via Floventra à Montréal.',
         'assets_esg_text' => 'L’ESG évalue les entreprises selon des normes environnementales, sociales et de gouvernance. Connectez-vous avec des éducateurs réglementés par l’AMF à Montréal via Floventra.',
@@ -9695,7 +9695,7 @@ return [
         'assets_market_cap_text_1' => 'La capitalisation boursière va de micro à grande. Découvrez leurs risques et potentiel de croissance avec Floventra à Montréal, Canada.',
         'assets_market_cap_text_2' => 'Les entreprises à moyenne et grande capitalisation offrent de la croissance mais varient en volatilité. Apprenez-en plus avec les partenaires réglementés par l’AMF de Floventra à Montréal.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Comprendre la couverture via Floventra',
         'metrics_hedging_text' => 'La couverture atténue les risques d’investissement à l’aide de dérivés. Apprenez ses complexités avec des éducateurs réglementés par l’AMF à Montréal via Floventra.',
         'metrics_terms_title' => 'Connaître les termes de base en investissement via Floventra',
@@ -9712,12 +9712,12 @@ return [
         'metrics_debt_instrument_title' => 'Instrument de dette',
         'metrics_debt_instrument_text' => 'Les instruments de dette lèvent des capitaux via des obligations ou des prêts. Découvrez-les avec Floventra à Montréal, Canada.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'Il n’est jamais trop tard pour commencer',
         'padding_60_quote' => 'Vous avez du mal à trouver une éducation financière fiable à Montréal, Canada ? Floventra vous met en relation avec des entreprises réglementées par l’AMF.',
         'padding_60_text' => 'Floventra aide des milliers de résidents du Canada à Montréal à accéder à une éducation financière fiable. Inscrivez-vous gratuitement dès aujourd’hui.',
 
-        // Section: FAQ
+
         'faq_title' => 'FAQ Floventra',
         'faq_1_question' => 'Qu’enseigne Floventra aux gens ?',
         'faq_1_answer' => 'Floventra met en relation les résidents du Canada à Montréal avec des entreprises d’éducation financière réglementées par l’AMF pour un apprentissage financier complet.',
@@ -9726,7 +9726,7 @@ return [
         'faq_3_question' => 'Comment Floventra met-il les gens en contact avec des tuteurs ?',
         'faq_3_answer' => 'Les utilisateurs s’inscrivent avec leur nom, courriel et numéro de téléphone, et des entreprises réglementées par l’AMF à Montréal les contactent, conformément à la LPRPDE.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Points forts de Floventra',
         'highlight_enrollment_cost_title' => '🤖 Coût d’inscription',
         'highlight_enrollment_cost_text' => 'Inscription gratuite pour les résidents du Canada à Montréal',
@@ -9739,28 +9739,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Régions accessibles',
         'highlight_accessible_regions_text' => 'Disponible à Montréal, Canada, et dans la plupart des régions, à l’exception des États-Unis',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Le rôle de Floventra dans le paysage de l’investissement',
         'about_principles_role_text' => 'Floventra promeut l’éducation financière à Montréal, Canada, en mettant en relation les utilisateurs avec des entreprises réglementées par l’AMF pour des décisions financières éclairées.',
         'about_principles_gap_title' => 'Combler le fossé des connaissances en investissement',
         'about_principles_gap_text' => 'Floventra comble le fossé des connaissances en investissement à Montréal, Canada, en mettant en relation les utilisateurs avec des éducateurs réglementés par l’AMF.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra vise un monde tourné vers l’avenir',
         'about_forward_thinking_quote' => 'Floventra favorise la littératie financière à Montréal, Canada, grâce à des solutions d’éducation financière innovantes.',
         'about_forward_thinking_text' => 'Floventra transforme les mentalités financières à Montréal, Canada, en mettant en relation les utilisateurs avec une éducation financière réglementée par l’AMF.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra met l’accent sur l’éducation',
         'about_education_text_1' => 'Floventra donne aux résidents du Canada à Montréal des connaissances, outils et stratégies en investissement via des éducateurs réglementés par l’AMF.',
         'about_education_people_title' => 'Les gens de Floventra',
         'about_education_people_text' => 'Notre équipe à Montréal, Canada, travaille pour rendre l’éducation financière accessible en mettant en relation les utilisateurs avec des entreprises réglementées par l’AMF.',
         'about_education_mission_text' => 'Floventra veille à ce que les résidents du Canada à Montréal puissent accéder à l’éducation financière, comblant ainsi le fossé des connaissances à l’échelle mondiale.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Formulaire de contact',
         'contact_form_name_placeholder' => 'Votre nom',
         'contact_form_email_placeholder' => 'Courriel',
@@ -9768,7 +9768,7 @@ return [
         'contact_form_submit_button' => 'Envoyer le message',
         'contact_form_success' => 'Formulaire soumis avec succès !',
 
-        // Section: Login Page
+
         'login_title' => 'Connexion à Floventra',
         'login_subtitle' => 'Instructions de connexion pour les nouveaux utilisateurs de Floventra',
         'login_instructions_text' => 'Les nouveaux utilisateurs reçoivent des identifiants de connexion des entreprises d’éducation financière réglementées par l’AMF à Montréal, Canada, pour leurs sites web.',
@@ -9784,13 +9784,13 @@ return [
         'login_form_error_last_name' => 'Votre nom de famille est trop court (au moins 2 caractères)',
         'login_form_error_email' => 'Veuillez entrer votre véritable adresse courriel (par ex., utilisateur@exemple.com)',
 
-        // Section: Terms of Use
+
         'terms_general_title' => '1. Généralités',
         'terms_general_1' => 'Bienvenue sur floventus.com (le « Site Web »).',
         'terms_general_2' => 'Notre courriel : <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'Le Site Web contient des informations sur des plateformes tierces (les <b>« Plateformes tierces »</b>), notamment des services éducatifs sur les techniques générales d’investissement ou la recherche de marché. Floventra agit comme intermédiaire, mettant en relation les utilisateurs avec ces Plateformes tierces (les <b>« Services »</b>).',
         'terms_general_4' => 'Ces conditions d’utilisation (les <b>« Conditions »</b>) régissent votre utilisation (<b>« Vous »</b>, <b>« Votre »</b> ou <b>« Utilisateur »</b>) du Site Web et des Services. Ces Conditions doivent être lues attentivement par Vous dans leur intégralité avant d’utiliser les Services. Veuillez noter que ces Conditions constituent un accord juridiquement contraignant entre Vous et l’opérateur du Site Web, Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Si Vous n’êtes pas d’accord avec une disposition de ces Conditions, Vous devez immédiatement cesser d’utiliser le Site Web. En utilisant le Site Web, Vous acceptez les Conditions, telles que modifiées de temps à autre.',
-        'terms_general_5' => 'Ces Conditions intègrent notre Politique de confidentialité et, en acceptant ces Conditions, Vous confirmez que Vous acceptez également notre politique de confidentialité (Vous pouvez consulter notre Politique de confidentialité en <a href="/ca_fr/privacy-policy/">cliquant ici</a>).',
+        'terms_general_5' => 'Ces Conditions intègrent notre Politique de confidentialité et, en acceptant ces Conditions, Vous confirmez que Vous acceptez également notre politique de confidentialité (Vous pouvez consulter notre Politique de confidentialité en <a href="./privacy">cliquant ici</a>).',
         'terms_services_title' => '2. Description des Services',
         'terms_services_1' => 'Nous ne sommes pas une plateforme d’investissements, et nous ne vous mettons pas en contact avec de telles plateformes, sauf si ces plateformes s’engagent à vous offrir uniquement des services éducatifs ou de recherche de marché.',
         'terms_services_2' => 'Nous agissons comme intermédiaire pour vous connecter avec un fournisseur de services capable de proposer du contenu éducatif sur les techniques générales d’investissement ou la recherche de marché dans vos domaines d’intérêt, conformément aux réglementations de l’AMF au Canada.',
@@ -9852,7 +9852,7 @@ return [
         'terms_miscellaneous_8' => 'Ces conditions sont régies par la loi canadienne.',
         'terms_miscellaneous_9' => 'Le lieu exclusif de juridiction pour tous les litiges découlant de ou en relation avec ces Conditions sera les tribunaux du Québec, Canada.',
 
-        // Section: Privacy Policy
+
         'privacy_purpose_title' => 'Objectif de l’avis',
         'privacy_purpose_text' => 'L’objectif de cet avis de confidentialité des données (l’« Avis ») est d’expliquer comment Floventra (« Floventra » ou « Nous ») traitera, en tant que responsable du traitement, vos données personnelles que vous nous fournissez lorsque vous visitez le site Web floventus.com (le « Site Web »), ou que nous recevons de tiers, afin de vous mettre en contact avec des professionnels susceptibles de vous intéresser.',
         'privacy_data_categories_title' => 'Quelles catégories de données personnelles seront traitées ?',
@@ -9898,7 +9898,7 @@ return [
         'privacy_last_updated' => 'Dernière mise à jour : 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'ca_en' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Canada',
         'locale' => 'en_CA',
         'locale_lang' => 'en-CA',
@@ -9914,25 +9914,25 @@ return [
         'jsonld_organization_review_author' => 'Floventra User',
         'jsonld_organization_review_body' => 'Floventra connects Canadian residents in Toronto with OSC-regulated investment education firms, offering accessible and reliable financial learning.',
         'jsonld_software_categories' => 'Investment Education Platform',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'CAD',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей (одинаковые для всех страниц)
+
         'og_title' => 'Floventra - Investment Education in Toronto, Canada',
         'og_description' => 'Join Floventra in Toronto, Canada, to connect with OSC-regulated investment education firms. Start your financial learning journey today!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/ca_en/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Investment Education in Toronto',
         'twitter_description' => 'Discover investment education with Floventra in Toronto, Canada. Connect with OSC-regulated firms for free!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Investment Education Platform in Toronto, Canada | The Official Website',
         'meta_description' => 'Join Floventra in Toronto, Canada, to connect with OSC-regulated investment education firms. Start your financial learning journey today!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, investment education Toronto, Canada financial learning, Floventra, OSC-regulated education, investment platform Canada',
@@ -9949,60 +9949,60 @@ return [
         'jsonld_faq_6_question' => 'Can I access Floventra in Toronto?',
         'jsonld_faq_6_answer' => 'Floventra is fully accessible for Canadian residents in Toronto, offering a user-friendly platform for investment education.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'About Floventra - Investment Education in Toronto, Canada',
         'about_desc_content' => 'Learn about Floventra, a leading platform in Toronto, Canada, connecting users with OSC-regulated investment education firms.',
         'about_keywords' => 'Floventra about, investment education Toronto, Canada financial education, OSC-regulated learning, investment platform Canada',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contact Floventra - Investment Education in Toronto, Canada',
         'contact_desc_content' => 'Contact Floventra in Toronto, Canada, for inquiries about our OSC-regulated investment education services. Get in touch today!',
         'contact_keywords' => 'Floventra contact, investment education Toronto, Canada financial learning, OSC-regulated platform, contact investment education',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra Cookie Policy - Toronto, Canada',
         'cookie_desc_content' => 'Explore Floventra’s Cookie Policy for investment education services in Toronto, Canada. Learn how we use cookies to enhance your experience.',
         'cookie_keywords' => 'Floventra cookie policy, investment education Toronto, Canada cookie policy, OSC-regulated platform, financial education cookies',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra Terms of Use - Investment Education in Toronto, Canada',
         'terms_desc_content' => 'Explore the Terms of Use for Floventra, governing access to our investment education platform in Toronto, Canada. Learn about eligibility and OSC compliance.',
         'terms_keywords' => 'Floventra terms, investment education platform, Canada terms and conditions, OSC-regulated services, financial education Toronto',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra Privacy Policy - Toronto, Canada',
         'privacy_desc_content' => 'Read Floventra’s Privacy Policy for investment education services in Toronto, Canada. Learn how we protect your data under PIPEDA.',
         'privacy_keywords' => 'Floventra privacy, investment education Toronto, Canada PIPEDA compliance, financial education privacy, OSC-regulated platform',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Create Your Profile - Floventra Investment Education in Toronto, Canada',
         'create-profile_content' => 'Sign up with Floventra in Toronto, Canada, to connect with OSC-regulated investment education firms. Start your learning journey today!',
         'create-profile_keywords' => 'Floventra sign up, investment education Toronto, Canada financial learning, OSC-regulated platform, create profile investment',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Home',
         'about' => 'About Us',
         'contact' => 'Contact Us',
         'privacy' => 'Privacy Policy',
         'terms' => 'Terms and Conditions',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Login',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Sign up now',
         'main_form_terms_text' => '* By clicking the button you agree and accept the Privacy Policy and Terms & Conditions',
 
-        // Section: About Platform
+
         'about_subtitle' => 'What is Floventra AI?',
         'about_quote' => 'Floventra connects Canadian residents with OSC-regulated investment education firms in Toronto, making financial learning accessible and effective.',
         'about_text_1' => 'Floventra simplifies access to investment education in Toronto, Canada. Our platform partners with OSC-regulated firms to provide tailored learning experiences for all skill levels.',
         'about_text_2' => 'No prior investment knowledge is needed. Simply register with your name, email, and phone number, and our partners will contact you to start your financial education journey in Toronto.',
         'about_register_btn' => 'REGISTER HERE >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Enhance Your Financial Skills with Floventra in Toronto',
         'education_item_1_title' => 'Master New Investment Skills',
         'education_item_1_text' => 'Floventra connects Canadian residents in Toronto with OSC-regulated firms to learn investment strategies. Perfect for beginners, professionals, or anyone seeking financial knowledge.',
@@ -10014,7 +10014,7 @@ return [
         'education_item_3_text_2' => 'Ready to transform your financial outlook? Sign up with Floventra today!',
         'education_register_btn' => 'REGISTER NOW >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Why Connect with Investment Teachers on Floventra?',
         'three_steps_item_1_title' => 'Virtual Study',
         'three_steps_item_1_text' => 'Floventra connects users with investment educators offering digital learning in Toronto, Canada. Study from anywhere and revisit recordings as needed.',
@@ -10023,12 +10023,12 @@ return [
         'three_steps_item_3_title' => 'Language Multiplicity',
         'three_steps_item_3_text' => 'Learn in your preferred language with Floventra’s OSC-regulated partners in Toronto, Canada, removing language barriers.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Who is an Investor?',
         'investor_quote' => 'An investor commits capital to assets or plans to achieve financial goals. Floventra in Toronto, Canada, connects you with OSC-regulated educators to learn more.',
         'investor_text' => 'Investors face risks that can impact returns. Learn to research, budget, and assess risks with OSC-regulated investment education firms in Toronto via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra Overview of Investor Types',
         'investor_types_intro' => 'Investors vary by goals, risk tolerance, and strategies. Learn about quantitative, socially responsible, and institutional investors with Floventra in Toronto, Canada.',
         'investor_type_1_title' => 'Quantitative Investor',
@@ -10046,13 +10046,13 @@ return [
         'investor_type_3_content' => 'Institutional investors manage large-scale investments. Sign up with Floventra in Toronto to learn how they differ from other investors.',
         'investor_types_register_btn' => 'REGISTER FOR FREE >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'What is an Index Fund?',
         'index_funds_quote' => 'Index funds track market performance with lower costs. Learn about their risks and benefits with Floventra’s OSC-regulated educators in Toronto, Canada.',
         'index_funds_text_1' => 'Index funds are tied to market performance and can be risky. Connect with OSC-regulated investment educators in Toronto via Floventra to learn more.',
         'index_funds_text_2' => 'Investors choose index funds, open accounts, and monitor portfolios. Discover index fund strategies with Floventra in Toronto, Canada.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Learn About Exchange-Traded Funds (ETFs) via Floventra',
         'etfs_text_1' => 'ETFs allow investment in diverse securities. Learn how they work with OSC-regulated educators in Toronto via Floventra.',
         'etfs_text_2' => 'ETFs trade on exchanges with varying returns. Connect with Floventra in Toronto, Canada, to explore ETF types and strategies.',
@@ -10066,7 +10066,7 @@ return [
         'etf_type_4_text' => 'Stock ETFs track equities for diversification. Connect with Floventra in Toronto, Canada, for detailed ETF education.',
         'etfs_learn_btn' => 'LEARN MORE >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Environmental, Social, and Governance (ESG) Investing',
         'assets_esg_quote' => 'ESG investing prioritizes ethical factors. Learn how it aligns with Canadian regulations via Floventra in Toronto.',
         'assets_esg_text' => 'ESG evaluates companies on environmental, social, and governance standards. Connect with OSC-regulated educators in Toronto via Floventra.',
@@ -10076,7 +10076,7 @@ return [
         'assets_market_cap_text_1' => 'Market cap ranges from micro to large. Discover their risks and growth potential with Floventra in Toronto, Canada.',
         'assets_market_cap_text_2' => 'Mid and large-cap companies offer growth but vary in volatility. Learn more with Floventra’s OSC-regulated partners in Toronto.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Understand Hedging via Floventra',
         'metrics_hedging_text' => 'Hedging mitigates investment risks using derivatives. Learn its complexities with OSC-regulated educators in Toronto via Floventra.',
         'metrics_terms_title' => 'Know Basic Investment Terms via Floventra',
@@ -10093,12 +10093,12 @@ return [
         'metrics_debt_instrument_title' => 'Debt Instrument',
         'metrics_debt_instrument_text' => 'Debt instruments raise capital via bonds or loans. Discover them with Floventra in Toronto, Canada.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'It is Never Too Late to Start',
         'padding_60_quote' => 'Struggling to find reliable investment education in Toronto, Canada? Floventra connects you with OSC-regulated firms.',
         'padding_60_text' => 'Floventra helps thousands of Canadian residents in Toronto access trusted investment education. Sign up for free today.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra FAQs',
         'faq_1_question' => 'What Does Floventra Teach People?',
         'faq_1_answer' => 'Floventra connects Canadian residents in Toronto with OSC-regulated investment education firms for comprehensive financial learning.',
@@ -10107,7 +10107,7 @@ return [
         'faq_3_question' => 'How Does Floventra Connect People with Tutors?',
         'faq_3_answer' => 'Users register with their name, email, and phone number, and OSC-regulated firms in Toronto contact them, compliant with PIPEDA.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra Highlights',
         'highlight_enrollment_cost_title' => '🤖 Enrollment Cost',
         'highlight_enrollment_cost_text' => 'Free enrollment for Canadian residents in Toronto',
@@ -10120,28 +10120,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Accessible Regions',
         'highlight_accessible_regions_text' => 'Available in Toronto, Canada, and most regions, excluding the USA',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Floventra’s Role In the Investment Landscape',
         'about_principles_role_text' => 'Floventra promotes investment education in Toronto, Canada, by connecting users with OSC-regulated firms for informed financial decisions.',
         'about_principles_gap_title' => 'Closing the Investment Knowledge Gap',
         'about_principles_gap_text' => 'Floventra bridges the investment knowledge gap in Toronto, Canada, by linking users with OSC-regulated educators.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Aims For a Forward-Thinking World',
         'about_forward_thinking_quote' => 'Floventra fosters financial literacy in Toronto, Canada, through innovative investment education solutions.',
         'about_forward_thinking_text' => 'Floventra transforms financial mindsets in Toronto, Canada, by connecting users with OSC-regulated investment education.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Places a Premium on Education',
         'about_education_text_1' => 'Floventra empowers Canadian residents in Toronto with investment knowledge, tools, and strategies via OSC-regulated educators.',
         'about_education_people_title' => 'The People of Floventra',
         'about_education_people_text' => 'Our team in Toronto, Canada, works to make investment education accessible by connecting users with OSC-regulated firms.',
         'about_education_mission_text' => 'Floventra ensures Canadian residents in Toronto can access investment education, closing the knowledge gap globally.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Contact Form',
         'contact_form_name_placeholder' => 'Your Name',
         'contact_form_email_placeholder' => 'Email',
@@ -10149,7 +10149,7 @@ return [
         'contact_form_submit_button' => 'Send Message',
         'contact_form_success' => 'Form submitted successfully!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra Login',
         'login_subtitle' => 'Login Instructions for New Floventra Users',
         'login_instructions_text' => 'New users receive login credentials from OSC-regulated investment education firms in Toronto, Canada, for their websites.',
@@ -10170,7 +10170,7 @@ return [
         'terms_general_2' => 'Our email: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'The Website includes information about third-party platforms (the <b>"Third-Party Platforms"</b>) namely educational services on general investment techniques or market research. Floventra serves as an intermediary, connecting users with such Third-Party Platforms (the <b>"Services"</b>).',
         'terms_general_4' => 'These terms of use (the <b>"Terms"</b>) govern your (<b>"You"</b>, <b>"Your"</b> or <b>"User"</b>) use of the Website and the Services. These Terms should be read carefully by You in their entirety prior to Your use of the Services. Please note that these Terms constitute a legally binding agreement between You and the Website’s operator Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. If You do not agree with any provision of these Terms, You shall immediately cease using the Website. By using the Website, You agree to the Terms, as amended from time to time.',
-        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="/ca_en/privacy-policy/">clicking here</a>).',
+        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="./privacy">clicking here</a>).',
         'terms_services_title' => '2. Description of the Services',
         'terms_services_1' => 'We are not an investment platform, nor do we put You in touch with such investment platforms, unless such investment platform commits to offer you only educational services or market research.',
         'terms_services_2' => 'We serve as an intermediary to connect You with a service provider able to propose educational content on general investment techniques or market research in their areas of interest to You, compliant with OSC regulations in Canada.',
@@ -10277,7 +10277,7 @@ return [
         'privacy_last_updated' => 'Last updated: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'au' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Australia',
         'locale' => 'en_AU',
         'locale_lang' => 'en-AU',
@@ -10293,25 +10293,25 @@ return [
         'jsonld_organization_review_author' => 'Floventra User',
         'jsonld_organization_review_body' => 'Floventra connects Australian residents in Sydney with ASIC-regulated investment education firms, offering accessible and reliable financial learning.',
         'jsonld_software_categories' => 'Investment Education Platform',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'AUD',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Investment Education in Sydney, Australia',
         'og_description' => 'Join Floventra in Sydney, Australia, to connect with ASIC-regulated investment education firms. Start your financial learning journey today!',
-        'og_image' => 'https://floventus.com/au/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/au/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Investment Education in Sydney',
         'twitter_description' => 'Discover investment education with Floventra in Sydney, Australia. Connect with ASIC-regulated firms for free!',
-        'twitter_image' => 'https://floventus.com/au/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Investment Education Platform in Sydney, Australia | The Official Website',
         'meta_description' => 'Join Floventra in Sydney, Australia, to connect with ASIC-regulated investment education firms. Start your financial learning journey today!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, investment education Sydney, Australia financial learning, Floventra, ASIC-regulated education, investment platform Australia',
@@ -10328,60 +10328,60 @@ return [
         'jsonld_faq_6_question' => 'Can I access Floventra in Sydney?',
         'jsonld_faq_6_answer' => 'Floventra is fully accessible for Australian residents in Sydney, offering a user-friendly platform for investment education.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'About Floventra - Investment Education in Sydney, Australia',
         'about_desc_content' => 'Learn about Floventra, a leading platform in Sydney, Australia, connecting users with ASIC-regulated investment education firms.',
         'about_keywords' => 'Floventra about, investment education Sydney, Australia financial education, ASIC-regulated learning, investment platform Australia',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contact Floventra - Investment Education in Sydney, Australia',
         'contact_desc_content' => 'Contact Floventra in Sydney, Australia, for inquiries about our ASIC-regulated investment education services. Get in touch today!',
         'contact_keywords' => 'Floventra contact, investment education Sydney, Australia financial learning, ASIC-regulated platform, contact investment education',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra Cookie Policy - Sydney, Australia',
         'cookie_desc_content' => 'Explore Floventra’s Cookie Policy for investment education services in Sydney, Australia. Learn how we use cookies to enhance your experience.',
         'cookie_keywords' => 'Floventra cookie policy, investment education Sydney, Australia cookie policy, ASIC-regulated platform, financial education cookies',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra Terms of Use - Investment Education in Sydney, Australia',
         'terms_desc_content' => 'Explore the Terms of Use for Floventra, governing access to our investment education platform in Sydney, Australia. Learn about eligibility and ASIC compliance.',
         'terms_keywords' => 'Floventra terms, investment education platform, Australia terms and conditions, ASIC-regulated services, financial education Sydney',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra Privacy Policy - Sydney, Australia',
         'privacy_desc_content' => 'Read Floventra’s Privacy Policy for investment education services in Sydney, Australia. Learn how we protect your data under Australian Privacy Principles.',
         'privacy_keywords' => 'Floventra privacy, investment education Sydney, Australia Privacy Principles compliance, financial education privacy, ASIC-regulated platform',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Create Your Profile - Floventra Investment Education in Sydney, Australia',
         'create-profile_content' => 'Sign up with Floventra in Sydney, Australia, to connect with ASIC-regulated investment education firms. Start your learning journey today!',
         'create-profile_keywords' => 'Floventra sign up, investment education Sydney, Australia financial learning, ASIC-regulated platform, create profile investment',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Home',
         'about' => 'About Us',
         'contact' => 'Contact Us',
         'privacy' => 'Privacy Policy',
         'terms' => 'Terms and Conditions',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Login',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Sign up now',
         'main_form_terms_text' => '* By clicking the button you agree and accept the Privacy Policy and Terms & Conditions',
 
-        // Section: About Platform
+
         'about_subtitle' => 'What is Floventra AI?',
         'about_quote' => 'Floventra connects Australian residents with ASIC-regulated investment education firms in Sydney, making financial learning accessible and effective.',
         'about_text_1' => 'Floventra simplifies access to investment education in Sydney, Australia. Our platform partners with ASIC-regulated firms to provide tailored learning experiences for all skill levels.',
         'about_text_2' => 'No prior investment knowledge is needed. Simply register with your name, email, and phone number, and our partners will contact you to start your financial education journey in Sydney.',
         'about_register_btn' => 'REGISTER HERE >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Enhance Your Financial Skills with Floventra in Sydney',
         'education_item_1_title' => 'Master New Investment Skills',
         'education_item_1_text' => 'Floventra connects Australian residents in Sydney with ASIC-regulated firms to learn investment strategies. Perfect for beginners, professionals, or anyone seeking financial knowledge.',
@@ -10393,7 +10393,7 @@ return [
         'education_item_3_text_2' => 'Ready to transform your financial outlook? Sign up with Floventra today!',
         'education_register_btn' => 'REGISTER NOW >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Why Connect with Investment Teachers on Floventra?',
         'three_steps_item_1_title' => 'Virtual Study',
         'three_steps_item_1_text' => 'Floventra connects users with investment educators offering digital learning in Sydney, Australia. Study from anywhere and revisit recordings as needed.',
@@ -10402,12 +10402,12 @@ return [
         'three_steps_item_3_title' => 'Language Multiplicity',
         'three_steps_item_3_text' => 'Learn in your preferred language with Floventra’s ASIC-regulated partners in Sydney, Australia, removing language barriers.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Who is an Investor?',
         'investor_quote' => 'An investor commits capital to assets or plans to achieve financial goals. Floventra in Sydney, Australia, connects you with ASIC-regulated educators to learn more.',
         'investor_text' => 'Investors face risks that can impact returns. Learn to research, budget, and assess risks with ASIC-regulated investment education firms in Sydney via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra Overview of Investor Types',
         'investor_types_intro' => 'Investors vary by goals, risk tolerance, and strategies. Learn about quantitative, socially responsible, and institutional investors with Floventra in Sydney, Australia.',
         'investor_type_1_title' => 'Quantitative Investor',
@@ -10425,13 +10425,13 @@ return [
         'investor_type_3_content' => 'Institutional investors manage large-scale investments. Sign up with Floventra in Sydney to learn how they differ from other investors.',
         'investor_types_register_btn' => 'REGISTER FOR FREE >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'What is an Index Fund?',
         'index_funds_quote' => 'Index funds track market performance with lower costs. Learn about their risks and benefits with Floventra’s ASIC-regulated educators in Sydney, Australia.',
         'index_funds_text_1' => 'Index funds are tied to market performance and can be risky. Connect with ASIC-regulated investment educators in Sydney via Floventra to learn more.',
         'index_funds_text_2' => 'Investors choose index funds, open accounts, and monitor portfolios. Discover index fund strategies with Floventra in Sydney, Australia.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Learn About Exchange-Traded Funds (ETFs) via Floventra',
         'etfs_text_1' => 'ETFs allow investment in diverse securities. Learn how they work with ASIC-regulated educators in Sydney via Floventra.',
         'etfs_text_2' => 'ETFs trade on exchanges with varying returns. Connect with Floventra in Sydney, Australia, to explore ETF types and strategies.',
@@ -10445,7 +10445,7 @@ return [
         'etf_type_4_text' => 'Stock ETFs track equities for diversification. Connect with Floventra in Sydney, Australia, for detailed ETF education.',
         'etfs_learn_btn' => 'LEARN MORE >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Environmental, Social, and Governance (ESG) Investing',
         'assets_esg_quote' => 'ESG investing prioritises ethical factors. Learn how it aligns with Australian regulations via Floventra in Sydney.',
         'assets_esg_text' => 'ESG evaluates companies on environmental, social, and governance standards. Connect with ASIC-regulated educators in Sydney via Floventra.',
@@ -10455,7 +10455,7 @@ return [
         'assets_market_cap_text_1' => 'Market cap ranges from micro to large. Discover their risks and growth potential with Floventra in Sydney, Australia.',
         'assets_market_cap_text_2' => 'Mid and large-cap companies offer growth but vary in volatility. Learn more with Floventra’s ASIC-regulated partners in Sydney.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Understand Hedging via Floventra',
         'metrics_hedging_text' => 'Hedging mitigates investment risks using derivatives. Learn its complexities with ASIC-regulated educators in Sydney via Floventra.',
         'metrics_terms_title' => 'Know Basic Investment Terms via Floventra',
@@ -10472,12 +10472,12 @@ return [
         'metrics_debt_instrument_title' => 'Debt Instrument',
         'metrics_debt_instrument_text' => 'Debt instruments raise capital via bonds or loans. Discover them with Floventra in Sydney, Australia.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'It is Never Too Late to Start',
         'padding_60_quote' => 'Struggling to find reliable investment education in Sydney, Australia? Floventra connects you with ASIC-regulated firms.',
         'padding_60_text' => 'Floventra helps thousands of Australian residents in Sydney access trusted investment education. Sign up for free today.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra FAQs',
         'faq_1_question' => 'What Does Floventra Teach People?',
         'faq_1_answer' => 'Floventra connects Australian residents in Sydney with ASIC-regulated investment education firms for comprehensive financial learning.',
@@ -10486,7 +10486,7 @@ return [
         'faq_3_question' => 'How Does Floventra Connect People with Tutors?',
         'faq_3_answer' => 'Users register with their name, email, and phone number, and ASIC-regulated firms in Sydney contact them, compliant with Australian Privacy Principles.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra Highlights',
         'highlight_enrollment_cost_title' => '🤖 Enrollment Cost',
         'highlight_enrollment_cost_text' => 'Free enrollment for Australian residents in Sydney',
@@ -10499,28 +10499,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Accessible Regions',
         'highlight_accessible_regions_text' => 'Available in Sydney, Australia, and most regions, excluding the USA',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Floventra’s Role In the Investment Landscape',
         'about_principles_role_text' => 'Floventra promotes investment education in Sydney, Australia, by connecting users with ASIC-regulated firms for informed financial decisions.',
         'about_principles_gap_title' => 'Closing the Investment Knowledge Gap',
         'about_principles_gap_text' => 'Floventra bridges the investment knowledge gap in Sydney, Australia, by linking users with ASIC-regulated educators.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Aims For a Forward-Thinking World',
         'about_forward_thinking_quote' => 'Floventra fosters financial literacy in Sydney, Australia, through innovative investment education solutions.',
         'about_forward_thinking_text' => 'Floventra transforms financial mindsets in Sydney, Australia, by connecting users with ASIC-regulated investment education.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Places a Premium on Education',
         'about_education_text_1' => 'Floventra empowers Australian residents in Sydney with investment knowledge, tools, and strategies via ASIC-regulated educators.',
         'about_education_people_title' => 'The People of Floventra',
         'about_education_people_text' => 'Our team in Sydney, Australia, works to make investment education accessible by connecting users with ASIC-regulated firms.',
         'about_education_mission_text' => 'Floventra ensures Australian residents in Sydney can access investment education, closing the knowledge gap globally.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Contact Form',
         'contact_form_name_placeholder' => 'Your Name',
         'contact_form_email_placeholder' => 'Email',
@@ -10528,7 +10528,7 @@ return [
         'contact_form_submit_button' => 'Send Message',
         'contact_form_success' => 'Form submitted successfully!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra Login',
         'login_subtitle' => 'Login Instructions for New Floventra Users',
         'login_instructions_text' => 'New users receive login credentials from ASIC-regulated investment education firms in Sydney, Australia, for their websites.',
@@ -10549,7 +10549,7 @@ return [
         'terms_general_2' => 'Our email: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'The Website includes information about third-party platforms (the <b>"Third-Party Platforms"</b>) namely educational services on general investment techniques or market research. Floventra serves as an intermediary, connecting users with such Third-Party Platforms (the <b>"Services"</b>).',
         'terms_general_4' => 'These terms of use (the <b>"Terms"</b>) govern your (<b>"You"</b>, <b>"Your"</b> or <b>"User"</b>) use of the Website and the Services. These Terms should be read carefully by You in their entirety prior to Your use of the Services. Please note that these Terms constitute a legally binding agreement between You and the Website’s operator Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. If You do not agree with any provision of these Terms, You shall immediately cease using the Website. By using the Website, You agree to the Terms, as amended from time to time.',
-        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="/au/privacy-policy/">clicking here</a>).',
+        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="./privacy">clicking here</a>).',
         'terms_services_title' => '2. Description of the Services',
         'terms_services_1' => 'We are not an investment platform, nor do we put You in touch with such investment platforms, unless such investment platform commits to offer you only educational services or market research.',
         'terms_services_2' => 'We serve as an intermediary to connect You with a service provider able to propose educational content on general investment techniques or market research in their areas of interest to You, compliant with ASIC regulations in Australia.',
@@ -10656,7 +10656,7 @@ return [
         'privacy_last_updated' => 'Last updated: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'th' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Thailand',
         'locale' => 'th_TH',
         'locale_lang' => 'th-TH',
@@ -10672,25 +10672,25 @@ return [
         'jsonld_organization_review_author' => 'ผู้ใช้ Floventra',
         'jsonld_organization_review_body' => 'Floventra เชื่อมโยงผู้อยู่อาศัยในกรุงเทพฯ ประเทศไทย กับบริษัทการศึกษาการลงทุนที่ได้รับการควบคุมโดยหน่วยงานในประเทศไทย เพื่อการเรียนรู้ทางการเงินที่เข้าถึงได้และเชื่อถือได้',
         'jsonld_software_categories' => 'แพลตฟอร์มการศึกษาการลงทุน',
-        'jsonld_software_price' => '0', // การลงทะเบียนฟรี
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'THB',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - การศึกษาการลงทุนในกรุงเทพฯ ประเทศไทย',
         'og_description' => 'เข้าร่วม Floventra ในกรุงเทพฯ ประเทศไทย เพื่อเชื่อมต่อกับบริษัทการศึกษาการลงทุนที่ได้รับการควบคุม เริ่มต้นการเรียนรู้ทางการเงินของคุณวันนี้!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/th/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - การศึกษาการลงทุนในกรุงเทพฯ',
         'twitter_description' => 'ค้นพบการศึกษาการลงทุนกับ Floventra ในกรุงเทพฯ ประเทศไทย เชื่อมต่อกับบริษัทที่ได้รับการควบคุมฟรี!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - แพลตฟอร์มการศึกษาการลงทุนในกรุงเทพฯ ประเทศไทย | เว็บไซต์อย่างเป็นทางการ',
         'meta_description' => 'เข้าร่วม Floventra ในกรุงเทพฯ ประเทศไทย เพื่อเชื่อมต่อกับบริษัทการศึกษาการลงทุนที่ได้รับการควบคุม เริ่มต้นการเรียนรู้ทางการเงินของคุณวันนี้!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, การศึกษาการลงทุน กรุงเทพฯ, การเรียนรู้ทางการเงิน ประเทศไทย, Floventra, การศึกษาที่ได้รับการควบคุม, แพลตฟอร์มการลงทุน ประเทศไทย',
@@ -10707,60 +10707,60 @@ return [
         'jsonld_faq_6_question' => 'ฉันสามารถเข้าถึง Floventra ในกรุงเทพฯ ได้หรือไม่?',
         'jsonld_faq_6_answer' => 'Floventra สามารถเข้าถึงได้อย่างเต็มที่สำหรับผู้อยู่อาศัยในกรุงเทพฯ ประเทศไทย โดยมีแพลตฟอร์มที่ใช้งานง่ายสำหรับการศึกษาการลงทุน',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'เกี่ยวกับ Floventra - การศึกษาการลงทุนในกรุงเทพฯ ประเทศไทย',
         'about_desc_content' => 'เรียนรู้เกี่ยวกับ Floventra แพลตฟอร์มชั้นนำในกรุงเทพฯ ประเทศไทย ที่เชื่อมโยงผู้ใช้กับบริษัทการศึกษาการลงทุนที่ได้รับการควบคุม',
         'about_keywords' => 'เกี่ยวกับ Floventra, การศึกษาการลงทุน กรุงเทพฯ, การศึกษาทางการเงิน ประเทศไทย, การเรียนรู้ที่ได้รับการควบคุม, แพลตฟอร์มการลงทุน ประเทศไทย',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'ติดต่อ Floventra - การศึกษาการลงทุนในกรุงเทพฯ ประเทศไทย',
         'contact_desc_content' => 'ติดต่อ Floventra ในกรุงเทพฯ ประเทศไทย สำหรับคำถามเกี่ยวกับบริการการศึกษาการลงทุนที่ได้รับการควบคุม ติดต่อวันนี้!',
         'contact_keywords' => 'ติดต่อ Floventra, การศึกษาการลงทุน กรุงเทพฯ, การเรียนรู้ทางการเงิน ประเทศไทย, แพลตฟอร์มที่ได้รับการควบคุม, ติดต่อการศึกษาการลงทุน',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'นโยบายคุกกี้ของ Floventra - กรุงเทพฯ ประเทศไทย',
         'cookie_desc_content' => 'สำรวจนโยบายคุกกี้ของ Floventra สำหรับบริการการศึกษาการลงทุนในกรุงเทพฯ ประเทศไทย เรียนรู้ว่าเราใช้คุกกี้เพื่อปรับปรุงประสบการณ์ของคุณอย่างไร',
         'cookie_keywords' => 'นโยบายคุกกี้ Floventra, การศึกษาการลงทุน กรุงเทพฯ, นโยบายคุกกี้ ประเทศไทย, แพลตฟอร์มที่ได้รับการควบคุม, คุกกี้การศึกษาทางการเงิน',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'ข้อกำหนดการใช้งานของ Floventra - การศึกษาการลงทุนในกรุงเทพฯ ประเทศไทย',
         'terms_desc_content' => 'สำรวจข้อกำหนดการใช้งานของ Floventra ซึ่งควบคุมการเข้าถึงแพลตฟอร์มการศึกษาการลงทุนของเราในกรุงเทพฯ ประเทศไทย เรียนรู้เกี่ยวกับคุณสมบัติและการปฏิบัติตามกฎระเบียบ',
         'terms_keywords' => 'ข้อกำหนด Floventra, แพลตฟอร์มการศึกษาการลงทุน, ข้อกำหนดและเงื่อนไข ประเทศไทย, บริการที่ได้รับการควบคุม, การศึกษาทางการเงิน กรุงเทพฯ',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'นโยบายความเป็นส่วนตัวของ Floventra - กรุงเทพฯ ประเทศไทย',
         'privacy_desc_content' => 'อ่านนโยบายความเป็นส่วนตัวของ Floventra สำหรับบริการการศึกษาการลงทุนในกรุงเทพฯ ประเทศไทย เรียนรู้ว่าเราปกป้องข้อมูลของคุณตามกฎหมายคุ้มครองข้อมูลของประเทศไทยอย่างไร',
         'privacy_keywords' => 'ความเป็นส่วนตัว Floventra, การศึกษาการลงทุน กรุงเทพฯ, การปฏิบัติตามกฎหมายคุ้มครองข้อมูล ประเทศไทย, ความเป็นส่วนตัวการศึกษาทางการเงิน, แพลตฟอร์มที่ได้รับการควบคุม',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'สร้างโปรไฟล์ของคุณ - การศึกษาการลงทุน Floventra ในกรุงเทพฯ ประเทศไทย',
         'create-profile_content' => 'สมัครสมาชิกกับ Floventra ในกรุงเทพฯ ประเทศไทย เพื่อเชื่อมต่อกับบริษัทการศึกษาการลงทุนที่ได้รับการควบคุม เริ่มต้นการเรียนรู้ของคุณวันนี้!',
         'create-profile_keywords' => 'สมัครสมาชิก Floventra, การศึกษาการลงทุน กรุงเทพฯ, การเรียนรู้ทางการเงิน ประเทศไทย, แพลตฟอร์มที่ได้รับการควบคุม, สร้างโปรไฟล์การลงทุน',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'หน้าแรก',
         'about' => 'เกี่ยวกับเรา',
         'contact' => 'ติดต่อเรา',
         'privacy' => 'นโยบายความเป็นส่วนตัว',
         'terms' => 'ข้อกำหนดและเงื่อนไข',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'เข้าสู่ระบบ',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'สมัครสมาชิกตอนนี้',
         'main_form_terms_text' => '* โดยการคลิกปุ่ม คุณยอมรับและตกลงตามนโยบายความเป็นส่วนตัวและข้อกำหนดและเงื่อนไข',
 
-        // Section: About Platform
+
         'about_subtitle' => 'Floventra AI คืออะไร?',
         'about_quote' => 'Floventra เชื่อมโยงผู้อยู่อาศัยในประเทศไทยกับบริษัทการศึกษาการลงทุนที่ได้รับการควบคุมในกรุงเทพฯ ทำให้การเรียนรู้ทางการเงินเข้าถึงได้และมีประสิทธิภาพ',
         'about_text_1' => 'Floventra ทำให้การเข้าถึงการศึกษาการลงทุนในกรุงเทพฯ ประเทศไทย ง่ายขึ้น แพลตฟอร์มของเราร่วมมือกับบริษัทที่ได้รับการควบคุมเพื่อมอบประสบการณ์การเรียนรู้ที่ปรับให้เหมาะกับทุกระดับทักษะ',
         'about_text_2' => 'ไม่จำเป็นต้องมีความรู้ด้านการลงทุนมาก่อน เพียงลงทะเบียนด้วยชื่อ อีเมล และหมายเลขโทรศัพท์ของคุณ และพันธมิตรของเราจะติดต่อคุณเพื่อเริ่มต้นการเรียนรู้ทางการเงินในกรุงเทพฯ',
         'about_register_btn' => 'สมัครสมาชิกที่นี่ >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'พัฒนาทักษะทางการเงินของคุณกับ Floventra ในกรุงเทพฯ',
         'education_item_1_title' => 'ฝึกฝนทักษะการลงทุนใหม่',
         'education_item_1_text' => 'Floventra เชื่อมโยงผู้อยู่อาศัยในกรุงเทพฯ ประเทศไทย กับบริษัทที่ได้รับการควบคุมเพื่อเรียนรู้กลยุทธ์การลงทุน เหมาะสำหรับผู้เริ่มต้น มืออาชีพ หรือใครก็ตามที่ต้องการความรู้ทางการเงิน',
@@ -10772,7 +10772,7 @@ return [
         'education_item_3_text_2' => 'พร้อมที่จะเปลี่ยนมุมมองทางการเงินของคุณหรือยัง? สมัครสมาชิกกับ Floventra วันนี้!',
         'education_register_btn' => 'สมัครสมาชิกตอนนี้ >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'ทำไมต้องเชื่อมต่อกับครูการลงทุนที่ Floventra?',
         'three_steps_item_1_title' => 'การเรียนรู้ออนไลน์',
         'three_steps_item_1_text' => 'Floventra เชื่อมโยงผู้ใช้กับนักการศึกษาการลงทุนที่ให้การเรียนรู้ออนไลน์ในกรุงเทพฯ ประเทศไทย เรียนรู้ได้จากทุกที่และทบทวนบันทึกได้ตามต้องการ',
@@ -10781,12 +10781,12 @@ return [
         'three_steps_item_3_title' => 'ความหลากหลายทางภาษา',
         'three_steps_item_3_text' => 'เรียนรู้ในภาษาที่คุณต้องการกับพันธมิตรที่ได้รับการควบคุมของ Floventra ในกรุงเทพฯ ประเทศไทย โดยไม่มีอุปสรรคด้านภาษา',
 
-        // Section: Investor Definition
+
         'investor_title' => 'นักลงทุนคือใคร?',
         'investor_quote' => 'นักลงทุนคือผู้ที่ลงทุนเงินในสินทรัพย์หรือแผนเพื่อบรรลุเป้าหมายทางการเงิน Floventra ในกรุงเทพฯ ประเทศไทย เชื่อมโยงคุณกับนักการศึกษาที่ได้รับการควบคุมเพื่อเรียนรู้เพิ่มเติม',
         'investor_text' => 'นักลงทุนเผชิญความเสี่ยงที่อาจส่งผลต่อผลตอบแทน เรียนรู้การวิจัย การจัดงบประมาณ และการประเมินความเสี่ยงกับบริษัทการศึกษาการลงทุนที่ได้รับการควบคุมในกรุงเทพฯ ผ่าน Floventra',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'ภาพรวมประเภทนักลงทุนของ Floventra',
         'investor_types_intro' => 'นักลงทุนแตกต่างกันตามเป้าหมาย ความทนทานต่อความเสี่ยง และกลยุทธ์ เรียนรู้เกี่ยวกับนักลงทุนเชิงปริมาณ นักลงทุนที่มีความรับผิดชอบต่อสังคม และนักลงทุนสถาบันกับ Floventra ในกรุงเทพฯ ประเทศไทย',
         'investor_type_1_title' => 'นักลงทุนเชิงปริมาณ',
@@ -10804,13 +10804,13 @@ return [
         'investor_type_3_content' => 'นักลงทุนสถาบันจัดการการลงทุนขนาดใหญ่ สมัครสมาชิกกับ Floventra ในกรุงเทพฯ เพื่อเรียนรู้ว่าพวกเขาแตกต่างจากนักลงทุนอื่นอย่างไร',
         'investor_types_register_btn' => 'สมัครสมาชิกฟรี >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'กองทุนดัชนีคืออะไร?',
         'index_funds_quote' => 'กองทุนดัชนีติดตามผลการดำเนินงานของตลาดด้วยต้นทุนที่ต่ำกว่า เรียนรู้เกี่ยวกับความเสี่ยงและประโยชน์ของพวกเขากับนักการศึกษาที่ได้รับการควบคุมของ Floventra ในกรุงเทพฯ ประเทศไทย',
         'index_funds_text_1' => 'กองทุนดัชนีเชื่อมโยงกับผลการดำเนินงานของตลาดและอาจมีความเสี่ยง เชื่อมต่อกับนักการศึกษาการลงทุนที่ได้รับการควบคุมในกรุงเทพฯ ผ่าน Floventra เพื่อเรียนรู้เพิ่มเติม',
         'index_funds_text_2' => 'นักลงทุนเลือกกองทุนดัชนี เปิดบัญชี และตรวจสอบพอร์ตการลงทุน ค้นพบกลยุทธ์กองทุนดัชนีกับ Floventra ในกรุงเทพฯ ประเทศไทย',
 
-        // Section: ETFs
+
         'etfs_title' => 'เรียนรู้เกี่ยวกับกองทุนซื้อขายแลกเปลี่ยน (ETFs) ผ่าน Floventra',
         'etfs_text_1' => 'ETFs ช่วยให้สามารถลงทุนในหลักทรัพย์ที่หลากหลาย เรียนรู้วิธีการทำงานของพวกเขากับนักการศึกษาที่ได้รับการควบคุมในกรุงเทพฯ ผ่าน Floventra',
         'etfs_text_2' => 'ETFs ซื้อขายในตลาดแลกเปลี่ยนและมีผลตอบแทนที่แตกต่างกัน เชื่อมต่อกับ Floventra ในกรุงเทพฯ ประเทศไทย เพื่อสำรวจประเภทและกลยุทธ์ของ ETF',
@@ -10824,7 +10824,7 @@ return [
         'etf_type_4_text' => 'ETFs หุ้นติดตามหุ้นเพื่อการกระจายความเสี่ยง เชื่อมต่อกับ Floventra ในกรุงเทพฯ ประเทศไทย เพื่อการศึกษาการลงทุนใน ETF',
         'etfs_learn_btn' => 'เรียนรู้เพิ่มเติม >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'การลงทุนด้านสิ่งแวดล้อม สังคม และการกำกับดูแล (ESG)',
         'assets_esg_quote' => 'การลงทุน ESG ให้ความสำคัญกับปัจจัยด้านจริยธรรม เรียนรู้ว่า ESG สอดคล้องกับกฎระเบียบของประเทศไทยอย่างไรผ่าน Floventra ในกรุงเทพฯ',
         'assets_esg_text' => 'ESG ประเมินบริษัทตามมาตรฐานด้านสิ่งแวดล้อม สังคม และการกำกับดูแล เชื่อมต่อกับนักการศึกษาที่ได้รับการควบคุมในกรุงเทพฯ ผ่าน Floventra',
@@ -10834,7 +10834,7 @@ return [
         'assets_market_cap_text_1' => 'มูลค่าตลาดมีตั้งแต่ขนาดเล็กไปจนถึงขนาดใหญ่ ค้นพบความเสี่ยงและศักยภาพในการเติบโตของพวกเขากับ Floventra ในกรุงเทพฯ ประเทศไทย',
         'assets_market_cap_text_2' => 'บริษัทที่มีมูลค่าตลาดขนาดกลางและใหญ่มีโอกาสเติบโตแต่มีความผันผวนแตกต่างกัน เรียนรู้เพิ่มเติมกับพันธมิตรที่ได้รับการควบคุมของ Floventra ในกรุงเทพฯ',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'ทำความเข้าใจการป้องกันความเสี่ยงผ่าน Floventra',
         'metrics_hedging_text' => 'การป้องกันความเสี่ยงช่วยลดความเสี่ยงการลงทุนโดยใช้ตราสารอนุพันธ์ เรียนรู้ความซับซ้อนของมันกับนักการศึกษาที่ได้รับการควบคุมในกรุงเทพฯ ผ่าน Floventra',
         'metrics_terms_title' => 'เรียนรู้คำศัพท์การลงทุนพื้นฐานผ่าน Floventra',
@@ -10851,12 +10851,12 @@ return [
         'metrics_debt_instrument_title' => 'ตราสารหนี้',
         'metrics_debt_instrument_text' => 'ตราสารหนี้ระดมทุนผ่านพันธบัตรหรือเงินกู้ ค้นพบตราสารหนี้กับ Floventra ในกรุงเทพฯ ประเทศไทย',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'ไม่สายเกินไปที่จะเริ่มต้น',
         'padding_60_quote' => 'กำลังมองหาการศึกษาการลงทุนที่เชื่อถือได้ในกรุงเทพฯ ประเทศไทย? Floventra เชื่อมโยงคุณกับบริษัทที่ได้รับการควบคุม',
         'padding_60_text' => 'Floventra ช่วยให้ผู้อยู่อาศัยในกรุงเทพฯ ประเทศไทย เข้าถึงการศึกษาการลงทุนที่เชื่อถือได้ สมัครสมาชิกฟรีวันนี้',
 
-        // Section: FAQ
+
         'faq_title' => 'คำถามที่พบบ่อยของ Floventra',
         'faq_1_question' => 'Floventra สอนอะไรบ้าง?',
         'faq_1_answer' => 'Floventra เชื่อมโยงผู้อยู่อาศัยในกรุงเทพฯ ประเทศไทย กับบริษัทการศึกษาการลงทุนที่ได้รับการควบคุมเพื่อการเรียนรู้ทางการเงินที่ครอบคลุม',
@@ -10865,7 +10865,7 @@ return [
         'faq_3_question' => 'Floventra เชื่อมโยงผู้คนกับครูอย่างไร?',
         'faq_3_answer' => 'ผู้ใช้ลงทะเบียนด้วยชื่อ อีเมล และหมายเลขโทรศัพท์ และบริษัทที่ได้รับการควบคุมในกรุงเทพฯ จะติดต่อพวกเขา โดยสอดคล้องกับกฎหมายคุ้มครองข้อมูลของประเทศไทย',
 
-        // Section: Highlight
+
         'highlight_title' => 'ไฮไลต์ของ Floventra',
         'highlight_enrollment_cost_title' => '🤖 ค่าสมัครสมาชิก',
         'highlight_enrollment_cost_text' => 'สมัครสมาชิกฟรีสำหรับผู้อยู่อาศัยในกรุงเทพฯ ประเทศไทย',
@@ -10878,28 +10878,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 ภูมิภาคที่สามารถเข้าถึงได้',
         'highlight_accessible_regions_text' => 'มีให้บริการในกรุงเทพฯ ประเทศไทย และส่วนใหญ่ของภูมิภาค ยกเว้นสหรัฐอเมริกา',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'บทบาทของ Floventra ในวงการการลงทุน',
         'about_principles_role_text' => 'Floventra ส่งเสริมการศึกษาการลงทุนในกรุงเทพฯ ประเทศไทย โดยเชื่อมโยงผู้ใช้กับบริษัทที่ได้รับการควบคุมเพื่อการตัดสินใจทางการเงินที่มีข้อมูล',
         'about_principles_gap_title' => 'ปิดช่องว่างความรู้ด้านการลงทุน',
         'about_principles_gap_text' => 'Floventra ปิดช่องว่างความรู้ด้านการลงทุนในกรุงเทพฯ ประเทศไทย โดยเชื่อมโยงผู้ใช้กับนักการศึกษาที่ได้รับการควบคุม',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra มุ่งสู่โลกที่คิดก้าวหน้า',
         'about_forward_thinking_quote' => 'Floventra ส่งเสริมความรู้ทางการเงินในกรุงเทพฯ ประเทศไทย ผ่านโซลูชันการศึกษาการลงทุนที่เป็นนวัตกรรม',
         'about_forward_thinking_text' => 'Floventra เปลี่ยนแปลงมุมมองทางการเงินในกรุงเทพฯ ประเทศไทย โดยเชื่อมโยงผู้ใช้กับการศึกษาการลงทุนที่ได้รับการควบคุม',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra ให้ความสำคัญกับการศึกษา',
         'about_education_text_1' => 'Floventra ช่วยให้ผู้อยู่อาศัยในกรุงเทพฯ ประเทศไทย มีความรู้ด้านการลงทุน เครื่องมือ และกลยุทธ์ผ่านนักการศึกษาที่ได้รับการควบคุม',
         'about_education_people_title' => 'ทีมงานของ Floventra',
         'about_education_people_text' => 'ทีมของเราในกรุงเทพฯ ประเทศไทย ทำงานเพื่อทำให้การศึกษาการลงทุนเข้าถึงได้โดยเชื่อมโยงผู้ใช้กับบริษัทที่ได้รับการควบคุม',
         'about_education_mission_text' => 'Floventra ช่วยให้ผู้อยู่อาศัยในกรุงเทพฯ ประเทศไทย สามารถเข้าถึงการศึกษาการลงทุน ปิดช่องว่างความรู้ทั่วโลก',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'แบบฟอร์มติดต่อ',
         'contact_form_name_placeholder' => 'ชื่อของคุณ',
         'contact_form_email_placeholder' => 'อีเมล',
@@ -10907,7 +10907,7 @@ return [
         'contact_form_submit_button' => 'ส่งข้อความ',
         'contact_form_success' => 'ส่งแบบฟอร์มสำเร็จ!',
 
-        // Section: Login Page
+
         'login_title' => 'เข้าสู่ระบบ Floventra',
         'login_subtitle' => 'คำแนะนำการเข้าสู่ระบบสำหรับผู้ใช้ใหม่ของ Floventra',
         'login_instructions_text' => 'ผู้ใช้ใหม่จะได้รับข้อมูลการเข้าสู่ระบบจากบริษัทการศึกษาการลงทุนที่ได้รับการควบคุมในกรุงเทพฯ ประเทศไทย สำหรับเว็บไซต์ของพวกเขา',
@@ -10923,13 +10923,13 @@ return [
         'login_form_error_last_name' => 'นามสกุลของคุณสั้นเกินไป (ต้องมีอย่างน้อย 2 ตัวอักษร)',
         'login_form_error_email' => 'กรุณาใส่อีเมลจริงของคุณ (เช่น user@example.com)',
 
-        // Terms and Conditions
+
         'terms_general_title' => '1. ทั่วไป',
         'terms_general_1' => 'ยินดีต้อนรับสู่ floventus.com (เรียกว่า "เว็บไซต์")',
         'terms_general_2' => 'อีเมลของเรา: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'เว็บไซต์ประกอบด้วยข้อมูลเกี่ยวกับแพลตฟอร์มของบุคคลที่สาม (เรียกว่า <b>"แพลตฟอร์มของบุคคลที่สาม"</b>) ซึ่งคือบริการการศึกษาเกี่ยวกับเทคนิคการลงทุนทั่วไปหรือการวิจัยตลาด Floventra ทำหน้าที่เป็นตัวกลางในการเชื่อมโยงผู้ใช้กับแพลตฟอร์มของบุคคลที่สามดังกล่าว (เรียกว่า <b>"บริการ"</b>)',
         'terms_general_4' => 'ข้อกำหนดการใช้งานเหล่านี้ (เรียกว่า <b>"ข้อกำหนด"</b>) ควบคุมการใช้งานเว็บไซต์และบริการของท่าน (เรียกว่า <b>"ท่าน"</b>, <b>"ของท่าน"</b> หรือ <b>"ผู้ใช้"</b>) ข้อกำหนดเหล่านี้ควรได้รับการอ่านอย่างละเอียดโดยท่านทั้งหมดก่อนการใช้บริการ โปรดทราบว่าข้อกำหนดเหล่านี้เป็นข้อตกลงที่มีผลผูกพันตามกฎหมายระหว่างท่านและผู้ดำเนินการเว็บไซต์ Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a> หากท่านไม่เห็นด้วยกับข้อกำหนดใด ๆ ท่านควรหยุดใช้เว็บไซต์ทันที การใช้เว็บไซต์แสดงว่าท่านยอมรับข้อกำหนดเหล่านี้ ซึ่งอาจมีการแก้ไขเป็นครั้งคราว',
-        'terms_general_5' => 'ข้อกำหนดเหล่านี้รวมถึงนโยบายความเป็นส่วนตัวของเรา และโดยการยอมรับข้อกำหนดเหล่านี้ ท่านยืนยันว่าท่านยอมรับและเห็นด้วยกับนโยบายความเป็นส่วนตัวของเรา (ท่านสามารถตรวจสอบนโยบายความเป็นส่วนตัวของเราได้โดย <a href="/th/privacy-policy/">คลิกที่นี่</a>)',
+        'terms_general_5' => 'ข้อกำหนดเหล่านี้รวมถึงนโยบายความเป็นส่วนตัวของเรา และโดยการยอมรับข้อกำหนดเหล่านี้ ท่านยืนยันว่าท่านยอมรับและเห็นด้วยกับนโยบายความเป็นส่วนตัวของเรา (ท่านสามารถตรวจสอบนโยบายความเป็นส่วนตัวของเราได้โดย <a href="./privacy">คลิกที่นี่</a>)',
         'terms_services_title' => '2. คำอธิบายของบริการ',
         'terms_services_1' => 'เราไม่ใช่แพลตฟอร์มการลงทุน และเราไม่เชื่อมโยงท่านกับแพลตฟอร์มการลงทุนดังกล่าว เว้นแต่แพลตฟอร์มการลงทุนนั้นจะมุ่งมั่นที่จะให้บริการการศึกษาหรือการวิจัยตลาดเท่านั้น',
         'terms_services_2' => 'เราทำหน้าที่เป็นตัวกลางในการเชื่อมโยงท่านกับผู้ให้บริการที่สามารถเสนอเนื้อหาการศึกษาเกี่ยวกับเทคนิคการลงทุนทั่วไปหรือการวิจัยตลาดในสาขาที่ท่านสนใจ ซึ่งสอดคล้องกับกฎระเบียบของประเทศไทย',
@@ -10991,7 +10991,7 @@ return [
         'terms_miscellaneous_8' => 'ข้อกำหนดเหล่านี้จะอยู่ภายใต้กฎหมายของประเทศไทย',
         'terms_miscellaneous_9' => 'สถานที่ที่มีอำนาจพิเศษสำหรับข้อพิพาททั้งหมดที่เกิดขึ้นจากหรือเกี่ยวข้องกับข้อกำหนดเหล่านี้จะเป็นศาลในประเทศไทย',
 
-        // Privacy Policy
+
         'privacy_purpose_title' => 'วัตถุประสงค์ของประกาศ',
         'privacy_purpose_text' => 'วัตถุประสงค์ของประกาศความเป็นส่วนตัวข้อมูลนี้ (เรียกว่า "ประกาศ") คือการอธิบายว่า Floventra ("Floventra" หรือ "เรา") จะประมวลผลข้อมูลส่วนบุคคลของท่านที่ท่านให้เราเมื่อท่านเยี่ยมชมเว็บไซต์ floventus.com (เรียกว่า "เว็บไซต์") หรือที่เราได้รับจากบุคคลที่สาม เพื่อเชื่อมโยงท่านกับผู้เชี่ยวชาญที่ท่านอาจสนใจ',
         'privacy_data_categories_title' => 'หมวดหมู่ข้อมูลส่วนบุคคลใดบ้างที่จะถูกประมวลผล?',
@@ -11037,7 +11037,7 @@ return [
         'privacy_last_updated' => 'ปรับปรุงล่าสุด: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'in' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'India',
         'locale' => 'en_IN',
         'locale_lang' => 'en-IN',
@@ -11053,25 +11053,25 @@ return [
         'jsonld_organization_review_author' => 'Floventra User',
         'jsonld_organization_review_body' => 'Floventra connects Indian residents in Mumbai with SEBI-regulated investment education firms, offering accessible and reliable financial learning.',
         'jsonld_software_categories' => 'Investment Education Platform',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'INR',
         'social_links' => [
-            'https://facebook.com/xivoralunex',
-            'https://twitter.com/xivoralunex',
-            'https://linkedin.com/company/xivoralunex'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Investment Education in Mumbai, India',
         'og_description' => 'Join Floventra in Mumbai, India, to connect with SEBI-regulated investment education firms. Start your financial learning journey today!',
-        'og_image' => 'https://floventus.com/in/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/in/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Investment Education in Mumbai',
         'twitter_description' => 'Discover investment education with Floventra in Mumbai, India. Connect with SEBI-regulated firms for free!',
-        'twitter_image' => 'https://floventus.com/in/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Investment Education Platform in Mumbai, India | The Official Website',
         'meta_description' => 'Join Floventra in Mumbai, India, to connect with SEBI-regulated investment education firms. Start your financial learning journey today!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, investment education Mumbai, India financial learning, Floventra, SEBI-regulated education, investment platform India',
@@ -11088,60 +11088,60 @@ return [
         'jsonld_faq_6_question' => 'Can I access Floventra in Mumbai?',
         'jsonld_faq_6_answer' => 'Floventra is fully accessible for Indian residents in Mumbai, offering a user-friendly platform for investment education.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'About Floventra - Investment Education in Mumbai, India',
         'about_desc_content' => 'Learn about Floventra, a leading platform in Mumbai, India, connecting users with SEBI-regulated investment education firms.',
         'about_keywords' => 'Floventra about, investment education Mumbai, India financial education, SEBI-regulated learning, investment platform India',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contact Floventra - Investment Education in Mumbai, India',
         'contact_desc_content' => 'Contact Floventra in Mumbai, India, for inquiries about our SEBI-regulated investment education services. Get in touch today!',
         'contact_keywords' => 'Floventra contact, investment education Mumbai, India financial learning, SEBI-regulated platform, contact investment education',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra Cookie Policy - Mumbai, India',
         'cookie_desc_content' => 'Explore Floventra’ Cookie Policy for investment education services in Mumbai, India. Learn how we use cookies to enhance your experience.',
         'cookie_keywords' => 'Floventra cookie policy, investment education Mumbai, India cookie policy, SEBI-regulated platform, financial education cookies',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra Terms of Use - Investment Education in Mumbai, India',
         'terms_desc_content' => 'Explore the Terms of Use for Floventra, governing access to our investment education platform in Mumbai, India. Learn about eligibility and SEBI compliance.',
         'terms_keywords' => 'Floventra terms, investment education platform, India terms and conditions, SEBI-regulated services, financial education Mumbai',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra Privacy Policy - Mumbai, India',
         'privacy_desc_content' => 'Read Floventra’ Privacy Policy for investment education services in Mumbai, India. Learn how we protect your data under India’s DPDP Act.',
         'privacy_keywords' => 'Floventra privacy, investment education Mumbai, India DPDP Act compliance, financial education privacy, SEBI-regulated platform',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Create Your Profile - Floventra Investment Education in Mumbai, India',
         'create-profile_content' => 'Sign up with Floventra in Mumbai, India, to connect with SEBI-regulated investment education firms. Start your learning journey today!',
         'create-profile_keywords' => 'Floventra sign up, investment education Mumbai, India financial learning, SEBI-regulated platform, create profile investment',
 
-        // Контентные ключи
+
         'home' => 'Home',
         'about' => 'About Us',
         'contact' => 'Contact Us',
         'privacy' => 'Privacy Policy',
         'terms' => 'Terms and Conditions',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Login',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Sign up now',
         'main_form_terms_text' => '* By clicking the button you agree and accept the Privacy Policy and Terms & Conditions',
 
-        // Section: About Platform
+
         'about_subtitle' => 'What is Floventra AI?',
         'about_quote' => 'Floventra connects Indian residents with SEBI-regulated investment education firms in Mumbai, making financial learning accessible and effective.',
         'about_text_1' => 'Floventra simplifies access to investment education in Mumbai, India. Our platform partners with SEBI-regulated firms to provide tailored learning experiences for all skill levels.',
         'about_text_2' => 'No prior investment knowledge is needed. Simply register with your name, email, and phone number, and our partners will contact you to start your financial education journey in Mumbai.',
         'about_register_btn' => 'REGISTER HERE >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Enhance Your Financial Skills with Floventra in Mumbai',
         'education_item_1_title' => 'Master New Investment Skills',
         'education_item_1_text' => 'Floventra connects Indian residents in Mumbai with SEBI-regulated firms to learn investment strategies. Perfect for beginners, professionals, or anyone seeking financial knowledge.',
@@ -11153,7 +11153,7 @@ return [
         'education_item_3_text_2' => 'Ready to transform your financial outlook? Sign up with Floventra today!',
         'education_register_btn' => 'REGISTER NOW >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Why Connect with Investment Teachers on Floventra?',
         'three_steps_item_1_title' => 'Virtual Study',
         'three_steps_item_1_text' => 'Floventra connects users with investment educators offering digital learning in Mumbai, India. Study from anywhere and revisit recordings as needed.',
@@ -11162,12 +11162,12 @@ return [
         'three_steps_item_3_title' => 'Language Multiplicity',
         'three_steps_item_3_text' => 'Learn in your preferred language with Floventra’ SEBI-regulated partners in Mumbai, India, removing language barriers.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Who is an Investor?',
         'investor_quote' => 'An investor commits capital to assets or plans to achieve financial goals. Floventra in Mumbai, India, connects you with SEBI-regulated educators to learn more.',
         'investor_text' => 'Investors face risks that can impact returns. Learn to research, budget, and assess risks with SEBI-regulated investment education firms in Mumbai via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra Overview of Investor Types',
         'investor_types_intro' => 'Investors vary by goals, risk tolerance, and strategies. Learn about quantitative, socially responsible, and institutional investors with Floventra in Mumbai, India.',
         'investor_type_1_title' => 'Quantitative Investor',
@@ -11185,13 +11185,13 @@ return [
         'investor_type_3_content' => 'Institutional investors manage large-scale investments. Sign up with Floventra in Mumbai to learn how they differ from other investors.',
         'investor_types_register_btn' => 'REGISTER FOR FREE >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'What is an Index Fund?',
         'index_funds_quote' => 'Index funds track market performance with lower costs. Learn about their risks and benefits with Floventra’ SEBI-regulated educators in Mumbai, India.',
         'index_funds_text_1' => 'Index funds are tied to market performance and can be risky. Connect with SEBI-regulated investment educators in Mumbai via Floventra to learn more.',
         'index_funds_text_2' => 'Investors choose index funds, open accounts, and monitor portfolios. Discover index fund strategies with Floventra in Mumbai, India.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Learn About Exchange-Traded Funds (ETFs) via Floventra',
         'etfs_text_1' => 'ETFs allow investment in diverse securities. Learn how they work with SEBI-regulated educators in Mumbai via Floventra.',
         'etfs_text_2' => 'ETFs trade on exchanges with varying returns. Connect with Floventra in Mumbai, India, to explore ETF types and strategies.',
@@ -11205,7 +11205,7 @@ return [
         'etf_type_4_text' => 'Stock ETFs track equities for diversification. Connect with Floventra in Mumbai, India, for detailed ETF education.',
         'etfs_learn_btn' => 'LEARN MORE >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Environmental, Social, and Governance (ESG) Investing',
         'assets_esg_quote' => 'ESG investing prioritizes ethical factors. Learn how it aligns with Indian regulations via Floventra in Mumbai.',
         'assets_esg_text' => 'ESG evaluates companies on environmental, social, and governance standards. Connect with SEBI-regulated educators in Mumbai via Floventra.',
@@ -11215,7 +11215,7 @@ return [
         'assets_market_cap_text_1' => 'Market cap ranges from micro to large. Discover their risks and growth potential with Floventra in Mumbai, India.',
         'assets_market_cap_text_2' => 'Mid and large-cap companies offer growth but vary in volatility. Learn more with Floventra’ SEBI-regulated partners in Mumbai.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Understand Hedging via Floventra',
         'metrics_hedging_text' => 'Hedging mitigates investment risks using derivatives. Learn its complexities with SEBI-regulated educators in Mumbai via Floventra.',
         'metrics_terms_title' => 'Know Basic Investment Terms via Floventra',
@@ -11232,12 +11232,12 @@ return [
         'metrics_debt_instrument_title' => 'Debt Instrument',
         'metrics_debt_instrument_text' => 'Debt instruments raise capital via bonds or loans. Discover them with Floventra in Mumbai, India.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'It is Never Too Late to Start',
         'padding_60_quote' => 'Struggling to find reliable investment education in Mumbai, India? Floventra connects you with SEBI-regulated firms.',
         'padding_60_text' => 'Floventra helps thousands of Indian residents in Mumbai access trusted investment education. Sign up for free today.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra FAQs',
         'faq_1_question' => 'What Does Floventra Teach People?',
         'faq_1_answer' => 'Floventra connects Indian residents in Mumbai with SEBI-regulated investment education firms for comprehensive financial learning.',
@@ -11246,7 +11246,7 @@ return [
         'faq_3_question' => 'How Does Floventra Connect People with Tutors?',
         'faq_3_answer' => 'Users register with their name, email, and phone number, and SEBI-regulated firms in Mumbai contact them, compliant with India’s DPDP Act.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra Highlights',
         'highlight_enrollment_cost_title' => '🤖 Enrollment Cost',
         'highlight_enrollment_cost_text' => 'Free enrollment for Indian residents in Mumbai',
@@ -11259,28 +11259,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Accessible Regions',
         'highlight_accessible_regions_text' => 'Available in Mumbai, India, and most regions, excluding the USA',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Floventra’ Role In the Investment Landscape',
         'about_principles_role_text' => 'Floventra promotes investment education in Mumbai, India, by connecting users with SEBI-regulated firms for informed financial decisions.',
         'about_principles_gap_title' => 'Closing the Investment Knowledge Gap',
         'about_principles_gap_text' => 'Floventra bridges the investment knowledge gap in Mumbai, India, by linking users with SEBI-regulated educators.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Aims For a Forward-Thinking World',
         'about_forward_thinking_quote' => 'Floventra fosters financial literacy in Mumbai, India, through innovative investment education solutions.',
         'about_forward_thinking_text' => 'Floventra transforms financial mindsets in Mumbai, India, by connecting users with SEBI-regulated investment education.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Places a Premium on Education',
         'about_education_text_1' => 'Floventra empowers Indian residents in Mumbai with investment knowledge, tools, and strategies via SEBI-regulated educators.',
         'about_education_people_title' => 'The People of Floventra',
         'about_education_people_text' => 'Our team in Mumbai, India, works to make investment education accessible by connecting users with SEBI-regulated firms.',
         'about_education_mission_text' => 'Floventra ensures Indian residents in Mumbai can access investment education, closing the knowledge gap globally.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Contact Form',
         'contact_form_name_placeholder' => 'Your Name',
         'contact_form_email_placeholder' => 'Email',
@@ -11288,7 +11288,7 @@ return [
         'contact_form_submit_button' => 'Send Message',
         'contact_form_success' => 'Form submitted successfully!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra Login',
         'login_subtitle' => 'Login Instructions for New Floventra Users',
         'login_instructions_text' => 'New users receive login credentials from SEBI-regulated investment education firms in Mumbai, India, for their websites.',
@@ -11309,7 +11309,7 @@ return [
         'terms_general_2' => 'Our email: <a href="mailto:info@wealthwise-solutions.org">info@wealthwise-solutions.org</a>',
         'terms_general_3' => 'The Website includes information about third-party platforms (the <b>"Third-Party Platforms"</b>) namely educational services on general investment techniques or market research. Floventra serves as an intermediary, connecting users with such Third-Party Platforms (the <b>"Services"</b>).',
         'terms_general_4' => 'These terms of use (the <b>"Terms"</b>) govern your (<b>"You"</b>, <b>"Your"</b> or <b>"User"</b>) use of the Website and the Services. These Terms should be read carefully by You in their entirety prior to Your use of the Services. Please note that these Terms constitute a legally binding agreement between You and the Website’s operator Floventra, <a href="mailto:info@wealthwise-solutions.org">info@wealthwise-solutions.org</a>. If You do not agree with any provision of these Terms, You shall immediately cease using the Website. By using the Website, You agree to the Terms, as amended from time to time.',
-        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="/in/privacy-policy/">clicking here</a>).',
+        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="./privacy">clicking here</a>).',
         'terms_services_title' => '2. Description of the Services',
         'terms_services_1' => 'We are not an investment platform, nor do we put You in touch with such investment platforms, unless such investment platform commits to offer you only educational services or market research.',
         'terms_services_2' => 'We serve as an intermediary to connect You with a service provider able to propose educational content on general investment techniques or market research in their areas of interest to You, compliant with SEBI regulations in India.',
@@ -11416,7 +11416,7 @@ return [
         'privacy_last_updated' => 'Last updated: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'kw' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Kuwait',
         'locale' => 'en_KW',
         'locale_lang' => 'en-KW',
@@ -11432,25 +11432,25 @@ return [
         'jsonld_organization_review_author' => 'Floventra User',
         'jsonld_organization_review_body' => 'Floventra connects Kuwait residents in Kuwait City with regulated investment education firms, offering accessible and reliable financial learning.',
         'jsonld_software_categories' => 'Investment Education Platform',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'KWD',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
 
-        // Универсальные метатеги для социальных сетей (одинаковые для всех страниц)
+
         'og_title' => 'Floventra - Investment Education in Kuwait City, Kuwait',
         'og_description' => 'Join Floventra in Kuwait City, Kuwait, to connect with regulated investment education firms. Start your financial learning journey today!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/kw/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Investment Education in Kuwait City',
         'twitter_description' => 'Discover investment education with Floventra in Kuwait City, Kuwait. Connect with regulated firms for free!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Investment Education Platform in Kuwait City, Kuwait | The Official Website',
         'meta_description' => 'Join Floventra in Kuwait City, Kuwait, to connect with regulated investment education firms. Start your financial learning journey today!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, investment education Kuwait City, Kuwait financial learning, Floventra, regulated education, investment platform Kuwait',
@@ -11467,60 +11467,60 @@ return [
         'jsonld_faq_6_question' => 'Can I access Floventra in Kuwait City?',
         'jsonld_faq_6_answer' => 'Floventra is fully accessible for Kuwait residents in Kuwait City, offering a user-friendly platform for investment education.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'About Floventra - Investment Education in Kuwait City, Kuwait',
         'about_desc_content' => 'Learn about Floventra, a leading platform in Kuwait City, Kuwait, connecting users with regulated investment education firms.',
         'about_keywords' => 'Floventra about, investment education Kuwait City, Kuwait financial education, regulated learning, investment platform Kuwait',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contact Floventra - Investment Education in Kuwait City, Kuwait',
         'contact_desc_content' => 'Contact Floventra in Kuwait City, Kuwait, for inquiries about our regulated investment education services. Get in touch today!',
         'contact_keywords' => 'Floventra contact, investment education Kuwait City, Kuwait financial learning, regulated platform, contact investment education',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra Cookie Policy - Kuwait City, Kuwait',
         'cookie_desc_content' => 'Explore Floventra’s Cookie Policy for investment education services in Kuwait City, Kuwait. Learn how we use cookies to enhance your experience.',
         'cookie_keywords' => 'Floventra cookie policy, investment education Kuwait City, Kuwait cookie policy, regulated platform, financial education cookies',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra Terms of Use - Investment Education in Kuwait City, Kuwait',
         'terms_desc_content' => 'Explore the Terms of Use for Floventra, governing access to our investment education platform in Kuwait City, Kuwait. Learn about eligibility and regulatory compliance.',
         'terms_keywords' => 'Floventra terms, investment education platform, Kuwait terms and conditions, regulated services, financial education Kuwait City',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra Privacy Policy - Kuwait City, Kuwait',
         'privacy_desc_content' => 'Read Floventra’s Privacy Policy for investment education services in Kuwait City, Kuwait. Learn how we protect your data under Kuwaiti regulations.',
         'privacy_keywords' => 'Floventra privacy, investment education Kuwait City, Kuwait data protection compliance, financial education privacy, regulated platform',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Create Your Profile - Floventra Investment Education in Kuwait City, Kuwait',
         'create-profile_content' => 'Sign up with Floventra in Kuwait City, Kuwait, to connect with regulated investment education firms. Start your learning journey today!',
         'create-profile_keywords' => 'Floventra sign up, investment education Kuwait City, Kuwait financial learning, regulated platform, create profile investment',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Home',
         'about' => 'About Us',
         'contact' => 'Contact Us',
         'privacy' => 'Privacy Policy',
         'terms' => 'Terms and Conditions',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Login',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Sign up now',
         'main_form_terms_text' => '* By clicking the button you agree and accept the Privacy Policy and Terms & Conditions',
 
-        // Section: About Platform
+
         'about_subtitle' => 'What is Floventra AI?',
         'about_quote' => 'Floventra connects Kuwait residents with regulated investment education firms in Kuwait City, making financial learning accessible and effective.',
         'about_text_1' => 'Floventra simplifies access to investment education in Kuwait City, Kuwait. Our platform partners with regulated firms to provide tailored learning experiences for all skill levels.',
         'about_text_2' => 'No prior investment knowledge is needed. Simply register with your name, email, and phone number, and our partners will contact you to start your financial education journey in Kuwait City.',
         'about_register_btn' => 'REGISTER HERE >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Enhance Your Financial Skills with Floventra in Kuwait City',
         'education_item_1_title' => 'Master New Investment Skills',
         'education_item_1_text' => 'Floventra connects Kuwait residents in Kuwait City with regulated firms to learn investment strategies. Perfect for beginners, professionals, or anyone seeking financial knowledge.',
@@ -11532,7 +11532,7 @@ return [
         'education_item_3_text_2' => 'Ready to transform your financial outlook? Sign up with Floventra today!',
         'education_register_btn' => 'REGISTER NOW >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Why Connect with Investment Teachers on Floventra?',
         'three_steps_item_1_title' => 'Virtual Study',
         'three_steps_item_1_text' => 'Floventra connects users with investment educators offering digital learning in Kuwait City, Kuwait. Study from anywhere and revisit recordings as needed.',
@@ -11541,12 +11541,12 @@ return [
         'three_steps_item_3_title' => 'Language Multiplicity',
         'three_steps_item_3_text' => 'Learn in your preferred language with Floventra’s regulated partners in Kuwait City, Kuwait, removing language barriers.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Who is an Investor?',
         'investor_quote' => 'An investor commits capital to assets or plans to achieve financial goals. Floventra in Kuwait City, Kuwait, connects you with regulated educators to learn more.',
         'investor_text' => 'Investors face risks that can impact returns. Learn to research, budget, and assess risks with regulated investment education firms in Kuwait City via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra Overview of Investor Types',
         'investor_types_intro' => 'Investors vary by goals, risk tolerance, and strategies. Learn about quantitative, socially responsible, and institutional investors with Floventra in Kuwait City, Kuwait.',
         'investor_type_1_title' => 'Quantitative Investor',
@@ -11564,13 +11564,13 @@ return [
         'investor_type_3_content' => 'Institutional investors manage large-scale investments. Sign up with Floventra in Kuwait City to learn how they differ from other investors.',
         'investor_types_register_btn' => 'REGISTER FOR FREE >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'What is an Index Fund?',
         'index_funds_quote' => 'Index funds track market performance with lower costs. Learn about their risks and benefits with Floventra’s regulated educators in Kuwait City, Kuwait.',
         'index_funds_text_1' => 'Index funds are tied to market performance and can be risky. Connect with regulated investment educators in Kuwait City via Floventra to learn more.',
         'index_funds_text_2' => 'Investors choose index funds, open accounts, and monitor portfolios. Discover index fund strategies with Floventra in Kuwait City, Kuwait.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Learn About Exchange-Traded Funds (ETFs) via Floventra',
         'etfs_text_1' => 'ETFs allow investment in diverse securities. Learn how they work with regulated educators in Kuwait City via Floventra.',
         'etfs_text_2' => 'ETFs trade on exchanges with varying returns. Connect with Floventra in Kuwait City, Kuwait, to explore ETF types and strategies.',
@@ -11584,7 +11584,7 @@ return [
         'etf_type_4_text' => 'Stock ETFs track equities for diversification. Connect with Floventra in Kuwait City, Kuwait, for detailed ETF education.',
         'etfs_learn_btn' => 'LEARN MORE >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Environmental, Social, and Governance (ESG) Investing',
         'assets_esg_quote' => 'ESG investing prioritizes ethical factors. Learn how it aligns with Kuwait regulations via Floventra in Kuwait City.',
         'assets_esg_text' => 'ESG evaluates companies on environmental, social, and governance standards. Connect with regulated educators in Kuwait City via Floventra.',
@@ -11594,7 +11594,7 @@ return [
         'assets_market_cap_text_1' => 'Market cap ranges from micro to large. Discover their risks and growth potential with Floventra in Kuwait City, Kuwait.',
         'assets_market_cap_text_2' => 'Mid and large-cap companies offer growth but vary in volatility. Learn more with Floventra’s regulated partners in Kuwait City.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Understand Hedging via Floventra',
         'metrics_hedging_text' => 'Hedging mitigates investment risks using derivatives. Learn its complexities with regulated educators in Kuwait City via Floventra.',
         'metrics_terms_title' => 'Know Basic Investment Terms via Floventra',
@@ -11611,12 +11611,12 @@ return [
         'metrics_debt_instrument_title' => 'Debt Instrument',
         'metrics_debt_instrument_text' => 'Debt instruments raise capital via bonds or loans. Discover them with Floventra in Kuwait City, Kuwait.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'It is Never Too Late to Start',
         'padding_60_quote' => 'Struggling to find reliable investment education in Kuwait City, Kuwait? Floventra connects you with regulated firms.',
         'padding_60_text' => 'Floventra helps thousands of Kuwait residents in Kuwait City access trusted investment education. Sign up for free today.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra FAQs',
         'faq_1_question' => 'What Does Floventra Teach People?',
         'faq_1_answer' => 'Floventra connects Kuwait residents in Kuwait City with regulated investment education firms for comprehensive financial learning.',
@@ -11625,7 +11625,7 @@ return [
         'faq_3_question' => 'How Does Floventra Connect People with Tutors?',
         'faq_3_answer' => 'Users register with their name, email, and phone number, and regulated firms in Kuwait City contact them, compliant with Kuwaiti regulations.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra Highlights',
         'highlight_enrollment_cost_title' => '🤖 Enrollment Cost',
         'highlight_enrollment_cost_text' => 'Free enrollment for Kuwait residents in Kuwait City',
@@ -11638,28 +11638,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Accessible Regions',
         'highlight_accessible_regions_text' => 'Available in Kuwait City, Kuwait, and most regions, excluding the USA',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Floventra’s Role In the Investment Landscape',
         'about_principles_role_text' => 'Floventra promotes investment education in Kuwait City, Kuwait, by connecting users with regulated firms for informed financial decisions.',
         'about_principles_gap_title' => 'Closing the Investment Knowledge Gap',
         'about_principles_gap_text' => 'Floventra bridges the investment knowledge gap in Kuwait City, Kuwait, by linking users with regulated educators.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Aims For a Forward-Thinking World',
         'about_forward_thinking_quote' => 'Floventra fosters financial literacy in Kuwait City, Kuwait, through innovative investment education solutions.',
         'about_forward_thinking_text' => 'Floventra transforms financial mindsets in Kuwait City, Kuwait, by connecting users with regulated investment education.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Places a Premium on Education',
         'about_education_text_1' => 'Floventra empowers Kuwait residents in Kuwait City with investment knowledge, tools, and strategies via regulated educators.',
         'about_education_people_title' => 'The People of Floventra',
         'about_education_people_text' => 'Our team in Kuwait City, Kuwait, works to make investment education accessible by connecting users with regulated firms.',
         'about_education_mission_text' => 'Floventra ensures Kuwait residents in Kuwait City can access investment education, closing the knowledge gap globally.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Contact Form',
         'contact_form_name_placeholder' => 'Your Name',
         'contact_form_email_placeholder' => 'Email',
@@ -11667,7 +11667,7 @@ return [
         'contact_form_submit_button' => 'Send Message',
         'contact_form_success' => 'Form submitted successfully!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra Login',
         'login_subtitle' => 'Login Instructions for New Floventra Users',
         'login_instructions_text' => 'New users receive login credentials from regulated investment education firms in Kuwait City, Kuwait, for their websites.',
@@ -11688,7 +11688,7 @@ return [
         'terms_general_2' => 'Our email: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'The Website includes information about third-party platforms (the <b>"Third-Party Platforms"</b>) namely educational services on general investment techniques or market research. Floventra serves as an intermediary, connecting users with such Third-Party Platforms (the <b>"Services"</b>).',
         'terms_general_4' => 'These terms of use (the <b>"Terms"</b>) govern your (<b>"You"</b>, <b>"Your"</b> or <b>"User"</b>) use of the Website and the Services. These Terms should be read carefully by You in their entirety prior to Your use of the Services. Please note that these Terms constitute a legally binding agreement between You and the Website’s operator Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. If You do not agree with any provision of these Terms, You shall immediately cease using the Website. By using the Website, You agree to the Terms, as amended from time to time.',
-        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="/kw/privacy-policy/">clicking here</a>).',
+        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="./privacy">clicking here</a>).',
         'terms_services_title' => '2. Description of the Services',
         'terms_services_1' => 'We are not an investment platform, nor do we put You in touch with such investment platforms, unless such investment platform commits to offer you only educational services or market research.',
         'terms_services_2' => 'We serve as an intermediary to connect You with a service provider able to propose educational content on general investment techniques or market research in their areas of interest to You, compliant with Kuwaiti regulations.',
@@ -11795,7 +11795,7 @@ return [
         'privacy_last_updated' => 'Last updated: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'ae' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'United Arab Emirates',
         'locale' => 'en_AE',
         'locale_lang' => 'en-AE',
@@ -11811,25 +11811,25 @@ return [
         'jsonld_organization_review_author' => 'Floventra User',
         'jsonld_organization_review_body' => 'Floventra connects UAE residents in Dubai with SCA-regulated investment education firms, offering accessible and reliable financial learning.',
         'jsonld_software_categories' => 'Investment Education Platform',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'AED',
         'social_links' => [
-            'https://facebook.com/floventus.com/ae',
-            'https://twitter.com/floventus.com/ae',
-            'https://linkedin.com/company/floventus.com/ae'
+            'https://facebook.com/floventus/',
+            'https://twitter.com/floventus/',
+            'https://linkedin.com/company/floventus/'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Investment Education in Dubai, UAE',
         'og_description' => 'Join Floventra in Dubai, UAE, to connect with SCA-regulated investment education firms. Start your financial learning journey today!',
-        'og_image' => 'https://floventus.com/ae/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/ae/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Investment Education in Dubai',
         'twitter_description' => 'Discover investment education with Floventra in Dubai, UAE. Connect with SCA-regulated firms for free!',
-        'twitter_image' => 'https://floventus.com/ae/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Investment Education Platform in Dubai, UAE | The Official Website',
         'meta_description' => 'Join Floventra in Dubai, UAE, to connect with SCA-regulated investment education firms. Start your financial learning journey today!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, investment education Dubai, UAE financial learning, Floventra, SCA-regulated education, investment platform UAE',
@@ -11846,60 +11846,60 @@ return [
         'jsonld_faq_6_question' => 'Can I access Floventra in Dubai?',
         'jsonld_faq_6_answer' => 'Floventra is fully accessible for UAE residents in Dubai, offering a user-friendly platform for investment education.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'About Floventra - Investment Education in Dubai, UAE',
         'about_desc_content' => 'Learn about Floventra, a leading platform in Dubai, UAE, connecting users with SCA-regulated investment education firms.',
         'about_keywords' => 'Floventra about, investment education Dubai, UAE financial education, SCA-regulated learning, investment platform UAE',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contact Floventra - Investment Education in Dubai, UAE',
         'contact_desc_content' => 'Contact Floventra in Dubai, UAE, for inquiries about our SCA-regulated investment education services. Get in touch today!',
         'contact_keywords' => 'Floventra contact, investment education Dubai, UAE financial learning, SCA-regulated platform, contact investment education',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra Cookie Policy - Dubai, UAE',
         'cookie_desc_content' => 'Explore Floventra’s Cookie Policy for investment education services in Dubai, UAE. Learn how we use cookies to enhance your experience.',
         'cookie_keywords' => 'Floventra cookie policy, investment education Dubai, UAE cookie policy, SCA-regulated platform, financial education cookies',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra Terms of Use - Investment Education in Dubai, UAE',
         'terms_desc_content' => 'Explore the Terms of Use for Floventra, governing access to our investment education platform in Dubai, UAE. Learn about eligibility and SCA compliance.',
         'terms_keywords' => 'Floventra terms, investment education platform, UAE terms and conditions, SCA-regulated services, financial education Dubai',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra Privacy Policy - Dubai, UAE',
         'privacy_desc_content' => 'Read Floventra’s Privacy Policy for investment education services in Dubai, UAE. Learn how we protect your data under UAE data protection laws.',
         'privacy_keywords' => 'Floventra privacy, investment education Dubai, UAE data protection compliance, financial education privacy, SCA-regulated platform',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Create Your Profile - Floventra Investment Education in Dubai, UAE',
         'create-profile_content' => 'Sign up with Floventra in Dubai, UAE, to connect with SCA-regulated investment education firms. Start your learning journey today!',
         'create-profile_keywords' => 'Floventra sign up, investment education Dubai, UAE financial learning, SCA-regulated platform, create profile investment',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'Home',
         'about' => 'About Us',
         'contact' => 'Contact Us',
         'privacy' => 'Privacy Policy',
         'terms' => 'Terms and Conditions',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Login',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Sign up now',
         'main_form_terms_text' => '* By clicking the button you agree and accept the Privacy Policy and Terms & Conditions',
 
-        // Section: About Platform
+
         'about_subtitle' => 'What is Floventra AI?',
         'about_quote' => 'Floventra connects UAE residents with SCA-regulated investment education firms in Dubai, making financial learning accessible and effective.',
         'about_text_1' => 'Floventra simplifies access to investment education in Dubai, UAE. Our platform partners with SCA-regulated firms to provide tailored learning experiences for all skill levels.',
         'about_text_2' => 'No prior investment knowledge is needed. Simply register with your name, email, and phone number, and our partners will contact you to start your financial education journey in Dubai.',
         'about_register_btn' => 'REGISTER HERE >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Enhance Your Financial Skills with Floventra in Dubai',
         'education_item_1_title' => 'Master New Investment Skills',
         'education_item_1_text' => 'Floventra connects UAE residents in Dubai with SCA-regulated firms to learn investment strategies. Perfect for beginners, professionals, or anyone seeking financial knowledge.',
@@ -11911,7 +11911,7 @@ return [
         'education_item_3_text_2' => 'Ready to transform your financial outlook? Sign up with Floventra today!',
         'education_register_btn' => 'REGISTER NOW >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Why Connect with Investment Teachers on Floventra?',
         'three_steps_item_1_title' => 'Virtual Study',
         'three_steps_item_1_text' => 'Floventra connects users with investment educators offering digital learning in Dubai, UAE. Study from anywhere and revisit recordings as needed.',
@@ -11920,12 +11920,12 @@ return [
         'three_steps_item_3_title' => 'Language Multiplicity',
         'three_steps_item_3_text' => 'Learn in your preferred language with Floventra’s SCA-regulated partners in Dubai, UAE, removing language barriers.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Who is an Investor?',
         'investor_quote' => 'An investor commits capital to assets or plans to achieve financial goals. Floventra in Dubai, UAE, connects you with SCA-regulated educators to learn more.',
         'investor_text' => 'Investors face risks that can impact returns. Learn to research, budget, and assess risks with SCA-regulated investment education firms in Dubai via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra Overview of Investor Types',
         'investor_types_intro' => 'Investors vary by goals, risk tolerance, and strategies. Learn about quantitative, socially responsible, and institutional investors with Floventra in Dubai, UAE.',
         'investor_type_1_title' => 'Quantitative Investor',
@@ -11943,13 +11943,13 @@ return [
         'investor_type_3_content' => 'Institutional investors manage large-scale investments. Sign up with Floventra in Dubai to learn how they differ from other investors.',
         'investor_types_register_btn' => 'REGISTER FOR FREE >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'What is an Index Fund?',
         'index_funds_quote' => 'Index funds track market performance with lower costs. Learn about their risks and benefits with Floventra’s SCA-regulated educators in Dubai, UAE.',
         'index_funds_text_1' => 'Index funds are tied to market performance and can be risky. Connect with SCA-regulated investment educators in Dubai via Floventra to learn more.',
         'index_funds_text_2' => 'Investors choose index funds, open accounts, and monitor portfolios. Discover index fund strategies with Floventra in Dubai, UAE.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Learn About Exchange-Traded Funds (ETFs) via Floventra',
         'etfs_text_1' => 'ETFs allow investment in diverse securities. Learn how they work with SCA-regulated educators in Dubai via Floventra.',
         'etfs_text_2' => 'ETFs trade on exchanges with varying returns. Connect with Floventra in Dubai, UAE, to explore ETF types and strategies.',
@@ -11963,7 +11963,7 @@ return [
         'etf_type_4_text' => 'Stock ETFs track equities for diversification. Connect with Floventra in Dubai, UAE, for detailed ETF education.',
         'etfs_learn_btn' => 'LEARN MORE >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Environmental, Social, and Governance (ESG) Investing',
         'assets_esg_quote' => 'ESG investing prioritizes ethical factors. Learn how it aligns with UAE regulations via Floventra in Dubai.',
         'assets_esg_text' => 'ESG evaluates companies on environmental, social, and governance standards. Connect with SCA-regulated educators in Dubai via Floventra.',
@@ -11973,7 +11973,7 @@ return [
         'assets_market_cap_text_1' => 'Market cap ranges from micro to large. Discover their risks and growth potential with Floventra in Dubai, UAE.',
         'assets_market_cap_text_2' => 'Mid and large-cap companies offer growth but vary in volatility. Learn more with Floventra’s SCA-regulated partners in Dubai.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Understand Hedging via Floventra',
         'metrics_hedging_text' => 'Hedging mitigates investment risks using derivatives. Learn its complexities with SCA-regulated educators in Dubai via Floventra.',
         'metrics_terms_title' => 'Know Basic Investment Terms via Floventra',
@@ -11990,12 +11990,12 @@ return [
         'metrics_debt_instrument_title' => 'Debt Instrument',
         'metrics_debt_instrument_text' => 'Debt instruments raise capital via bonds or loans. Discover them with Floventra in Dubai, UAE.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'It is Never Too Late to Start',
         'padding_60_quote' => 'Struggling to find reliable investment education in Dubai, UAE? Floventra connects you with SCA-regulated firms.',
         'padding_60_text' => 'Floventra helps thousands of UAE residents in Dubai access trusted investment education. Sign up for free today.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra FAQs',
         'faq_1_question' => 'What Does Floventra Teach People?',
         'faq_1_answer' => 'Floventra connects UAE residents in Dubai with SCA-regulated investment education firms for comprehensive financial learning.',
@@ -12004,7 +12004,7 @@ return [
         'faq_3_question' => 'How Does Floventra Connect People with Tutors?',
         'faq_3_answer' => 'Users register with their name, email, and phone number, and SCA-regulated firms in Dubai contact them, compliant with UAE data protection laws.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra Highlights',
         'highlight_enrollment_cost_title' => '🤖 Enrollment Cost',
         'highlight_enrollment_cost_text' => 'Free enrollment for UAE residents in Dubai',
@@ -12017,28 +12017,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Accessible Regions',
         'highlight_accessible_regions_text' => 'Available in Dubai, UAE, and most regions, excluding the USA',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Floventra’s Role In the Investment Landscape',
         'about_principles_role_text' => 'Floventra promotes investment education in Dubai, UAE, by connecting users with SCA-regulated firms for informed financial decisions.',
         'about_principles_gap_title' => 'Closing the Investment Knowledge Gap',
         'about_principles_gap_text' => 'Floventra bridges the investment knowledge gap in Dubai, UAE, by linking users with SCA-regulated educators.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Aims For a Forward-Thinking World',
         'about_forward_thinking_quote' => 'Floventra fosters financial literacy in Dubai, UAE, through innovative investment education solutions.',
         'about_forward_thinking_text' => 'Floventra transforms financial mindsets in Dubai, UAE, by connecting users with SCA-regulated investment education.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Places a Premium on Education',
         'about_education_text_1' => 'Floventra empowers UAE residents in Dubai with investment knowledge, tools, and strategies via SCA-regulated educators.',
         'about_education_people_title' => 'The People of Floventra',
         'about_education_people_text' => 'Our team in Dubai, UAE, works to make investment education accessible by connecting users with SCA-regulated firms.',
         'about_education_mission_text' => 'Floventra ensures UAE residents in Dubai can access investment education, closing the knowledge gap globally.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Contact Form',
         'contact_form_name_placeholder' => 'Your Name',
         'contact_form_email_placeholder' => 'Email',
@@ -12046,7 +12046,7 @@ return [
         'contact_form_submit_button' => 'Send Message',
         'contact_form_success' => 'Form submitted successfully!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra Login',
         'login_subtitle' => 'Login Instructions for New Floventra Users',
         'login_instructions_text' => 'New users receive login credentials from SCA-regulated investment education firms in Dubai, UAE, for their websites.',
@@ -12062,13 +12062,13 @@ return [
         'login_form_error_last_name' => 'Your last name is too short (at least 2 characters)',
         'login_form_error_email' => 'Please enter your real email address (e.g., user@example.com)',
 
-        // Section: Terms of Use
+
         'terms_general_title' => '1. General',
         'terms_general_1' => 'Welcome to floventus.com/ae (the "Website").',
         'terms_general_2' => 'Our email: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'The Website includes information about third-party platforms (the <b>"Third-Party Platforms"</b>) namely educational services on general investment techniques or market research. Floventra serves as an intermediary, connecting users with such Third-Party Platforms (the <b>"Services"</b>).',
         'terms_general_4' => 'These terms of use (the <b>"Terms"</b>) govern your (<b>"You"</b>, <b>"Your"</b> or <b>"User"</b>) use of the Website and the Services. These Terms should be read carefully by You in their entirety prior to Your use of the Services. Please note that these Terms constitute a legally binding agreement between You and the Website’s operator Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. If You do not agree with any provision of these Terms, You shall immediately cease using the Website. By using the Website, You agree to the Terms, as amended from time to time.',
-        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="/ae/privacy-policy/">clicking here</a>).',
+        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="./privacy">clicking here</a>).',
         'terms_services_title' => '2. Description of the Services',
         'terms_services_1' => 'We are not an investment platform, nor do we put You in touch with such investment platforms, unless such investment platform commits to offer you only educational services or market research.',
         'terms_services_2' => 'We serve as an intermediary to connect You with a service provider able to propose educational content on general investment techniques or market research in their areas of interest to You, compliant with SCA regulations in the UAE.',
@@ -12130,7 +12130,7 @@ return [
         'terms_miscellaneous_8' => 'These terms shall be governed by UAE law.',
         'terms_miscellaneous_9' => 'The exclusive place of jurisdiction for all disputes arising from or in connection with these Terms shall be the courts of Dubai, United Arab Emirates.',
 
-        // Section: Privacy Policy
+
         'privacy_purpose_title' => 'Purpose of Notice',
         'privacy_purpose_text' => 'The purpose of this Data Privacy Notice (the "Notice") is to explain how Floventra ("Floventra" or "We" or "Us") will process, as data controller, your personal data you provide Us when you visit the website floventus.com/ae (the "Website"), or that We receive from third parties, in order to put you in contact with professionals you might be interested in.',
         'privacy_data_categories_title' => 'What Categories of Personal Data Will Be Processed?',
@@ -12176,7 +12176,7 @@ return [
         'privacy_last_updated' => 'Last updated: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'kr' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'South Korea',
         'locale' => 'ko_KR',
         'locale_lang' => 'ko-KR',
@@ -12189,28 +12189,28 @@ return [
         'geo_position' => '37.566535, 126.9780',
         'jsonld_organization_name' => 'Floventra',
         'jsonld_organization_review_rating' => '4.96',
-        'jsonld_organization_review_author' => '사용자 김민수', // Корейское имя
+        'jsonld_organization_review_author' => '사용자 김민수',
         'jsonld_organization_review_body' => 'Floventra는 서울에서 KOFIA-규제 투자 교육 기관과 연결하여 접근 가능하고 신뢰할 수 있는 금융 학습을 제공합니다.',
-        'jsonld_software_categories' => '투자 교육 플랫폼', // Замена "инвестиции"
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_categories' => '투자 교육 플랫폼',
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'KRW',
         'social_links' => [
-            'https://facebook.com/floventus.com/kr',
-            'https://twitter.com/floventus.com/kr',
-            'https://linkedin.com/company/floventus.com/kr'
+            'https://facebook.com/floventus/',
+            'https://twitter.com/floventus/',
+            'https://linkedin.com/company/floventus/'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - 서울, 한국의 투자 교육',
         'og_description' => '서울의 Floventra에 가입하여 KOFIA-규제 투자 교육 기관과 연결하세요. 오늘부터 금융 학습 여정을 시작하세요!',
-        'og_image' => 'https://floventus.com/kr/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/kr/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - 서울의 투자 교육',
         'twitter_description' => '서울에서 Floventra와 함께 투자 교육을 발견하세요. KOFIA-규제 기관과 무료로 연결하세요!',
-        'twitter_image' => 'https://floventus.com/kr/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - 서울, 한국의 투자 교육 플랫폼 | 공식 웹사이트',
         'meta_description' => '서울의 Floventra에 가입하여 KOFIA-규제 투자 교육 기관과 연결하세요. 오늘부터 금융 학습 여정을 시작하세요!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, 서울 투자 교육, 한국 금융 학습, Floventra, KOFIA-규제 교육, 한국 투자 플랫폼',
@@ -12228,60 +12228,60 @@ return [
         'jsonld_faq_6_question' => '서울에서 Floventra에 접근할 수 있나요?',
         'jsonld_faq_6_answer' => 'Floventra는 서울 거주자에게 완전히 접근 가능하며, 투자 교육을 위한 사용자 친화적인 플랫폼을 제공합니다.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Floventra 소개 - 서울, 한국의 투자 교육',
         'about_desc_content' => '서울에서 Floventra를 통해 KOFIA-규제 투자 교육 기관과 연결되는 선도적인 플랫폼에 대해 알아보세요.',
         'about_keywords' => 'Floventra 소개, 서울 투자 교육, 한국 금융 교육, KOFIA-규제 학습, 한국 투자 플랫폼',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Floventra 연락처 - 서울, 한국의 투자 교육',
         'contact_desc_content' => '서울의 Floventra에 문의하여 KOFIA-규제 투자 교육 서비스에 대해 알아보세요. 오늘 연락하세요!',
         'contact_keywords' => 'Floventra 연락처, 서울 투자 교육, 한국 금융 학습, KOFIA-규제 플랫폼, 투자 교육 연락처',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra 쿠키 정책 - 서울, 한국',
         'cookie_desc_content' => '서울에서 Floventra의 투자 교육 서비스를 위한 쿠키 정책을 확인하세요. 쿠키가 사용자 경험을 향상시키는 방법을 알아보세요.',
         'cookie_keywords' => 'Floventra 쿠키 정책, 서울 투자 교육, 한국 쿠키 정책, KOFIA-규제 플랫폼, 금융 교육 쿠키',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra 이용 약관 - 서울, 한국의 투자 교육',
         'terms_desc_content' => '서울에서 Floventra의 투자 교육 플랫폼에 대한 이용 약관을 확인하세요. 자격 및 KOFIA 준수에 대해 알아보세요.',
         'terms_keywords' => 'Floventra 이용 약관, 투자 교육 플랫폼, 한국 이용 약관, KOFIA-규제 서비스, 서울 금융 교육',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra 개인정보 보호정책 - 서울, 한국',
         'privacy_desc_content' => '서울에서 Floventra의 투자 교육 서비스를 위한 개인정보 보호정책을 읽어보세요. 한국 개인정보보호법에 따라 데이터를 보호하는 방법을 알아보세요.',
         'privacy_keywords' => 'Floventra 개인정보, 서울 투자 교육, 한국 개인정보보호법 준수, 금융 교육 개인정보, KOFIA-규제 플랫폼',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => '프로필 생성 - 서울, 한국의 Floventra 투자 교육',
         'create-profile_content' => '서울의 Floventra에 가입하여 KOFIA-규제 투자 교육 기관과 연결하세요. 오늘 학습 여정을 시작하세요!',
         'create-profile_keywords' => 'Floventra 가입, 서울 투자 교육, 한국 금융 학습, KOFIA-규제 플랫폼, 투자 프로필 생성',
 
-        // Контентные ключи из исходного текста
+
         'home' => '홈',
         'about' => '소개',
         'contact' => '연락처',
         'privacy' => '개인정보 보호정책',
         'terms' => '이용 약관',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => '로그인',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => '지금 가입하세요',
         'main_form_terms_text' => '* 버튼을 클릭하면 개인정보 보호정책 및 이용 약관에 동의하고 수락하는 것입니다',
 
-        // Section: About Platform
+
         'about_subtitle' => 'Floventra AI란 무엇인가요?',
         'about_quote' => 'Floventra는 서울 거주자를 KOFIA-규제 투자 교육 기관과 연결하여 금융 학습을 접근 가능하고 효과적으로 만듭니다.',
         'about_text_1' => 'Floventra는 서울에서 투자 교육에 대한 접근을 단순화합니다. 우리 플랫폼은 KOFIA-규제 기관과 파트너십을 통해 모든 수준에 맞는 맞춤형 학습 경험을 제공합니다.',
         'about_text_2' => '사전 투자 지식이 필요 없습니다. 이름, 이메일, 전화번호로 등록하면 파트너가 서울에서 금융 교육 여정을 시작하도록 연락드립니다.',
         'about_register_btn' => '여기서 등록하세요 >>',
 
-        // Section: Education Benefits
+
         'education_title' => '서울에서 Floventra로 금융 기술 향상',
         'education_item_1_title' => '새로운 투자 기술 익히기',
         'education_item_1_text' => 'Floventra는 서울 거주자를 KOFIA-규제 기관과 연결하여 투자 전략을 배웁니다. 초보자, 전문가, 금융 지식을 원하는 모든 사람에게 적합합니다.',
@@ -12293,7 +12293,7 @@ return [
         'education_item_3_text_2' => '금융 전망을 바꿀 준비가 되셨나요? 오늘 Floventra에 가입하세요!',
         'education_register_btn' => '지금 등록하세요 >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Floventra에서 투자 강사와 연결해야 하는 이유는?',
         'three_steps_item_1_title' => '가상 학습',
         'three_steps_item_1_text' => 'Floventra는 서울에서 디지털 학습을 제공하는 투자 교육자와 사용자를 연결합니다. 어디서나 학습하고 필요에 따라 녹음을 다시 볼 수 있습니다.',
@@ -12302,12 +12302,12 @@ return [
         'three_steps_item_3_title' => '다양한 언어 지원',
         'three_steps_item_3_text' => '서울의 KOFIA-규제 파트너와 함께 선호하는 언어로 학습하여 언어 장벽을 제거하세요.',
 
-        // Section: Investor Definition
+
         'investor_title' => '투자자란 누구인가요?',
         'investor_quote' => '투자자는 자산 또는 계획에 자본을 투입하여 재무 목표를 달성하는 사람입니다. 서울의 Floventra는 KOFIA-규제 교육자와 연결하여 더 많은 것을 배울 수 있게 합니다.',
         'investor_text' => '투자자는 수익에 영향을 미칠 수 있는 위험에 직면합니다. 서울의 Floventra를 통해 KOFIA-규제 투자 교육 기관과 함께 연구, 예산 책정, 위험 평가를 배우세요.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra의 투자자 유형 개요',
         'investor_types_intro' => '투자자는 목표, 위험 허용 범위, 전략에 따라 다양합니다. 서울의 Floventra로 정량적, 사회적 책임, 기관 투자자에 대해 알아보세요.',
         'investor_type_1_title' => '정량적 투자자',
@@ -12325,13 +12325,13 @@ return [
         'investor_type_3_content' => '기관 투자자는 대규모 투자를 관리합니다. 서울의 Floventra에 가입하여 다른 투자자와 어떻게 다른지 알아보세요.',
         'investor_types_register_btn' => '무료로 등록하세요 >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => '인덱스 펀드란 무엇인가요?',
         'index_funds_quote' => '인덱스 펀드는 낮은 비용으로 시장 성과를 추적합니다. 서울의 Floventra의 KOFIA-규제 교육자와 함께 그들의 위험과 이점을 배워보세요.',
         'index_funds_text_1' => '인덱스 펀드는 시장 성과에 연동되며 위험할 수 있습니다. 서울의 Floventra를 통해 KOFIA-규제 투자 교육자와 연결하여 더 알아보세요.',
         'index_funds_text_2' => '투자자는 인덱스 펀드를 선택하고 계좌를 개설하며 포트폴리오를 모니터링합니다. 서울의 Floventra로 인덱스 펀드 전략을 알아보세요.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Floventra를 통해 상장지수펀드(ETF)에 대해 알아보기',
         'etfs_text_1' => 'ETF는 다양한 증권에 투자할 수 있게 합니다. 서울의 Floventra를 통해 KOFIA-규제 교육자와 함께 작동 방식을 배워보세요.',
         'etfs_text_2' => 'ETF는 거래소에서 거래되며 수익이 다양합니다. 서울의 Floventra로 ETF 유형과 전략을 탐색하세요.',
@@ -12345,7 +12345,7 @@ return [
         'etf_type_4_text' => '주식 ETF는 다각화를 위해 주식을 추적합니다. 서울의 Floventra로 자세한 ETF 교육을 받으세요.',
         'etfs_learn_btn' => '더 알아보기 >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => '환경, 사회, 지배구조(ESG) 투자',
         'assets_esg_quote' => 'ESG 투자는 윤리적 요소를 우선시합니다. 서울의 Floventra를 통해 한국 규정과 어떻게 일치하는지 알아보세요.',
         'assets_esg_text' => 'ESG는 환경, 사회, 지배구조 기준으로 회사를 평가합니다. 서울의 Floventra를 통해 KOFIA-규제 교육자와 연결하세요.',
@@ -12355,7 +12355,7 @@ return [
         'assets_market_cap_text_1' => '시가총액은 소형에서 대형까지 다양합니다. 서울의 Floventra로 그들의 위험과 성장 가능성을 알아보세요.',
         'assets_market_cap_text_2' => '중형 및 대형 회사는 성장을 제공하지만 변동성이 다릅니다. 서울의 Floventra의 KOFIA-규제 파트너와 더 알아보세요.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Floventra를 통해 헤징 이해하기',
         'metrics_hedging_text' => '헤징은 파생상품을 사용하여 투자 위험을 완화합니다. 서울의 Floventra를 통해 KOFIA-규제 교육자와 함께 복잡성을 배워보세요.',
         'metrics_terms_title' => 'Floventra를 통해 기본 투자 용어 알기',
@@ -12372,12 +12372,12 @@ return [
         'metrics_debt_instrument_title' => '부채 상품',
         'metrics_debt_instrument_text' => '부채 상품은 채권 또는 대출을 통해 자본을 조달합니다. 서울의 Floventra로 이를 알아보세요.',
 
-        // Section: Padding-60
+
         'padding_60_title' => '시작하기에 너무 늦지 않았습니다',
         'padding_60_quote' => '서울에서 신뢰할 수 있는 투자 교육을 찾는 데 어려움이 있나요? Floventra는 KOFIA-규제 기관과 연결합니다.',
         'padding_60_text' => 'Floventra는 서울의 수천 명의 한국 거주자가 신뢰할 수 있는 투자 교육에 접근하도록 돕습니다. 오늘 무료로 가입하세요.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra 자주 묻는 질문',
         'faq_1_question' => 'Floventra는 무엇을 가르치나요?',
         'faq_1_answer' => 'Floventra는 서울의 한국 거주자를 KOFIA-규제 투자 교육 기관과 연결하여 포괄적인 금융 학습을 제공합니다.',
@@ -12386,7 +12386,7 @@ return [
         'faq_3_question' => 'Floventra는 어떻게 사람들을 강사와 연결하나요?',
         'faq_3_answer' => '사용자는 이름, 이메일, 전화번호로 등록하면 서울의 KOFIA-규제 기관이 한국 개인정보보호법을 준수하여 연락드립니다.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra 하이라이트',
         'highlight_enrollment_cost_title' => '🤖 등록 비용',
         'highlight_enrollment_cost_text' => '서울 거주자를 위한 무료 등록',
@@ -12399,28 +12399,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 접근 가능 지역',
         'highlight_accessible_regions_text' => '서울 및 대부분 지역에서 이용 가능, 미국 제외',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => '투자 환경에서 Floventra의 역할',
         'about_principles_role_text' => 'Floventra는 서울에서 KOFIA-규제 기관과 사용자를 연결하여 정보에 기반한 재무 결정을 촉진합니다.',
         'about_principles_gap_title' => '투자 지식 격차 해소',
         'about_principles_gap_text' => 'Floventra는 서울에서 KOFIA-규제 교육자와 사용자를 연결하여 투자 지식 격차를 해소합니다.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra는 미래 지향적 세계를 목표로 합니다',
         'about_forward_thinking_quote' => 'Floventra는 서울에서 혁신적인 투자 교육 솔루션을 통해 금융 문해력을 증진합니다.',
         'about_forward_thinking_text' => 'Floventra는 서울에서 KOFIA-규제 투자 교육과 연결함으로써 금융 마인드를 변화시킵니다.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra는 교육에 프리미엄을 둡니다',
         'about_education_text_1' => 'Floventra는 서울 거주자에게 KOFIA-규제 교육자를 통해 투자 지식, 도구, 전략을 제공합니다.',
         'about_education_people_title' => 'Floventra의 사람들',
         'about_education_people_text' => '서울의 우리 팀은 KOFIA-규제 기관과 사용자를 연결하여 투자 교육을 접근 가능하게 만듭니다.',
         'about_education_mission_text' => 'Floventra는 서울 거주자가 투자 교육에 접근할 수 있도록 하여 전 세계적으로 지식 격차를 해소합니다.',
 
-        // Section: Contact Page
+
         'contact_subheader' => '연락 양식',
         'contact_form_name_placeholder' => '이름',
         'contact_form_email_placeholder' => '이메일',
@@ -12428,7 +12428,7 @@ return [
         'contact_form_submit_button' => '메시지 보내기',
         'contact_form_success' => '양식이 성공적으로 제출되었습니다!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra 로그인',
         'login_subtitle' => '신규 Floventra 사용자에 대한 로그인 안내',
         'login_instructions_text' => '신규 사용자는 서울의 KOFIA-규제 투자 교육 기관으로부터 웹사이트에 대한 로그인 자격 증명을 받습니다.',
@@ -12444,13 +12444,13 @@ return [
         'login_form_error_last_name' => '성이 너무 짧습니다 (최소 2자)',
         'login_form_error_email' => '실제 이메일 주소를 입력하세요 (예: user@example.com)',
 
-        // Условия использования (terms)
+
         'terms_general_title' => '1. 일반',
         'terms_general_1' => 'floventus.com (이하 "웹사이트")에 오신 것을 환영합니다.',
         'terms_general_2' => '저희 이메일: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => '웹사이트는 제3자 플랫폼(이하 <b>"제3자 플랫폼"</b>) 즉, 일반 투자 기술 또는 시장 조사에 대한 교육 서비스에 대한 정보를 포함합니다. Floventra는 사용자를 이러한 제3자 플랫폼(이하 <b>"서비스"</b>)과 연결하는 중개자 역할을 합니다.',
         'terms_general_4' => '이 이용 약관(이하 <b>"약관"</b>)은 귀하(이하 <b>"귀하"</b>, <b>"귀하의"</b> 또는 <b>"사용자"</b>)가 웹사이트 및 서비스를 사용하는 것을 규제합니다. 이 약관은 귀하가 서비스를 사용하기 전에 전체를 주의 깊게 읽어야 합니다. 이 약관은 귀하와 웹사이트 운영자인 Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a> 간의 법적 구속력이 있는 계약을 구성합니다. 이 약관의 어떤 조항에 동의하지 않으면 즉시 웹사이트 사용을 중단해야 합니다. 웹사이트를 사용함으로써 귀하는 수시로 수정되는 약관에 동의하는 것입니다.',
-        'terms_general_5' => '이 약관은 개인정보 보호정책을 포함하며, 이 약관에 동의함으로써 귀하는 또한 <a href="/kr/privacy-policy/">여기를 클릭하여</a> 확인할 수 있는 저희 개인정보 보호정책에 동의하고 수락하는 것을 확인합니다.',
+        'terms_general_5' => '이 약관은 개인정보 보호정책을 포함하며, 이 약관에 동의함으로써 귀하는 또한 <a href="./privacy">여기를 클릭하여</a> 확인할 수 있는 저희 개인정보 보호정책에 동의하고 수락하는 것을 확인합니다.',
 
         'terms_services_title' => '2. 서비스 설명',
         'terms_services_1' => '저희는 투자 플랫폼이 아니며, 그러한 투자 플랫폼과 귀하를 연결하지 않습니다. 단, 그러한 투자 플랫폼이 귀하에게 교육 서비스 또는 시장 조사만 제공하기로 약속한 경우는 예외입니다.',
@@ -12573,7 +12573,7 @@ return [
         'privacy_last_updated' => '마지막 업데이트: <script>document.write(new Date().getFullYear() - 2)</script>.12.20',
     ],
     'my' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'Malaysia',
         'locale' => 'en_MY',
         'locale_lang' => 'en-MY',
@@ -12589,25 +12589,25 @@ return [
         'jsonld_organization_review_author' => 'Floventra User',
         'jsonld_organization_review_body' => 'Floventra connects Malaysian residents in Kuala Lumpur with SC-regulated investment education firms, offering accessible and reliable financial learning.',
         'jsonld_software_categories' => 'Investment Education Platform',
-        'jsonld_software_price' => '0', // Регистрация бесплатна
+        'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'MYR',
         'social_links' => [
-            'https://facebook.com/floventus.com/my',
-            'https://twitter.com/floventus.com/my',
-            'https://linkedin.com/company/floventus.com/my'
+            'https://facebook.com/floventus/',
+            'https://twitter.com/floventus/',
+            'https://linkedin.com/company/floventus/'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - Investment Education in Kuala Lumpur, Malaysia',
         'og_description' => 'Join Floventra in Kuala Lumpur, Malaysia, to connect with SC-regulated investment education firms. Start your financial learning journey today!',
-        'og_image' => 'https://floventus.com/my/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/my/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Investment Education in Kuala Lumpur',
         'twitter_description' => 'Discover investment education with Floventra in Kuala Lumpur, Malaysia. Connect with SC-regulated firms for free!',
-        'twitter_image' => 'https://floventus.com/my/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - Investment Education Platform in Kuala Lumpur, Malaysia | The Official Website',
         'meta_description' => 'Join Floventra in Kuala Lumpur, Malaysia, to connect with SC-regulated investment education firms. Start your financial learning journey today!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, investment education Kuala Lumpur, Malaysia financial learning, Floventra, SC-regulated education, investment platform Malaysia',
@@ -12624,60 +12624,60 @@ return [
         'jsonld_faq_6_question' => 'Can I access Floventra in Kuala Lumpur?',
         'jsonld_faq_6_answer' => 'Floventra is fully accessible for Malaysian residents in Kuala Lumpur, offering a user-friendly platform for investment education.',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'About Floventra - Investment Education in Kuala Lumpur, Malaysia',
         'about_desc_content' => 'Learn about Floventra, a leading platform in Kuala Lumpur, Malaysia, connecting users with SC-regulated investment education firms.',
         'about_keywords' => 'Floventra about, investment education Kuala Lumpur, Malaysia financial education, SC-regulated learning, investment platform Malaysia',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Contact Floventra - Investment Education in Kuala Lumpur, Malaysia',
         'contact_desc_content' => 'Contact Floventra in Kuala Lumpur, Malaysia, for inquiries about our SC-regulated investment education services. Get in touch today!',
         'contact_keywords' => 'Floventra contact, investment education Kuala Lumpur, Malaysia financial learning, SC-regulated platform, contact investment education',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra Cookie Policy - Kuala Lumpur, Malaysia',
         'cookie_desc_content' => 'Explore Floventra’s Cookie Policy for investment education services in Kuala Lumpur, Malaysia. Learn how we use cookies to enhance your experience.',
         'cookie_keywords' => 'Floventra cookie policy, investment education Kuala Lumpur, Malaysia cookie policy, SC-regulated platform, financial education cookies',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra Terms of Use - Investment Education in Kuala Lumpur, Malaysia',
         'terms_desc_content' => 'Explore the Terms of Use for Floventra, governing access to our investment education platform in Kuala Lumpur, Malaysia. Learn about eligibility and SC compliance.',
         'terms_keywords' => 'Floventra terms, investment education platform, Malaysia terms and conditions, SC-regulated services, financial education Kuala Lumpur',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra Privacy Policy - Kuala Lumpur, Malaysia',
         'privacy_desc_content' => 'Read Floventra’s Privacy Policy for investment education services in Kuala Lumpur, Malaysia. Learn how we protect your data under Malaysia’s PDPA.',
         'privacy_keywords' => 'Floventra privacy, investment education Kuala Lumpur, Malaysia PDPA compliance, financial education privacy, SC-regulated platform',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'Create Your Profile - Floventra Investment Education in Kuala Lumpur, Malaysia',
         'create-profile_content' => 'Sign up with Floventra in Kuala Lumpur, Malaysia, to connect with SC-regulated investment education firms. Start your learning journey today!',
         'create-profile_keywords' => 'Floventra sign up, investment education Kuala Lumpur, Malaysia financial learning, SC-regulated platform, create profile investment',
 
-        // Контентные ключи
+
         'home' => 'Home',
         'about' => 'About Us',
         'contact' => 'Contact Us',
         'privacy' => 'Privacy Policy',
         'terms' => 'Terms and Conditions',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'Login',
 
-        // Main Page Section
+
         'main_title' => 'Floventra AI',
         'main_form_title' => 'Sign up now',
         'main_form_terms_text' => '* By clicking the button you agree and accept the Privacy Policy and Terms & Conditions',
 
-        // Section: About Platform
+
         'about_subtitle' => 'What is Floventra AI?',
         'about_quote' => 'Floventra connects Malaysian residents with SC-regulated investment education firms in Kuala Lumpur, making financial learning accessible and effective.',
         'about_text_1' => 'Floventra simplifies access to investment education in Kuala Lumpur, Malaysia. Our platform partners with SC-regulated firms to provide tailored learning experiences for all skill levels.',
         'about_text_2' => 'No prior investment knowledge is needed. Simply register with your name, email, and phone number, and our partners will contact you to start your financial education journey in Kuala Lumpur.',
         'about_register_btn' => 'REGISTER HERE >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'Enhance Your Financial Skills with Floventra in Kuala Lumpur',
         'education_item_1_title' => 'Master New Investment Skills',
         'education_item_1_text' => 'Floventra connects Malaysian residents in Kuala Lumpur with SC-regulated firms to learn investment strategies. Perfect for beginners, professionals, or anyone seeking financial knowledge.',
@@ -12689,7 +12689,7 @@ return [
         'education_item_3_text_2' => 'Ready to transform your financial outlook? Sign up with Floventra today!',
         'education_register_btn' => 'REGISTER NOW >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Why Connect with Investment Teachers on Floventra?',
         'three_steps_item_1_title' => 'Virtual Study',
         'three_steps_item_1_text' => 'Floventra connects users with investment educators offering digital learning in Kuala Lumpur, Malaysia. Study from anywhere and revisit recordings as needed.',
@@ -12698,12 +12698,12 @@ return [
         'three_steps_item_3_title' => 'Language Multiplicity',
         'three_steps_item_3_text' => 'Learn in your preferred language with Floventra’s SC-regulated partners in Kuala Lumpur, Malaysia, removing language barriers.',
 
-        // Section: Investor Definition
+
         'investor_title' => 'Who is an Investor?',
         'investor_quote' => 'An investor commits capital to assets or plans to achieve financial goals. Floventra in Kuala Lumpur, Malaysia, connects you with SC-regulated educators to learn more.',
         'investor_text' => 'Investors face risks that can impact returns. Learn to research, budget, and assess risks with SC-regulated investment education firms in Kuala Lumpur via Floventra.',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra Overview of Investor Types',
         'investor_types_intro' => 'Investors vary by goals, risk tolerance, and strategies. Learn about quantitative, socially responsible, and institutional investors with Floventra in Kuala Lumpur, Malaysia.',
         'investor_type_1_title' => 'Quantitative Investor',
@@ -12721,13 +12721,13 @@ return [
         'investor_type_3_content' => 'Institutional investors manage large-scale investments. Sign up with Floventra in Kuala Lumpur to learn how they differ from other investors.',
         'investor_types_register_btn' => 'REGISTER FOR FREE >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'What is an Index Fund?',
         'index_funds_quote' => 'Index funds track market performance with lower costs. Learn about their risks and benefits with Floventra’s SC-regulated educators in Kuala Lumpur, Malaysia.',
         'index_funds_text_1' => 'Index funds are tied to market performance and can be risky. Connect with SC-regulated investment educators in Kuala Lumpur via Floventra to learn more.',
         'index_funds_text_2' => 'Investors choose index funds, open accounts, and monitor portfolios. Discover index fund strategies with Floventra in Kuala Lumpur, Malaysia.',
 
-        // Section: ETFs
+
         'etfs_title' => 'Learn About Exchange-Traded Funds (ETFs) via Floventra',
         'etfs_text_1' => 'ETFs allow investment in diverse securities. Learn how they work with SC-regulated educators in Kuala Lumpur via Floventra.',
         'etfs_text_2' => 'ETFs trade on exchanges with varying returns. Connect with Floventra in Kuala Lumpur, Malaysia, to explore ETF types and strategies.',
@@ -12741,7 +12741,7 @@ return [
         'etf_type_4_text' => 'Stock ETFs track equities for diversification. Connect with Floventra in Kuala Lumpur, Malaysia, for detailed ETF education.',
         'etfs_learn_btn' => 'LEARN MORE >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'Environmental, Social, and Governance (ESG) Investing',
         'assets_esg_quote' => 'ESG investing prioritizes ethical factors. Learn how it aligns with Malaysian regulations via Floventra in Kuala Lumpur.',
         'assets_esg_text' => 'ESG evaluates companies on environmental, social, and governance standards. Connect with SC-regulated educators in Kuala Lumpur via Floventra.',
@@ -12751,7 +12751,7 @@ return [
         'assets_market_cap_text_1' => 'Market cap ranges from micro to large. Discover their risks and growth potential with Floventra in Kuala Lumpur, Malaysia.',
         'assets_market_cap_text_2' => 'Mid and large-cap companies offer growth but vary in volatility. Learn more with Floventra’s SC-regulated partners in Kuala Lumpur.',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Understand Hedging via Floventra',
         'metrics_hedging_text' => 'Hedging mitigates investment risks using derivatives. Learn its complexities with SC-regulated educators in Kuala Lumpur via Floventra.',
         'metrics_terms_title' => 'Know Basic Investment Terms via Floventra',
@@ -12768,12 +12768,12 @@ return [
         'metrics_debt_instrument_title' => 'Debt Instrument',
         'metrics_debt_instrument_text' => 'Debt instruments raise capital via bonds or loans. Discover them with Floventra in Kuala Lumpur, Malaysia.',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'It is Never Too Late to Start',
         'padding_60_quote' => 'Struggling to find reliable investment education in Kuala Lumpur, Malaysia? Floventra connects you with SC-regulated firms.',
         'padding_60_text' => 'Floventra helps thousands of Malaysian residents in Kuala Lumpur access trusted investment education. Sign up for free today.',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra FAQs',
         'faq_1_question' => 'What Does Floventra Teach People?',
         'faq_1_answer' => 'Floventra connects Malaysian residents in Kuala Lumpur with SC-regulated investment education firms for comprehensive financial learning.',
@@ -12782,7 +12782,7 @@ return [
         'faq_3_question' => 'How Does Floventra Connect People with Tutors?',
         'faq_3_answer' => 'Users register with their name, email, and phone number, and SC-regulated firms in Kuala Lumpur contact them, compliant with Malaysia’s PDPA.',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra Highlights',
         'highlight_enrollment_cost_title' => '🤖 Enrollment Cost',
         'highlight_enrollment_cost_text' => 'Free enrollment for Malaysian residents in Kuala Lumpur',
@@ -12795,28 +12795,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 Accessible Regions',
         'highlight_accessible_regions_text' => 'Available in Kuala Lumpur, Malaysia, and most regions, excluding the USA',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'Floventra’s Role In the Investment Landscape',
         'about_principles_role_text' => 'Floventra promotes investment education in Kuala Lumpur, Malaysia, by connecting users with SC-regulated firms for informed financial decisions.',
         'about_principles_gap_title' => 'Closing the Investment Knowledge Gap',
         'about_principles_gap_text' => 'Floventra bridges the investment knowledge gap in Kuala Lumpur, Malaysia, by linking users with SC-regulated educators.',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra Aims For a Forward-Thinking World',
         'about_forward_thinking_quote' => 'Floventra fosters financial literacy in Kuala Lumpur, Malaysia, through innovative investment education solutions.',
         'about_forward_thinking_text' => 'Floventra transforms financial mindsets in Kuala Lumpur, Malaysia, by connecting users with SC-regulated investment education.',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra Places a Premium on Education',
         'about_education_text_1' => 'Floventra empowers Malaysian residents in Kuala Lumpur with investment knowledge, tools, and strategies via SC-regulated educators.',
         'about_education_people_title' => 'The People of Floventra',
         'about_education_people_text' => 'Our team in Kuala Lumpur, Malaysia, works to make investment education accessible by connecting users with SC-regulated firms.',
         'about_education_mission_text' => 'Floventra ensures Malaysian residents in Kuala Lumpur can access investment education, closing the knowledge gap globally.',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'Contact Form',
         'contact_form_name_placeholder' => 'Your Name',
         'contact_form_email_placeholder' => 'Email',
@@ -12824,7 +12824,7 @@ return [
         'contact_form_submit_button' => 'Send Message',
         'contact_form_success' => 'Form submitted successfully!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra Login',
         'login_subtitle' => 'Login Instructions for New Floventra Users',
         'login_instructions_text' => 'New users receive login credentials from SC-regulated investment education firms in Kuala Lumpur, Malaysia, for their websites.',
@@ -12845,7 +12845,7 @@ return [
         'terms_general_2' => 'Our email: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'The Website includes information about third-party platforms (the <b>"Third-Party Platforms"</b>) namely educational services on general investment techniques or market research. Floventra serves as an intermediary, connecting users with such Third-Party Platforms (the <b>"Services"</b>).',
         'terms_general_4' => 'These terms of use (the <b>"Terms"</b>) govern your (<b>"You"</b>, <b>"Your"</b> or <b>"User"</b>) use of the Website and the Services. These Terms should be read carefully by You in their entirety prior to Your use of the Services. Please note that these Terms constitute a legally binding agreement between You and the Website’s operator Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. If You do not agree with any provision of these Terms, You shall immediately cease using the Website. By using the Website, You agree to the Terms, as amended from time to time.',
-        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="/my/privacy-policy/">clicking here</a>).',
+        'terms_general_5' => 'These Terms incorporate Our Privacy Policy and by agreeing to these Terms, You confirm that You also accept and agree to Our privacy policy (You can review Our Privacy Policy by <a href="./privacy">clicking here</a>).',
         'terms_services_title' => '2. Description of the Services',
         'terms_services_1' => 'We are not an investment platform, nor do we put You in touch with such investment platforms, unless such investment platform commits to offer you only educational services or market research.',
         'terms_services_2' => 'We serve as an intermediary to connect You with a service provider able to propose educational content on general investment techniques or market research in their areas of interest to You, compliant with SC regulations in Malaysia.',
@@ -12952,7 +12952,7 @@ return [
         'privacy_last_updated' => 'Last updated: 20.12.<script>document.write(new Date().getFullYear() - 2)</script>',
     ],
     'bd' => [
-        // Общие данные для локализации и JSON-LD
+
         'country_name' => 'বাংলাদেশ',
         'locale' => 'bn_BD',
         'locale_lang' => 'bn-BD',
@@ -12971,22 +12971,22 @@ return [
         'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'BDT',
         'social_links' => [
-            'https://facebook.com/floventus.com/bd',
-            'https://twitter.com/floventus.com/bd',
-            'https://linkedin.com/company/floventus.com/bd'
+            'https://facebook.com/floventus/',
+            'https://twitter.com/floventus/',
+            'https://linkedin.com/company/floventus/'
         ],
 
-        // Универсальные метатеги для социальных сетей
+
         'og_title' => 'Floventra - ঢাকা, বাংলাদেশে বিনিয়োগ শিক্ষা',
         'og_description' => 'ঢাকা, বাংলাদেশে Floventra-এর সাথে যোগ দিন এ Notify me when finishedবং বিডিএসই নিয়ন্ত্রিত বিনিয়োগ শিক্ষা প্রতিষ্ঠানের সাথে সংযোগ করুন। আজই আপনার আর্থিক শিক্ষার যাত্রা শুরু করুন!',
-        'og_image' => 'https://floventus.com/bd/assets/images/og-home-image.jpg',
-        'og_url' => 'https://floventus.com/bd/',
+        'og_image' => '/assets/images/og-home-image.jpg',
+        'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - ঢাকায় বিনিয়োগ শিক্ষা',
         'twitter_description' => 'ঢাকা, বাংলাদেশে Floventra-এর সাথে বিনিয়োগ শিক্ষা আবিষ্কার করুন। বিডিএসই নিয়ন্ত্রিত প্রতিষ্ঠানের সাথে বিনামূল্যে সংযোগ করুন!',
-        'twitter_image' => 'https://floventus.com/bd/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
 
-        // Главная страница (index)
+
         'title' => 'Floventra - ঢাকা, বাংলাদেশে বিনিয়োগ শিক্ষা প্ল্যাটফর্ম | অফিসিয়াল ওয়েবসাইট',
         'meta_description' => 'ঢাকা, বাংলাদেশে Floventra-এর সাথে যোগ দিন এবং বিডিএসই নিয়ন্ত্রিত বিনিয়োগ শিক্ষা প্রতিষ্ঠানের সাথে সংযোগ করুন। আজই আর্থিক শিক্ষার যাত্রা শুরু করুন!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, ঢাকায় বিনিয়োগ শিক্ষা, বাংলাদেশে আর্থিক শিক্ষা, Floventra, বিডিএসই নিয়ন্ত্রিত শিক্ষা, বাংলাদেশে বিনিয়োগ প্ল্যাটফর্ম',
@@ -13003,60 +13003,60 @@ return [
         'jsonld_faq_6_question' => 'আমি কি ঢাকায় Floventra অ্যাক্সেস করতে পারি?',
         'jsonld_faq_6_answer' => 'Floventra ঢাকার বাংলাদেশের বাসিন্দাদের জন্য সম্পূর্ণ অ্যাক্সেসযোগ্য, বিনিয়োগ শিক্ষার জন্য একটি ব্যবহারকারী-বান্ধব প্ল্যাটফর্ম প্রদান করে।',
 
-        // Страница "О нас" (about)
+
         'about_title' => 'Floventra সম্পর্কে - ঢাকা, বাংলাদেশে বিনিয়োগ শিক্ষা',
         'about_desc_content' => 'Floventra সম্পর্কে জানুন, ঢাকা, বাংলাদেশে একটি শীর্ষস্থানীয় প্ল্যাটফর্ম যা ব্যবহারকারীদের বিডিএসই নিয়ন্ত্রিত বিনিয়োগ শিক্ষা প্রতিষ্ঠানের সাথে সংযোগ করে।',
         'about_keywords' => 'Floventra সম্পর্কে, ঢাকায় বিনিয়োগ শিক্ষা, বাংলাদেশে আর্থিক শিক্ষা, বিডিএসই নিয়ন্ত্রিত শিক্ষা, বাংলাদেশে বিনিয়োগ প্ল্যাটফর্ম',
 
-        // Страница "Контакты" (contact)
+
         'contact_title' => 'Floventra-এর সাথে যোগাযোগ করুন - ঢাকা, বাংলাদেশে বিনিয়োগ শিক্ষা',
         'contact_desc_content' => 'ঢাকা, বাংলাদেশে আমাদের বিডিএসই নিয়ন্ত্রিত বিনিয়োগ শিক্ষা পরিষেবা সম্পর্কে জানতে Floventra-এর সাথে যোগাযোগ করুন। আজই যোগাযোগ করুন!',
         'contact_keywords' => 'Floventra যোগাযোগ, ঢাকায় বিনিয়োগ শিক্ষা, বাংলাদেশে আর্থিক শিক্ষা, বিডিএসই নিয়ন্ত্রিত প্ল্যাটফর্ম, বিনিয়োগ শিক্ষা যোগাযোগ',
 
-        // Страница "Политика использования файлов cookie" (cookie)
+
         'cookie_title' => 'Floventra কুকি নীতি - ঢাকা, বাংলাদেশ',
         'cookie_desc_content' => 'ঢাকা, বাংলাদেশে বিনিয়োগ শিক্ষা পরিষেবার জন্য Floventra-এর কুকি নীতি সম্পর্কে জানুন। আমরা কীভাবে আপনার অভিজ্ঞতা উন্নত করতে কুকি ব্যবহার করি তা জানুন।',
         'cookie_keywords' => 'Floventra কুকি নীতি, ঢাকায় বিনিয়োগ শিক্ষা, বাংলাদেশে কুকি নীতি, বিডিএসই নিয়ন্ত্রিত প্ল্যাটফর্ম, আর্থিক শিক্ষা কুকি',
 
-        // Страница "Условия использования" (terms)
+
         'terms_title' => 'Floventra ব্যবহারের শর্তাবলী - ঢাকা, বাংলাদেশে বিনিয়োগ শিক্ষা',
         'terms_desc_content' => 'ঢাকা, বাংলাদেশে আমাদের বিনিয়োগ শিক্ষা প্ল্যাটফর্মে অ্যাক্সেস নিয়ন্ত্রণকারী Floventra-এর ব্যবহারের শর্তাবলী সম্পর্কে জানুন। যোগ্যতা এবং বিডিএসই সম্মতি সম্পর্কে জানুন।',
         'terms_keywords' => 'Floventra শর্তাবলী, বিনিয়োগ শিক্ষা প্ল্যাটফর্ম, বাংলাদেশে শর্তাবলী, বিডিএসই নিয়ন্ত্রিত পরিষেবা, ঢাকায় আর্থিক শিক্ষা',
 
-        // Страница "Политика конфиденциальности" (privacy)
+
         'privacy_title' => 'Floventra গোপনীয়তা নীতি - ঢাকা, বাংলাদেশ',
         'privacy_desc_content' => 'ঢাকা, বাংলাদেশে বিনিয়োগ শিক্ষা পরিষেবার জন্য Floventra-এর গোপনীয়তা নীতি পড়ুন। আমরা কীভাবে আপনার ডেটা বাংলাদেশের ডেটা সুরক্ষা আইনের অধীনে সুরক্ষিত করি তা জানুন।',
         'privacy_keywords' => 'Floventra গোপনীয়তা, ঢাকায় বিনিয়োগ শিক্ষা, বাংলাদেশে ডেটা সুরক্ষা সম্মতি, আর্থিক শিক্ষা গোপনীয়তা, বিডিএসই নিয়ন্ত্রিত প্ল্যাটফর্ম',
 
-        // Страница "Создание профиля" (create-profile)
+
         'create-profile_title' => 'আপনার প্রোফাইল তৈরি করুন - ঢাকা, বাংলাদেশে Floventra বিনিয়োগ শিক্ষা',
         'create-profile_content' => 'ঢাকা, বাংলাদেশে Floventra-এর সাথে নিবন্ধন করুন এবং বিডিএসই নিয়ন্ত্রিত বিনিয়োগ শিক্ষা প্রতিষ্ঠানের সাথে সংযোগ করুন। আজই আপনার শিক্ষার যাত্রা শুরু করুন!',
         'create-profile_keywords' => 'Floventra নিবন্ধন, ঢাকায় বিনিয়োগ শিক্ষা, বাংলাদেশে আর্থিক শিক্ষা, বিডিএসই নিয়ন্ত্রিত প্ল্যাটফর্ম, বিনিয়োগ প্রোফাইল তৈরি',
 
-        // Контентные ключи из исходного текста
+
         'home' => 'হোম',
         'about' => 'আমাদের সম্পর্কে',
         'contact' => 'যোগাযোগ করুন',
         'privacy' => 'গোপনীয়তা নীতি',
         'terms' => 'ব্যবহারের শর্তাবলী',
 
-        // Section: Header
+
         'header_logo_name' => 'Floventra',
         'header_login' => 'লগইন',
 
-        // Main Page Section
+
         'main_title' => 'Floventra এআই',
         'main_form_title' => 'এখনই নিবন্ধন করুন',
         'main_form_terms_text' => '* বোতামে ক্লিক করে আপনি গোপনীয়তা নীতি এবং ব্যবহারের শর্তাবলী স্বীকার করেন',
 
-        // Section: About Platform
+
         'about_subtitle' => 'Floventra এআই কী?',
         'about_quote' => 'Floventra ঢাকার বাংলাদেশের বাসিন্দাদের বিডিএসই নিয়ন্ত্রিত বিনিয়োগ শিক্ষা প্রতিষ্ঠানের সাথে সংযোগ করে, আর্থিক শিক্ষাকে সহজলভ্য এবং কার্যকর করে।',
         'about_text_1' => 'Floventra ঢাকা, বাংলাদেশে বিনিয়োগ শিক্ষার অ্যাক্সেস সহজ করে। আমাদের প্ল্যাটফর্ম বিডিএসই নিয়ন্ত্রিত প্রতিষ্ঠানের সাথে অংশীদারিত্ব করে সকল দক্ষতার স্তরের জন্য উপযোগী শিক্ষার অভিজ্ঞতা প্রদান করে।',
         'about_text_2' => 'পূর্বের বিনিয়োগ জ্ঞানের প্রয়োজন নেই। শুধু আপনার নাম, ইমেল এবং ফোন নম্বর দিয়ে নিবন্ধন করুন, এবং আমাদের অংশীদাররা ঢাকায় আপনার আর্থিক শিক্ষার যাত্রা শুরু করতে যোগাযোগ করবে।',
         'about_register_btn' => 'এখানে নিবন্ধন করুন >>',
 
-        // Section: Education Benefits
+
         'education_title' => 'ঢাকায় Floventra-এর সাথে আপনার আর্থিক দক্ষতা বাড়ান',
         'education_item_1_title' => 'নতুন বিনিয়োগ দক্ষতা আয়ত্ত করুন',
         'education_item_1_text' => 'Floventra ঢাকার বাংলাদেশের বাসিন্দাদের বিডিএসই নিয়ন্ত্রিত প্রতিষ্ঠানের সাথে সংযোগ করে বিনিয়োগ কৌশল শিখতে। নতুন, পেশাদার বা আর্থিক জ্ঞানের সন্ধানকারী যে কারো জন্য উপযুক্ত।',
@@ -13068,7 +13068,7 @@ return [
         'education_item_3_text_2' => 'আপনার আর্থিক দৃষ্টিভঙ্গি রূপান্তর করতে প্রস্তুত? আজই Floventra-এর সাথে নিবন্ধন করুন!',
         'education_register_btn' => 'এখনই নিবন্ধন করুন >>',
 
-        // Section: Three Steps / Benefits
+
         'three_steps_title' => 'Floventra-এর সাথে বিনিয়োগ শিক্ষকদের সাথে কেন সংযোগ করবেন?',
         'three_steps_item_1_title' => 'ভার্চুয়াল শিক্ষা',
         'three_steps_item_1_text' => 'Floventra ঢাকা, বাংলাদেশে ব্যবহারকারীদের বিনিয়োগ শিক্ষকদের সাথে সংযোগ করে যারা ডিজিটাল শিক্ষা প্রদান করে। যে কোনো স্থান থেকে শিখুন এবং প্রয়োজনে রেকর্ডিং পুনরায় দেখুন।',
@@ -13077,12 +13077,12 @@ return [
         'three_steps_item_3_title' => 'ভাষার বৈচিত্র্য',
         'three_steps_item_3_text' => 'ঢাকা, বাংলাদেশে Floventra-এর বিডিএসই নিয়ন্ত্রিত অংশীদারদের সাথে আপনার পছন্দের ভাষায় শিখুন, ভাষার বাধা দূর করে।',
 
-        // Section: Investor Definition
+
         'investor_title' => 'বিনিয়োগকারী কে?',
         'investor_quote' => 'একজন বিনিয়োগকারী আর্থিক লক্ষ্য অর্জনের জন্য সম্পদ বা পরিকল্পনায় মূলধন বিনিয়োগ করেন। ঢাকা, বাংলাদেশে Floventra আপনাকে বিডিএসই নিয়ন্ত্রিত শিক্ষকদের সাথে সংযোগ করে আরও জানতে।',
         'investor_text' => 'বিনিয়োগকারীরা ঝুঁকির সম্মুখীন হন যা রিটার্নের উপর প্রভাব ফেলতে পারে। ঢাকায় Floventra-এর মাধ্যমে বিডিএসই নিয়ন্ত্রিত বিনিয়োগ শিক্ষা প্রতিষ্ঠানের সাথে গবেষণা, বাজেট এবং ঝুঁকি মূল্যায়ন শিখুন।',
 
-        // Section: Investor Types
+
         'investor_types_title' => 'Floventra-এর বিনিয়োগকারী প্রকারের ওভারভিউ',
         'investor_types_intro' => 'বিনিয়োগকারীরা লক্ষ্য, ঝুঁকি সহনশীলতা এবং কৌশলের উপর ভিত্তি করে ভিন্ন হয়। ঢাকা, বাংলাদেশে Floventra-এর মাধ্যমে পরিমাণগত, সমাজসচেতন এবং প্রাতিষ্ঠানিক বিনিয়োগকারীদের সম্পর্কে জানুন।',
         'investor_type_1_title' => 'পরিমাণগত বিনিয়োগকারী',
@@ -13100,13 +13100,13 @@ return [
         'investor_type_3_content' => 'প্রাতিষ্ঠানিক বিনিয়োগকারীরা বড় আকারের বিনিয়োগ পরিচালনা করেন। ঢাকায় Floventra-এর সাথে নিবন্ধন করে জানুন তারা অন্যান্য বিনিয়োগকারীদের থেকে কীভাবে ভিন্ন।',
         'investor_types_register_btn' => 'বিনামূল্যে নিবন্ধন করুন >>',
 
-        // Section: Index Funds
+
         'index_funds_title' => 'ইনডেক্স ফান্ড কী?',
         'index_funds_quote' => 'ইনডেক্স ফান্ডগুলি কম খরচে বাজারের কর্মক্ষমতা ট্র্যাক করে। ঢাকা, বাংলাদেশে Floventra-এর বিডিএসই নিয়ন্ত্রিত শিক্ষকদের সাথে তাদের ঝুঁকি এবং সুবিধা সম্পর্কে জানুন।',
         'index_funds_text_1' => 'ইনডেক্স ফান্ডগুলি বাজারের কর্মক্ষমতার সাথে সম্পর্কিত এবং ঝুঁকিপূর্ণ হতে পারে। ঢাকায় Floventra-এর মাধ্যমে বিডিএসই নিয়ন্ত্রিত বিনিয়োগ শিক্ষকদের সাথে আরও জানুন।',
         'index_funds_text_2' => 'বিনিয়োগকারীরা ইনডেক্স ফান্ড নির্বাচন করে, অ্যাকাউন্ট খোলে এবং পোর্টফোলিও নিরীক্ষণ করে। ঢাকা, বাংলাদেশে Floventra-এর মাধ্যমে ইনডেক্স ফান্ড কৌশল আবিষ্কার করুন।',
 
-        // Section: ETFs
+
         'etfs_title' => 'Floventra-এর মাধ্যমে এক্সচেঞ্জ-ট্রেডেড ফান্ড (ইটিএফ) সম্পর্কে জানুন',
         'etfs_text_1' => 'ইটিএফ বিভিন্ন সিকিউরিটিজে বিনিয়োগের সুযোগ দেয়। ঢাকায় Floventra-এর মাধ্যমে বিডিএসই নিয়ন্ত্রিত শিক্ষকদের সাথে এটি কীভাবে কাজ করে তা জানুন।',
         'etfs_text_2' => 'ইটিএফ এক্সচেঞ্জে ট্রেড করে এবং রিটার্ন পরিবর্তিত হয়। ঢাকা, বাংলাদেশে Floventra-এর মাধ্যমে ইটিএফ প্রকার এবং কৌশলগুলি অন্বেষণ করুন।',
@@ -13120,7 +13120,7 @@ return [
         'etf_type_4_text' => 'স্টক ইটিএফ ইকুইটি ট্র্যাক করে বৈচিত্র্য আনে। ঢাকা, বাংলাদেশে Floventra-এর মাধ্যমে বিস্তারিত ইটিএফ শিক্ষা পান।',
         'etfs_learn_btn' => 'আরও জানুন >>',
 
-        // Section: Assets/Education
+
         'assets_esg_title' => 'পরিবেশ, সামাজিক এবং শাসন (ইএসজি) বিনিয়োগ',
         'assets_esg_quote' => 'ইএসজি বিনিয়োগ নৈতিক বিষয়গুলিকে অগ্রাধিকার দেয়। ঢাকায় Floventra-এর মাধ্যমে এটি বাংলাদেশের নিয়মের সাথে কীভাবে সামঞ্জস্যপূর্ণ তা জানুন।',
         'assets_esg_text' => 'ইএসজি কোম্পানিগুলিকে পরিবেশ, সামাজিক এবং শাসনের মানদণ্ডে মূল্যায়ন করে। ঢাকায় Floventra-এর মাধ্যমে বিডিএসই নিয়ন্ত্রিত শিক্ষকদের সাথে সংযোগ করুন।',
@@ -13130,7 +13130,7 @@ return [
         'assets_market_cap_text_1' => 'বাজার মূলধন মাইক্রো থেকে বড় পর্যন্ত হয়। ঢাকা, বাংলাদেশে Floventra-এর মাধ্যমে তাদের ঝুঁকি এবং বৃদ্ধির সম্ভাবনা আবিষ্কার করুন।',
         'assets_market_cap_text_2' => 'মাঝারি এবং বড় মূলধনের কোম্পানিগুলি বৃদ্ধি প্রদান করে তবে অস্থিরতায় ভিন্ন। ঢাকায় Floventra-এর বিডিএসই নিয়ন্ত্রিত অংশীদারদের সাথে আরও জানুন।',
 
-        // Section: Metrics
+
         'metrics_hedging_title' => 'Floventra-এর মাধ্যমে হেজিং বুঝুন',
         'metrics_hedging_text' => 'হেজিং ডেরিভেটিভ ব্যবহার করে বিনিয়োগ ঝুঁকি হ্রাস করে। ঢাকায় Floventra-এর মাধ্যমে বিডিএসই নিয়ন্ত্রিত শিক্ষকদের সাথে এর জটিলতা জানুন।',
         'metrics_terms_title' => 'Floventra-এর মাধ্যমে বিনিয়োগের মৌলিক শর্তাবলী জানুন',
@@ -13147,12 +13147,12 @@ return [
         'metrics_debt_instrument_title' => 'ঋণের উপকরণ',
         'metrics_debt_instrument_text' => 'ঋণের উপকরণ বন্ড বা ঋণের মাধ্যমে মূলধন সংগ্রহ করে। ঢাকা, বাংলাদেশে Floventra-এর মাধ্যমে এগুলি আবিষ্কার করুন।',
 
-        // Section: Padding-60
+
         'padding_60_title' => 'শুরু করতে কখনো দেরি হয় না',
         'padding_60_quote' => 'ঢাকা, বাংলাদেশে নির্ভরযোগ্য বিনিয়োগ শিক্ষা খুঁজতে সমস্যা হচ্ছে? Floventra আপনাকে বিডিএসই নিয়ন্ত্রিত প্রতিষ্ঠানের সাথে সংযোগ করে।',
         'padding_60_text' => 'Floventra ঢাকার বাংলাদেশের হাজার হাজার বাসিন্দাদের নির্ভরযোগ্য বিনিয়োগ শিক্ষা অ্যাক্সেস করতে সহায়তা করে। আজই বিনামূল্যে নিবন্ধন করুন।',
 
-        // Section: FAQ
+
         'faq_title' => 'Floventra প্রায়শই জিজ্ঞাসিত প্রশ্ন',
         'faq_1_question' => 'Floventra মানুষকে কী শেখায়?',
         'faq_1_answer' => 'Floventra ঢাকার বাংলাদেশের বাসিন্দাদের বিডিএসই নিয়ন্ত্রিত বিনিয়োগ শিক্ষা প্রতিষ্ঠানের সাথে সংযোগ করে ব্যাপক আর্থিক শিক্ষার জন্য।',
@@ -13161,7 +13161,7 @@ return [
         'faq_3_question' => 'Floventra কীভাবে মানুষকে শিক্ষকদের সাথে সংযোগ করে?',
         'faq_3_answer' => 'ব্যবহারকারীরা তাদের নাম, ইমেল এবং ফোন নম্বর দিয়ে নিবন্ধন করেন, এবং ঢাকায় বিডিএসই নিয়ন্ত্রিত প্রতিষ্ঠানগুলি বাংলাদেশের ডেটা সুরক্ষা আইনের সাথে সামঞ্জস্য রেখে তাদের সাথে যোগাযোগ করে।',
 
-        // Section: Highlight
+
         'highlight_title' => 'Floventra হাইলাইটস',
         'highlight_enrollment_cost_title' => '🤖 নিবন্ধন খরচ',
         'highlight_enrollment_cost_text' => 'ঢাকার বাংলাদেশের বাসিন্দাদের জন্য বিনামূল্যে নিবন্ধন',
@@ -13174,28 +13174,28 @@ return [
         'highlight_accessible_regions_title' => '🌎 অ্যাক্সেসযোগ্য অঞ্চল',
         'highlight_accessible_regions_text' => 'ঢাকা, বাংলাদেশ এবং বেশিরভাগ অঞ্চলে উপলব্ধ, মার্কিন যুক্তরাষ্ট্র বাদে',
 
-        // Section: Footer
+
         'footer_logo_name' => 'Floventra',
 
-        // Section: About Principles
+
         'about_principles_role_title' => 'বিনিয়োগের ক্ষেত্রে Floventra-এর ভূমিকা',
         'about_principles_role_text' => 'Floventra ঢাকা, বাংলাদেশে বিনিয়োগ শিক্ষার প্রচার করে ব্যবহারকারীদের বিডিএসই নিয়ন্ত্রিত প্রতিষ্ঠানের সাথে সংযোগ করে জ্ঞাত আর্থিক সিদ্ধান্তের জন্য।',
         'about_principles_gap_title' => 'বিনিয়োগ জ্ঞানের ব্যবধান পূরণ',
         'about_principles_gap_text' => 'Floventra ঢাকা, বাংলাদেশে বিনিয়োগ জ্ঞানের ব্যবধান পূরণ করে ব্যবহারকারীদের বিডিএসই নিয়ন্ত্রিত শিক্ষকদের সাথে সংযোগ করে।',
 
-        // Section: Padding-60 (First)
+
         'about_forward_thinking_title' => 'Floventra একটি ভবিষ্যৎ-চিন্তাশীল বিশ্বের লক্ষ্যে',
         'about_forward_thinking_quote' => 'Floventra ঢাকা, বাংলাদেশে উদ্ভাবনী বিনিয়োগ শিক্ষা সমাধানের মাধ্যমে আর্থিক সাক্ষরতা বাড়ায়।',
         'about_forward_thinking_text' => 'Floventra ঢাকা, বাংলাদেশে ব্যবহারকারীদের বিডিএসই নিয়ন্ত্রিত বিনিয়োগ শিক্ষার সাথে সংযোগ করে আর্থিক মানসিকতা রূপান্তর করে।',
 
-        // Section: Padding-60 (Second, Border-Box)
+
         'about_education_title' => 'Floventra শিক্ষার উপর প্রিমিয়াম রাখে',
         'about_education_text_1' => 'Floventra ঢাকার বাংলাদেশের বাসিন্দাদের বিডিএসই নিয়ন্ত্রিত শিক্ষকদের মাধ্যমে বিনিয়োগ জ্ঞান, সরঞ্জাম এবং কৌশল দিয়ে ক্ষমতায়ন করে।',
         'about_education_people_title' => 'Floventra-এর মানুষ',
         'about_education_people_text' => 'ঢাকা, বাংলাদেশে আমাদের দল ব্যবহারকারীদের বিডিএসই নিয়ন্ত্রিত প্রতিষ্ঠানের সাথে সংযোগ করে বিনিয়োগ শিক্ষা অ্যাক্সেসযোগ্য করতে কাজ করে।',
         'about_education_mission_text' => 'Floventra নিশ্চিত করে যে ঢাকার বাংলাদেশের বাসিন্দারা বিনিয়োগ শিক্ষা অ্যাক্সেস করতে পারে, বিশ্বব্যাপী জ্ঞানের ব্যবধান পূরণ করে।',
 
-        // Section: Contact Page
+
         'contact_subheader' => 'যোগাযোগ ফর্ম',
         'contact_form_name_placeholder' => 'আপনার নাম',
         'contact_form_email_placeholder' => 'ইমেল',
@@ -13203,7 +13203,7 @@ return [
         'contact_form_submit_button' => 'বার্তা পাঠান',
         'contact_form_success' => 'ফর্ম সফলভাবে জমা দেওয়া হয়েছে!',
 
-        // Section: Login Page
+
         'login_title' => 'Floventra লগইন',
         'login_subtitle' => 'Floventra-এর নতুন ব্যবহারকারীদের জন্য লগইন নির্দেশনা',
         'login_instructions_text' => 'নতুন ব্যবহারকারীরা ঢাকা, বাংলাদেশে বিডিএসই নিয়ন্ত্রিত বিনিয়োগ শিক্ষা প্রতিষ্ঠান থেকে তাদের ওয়েবসাইটের জন্য লগইন শংসাপত্র পান।',
@@ -13224,7 +13224,7 @@ return [
         'terms_general_2' => 'আমাদের ইমেল: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'ওয়েবসাইটে তৃতীয় পক্ষের প্ল্যাটফর্ম (তৃতীয় পক্ষের প্ল্যাটফর্ম) সম্পর্কে তথ্য রয়েছে, যেমন সাধারণ বিনিয়োগ কৌশল বা বাজার গবেষণার শিক্ষাগত পরিষেবা। Floventra একটি মধ্যস্থতাকারী হিসেবে কাজ করে, ব্যবহারকারীদের এই তৃতীয় পক্ষের প্ল্যাটফর্মের সাথে সংযোগ করে (পরিষেবা)।',
         'terms_general_4' => 'এই ব্যবহারের শর্তাবলী (শর্তাবলী) আপনার (আপনি, আপনার বা ব্যবহারকারী) ওয়েবসাইট এবং পরিষেবার ব্যবহার নিয়ন্ত্রণ করে। পরিষেবা ব্যবহারের আগে আপনার এই শর্তাবলী সম্পূর্ণভাবে সাবধানে পড়া উচিত। দয়া করে মনে রাখবেন, এই শর্তাবলী আপনার এবং ওয়েবসাইটের অপারেটর Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a> এর মধ্যে একটি আইনত বাধ্যতামূলক চুক্তি গঠন করে। আপনি যদি এই শর্তাবলীর কোনো বিধানের সাথে একমত না হন, তবে আপনি অবিলম্বে ওয়েবসাইট ব্যবহার বন্ধ করবেন। ওয়েবসাইট ব্যবহার করে, আপনি সময়ে সময়ে সংশোধিত শর্তাবলীতে সম্মত হন।',
-        'terms_general_5' => 'এই শর্তাবলী আমাদের গোপনীয়তা নীতিকে অন্তর্ভুক্ত করে এবং এই শর্তাবলীতে সম্মত হওয়ার মাধ্যমে, আপনি নিশ্চিত করেন যে আপনি আমাদের গোপনীয়তা নীতিও গ্রহণ করেন এবং সম্মত হন (<a href="/bd/privacy-policy/">এখানে ক্লিক করে</a> আমাদের গোপনীয়তা নীতি পর্যালোচনা করতে পারেন)।',
+        'terms_general_5' => 'এই শর্তাবলী আমাদের গোপনীয়তা নীতিকে অন্তর্ভুক্ত করে এবং এই শর্তাবলীতে সম্মত হওয়ার মাধ্যমে, আপনি নিশ্চিত করেন যে আপনি আমাদের গোপনীয়তা নীতিও গ্রহণ করেন এবং সম্মত হন (<a href="./privacy">এখানে ক্লিক করে</a> আমাদের গোপনীয়তা নীতি পর্যালোচনা করতে পারেন)।',
         'terms_services_title' => '২. পরিষেবার বর্ণনা',
         'terms_services_1' => 'আমরা কোনো বিনিয়োগ প্ল্যাটফর্ম নই, এবং আমরা আপনাকে এমন কোনো বিনিয়োগ প্ল্যাটফর্মের সাথে সংযোগ করি না, যদি না এই প্ল্যাটফর্ম শুধুমাত্র শিক্ষাগত পরিষেবা বা বাজার গবেষণা প্রদানের প্রতিশ্রুতি দেয়।',
         'terms_services_2' => 'আমরা একটি মধ্যস্থতাকারী হিসেবে কাজ করি যাতে আপনাকে এমন একটি পরিষেবা প্রদানকারীর সাথে সংযোগ করা যায় যিনি আপনার আগ্রহের ক্ষেত্রে সাধারণ বিনিয়োগ কৌশল বা বাজার গবেষণার শিক্ষাগত বিষয়বস্তু প্রস্তাব করতে পারেন, যা বাংলাদেশে বিডিএসই নিয়মের সাথে সামঞ্জস্যপূর্ণ।',
@@ -13349,18 +13349,18 @@ return [
         'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'EUR',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
         'og_title' => 'Floventra - Formazione sugli Investimenti a Milano, Italia',
         'og_description' => 'Unisciti a Floventra a Milano, Italia, per connetterti con aziende di formazione finanziaria regolamentate. Inizia oggi il tuo percorso di apprendimento finanziario!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
+        'og_image' => '/assets/images/og-home-image.jpg',
         'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - Formazione sugli Investimenti a Milano',
         'twitter_description' => 'Scopri la formazione sugli investimenti con Floventra a Milano, Italia. Connettiti gratuitamente con aziende regolamentate!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
         'title' => 'Floventra - Piattaforma di Formazione sugli Investimenti a Milano, Italia | Il sito ufficiale',
         'meta_description' => 'Unisciti a Floventra a Milano, Italia, per connetterti con aziende di formazione finanziaria regolamentate. Inizia oggi il tuo percorso di apprendimento finanziario!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, formazione investimenti Milano, apprendimento finanziario Italia, Floventra, formazione regolamentata, piattaforma investimenti Italia',
@@ -13543,7 +13543,7 @@ return [
         'terms_general_2' => 'La nostra email: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'Il Sito Web fornisce informazioni su piattaforme di terze parti per investimenti (le <strong>"Piattaforme di Terze Parti"</strong>) ossia servizi educativi su tecniche di investimento generali o ricerca di mercato. Floventra funge da intermediario, collegando gli utenti con tali Piattaforme di Terze Parti (i <strong>"Servizi"</strong>).',
         'terms_general_4' => 'Questi termini di utilizzo (i <strong>"Termini"</strong>) regolano il tuo utilizzo (<strong>"Tu"</strong>, <strong>"Tuo"</strong> o <strong>"Utente"</strong>) del Sito Web e dei Servizi. Questi Termini devono essere letti attentamente da Te nella loro interezza prima di utilizzare i Servizi. Si prega di notare che questi Termini costituiscono un accordo legalmente vincolante tra Te e l\'operatore del Sito Web Floventra, <a href="mailto:info@floventus.com">info@floventus.com</a>. Se non sei d\'accordo con qualsiasi disposizione di questi Termini, devi cessare immediatamente di utilizzare il Sito Web. Utilizzando il Sito Web, accetti i Termini, come modificati di volta in volta.',
-        'terms_general_5' => 'Questi Termini incorporano la nostra Informativa sulla Privacy e accettando questi Termini, confermi di accettare anche la nostra informativa sulla privacy (puoi rivedere la nostra Informativa sulla Privacy <a href="/privacy-policy/">cliccando qui</a>).',
+        'terms_general_5' => 'Questi Termini incorporano la nostra Informativa sulla Privacy e accettando questi Termini, confermi di accettare anche la nostra informativa sulla privacy (puoi rivedere la nostra Informativa sulla Privacy <a href="./privacy">cliccando qui</a>).',
         'terms_services_title' => '2. Descrizione dei Servizi',
         'terms_services_1' => 'Non siamo una piattaforma di trading, né ti mettiamo in contatto con tali piattaforme di trading, a meno che tale piattaforma di trading non si impegni a offrirti solo servizi educativi o ricerca di mercato.',
         'terms_services_2' => 'Funzioniamo come intermediario per metterti in contatto con un fornitore di servizi in grado di proporre contenuti educativi su tecniche di investimento generali o ricerca di mercato nelle aree di tuo interesse, conformi alle normative italiane.',
@@ -13664,18 +13664,18 @@ return [
         'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'JOD',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
         'og_title' => 'Floventra - تعليم استثماري في عمان، الأردن',
         'og_description' => 'انضم إلى Floventra في عمان، الأردن، للتواصل مع شركات تعليم استثماري مرخصة. ابدأ رحلتك التعليمية المالية اليوم!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
+        'og_image' => '/assets/images/og-home-image.jpg',
         'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - تعليم استثماري في عمان',
         'twitter_description' => 'اكتشف تعليم الاستثمار مع Floventra في عمان، الأردن. تواصل مجانًا مع شركات مرخصة!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
         'title' => 'Floventra - منصة تعليم استثماري في عمان، الأردن | الموقع الرسمي',
         'meta_description' => 'انضم إلى Floventra في عمان، الأردن، للتواصل مع شركات تعليم استثماري مرخصة. ابدأ رحلتك التعليمية المالية اليوم!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, تعليم استثماري عمان، تعلم مالي الأردن، Floventra، تعليم مرخص، منصة استثمار الأردن',
@@ -13857,7 +13857,7 @@ return [
         'terms_general_2' => 'بريدنا الإلكتروني: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'يشمل الموقع معلومات عن منصات طرف ثالث (منصات الطرف الثالث) وهي خدمات تعليمية حول تقنيات استثمار عامة أو أبحاث سوقية. يعمل Floventra كوسيط يربط المستخدمين بهذه المنصات (الخدمات).',
         'terms_general_4' => 'تحكم هذه شروط الاستخدام (الشروط) استخدامك (أنت، الخاص بك أو المستخدم) للموقع والخدمات. يجب قراءة هذه الشروط بعناية كاملة قبل استخدام الخدمات. لاحظ أن هذه الشروط تشكل اتفاقًا قانونيًا ملزمًا بينك وبين مشغل الموقع Floventra، info@floventus.com. إذا لم توافق على أي حكم من هذه الشروط، يجب عليك التوقف فورًا عن استخدام الموقع. باستخدام الموقع، توافق على الشروط، كما يتم تعديلها من وقت لآخر.',
-        'terms_general_5' => 'تتضمن هذه الشروط سياسة الخصوصية الخاصة بنا، وبقبولك لهذه الشروط، تؤكد أنك تقبل أيضًا سياسة الخصوصية (يمكنك مراجعة سياسة الخصوصية <a href="/privacy-policy/">بالنقر هنا</a>).',
+        'terms_general_5' => 'تتضمن هذه الشروط سياسة الخصوصية الخاصة بنا، وبقبولك لهذه الشروط، تؤكد أنك تقبل أيضًا سياسة الخصوصية (يمكنك مراجعة سياسة الخصوصية <a href="./privacy">بالنقر هنا</a>).',
         'terms_services_title' => '2. وصف الخدمات',
         'terms_services_1' => 'نحن لسنا منصة تداول، ولا نربطك بمثل هذه المنصات، إلا إذا التزمت منصة التداول بتقديم خدمات تعليمية أو أبحاث سوقية فقط.',
         'terms_services_2' => 'نعمل كوسيط لربطك بمزود خدمة قادر على تقديم محتوى تعليمي حول تقنيات استثمار عامة أو أبحاث سوقية في مجالات اهتمامك، متوافقة مع اللوائح الأردنية.',
@@ -13981,18 +13981,18 @@ return [
         'jsonld_software_price' => '0',
         'jsonld_software_price_currency' => 'SAR',
         'social_links' => [
-            'https://facebook.com/floventus.com',
-            'https://twitter.com/floventus.com',
-            'https://linkedin.com/company/floventus.com'
+            'https://facebook.com/floventus',
+            'https://twitter.com/floventus',
+            'https://linkedin.com/company/floventus'
         ],
         'og_title' => 'Floventra - تعليم استثماري في الرياض، السعودية',
         'og_description' => 'انضم إلى Floventra في الرياض، السعودية، للتواصل مع شركات تعليم استثماري مرخصة. ابدأ رحلتك التعليمية المالية اليوم!',
-        'og_image' => 'https://floventus.com/assets/images/og-home-image.jpg',
+        'og_image' => '/assets/images/og-home-image.jpg',
         'og_url' => 'https://floventus.com/',
         'og_type' => 'website',
         'twitter_title' => 'Floventra - تعليم استثماري في الرياض',
         'twitter_description' => 'اكتشف تعليم الاستثمار مع Floventra في الرياض، السعودية. تواصل مجانًا مع شركات مرخصة!',
-        'twitter_image' => 'https://floventus.com/assets/images/twitter-home-image.jpg',
+        'twitter_image' => '/assets/images/twitter-home-image.jpg',
         'title' => 'Floventra - منصة تعليم استثماري في الرياض، السعودية | الموقع الرسمي',
         'meta_description' => 'انضم إلى Floventra في الرياض، السعودية، للتواصل مع شركات تعليم استثماري مرخصة. ابدأ رحلتك التعليمية المالية اليوم!',
         'meta_keywords' => 'Floventra, floventra, floventra investments, investment platform floventra, official floventra website, floventra platform, invest with floventra, floventra login, floventra registration, safe investments floventra, floventra personal account, floventra official site, تعليم استثماري الرياض، تعلم مالي السعودية، Floventra، تعليم مرخص، منصة استثمار السعودية',
@@ -14174,7 +14174,7 @@ return [
         'terms_general_2' => 'بريدنا الإلكتروني: <a href="mailto:info@floventus.com">info@floventus.com</a>',
         'terms_general_3' => 'يشمل الموقع معلومات عن منصات طرف ثالث (منصات الطرف الثالث) وهي خدمات تعليمية حول تقنيات استثمار عامة أو أبحاث سوقية. يعمل Floventra كوسيط يربط المستخدمين بهذه المنصات (الخدمات).',
         'terms_general_4' => 'تحكم هذه شروط الاستخدام (الشروط) استخدامك (أنت، الخاص بك أو المستخدم) للموقع والخدمات. يجب قراءة هذه الشروط بعناية كاملة قبل استخدام الخدمات. لاحظ أن هذه الشروط تشكل اتفاقًا قانونيًا ملزمًا بينك وبين مشغل الموقع Floventra، info@floventus.com. إذا لم توافق على أي حكم من هذه الشروط، يجب عليك التوقف فورًا عن استخدام الموقع. باستخدام الموقع، توافق على الشروط، كما يتم تعديلها من وقت لآخر.',
-        'terms_general_5' => 'تتضمن هذه الشروط سياسة الخصوصية الخاصة بنا، وبقبولك لهذه الشروط، تؤكد أنك تقبل أيضًا سياسة الخصوصية (يمكنك مراجعة سياسة الخصوصية <a href="/privacy-policy/">بالنقر هنا</a>).',
+        'terms_general_5' => 'تتضمن هذه الشروط سياسة الخصوصية الخاصة بنا، وبقبولك لهذه الشروط، تؤكد أنك تقبل أيضًا سياسة الخصوصية (يمكنك مراجعة سياسة الخصوصية <a href="./privacy">بالنقر هنا</a>).',
         'terms_services_title' => '2. وصف الخدمات',
         'terms_services_1' => 'نحن لسنا منصة تداول، ولا نربطك بمثل هذه المنصات، إلا إذا التزمت منصة التداول بتقديم خدمات تعليمية أو أبحاث سوقية فقط.',
         'terms_services_2' => 'نعمل كوسيط لربطك بمزود خدمة قادر على تقديم محتوى تعليمي حول تقنيات استثمار عامة أو أبحاث سوقية في مجالات اهتمامك، متوافقة مع اللوائح السعودية.',
